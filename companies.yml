@@ -1,0 +1,235 @@
+# UK finance employers the weekly discovery job tries to add to portals.yml.
+#
+# For each company the job:
+#   1. asks career-ops' discover-ats.mjs to find a Greenhouse / Lever / Ashby /
+#      Workable / SmartRecruiters / Pinpoint / etc. board from the name;
+#   2. if that fails, scripts/find-ats.mjs opens the company's website and
+#      careers pages and looks for links to a hiring system career-ops can scan
+#      (Workday, Oracle, Eightfold, iCIMS, Taleo, Teamtailor, ...).
+# Anything found is appended to portals.yml. Anything still not found is listed
+# in reports/discovery.md, so you know which firms to check by hand.
+#
+# Add or remove firms freely: `name` is required, `website` helps a lot,
+# `careers` (the careers page URL) helps most.
+
+companies:
+
+  # ===== Global & European banks with big UK offices =====
+  - { name: HSBC, website: hsbc.com, careers: "https://www.hsbc.com/careers" }
+  - { name: Standard Chartered, website: sc.com, careers: "https://www.sc.com/en/careers/" }
+  - { name: Goldman Sachs, website: goldmansachs.com, careers: "https://higher.gs.com/" }
+  - { name: Morgan Stanley, website: morganstanley.com, careers: "https://www.morganstanley.com/careers" }
+  - { name: Citi, website: citigroup.com, careers: "https://jobs.citi.com/" }
+  - { name: Bank of America, website: bankofamerica.com, careers: "https://careers.bankofamerica.com/" }
+  - { name: Deutsche Bank, website: db.com, careers: "https://careers.db.com/" }
+  - { name: UBS, website: ubs.com, careers: "https://www.ubs.com/global/en/careers.html" }
+  - { name: BNP Paribas, website: bnpparibas.co.uk, careers: "https://group.bnpparibas/en/careers" }
+  - { name: Societe Generale, website: societegenerale.com, careers: "https://careers.societegenerale.com/" }
+  - { name: Nomura, website: nomura.com, careers: "https://www.nomura.com/careers/" }
+  - { name: Mizuho, website: mizuhogroup.com }
+  - { name: SMBC, website: smbcgroup.com }
+  - { name: Macquarie, website: macquarie.com, careers: "https://www.macquarie.com/uk/en/careers.html" }
+  - { name: State Street, website: statestreet.com, careers: "https://careers.statestreet.com/" }
+  - { name: BNY, website: bny.com, careers: "https://www.bny.com/corporate/global/en/careers.html" }
+  - { name: Northern Trust, website: northerntrust.com, careers: "https://careers.northerntrust.com/" }
+  - { name: Wells Fargo, website: wellsfargo.com, careers: "https://www.wellsfargojobs.com/" }
+  - { name: ING, website: ing.com }
+  - { name: ABN AMRO, website: abnamro.com }
+  - { name: Investec, website: investec.com, careers: "https://www.investec.com/en_gb/careers.html" }
+  - { name: Close Brothers, website: closebrothers.com }
+  - { name: Coutts, website: coutts.com }
+  - { name: Virgin Money, website: virginmoney.com }
+  - { name: TSB, website: tsb.co.uk }
+  - { name: Metro Bank, website: metrobankonline.co.uk }
+  - { name: Nationwide Building Society, website: nationwide.co.uk }
+  - { name: Coventry Building Society, website: coventrybuildingsociety.co.uk }
+  - { name: Yorkshire Building Society, website: ybs.co.uk }
+  - { name: Shawbrook, website: shawbrook.co.uk }
+  - { name: OSB Group, website: osb.co.uk }
+  - { name: Paragon Bank, website: paragonbank.co.uk }
+  - { name: Starling Bank, website: starlingbank.com }
+  - { name: OakNorth, website: oaknorth.com }
+  - { name: Atom bank, website: atombank.co.uk }
+  - { name: Arbuthnot Latham, website: arbuthnotlatham.co.uk }
+
+  # ===== Investment banks, brokers & advisory boutiques =====
+  - { name: Jefferies, website: jefferies.com }
+  - { name: Lazard, website: lazard.com }
+  - { name: Evercore, website: evercore.com }
+  - { name: Houlihan Lokey, website: hl.com }
+  - { name: Perella Weinberg, website: pwpartners.com }
+  - { name: Centerview Partners, website: centerviewpartners.com }
+  - { name: Lincoln International, website: lincolninternational.com }
+  - { name: Raymond James, website: raymondjames.com }
+  - { name: Stifel, website: stifel.com }
+  - { name: Berenberg, website: berenberg.de }
+  - { name: Peel Hunt, website: peelhunt.com }
+  - { name: Panmure Liberum, website: panmureliberum.com }
+  - { name: Cavendish, website: cavendish.com }
+  - { name: Canaccord Genuity, website: canaccordgenuity.com }
+  - { name: Shore Capital, website: shorecap.co.uk }
+  - { name: Singer Capital Markets, website: singercm.com }
+  - { name: Deutsche Numis, website: dbnumis.com }
+  - { name: Alantra, website: alantra.com }
+  - { name: DC Advisory, website: dcadvisory.com }
+  - { name: Clearwater International, website: cwicf.com }
+  - { name: GP Bullhound, website: gpbullhound.com }
+  - { name: Arma Partners, website: armapartners.com }
+  - { name: Livingstone Partners, website: livingstonepartners.com }
+  - { name: Fenchurch Advisory, website: fenchurchadvisory.com }
+  - { name: Kroll, website: kroll.com }
+  - { name: Alvarez & Marsal, website: alvarezandmarsal.com }
+  - { name: FTI Consulting, website: fticonsulting.com }
+  - { name: Interpath Advisory, website: interpathadvisory.com }
+  - { name: Teneo, website: teneo.com }
+  - { name: Marex, website: marex.com }
+  - { name: TP ICAP, website: tpicap.com }
+  - { name: IG Group, website: iggroup.com }
+  - { name: Plus500, website: plus500.com }
+
+  # ===== Big 4, accountancy & consulting =====
+  - { name: Deloitte UK, website: deloitte.co.uk, careers: "https://www.deloitte.com/uk/en/careers.html" }
+  - { name: EY, website: ey.com, careers: "https://careers.ey.com/" }
+  - { name: KPMG UK, website: kpmg.co.uk, careers: "https://www.kpmgcareers.co.uk/" }
+  - { name: Grant Thornton UK, website: grantthornton.co.uk }
+  - { name: Forvis Mazars, website: forvismazars.com }
+  - { name: RSM UK, website: rsmuk.com }
+  - { name: Crowe UK, website: crowe.com/uk }
+  - { name: Azets, website: azets.co.uk }
+  - { name: PKF, website: pkf.co.uk }
+  - { name: McKinsey, website: mckinsey.com }
+  - { name: Boston Consulting Group, website: bcg.com }
+  - { name: Bain & Company, website: bain.com }
+  - { name: Oliver Wyman, website: oliverwyman.com }
+  - { name: L.E.K. Consulting, website: lek.com }
+  - { name: OC&C Strategy Consultants, website: occstrategy.com }
+  - { name: Simon-Kucher, website: simon-kucher.com }
+  - { name: Berkeley Research Group, website: thinkbrg.com }
+  - { name: Charles River Associates, website: crai.com }
+  - { name: Frontier Economics, website: frontier-economics.com }
+
+  # ===== Asset & wealth managers =====
+  - { name: Schroders, website: schroders.com }
+  - { name: Legal & General, website: legalandgeneral.com, careers: "https://careers.legalandgeneral.com/" }
+  - { name: M&G, website: mandg.com }
+  - { name: Jupiter, website: jupiteram.com }
+  - { name: Ninety One, website: ninetyone.com }
+  - { name: Liontrust, website: liontrust.co.uk }
+  - { name: Janus Henderson, website: janushenderson.com }
+  - { name: Columbia Threadneedle, website: columbiathreadneedle.com }
+  - { name: Royal London, website: royallondon.com }
+  - { name: Federated Hermes, website: hermes-investment.com }
+  - { name: Ruffer, website: ruffer.co.uk }
+  - { name: Polar Capital, website: polarcapital.co.uk }
+  - { name: Artemis, website: artemisfunds.com }
+  - { name: Impax Asset Management, website: impaxam.com }
+  - { name: Sarasin & Partners, website: sarasinandpartners.com }
+  - { name: Rathbones, website: rathbones.com }
+  - { name: Evelyn Partners, website: evelyn.com }
+  - { name: Quilter, website: quilter.com }
+  - { name: St. James's Place, website: sjp.co.uk }
+  - { name: Brooks Macdonald, website: brooksmacdonald.com }
+  - { name: AJ Bell, website: ajbell.co.uk }
+  - { name: Interactive Investor, website: ii.co.uk }
+  - { name: Octopus Group, website: octopusgroup.com }
+  - { name: Foresight Group, website: foresightgroup.eu }
+  - { name: Gresham House, website: greshamhouse.com }
+  - { name: Morningstar, website: morningstar.co.uk }
+  - { name: MSCI, website: msci.com }
+  - { name: Moody's, website: moodys.com }
+  - { name: Fitch Ratings, website: fitchratings.com }
+  - { name: FactSet, website: factset.com }
+  - { name: PitchBook, website: pitchbook.com }
+  - { name: Preqin, website: preqin.com }
+
+  # ===== Private equity, credit & hedge funds =====
+  - { name: 3i, website: 3i.com }
+  - { name: Permira, website: permira.com }
+  - { name: CVC Capital Partners, website: cvc.com }
+  - { name: Cinven, website: cinven.com }
+  - { name: Bridgepoint, website: bridgepointgroup.com }
+  - { name: Apax Partners, website: apax.com }
+  - { name: EQT, website: eqtgroup.com }
+  - { name: Hg, website: hgcapital.com }
+  - { name: Inflexion, website: inflexion.com }
+  - { name: Livingbridge, website: livingbridge.com }
+  - { name: BGF, website: bgf.co.uk }
+  - { name: Pantheon, website: pantheon.com }
+  - { name: Hamilton Lane, website: hamiltonlane.com }
+  - { name: Coller Capital, website: collercapital.com }
+  - { name: Partners Capital, website: partners-cap.com }
+  - { name: Arcmont, website: arcmont.com }
+  - { name: Pemberton, website: pembertonam.com }
+  - { name: Hayfin, website: hayfin.com }
+  - { name: Marshall Wace, website: mwam.com }
+  - { name: Millennium, website: mlp.com }
+  - { name: Balyasny, website: bamfunds.com }
+  - { name: Capula, website: capulaglobal.com }
+  - { name: Rokos Capital, website: rokoscapital.com }
+  - { name: Optiver, website: optiver.com }
+  - { name: Susquehanna, website: sig.com }
+
+  # ===== Insurance =====
+  - { name: Phoenix Group, website: thephoenixgroup.com }
+  - { name: Admiral, website: admiraljobs.co.uk }
+  - { name: Direct Line Group, website: directlinegroup.co.uk }
+  - { name: Beazley, website: beazley.com }
+  - { name: Chubb, website: chubb.com }
+  - { name: AXA UK, website: axa.co.uk }
+  - { name: Allianz UK, website: allianz.co.uk }
+  - { name: Zurich UK, website: zurich.co.uk }
+  - { name: QBE, website: qbe.com }
+  - { name: Markel, website: markel.com }
+  - { name: Aon, website: aon.com }
+  - { name: WTW, website: wtwco.com }
+
+  # ===== Recurring graduate finance / credit / risk programmes (added 5 Nov 2026) =====
+  - { name: American Express, website: americanexpress.com, careers: "https://www.americanexpress.com/en-us/careers/" }
+  - { name: The Co-operative Bank, website: co-operativebank.co.uk }
+  - { name: Freemans, website: freemansgrattanholdings.co.uk }
+  - { name: Next, website: nextplc.co.uk, careers: "https://careers.next.co.uk/" }
+  - { name: Network Rail, website: networkrail.co.uk, careers: "https://www.earlycareers.networkrail.co.uk/" }
+  - { name: Mitchells & Butlers, website: mbplc.com, careers: "https://www.mbcareersandjobs.com/" }
+  - { name: EDF, website: edfenergy.com }
+  - { name: Virgin Media O2, website: virginmediao2.co.uk }
+  - { name: Bank of England, website: bankofengland.co.uk }
+  - { name: Rothesay, website: rothesay.com }
+
+  # ===== Fintech =====
+  - { name: TrueLayer, website: truelayer.com }
+  - { name: Thought Machine, website: thoughtmachine.net }
+  - { name: 10x Banking, website: 10xbanking.com }
+  - { name: Kroo, website: kroo.com }
+  - { name: Curve, website: curve.com }
+  - { name: Marshmallow, website: marshmallow.com }
+  - { name: Zilch, website: zilch.com }
+  - { name: Chip, website: getchip.uk }
+  - { name: Moneyfarm, website: moneyfarm.com }
+  - { name: Seccl, website: seccl.tech }
+  - { name: Calastone, website: calastone.com }
+
+  # ===== FTSE corporates (FP&A, commercial finance, graduate finance schemes) =====
+  - { name: Tesco, website: tesco-careers.com }
+  - { name: Sainsbury's, website: sainsburys.jobs }
+  - { name: BT Group, website: bt.com }
+  - { name: Vodafone, website: vodafone.com }
+  - { name: BP, website: bp.com }
+  - { name: Reckitt, website: reckitt.com }
+  - { name: Haleon, website: haleon.com }
+  - { name: BAE Systems, website: baesystems.com }
+  - { name: Experian, website: experian.com }
+  - { name: Sage, website: sage.com }
+  - { name: Rightmove, website: rightmove.co.uk }
+  - { name: Auto Trader, website: autotrader.co.uk }
+  - { name: Burberry, website: burberry.com }
+  - { name: Marks & Spencer, website: marksandspencer.com }
+  - { name: Whitbread, website: whitbread.co.uk }
+  - { name: IHG, website: ihg.com }
+  - { name: Compass Group, website: compass-group.co.uk }
+  - { name: Pearson, website: pearson.com }
+  - { name: Informa, website: informa.com }
+  - { name: WPP, website: wpp.com }
+  - { name: Kingfisher, website: kingfisher.com }
+  - { name: Associated British Foods, website: abf.co.uk }
+  - { name: National Grid, website: nationalgrid.com }
+  - { name: SSE, website: sse.com }

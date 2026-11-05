@@ -1,0 +1,568 @@
+# Finance Job Radar: career-ops scanner config for junior UK finance roles.
+# Read by career-ops scan.mjs (pinned in .github/workflows/scan.yml).
+#
+# What gets through to Slack:
+#   1. Title matches at least one `positive` keyword and no `negative` keyword
+#   2. Title is not senior (skip_tiers: senior drops Senior/Lead/VP/Director/Head of...)
+#   3. Location is in the UK (or the posting gives no location)
+#   4. The description does not say "no visa sponsorship" (where the board shows one)
+#   5. Posted in the last 30 days (where the board gives a date)
+#
+# Edit the keyword lists freely. Matching is case-insensitive substring;
+# `word:` means whole word only.
+
+skip_tiers: [senior]
+
+max_posting_age_days: 30
+
+title_filter:
+  positive:
+    # -- Core junior titles --
+    - "Analyst"
+    - "Associate"
+    - "Graduate"
+    - "Trainee"
+    - "word:Analyst Programme"
+    # -- Investment banking / advisory --
+    - "Investment Banking"
+    - "M&A"
+    - "Mergers"
+    - "Corporate Finance"
+    - "Transaction Services"
+    - "Deal Advisory"
+    - "Valuation"
+    - "Restructuring"
+    - "Capital Markets"
+    - "Leveraged Finance"
+    # -- Research / markets --
+    - "Equity Research"
+    - "Investment Research"
+    - "Credit Research"
+    - "Trader"
+    - "Trading Assistant"
+    - "Quant"
+    # -- Asset & wealth management --
+    - "Portfolio"
+    - "Investment Management"
+    - "Asset Management"
+    - "Fund Accountant"
+    - "Fund Analyst"
+    - "Investment Operations"
+    - "Wealth"
+    - "Private Equity"
+    - "Private Credit"
+    # -- FP&A / corporate finance --
+    - "FP&A"
+    - "Financial Planning"
+    - "Finance Business Partner"
+    - "Commercial Finance"
+    - "Management Accountant"
+    - "Assistant Accountant"
+    - "Financial Accountant"
+    - "Treasury"
+    - "Financial Controller"
+    # -- Risk / credit --
+    - "Credit Risk"
+    - "Market Risk"
+    - "Credit Analyst"
+    # -- Consulting --
+    - "Consultant"
+    - "Strategy"
+
+  negative:
+    # Seniority not caught by skip_tiers
+    - "Manager"
+    - "Managing Director"
+    - "Executive Director"
+    - "Vice President"
+    - "word:VP"
+    - "word:AVP"
+    - "Head of"
+    - "Chief"
+    - "Associate Partner"
+    - "Equity Partner"
+    - "Salaried Partner"
+    - "word:Principal"
+    # Student programmes (you have graduated)
+    - "word:Intern"
+    - "word:Interns"
+    - "Internship"
+    - "Placement"
+    - "Summer"
+    - "Spring Week"
+    - "Spring Insight"
+    - "Insight Programme"
+    - "Off-Cycle"
+    - "Apprentice"
+    - "Work Experience"
+    # Tech / non-finance
+    - "Software"
+    - "Engineer"
+    - "Developer"
+    - "DevOps"
+    - "Cyber"
+    - "Security Analyst"
+    - "SOC Analyst"
+    - "Network"
+    - "Infrastructure"
+    - "Cloud"
+    - "Data Scientist"
+    - "Machine Learning"
+    - "Salesforce"
+    - "word:SAP"
+    - "word:UX"
+    - "Designer"
+    - "Technician"
+    - "Mechanic"
+    - "Nurse"
+    - "Pharmac"
+    - "Clinical"
+    - "Scientist"
+    - "Warehouse"
+    - "Driver"
+    - "Store"
+    - "Retail Assistant"
+    - "Customer Service"
+    - "Contact Centre"
+    - "Call Centre"
+    - "Payroll"
+    - "Recruit"
+    - "Talent Acquisition"
+    - "Paralegal"
+    - "Solicitor"
+    - "Lawyer"
+    - "word:HR"
+    - "Human Resources"
+
+# UK only. Order the scanner uses: always_allow wins, then block, then allow.
+# Postings with no location pass (strict is off), so nothing is lost silently.
+location_filter:
+  always_allow:
+    - "United Kingdom"
+    - "UK"
+    - "U.K."
+    - "Great Britain"
+    - "England"
+    - "Scotland"
+    - "Wales"
+    - "Northern Ireland"
+    - "London"
+    - "GBR"
+  block:
+    # US / Canada / elsewhere places that share a UK city name
+    - "United States"
+    - "USA"
+    - "New York"
+    - "Massachusetts"
+    - "Alabama"
+    - "New Hampshire"
+    - "North Carolina"
+    - "Pennsylvania"
+    - "Virginia"
+    - "Connecticut"
+    - "Ontario"
+    - "Nova Scotia"
+    - "Canada"
+    - "Jamaica"
+    - "Australia"
+    - "India"
+    # US / Canadian state codes as they appear in "Cambridge, MA" style locations
+    - "MA"
+    - "NC"
+    - "NH"
+    - "PA"
+    - "VA"
+    - "CT"
+    - "NY"
+    - "AL"
+    - "NS"
+  allow:
+    - "Edinburgh"
+    - "Glasgow"
+    - "Aberdeen"
+    - "Dundee"
+    - "Manchester"
+    - "Salford"
+    - "Stockport"
+    - "Knutsford"
+    - "Warrington"
+    - "Liverpool"
+    - "Chester"
+    - "Leeds"
+    - "Bradford"
+    - "Halifax"
+    - "Sheffield"
+    - "York"
+    - "Newcastle"
+    - "Sunderland"
+    - "Durham"
+    - "Birmingham"
+    - "Solihull"
+    - "Coventry"
+    - "Wolverhampton"
+    - "Nottingham"
+    - "Leicester"
+    - "Derby"
+    - "Bristol"
+    - "Bath"
+    - "Cardiff"
+    - "Swansea"
+    - "Belfast"
+    - "Reading"
+    - "Bracknell"
+    - "Slough"
+    - "Maidenhead"
+    - "Basingstoke"
+    - "Guildford"
+    - "Woking"
+    - "Horsham"
+    - "Crawley"
+    - "Brighton"
+    - "Southampton"
+    - "Bournemouth"
+    - "Poole"
+    - "Exeter"
+    - "Plymouth"
+    - "Swindon"
+    - "Oxford"
+    - "Cambridge"
+    - "Milton Keynes"
+    - "Northampton"
+    - "Peterborough"
+    - "Ipswich"
+    - "Norwich"
+    - "Chelmsford"
+    - "Watford"
+    - "St Albans"
+    - "Hemel Hempstead"
+    - "Hatfield"
+    - "Stevenage"
+    - "Luton"
+    - "Croydon"
+    - "Canary Wharf"
+    - "Leatherhead"
+    - "Redhill"
+    - "Dorking"
+    - "Tunbridge Wells"
+    - "Maidstone"
+    - "Hull"
+    - "Preston"
+    - "Telford"
+    - "Surrey"
+    - "Kent"
+    - "Hertfordshire"
+    - "Berkshire"
+  # India: to also get Mumbai / Bengaluru / Gurugram / Pune / Hyderabad roles,
+  # delete "India" from block above and add those cities here.
+
+# Drop postings whose description says they will not sponsor a visa.
+# Postings with no description (e.g. most Workday lists) still pass.
+visa_filter:
+  enabled: true
+
+# Keep tracked_companies as the LAST key in this file: the weekly discovery
+# job appends newly found boards to the end of it.
+tracked_companies:
+
+  # ===== Banks =====
+  - name: Barclays
+    careers_url: https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays
+  - name: Lloyds Banking Group
+    careers_url: https://lbg.wd3.myworkdayjobs.com/lbg_careers
+  - name: Lloyds Banking Group (Graduates)
+    careers_url: https://lbg.wd3.myworkdayjobs.com/graduate_careers
+  - name: NatWest Group
+    careers_url: https://rbs.wd3.myworkdayjobs.com/rbs
+  - name: Santander
+    careers_url: https://santander.wd3.myworkdayjobs.com/santandercareers
+  - name: Skipton Building Society
+    careers_url: https://skipton.wd3.myworkdayjobs.com/careers-skipton
+  - name: JPMorgan Chase
+    careers_url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs
+    provider: oraclecloud
+    siteNumber: CX_1002
+    max_pages: 25
+  - name: RBC
+    careers_url: https://rbc.wd3.myworkdayjobs.com/rbcglobal1
+  - name: RBC (Early Talent)
+    careers_url: https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1
+  - name: BMO
+    careers_url: https://bmo.wd3.myworkdayjobs.com/external
+  - name: MUFG
+    careers_url: https://mufgub.wd3.myworkdayjobs.com/mufg-careers
+  - name: Julius Baer
+    careers_url: https://juliusbaer.wd3.myworkdayjobs.com/external
+  - name: Lombard Odier
+    careers_url: https://lombardodier.wd3.myworkdayjobs.com/lombard_odier_careers
+
+  # ===== Investment banks / advisory =====
+  - name: Rothschild & Co
+    careers_url: https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral
+  - name: Moelis
+    careers_url: https://moelis.wd1.myworkdayjobs.com/experienced-hires
+  - name: Moelis (University)
+    careers_url: https://moelis.wd1.myworkdayjobs.com/university-hires
+  - name: PJT Partners
+    careers_url: https://pjtpartners.wd1.myworkdayjobs.com/careers
+  - name: Greenhill (Mizuho)
+    careers_url: https://greenhill.wd5.myworkdayjobs.com/searchjobs
+
+  # ===== Asset & wealth managers =====
+  - name: BlackRock
+    careers_url: https://blackrock.wd1.myworkdayjobs.com/blackrock_professional
+  - name: abrdn
+    careers_url: https://abrdn.wd3.myworkdayjobs.com/abrdn
+  - name: Fidelity International
+    careers_url: https://fil.wd3.myworkdayjobs.com/001
+  - name: Invesco
+    careers_url: https://invesco.wd1.myworkdayjobs.com/ivz
+  - name: Invesco (Early Careers)
+    careers_url: https://invesco.wd1.myworkdayjobs.com/ivzearlycareers
+  - name: Baillie Gifford
+    careers_url: https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers
+  - name: Baillie Gifford (Early Careers)
+    careers_url: https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordearlycareers
+  - name: Aviva Investors
+    careers_url: https://aviva.wd1.myworkdayjobs.com/aviva_investors_external
+  - name: Vanguard
+    careers_url: https://vanguard.wd5.myworkdayjobs.com/vanguard_external
+  - name: Franklin Templeton
+    careers_url: https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1
+  - name: T. Rowe Price
+    careers_url: https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational
+  - name: Wellington Management
+    careers_url: https://wellington.wd5.myworkdayjobs.com/external
+  - name: Wellington Management (Campus)
+    careers_url: https://wellington.wd5.myworkdayjobs.com/campus
+  - name: PIMCO
+    careers_url: https://pimco.wd1.myworkdayjobs.com/pimco-careers
+  - name: MFS
+    careers_url: https://mfs.wd1.myworkdayjobs.com/mfs-careers
+  - name: Dimensional Fund Advisors
+    careers_url: https://dimensional.wd5.myworkdayjobs.com/dfa_careers
+  - name: Hargreaves Lansdown
+    careers_url: https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown
+
+  # ===== Private markets / hedge funds =====
+  - name: Blackstone
+    careers_url: https://blackstone.wd1.myworkdayjobs.com/blackstone_careers
+  - name: Blackstone (Campus)
+    careers_url: https://blackstone.wd1.myworkdayjobs.com/blackstone_campus_careers
+  - name: ICG
+    careers_url: https://icg.wd3.myworkdayjobs.com/external_careers
+  - name: Ares Management
+    careers_url: https://aresmgmt.wd1.myworkdayjobs.com/external
+  - name: Ardian
+    careers_url: https://ardian.wd103.myworkdayjobs.com/ardiancareers
+  - name: Bain Capital
+    careers_url: https://baincapital.wd1.myworkdayjobs.com/external_public
+  - name: Man Group
+    careers_url: https://mangroupplc.wd3.myworkdayjobs.com/man_group_careers
+  - name: Brevan Howard
+    careers_url: https://brevanhoward.wd3.myworkdayjobs.com/bh_externalcareers
+  - name: BlueCrest Capital
+    careers_url: https://job-boards.greenhouse.io/bluecrestcapitalmanagement
+  - name: GSA Capital
+    careers_url: https://job-boards.greenhouse.io/gsacapital
+  - name: Squarepoint Capital
+    careers_url: https://job-boards.greenhouse.io/squarepointcapital
+  - name: Point72
+    careers_url: https://job-boards.greenhouse.io/point72
+  - name: Winton
+    careers_url: https://job-boards.greenhouse.io/winton
+  - name: Graham Capital
+    careers_url: https://job-boards.greenhouse.io/grahamcapitalmanagement
+  - name: Quadrature Capital
+    careers_url: https://job-boards.greenhouse.io/quadraturecapital
+  - name: Qube Research & Technologies
+    careers_url: https://job-boards.greenhouse.io/quberesearchandtechnologies
+  - name: WorldQuant
+    careers_url: https://job-boards.greenhouse.io/worldquant
+  - name: Blenheim Chalcot
+    careers_url: https://job-boards.greenhouse.io/blenheimchalcot
+
+  # ===== Trading firms / exchanges / market infrastructure =====
+  - name: LSEG
+    careers_url: https://lseg.wd3.myworkdayjobs.com/careers
+  - name: LSEG (Graduates)
+    careers_url: https://lseg.wd3.myworkdayjobs.com/graduate_careers
+  - name: S&P Global
+    careers_url: https://spgi.wd5.myworkdayjobs.com/spgi_careers
+  - name: Nasdaq
+    careers_url: https://nasdaq.wd1.myworkdayjobs.com/global_external_site
+  - name: CME Group
+    careers_url: https://cmegroup.wd1.myworkdayjobs.com/cme_careers
+  - name: CMC Markets
+    careers_url: https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers
+  - name: Jane Street
+    careers_url: https://job-boards.greenhouse.io/janestreet
+  - name: XTX Markets
+    careers_url: https://job-boards.greenhouse.io/xtxmarketstechnologies
+  - name: Flow Traders
+    careers_url: https://job-boards.greenhouse.io/flowtraders
+  - name: IMC Trading
+    careers_url: https://job-boards.greenhouse.io/imc
+  - name: DRW
+    careers_url: https://job-boards.greenhouse.io/drw
+  - name: Tower Research Capital
+    careers_url: https://job-boards.greenhouse.io/towerresearchcapital
+  - name: Jump Trading
+    careers_url: https://job-boards.greenhouse.io/jumptrading
+  - name: Maven Securities
+    careers_url: https://job-boards.greenhouse.io/mavensecuritiesholdingltd
+  - name: ThinkMarkets
+    careers_url: https://job-boards.greenhouse.io/thinkmarkets
+  - name: iCapital
+    careers_url: https://job-boards.greenhouse.io/icapitalnetwork
+  - name: Wintermute
+    careers_url: https://jobs.lever.co/wintermute-trading
+  - name: Financial Times
+    careers_url: https://job-boards.greenhouse.io/financialtimes33
+
+  # ===== Insurance =====
+  - name: Aviva
+    careers_url: https://aviva.wd1.myworkdayjobs.com/external
+  - name: Hiscox
+    careers_url: https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site
+  - name: Lloyd's of London
+    careers_url: https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london
+  - name: AIG
+    careers_url: https://aig.wd1.myworkdayjobs.com/aig
+  - name: Simply Business
+    careers_url: https://travelers.wd5.myworkdayjobs.com/simplybusinesssexternal
+
+  # ===== Big 4 / consulting / brokers =====
+  - name: PwC (Experienced)
+    careers_url: https://pwc.wd3.myworkdayjobs.com/global_experienced_careers
+  - name: PwC (Campus)
+    careers_url: https://pwc.wd3.myworkdayjobs.com/global_campus_careers
+  - name: BDO UK
+    careers_url: https://bdouk.wd3.myworkdayjobs.com/bdo_careers
+  - name: Accenture
+    careers_url: https://accenture.wd103.myworkdayjobs.com/accenturecareers
+  - name: Marsh McLennan
+    careers_url: https://mmc.wd1.myworkdayjobs.com/mmc
+
+  # ===== Payments / fintech =====
+  - name: Mastercard
+    careers_url: https://mastercard.wd1.myworkdayjobs.com/corporatecareers
+  - name: Visa
+    careers_url: https://visa.wd5.myworkdayjobs.com/visa
+  - name: PayPal
+    careers_url: https://paypal.wd1.myworkdayjobs.com/jobs
+  - name: Worldpay
+    careers_url: https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site
+  - name: Checkout.com
+    careers_url: https://checkout.wd3.myworkdayjobs.com/checkoutcareers
+  - name: Stripe
+    careers_url: https://job-boards.greenhouse.io/stripe
+  - name: Monzo
+    careers_url: https://job-boards.greenhouse.io/monzo
+  - name: Revolut
+    careers_url: https://jobs.lever.co/revolut
+  - name: Wise
+    careers_url: https://job-boards.greenhouse.io/transferwise
+  - name: GoCardless
+    careers_url: https://job-boards.greenhouse.io/gocardless
+  - name: Tide
+    careers_url: https://job-boards.greenhouse.io/tide
+  - name: Ebury
+    careers_url: https://job-boards.greenhouse.io/ebury
+  - name: ClearScore
+    careers_url: https://job-boards.greenhouse.io/clearscoretechnologylimited
+  - name: Modulr
+    careers_url: https://job-boards.greenhouse.io/modulrfinance
+  - name: Salary Finance
+    careers_url: https://job-boards.greenhouse.io/salaryfinance
+  - name: Paddle
+    careers_url: https://job-boards.greenhouse.io/paddle
+  - name: Cleo
+    careers_url: https://job-boards.greenhouse.io/cleo-emea
+  - name: Zopa
+    careers_url: https://jobs.lever.co/zopa
+  - name: Moneybox
+    careers_url: https://jobs.lever.co/moneyboxapp
+  - name: Plum
+    careers_url: https://jobs.lever.co/plum
+  - name: Klarna
+    careers_url: https://jobs.lever.co/klarna
+  - name: Airwallex
+    careers_url: https://jobs.lever.co/airwallex
+  - name: FundApps
+    careers_url: https://jobs.lever.co/fundapps
+  - name: Freetrade
+    careers_url: https://jobs.ashbyhq.com/freetrade
+  - name: Funding Circle
+    careers_url: https://jobs.ashbyhq.com/fundingcircle
+  - name: Lendable
+    careers_url: https://jobs.ashbyhq.com/lendable
+  - name: ClearBank
+    careers_url: https://jobs.ashbyhq.com/clearbank
+  - name: Allica Bank
+    careers_url: https://jobs.ashbyhq.com/allica-bank
+  - name: Trading 212
+    careers_url: https://jobs.ashbyhq.com/trading212
+  - name: Smarkets
+    careers_url: https://jobs.ashbyhq.com/smarkets
+  - name: Pleo
+    careers_url: https://jobs.ashbyhq.com/pleo
+  - name: Primer
+    careers_url: https://jobs.ashbyhq.com/primer
+
+  # ===== Corporates (FP&A / commercial finance) =====
+  - name: AstraZeneca
+    careers_url: https://astrazeneca.wd3.myworkdayjobs.com/careers
+  - name: AstraZeneca (Emerging Talent)
+    careers_url: https://astrazeneca.wd3.myworkdayjobs.com/emerging-talent
+  - name: GSK
+    careers_url: https://gsk.wd5.myworkdayjobs.com/gskcareers
+  - name: Unilever
+    careers_url: https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals
+  - name: Unilever (Early Careers)
+    careers_url: https://unilever.wd3.myworkdayjobs.com/unilever_early_careers
+  - name: Diageo
+    careers_url: https://diageo.wd3.myworkdayjobs.com/diageo_careers
+  - name: Shell
+    careers_url: https://shell.wd3.myworkdayjobs.com/shellcareers
+  - name: Centrica
+    careers_url: https://centrica.wd3.myworkdayjobs.com/centrica
+  - name: Rolls-Royce
+    careers_url: https://rollsroyce.wd3.myworkdayjobs.com/professional
+  - name: Sky
+    careers_url: https://sky.wd3.myworkdayjobs.com/sky_careers
+
+  # ===== Consistent junior finance / credit / risk hirers (added 5 Nov 2026) =====
+  - name: Houlihan Lokey (Campus)
+    careers_url: https://hl.wd1.myworkdayjobs.com/campus
+  - name: Houlihan Lokey (Lateral)
+    careers_url: https://hl.wd1.myworkdayjobs.com/lateral
+  - name: BBVA
+    careers_url: https://bbva.wd3.myworkdayjobs.com/bbva
+  - name: Howden (Hyperion)
+    careers_url: https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external
+  - name: Howden
+    careers_url: https://howden.wd3.myworkdayjobs.com/external
+  - name: MS Amlin
+    careers_url: https://msamlin.wd3.myworkdayjobs.com/msamlincareers
+  - name: Capital One UK
+    careers_url: https://capitalone.wd12.myworkdayjobs.com/capital_one
+  - name: Aztec Group
+    careers_url: https://aztecgroup.wd103.myworkdayjobs.com/external
+  - name: Ayvens
+    careers_url: https://ayvens.wd3.myworkdayjobs.com/ayvenscareers
+  - name: Landsec
+    careers_url: https://landsecurities.wd3.myworkdayjobs.com/landseccareers
+  - name: Universal Music UK
+    careers_url: https://umusic.wd5.myworkdayjobs.com/umguk
+  - name: Rothesay (Graduates)
+    careers_url: https://job-boards.greenhouse.io/rothesaygraduates
+  - name: Liberis
+    careers_url: https://job-boards.greenhouse.io/liberis
+  - name: Octus
+    careers_url: https://job-boards.greenhouse.io/octus
+  - name: Tandem Bank
+    careers_url: https://job-boards.greenhouse.io/tandemmoneylimited
+  - name: Octopus Energy
+    careers_url: https://jobs.lever.co/octoenergy
+
+  # ===== Added automatically by the weekly discovery job (below this line) =====
