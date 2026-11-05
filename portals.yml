@@ -638,3 +638,261 @@ tracked_companies:
     careers_url: https://jobs.lever.co/octoenergy
 
   # ===== Added automatically by the weekly discovery job (below this line) =====
+
+  - name: Shawbrook
+    careers_url: https://careers.smartrecruiters.com/shawbrook
+    enabled: true
+
+  - name: Starling Bank
+    careers_url: https://apply.workable.com/starling-bank
+    enabled: true
+
+  - name: OakNorth
+    careers_url: https://jobs.ashbyhq.com/oaknorth
+    enabled: true
+
+  - name: Stifel
+    careers_url: https://careers.smartrecruiters.com/stifel
+    enabled: true
+    # verify: only 1 posting(s) — confirm this is the right board
+
+  - name: Kroll
+    careers_url: https://kroll.bamboohr.com
+    enabled: true
+
+  - name: Teneo
+    careers_url: https://job-boards.greenhouse.io/teneo
+    api: https://boards-api.greenhouse.io/v1/boards/teneo/jobs
+    enabled: true
+
+  - name: Marex
+    careers_url: https://marex.breezy.hr
+    enabled: true
+
+  - name: EY
+    careers_url: https://ey.recruitee.com
+    enabled: true
+    # verify: only 2 posting(s) — confirm this is the right board
+
+  - name: PKF
+    careers_url: https://pkf.bamboohr.com
+    enabled: true
+    # verify: only 3 posting(s) — confirm this is the right board
+
+  - name: Artemis
+    careers_url: https://jobs.ashbyhq.com/artemis
+    enabled: true
+
+  - name: Quilter
+    careers_url: https://jobs.ashbyhq.com/quilter
+    enabled: true
+
+  - name: Cinven
+    careers_url: https://cinven.pinpointhq.com
+    enabled: true
+    # verify: only 1 posting(s) — confirm this is the right board
+
+  - name: BGF
+    careers_url: https://bgf.breezy.hr
+    enabled: true
+    # verify: only 2 posting(s) — confirm this is the right board
+
+  - name: Pantheon
+    careers_url: https://job-boards.greenhouse.io/pantheon
+    api: https://boards-api.greenhouse.io/v1/boards/pantheon/jobs
+    enabled: true
+
+  - name: Pemberton
+    careers_url: https://jobs.ashbyhq.com/pemberton
+    enabled: true
+    # verify: only 3 posting(s) — confirm this is the right board
+
+  - name: Markel
+    careers_url: https://careers.smartrecruiters.com/markel
+    enabled: true
+    # verify: only 1 posting(s) — confirm this is the right board
+
+  - name: TrueLayer
+    careers_url: https://job-boards.greenhouse.io/truelayer
+    api: https://boards-api.greenhouse.io/v1/boards/truelayer/jobs
+    enabled: true
+    # verify: only 4 posting(s) — confirm this is the right board
+
+  - name: Thought Machine
+    careers_url: https://jobs.ashbyhq.com/thought-machine
+    enabled: true
+
+  - name: Marshmallow
+    careers_url: https://jobs.ashbyhq.com/marshmallow
+    enabled: true
+
+  - name: Zilch
+    careers_url: https://jobs.ashbyhq.com/zilch
+    enabled: true
+
+  - name: Seccl
+    careers_url: https://jobs.ashbyhq.com/seccl
+    enabled: true
+
+  - name: Experian
+    careers_url: https://careers.smartrecruiters.com/experian
+    enabled: true
+
+  - name: WPP
+    careers_url: https://job-boards.greenhouse.io/wpp
+    api: https://boards-api.greenhouse.io/v1/boards/wpp/jobs
+    enabled: true
+  - name: "Goldman Sachs"
+    careers_url: https://recruiting360.avature.net/careers
+    # added by find-ats (avature) 2026-11-05
+  - name: "Morgan Stanley"
+    careers_url: https://morganstanley.eightfold.ai/careers
+    # added by find-ats (eightfold) 2026-11-05
+  - name: "Citi"
+    careers_url: https://citi.wd5.myworkdayjobs.com/2
+    # added by find-ats (workday) 2026-11-05
+  - name: "Societe Generale"
+    careers_url: https://socgen.taleo.net/careersection/sgcareers/jobsearch.ftl
+    # added by find-ats (taleo) 2026-11-05
+  - name: "Mizuho"
+    careers_url: https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas
+    # added by find-ats (workday) 2026-11-05
+  - name: "State Street"
+    careers_url: https://statestreet.wd1.myworkdayjobs.com/Global
+    # added by find-ats (workday) 2026-11-05
+  - name: "BNY"
+    careers_url: https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Northern Trust"
+    careers_url: https://ntrs.wd1.myworkdayjobs.com/northerntrust
+    # added by find-ats (workday) 2026-11-05
+  - name: "ING"
+    careers_url: https://careers.ing.com
+    provider: radancy
+    # added by find-ats (radancy) 2026-11-05
+  - name: "Metro Bank"
+    careers_url: https://metrobank.avature.net/careers
+    # added by find-ats (avature) 2026-11-05
+  - name: "OSB Group"
+    careers_url: https://careers-osb.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-05
+  - name: "Lazard"
+    careers_url: https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Perella Weinberg"
+    careers_url: https://wd1.myworkdaysite.com/recruiting/pwp/PWP_Experienced_Opportunities
+    # added by find-ats (workday-site) 2026-11-05
+  - name: "Berenberg"
+    careers_url: https://berenberg.avature.net/careers
+    # added by find-ats (avature) 2026-11-05
+  - name: "Panmure Liberum"
+    careers_url: https://panmure.bamboohr.com/careers
+    # added by find-ats (bamboohr) 2026-11-05
+  - name: "Interpath Advisory"
+    careers_url: https://apply.workable.com/interpath-advisory
+    # added by find-ats (workable) 2026-11-05
+  - name: "IG Group"
+    careers_url: https://ig.wd103.myworkdayjobs.com/EXT_IG
+    # added by find-ats (workday) 2026-11-05
+  - name: "Deloitte UK"
+    careers_url: https://deloitteuk.avature.net/careers
+    # added by find-ats (avature) 2026-11-05
+  - name: "Boston Consulting Group"
+    careers_url: https://bcg.eightfold.ai/careers
+    # added by find-ats (eightfold) 2026-11-05
+  - name: "Berkeley Research Group"
+    careers_url: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site
+    # added by find-ats (workday) 2026-11-05
+  - name: "Schroders"
+    careers_url: https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "M&G"
+    careers_url: https://mgpru.wd3.myworkdayjobs.com/mandgprudential
+    # added by find-ats (workday) 2026-11-05
+  - name: "Evelyn Partners"
+    careers_url: https://careers.smartrecruiters.com/EvelynPartners
+    # added by find-ats (smartrecruiters) 2026-11-05
+  - name: "Interactive Investor"
+    careers_url: https://apply.workable.com/interactive-investor
+    # added by find-ats (workable) 2026-11-05
+  - name: "Octopus Group"
+    careers_url: https://careers.smartrecruiters.com/oneclick-ui
+    # added by find-ats (smartrecruiters) 2026-11-05
+  - name: "MSCI"
+    careers_url: https://ukcareers-msci.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-05
+  - name: "Moody's"
+    careers_url: https://careers.moodys.com
+    provider: radancy
+    # added by find-ats (radancy) 2026-11-05
+  - name: "EQT"
+    careers_url: https://job-boards.greenhouse.io/eqtpartners
+    # added by find-ats (greenhouse) 2026-11-05
+  - name: "Coller Capital"
+    careers_url: https://collercapital-1660725598.teamtailor.com/jobs
+    # added by find-ats (teamtailor) 2026-11-05
+  - name: "Millennium"
+    careers_url: https://mlp.eightfold.ai/careers
+    # added by find-ats (eightfold) 2026-11-05
+  - name: "Susquehanna"
+    careers_url: https://cookie-policy-scripts.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-05
+  - name: "Phoenix Group"
+    careers_url: https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Chubb"
+    careers_url: https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "QBE"
+    careers_url: https://careers.qbe.com
+    provider: phenom
+    # added by find-ats (phenom) 2026-11-05
+  - name: "Next"
+    careers_url: https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Virgin Media O2"
+    careers_url: https://virginmediao2.avature.net/careers
+    # added by find-ats (avature) 2026-11-05
+  - name: "10x Banking"
+    careers_url: https://apply.workable.com/10xbanking
+    # added by find-ats (workable) 2026-11-05
+  - name: "Kroo"
+    careers_url: https://apply.workable.com/j
+    # added by find-ats (workable) 2026-11-05
+  - name: "Chip"
+    careers_url: https://chip.teamtailor.com/jobs
+    # added by find-ats (teamtailor) 2026-11-05
+  - name: "Moneyfarm"
+    careers_url: https://apply.workable.com/moneyfarm
+    # added by find-ats (workable) 2026-11-05
+  - name: "Calastone"
+    careers_url: https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies
+    # added by find-ats (workday-site) 2026-11-05
+  - name: "Sainsbury's"
+    careers_url: https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Vodafone"
+    careers_url: https://vodafone-qa-sandbox.eightfold.ai/careers
+    # added by find-ats (eightfold) 2026-11-05
+  - name: "BP"
+    careers_url: https://bpinternational.wd3.myworkdayjobs.com/bpCareers
+    # added by find-ats (workday) 2026-11-05
+  - name: "BAE Systems"
+    careers_url: https://jobs.baesystems.com
+    provider: phenom
+    # added by find-ats (phenom) 2026-11-05
+  - name: "Rightmove"
+    careers_url: https://job-boards.greenhouse.io/rightmovecareers
+    # added by find-ats (greenhouse) 2026-11-05
+  - name: "Auto Trader"
+    careers_url: https://job-boards.greenhouse.io/autotrader
+    # added by find-ats (greenhouse) 2026-11-05
+  - name: "Marks & Spencer"
+    careers_url: https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Pearson"
+    careers_url: https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Informa"
+    careers_url: https://careers.smartrecruiters.com/InformaGroupPlc
+    # added by find-ats (smartrecruiters) 2026-11-05

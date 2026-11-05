@@ -349,4 +349,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Talent-Transformation-Consultant---Security-Clearance-Required_R00323108 | Accenture | Learning & Workforce Skills Consultant | London
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bath-1-Bath-Quays/Management-Consultant---Insurance_R00288252 | Accenture | Consultant – Solution/Technology Architect, Insurance Architecture | Bath 1 Bath Quays
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1 | Barclays | Finance Transformation - AI Specialist | Canary Wharf, 1 Churchill Place | posted: 2026-11-04
+- [ ] https://blackstone.wd1.myworkdayjobs.com/blackstone_careers/job/London/Blackstone-Credit---Insurance----FP-A--Associate_41787 | Blackstone | Blackstone Credit & Insurance (BXCI) Investment Fund Modeling & Forecasting | London
+- [ ] https://jobs.smartrecruiters.com/shawbrook/744000158538198-reg-reporting-accountant-12-month-ftc | Shawbrook | Reg Reporting Accountant - 12 month FTC | London, England , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/shawbrook/744000157993033-valuation-operations-coordinator | Shawbrook | Valuation Operations Coordinator | London, England, United Kingdom
+- [ ] https://jobs.smartrecruiters.com/EvelynPartners/744000159819199-financial-planning-client-administrator | Evelyn Partners | Financial Planning Client Administrator | Newcastle, Newcastle, United Kingdom
+- [ ] https://jobs.smartrecruiters.com/EvelynPartners/744000155787129-financial-planning-client-administrator | Evelyn Partners | Financial Planning Client Administrator | Belfast, Northern Ireland, United Kingdom
+- [ ] https://jobs.smartrecruiters.com/EvelynPartners/744000150964369-financial-planning-client-administrator | Evelyn Partners | Financial Planning Client Administrator | Leeds, , United Kingdom
+- [ ] https://careers.moodys.com/en/job/sydney/ratings-and-research-support-working-student-corporate-finance-group/49841/101738719872 | Moody's | Ratings and Research Support Working Student - Corporate Finance Group | Sydney, New South Wales
+- [ ] https://careers.moodys.com/en/job/london/modeling-and-quant-analytics-ai-and-agentic-model-validation/49841/100813569712 | Moody's | Modeling & Quant Analytics - AI & Agentic Model Validation | London, England
+- [ ] https://mlp.eightfold.ai/careers/job/755959615920 | Millennium | Finance Analyst | London, United Kingdom | posted: 2026-11-04
+- [ ] https://mlp.eightfold.ai/careers/job/755959590097 | Millennium | Quantitative Researcher – Market Impact Modeling | London, United Kingdom | posted: 2026-11-03
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Associate_261004010 | Citi | Corporate Banking Associate | London United Kingdom | posted: 2026-11-03
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011 | Citi | Investment Banking Analyst, M&A | London United Kingdom | posted: 2026-11-03
+
 ## Processed
