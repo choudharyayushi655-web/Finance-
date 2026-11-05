@@ -522,6 +522,7 @@ tracked_companies:
     careers_url: https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site
   - name: Checkout.com
     careers_url: https://jobs.lever.co/checkout
+    enabled: false   # no readable board found (404, Nov 2026)
   - name: Stripe
     careers_url: https://job-boards.greenhouse.io/stripe
   - name: Monzo
@@ -556,6 +557,7 @@ tracked_companies:
     enabled: false   # board gone (404, Nov 2026)
   - name: Klarna
     careers_url: https://klarnagroup.teamtailor.com/jobs
+    enabled: false   # Teamtailor board gone (404, Nov 2026)
   - name: Airwallex
     careers_url: https://jobs.ashbyhq.com/airwallex
   - name: FundApps
@@ -658,7 +660,7 @@ tracked_companies:
 
   - name: Kroll
     careers_url: https://kroll.bamboohr.com
-    enabled: true
+    enabled: false   # name match is a different company, not Kroll
 
   - name: Teneo
     careers_url: https://job-boards.greenhouse.io/teneo
@@ -671,7 +673,7 @@ tracked_companies:
 
   - name: EY
     careers_url: https://ey.recruitee.com
-    enabled: true
+    enabled: false   # name match is a different company, not EY
     # verify: only 2 posting(s) — confirm this is the right board
 
   - name: PKF
@@ -681,7 +683,7 @@ tracked_companies:
 
   - name: Artemis
     careers_url: https://jobs.ashbyhq.com/artemis
-    enabled: true
+    enabled: false   # name match is a different company, not Artemis Fund Managers
 
   - name: Quilter
     careers_url: https://jobs.ashbyhq.com/quilter
@@ -700,7 +702,7 @@ tracked_companies:
   - name: Pantheon
     careers_url: https://job-boards.greenhouse.io/pantheon
     api: https://boards-api.greenhouse.io/v1/boards/pantheon/jobs
-    enabled: true
+    enabled: false   # name match is a different company, not Pantheon Ventures
 
   - name: Pemberton
     careers_url: https://jobs.ashbyhq.com/pemberton
@@ -745,8 +747,10 @@ tracked_companies:
   - name: "Goldman Sachs"
     careers_url: https://recruiting360.avature.net/careers
     # added by find-ats (avature) 2026-11-05
+    enabled: false   # wrong board (a vendor demo site); GS uses higher.gs.com, set an alert there
   - name: "Morgan Stanley"
     careers_url: https://morganstanley.eightfold.ai/careers
+    domain: morganstanley.com
     # added by find-ats (eightfold) 2026-11-05
   - name: "Citi"
     careers_url: https://citi.wd5.myworkdayjobs.com/2
@@ -773,6 +777,7 @@ tracked_companies:
   - name: "Metro Bank"
     careers_url: https://metrobank.avature.net/careers
     # added by find-ats (avature) 2026-11-05
+    enabled: false   # board gone (404, Nov 2026)
   - name: "OSB Group"
     careers_url: https://careers-osb.icims.com/jobs/search?ss=1
     # added by find-ats (icims) 2026-11-05
@@ -797,6 +802,7 @@ tracked_companies:
   - name: "Deloitte UK"
     careers_url: https://deloitteuk.avature.net/careers
     # added by find-ats (avature) 2026-11-05
+    enabled: false   # board gone (404, Nov 2026)
   - name: "Boston Consulting Group"
     careers_url: https://bcg.eightfold.ai/careers
     # added by find-ats (eightfold) 2026-11-05
@@ -818,6 +824,7 @@ tracked_companies:
   - name: "Octopus Group"
     careers_url: https://careers.smartrecruiters.com/oneclick-ui
     # added by find-ats (smartrecruiters) 2026-11-05
+    enabled: false   # wrong board (SmartRecruiters widget, not Octopus)
   - name: "MSCI"
     careers_url: https://ukcareers-msci.icims.com/jobs/search?ss=1
     # added by find-ats (icims) 2026-11-05
@@ -837,6 +844,7 @@ tracked_companies:
   - name: "Susquehanna"
     careers_url: https://cookie-policy-scripts.icims.com/jobs/search?ss=1
     # added by find-ats (icims) 2026-11-05
+    enabled: false   # wrong board picked up from a cookie script
   - name: "Phoenix Group"
     careers_url: https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
     # added by find-ats (oraclecloud) 2026-11-05
@@ -859,6 +867,7 @@ tracked_companies:
   - name: "Kroo"
     careers_url: https://apply.workable.com/j
     # added by find-ats (workable) 2026-11-05
+    enabled: false   # wrong board (a single job link)
   - name: "Chip"
     careers_url: https://chip.teamtailor.com/jobs
     # added by find-ats (teamtailor) 2026-11-05
@@ -874,6 +883,7 @@ tracked_companies:
   - name: "Vodafone"
     careers_url: https://vodafone-qa-sandbox.eightfold.ai/careers
     # added by find-ats (eightfold) 2026-11-05
+    enabled: false   # test/sandbox board, not the live one
   - name: "BP"
     careers_url: https://bpinternational.wd3.myworkdayjobs.com/bpCareers
     # added by find-ats (workday) 2026-11-05

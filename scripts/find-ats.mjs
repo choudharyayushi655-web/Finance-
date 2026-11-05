@@ -69,17 +69,17 @@ export const RULES = [
   {
     id: 'eightfold',
     re: /https?:\/\/([a-z0-9-]+)\.eightfold\.ai/g,
-    build: (m) => (m[1] === 'www' || m[1] === 'app' ? null : { careers_url: `https://${m[1]}.eightfold.ai/careers` }),
+    build: (m) => (/^(www|app)$|sandbox|-qa|-dev|-test|-stg|staging/.test(m[1]) ? null : { careers_url: `https://${m[1]}.eightfold.ai/careers` }),
   },
   {
     id: 'avature',
     re: /https?:\/\/([a-z0-9-]+)\.avature\.net/g,
-    build: (m) => ({ careers_url: `https://${m[1]}.avature.net/careers` }),
+    build: (m) => (/^(www|recruiting360|demo|sandbox)$|sandbox|-qa|-test/.test(m[1]) ? null : { careers_url: `https://${m[1]}.avature.net/careers` }),
   },
   {
     id: 'icims',
     re: /https?:\/\/((?:[a-z0-9-]+-)?[a-z0-9-]+)\.icims\.com/g,
-    build: (m) => (/^(www|cdn|login)$/.test(m[1]) ? null : { careers_url: `https://${m[1]}.icims.com/jobs/search?ss=1` }),
+    build: (m) => (/^(www|cdn|login|cookie-policy-scripts|static|assets)$|script|cookie/.test(m[1]) ? null : { careers_url: `https://${m[1]}.icims.com/jobs/search?ss=1` }),
   },
   {
     id: 'taleo',
@@ -109,12 +109,12 @@ export const RULES = [
   {
     id: 'smartrecruiters',
     re: /https?:\/\/(?:careers|jobs)\.smartrecruiters\.com\/([A-Za-z0-9_-]+)/g,
-    build: (m) => ({ careers_url: `https://careers.smartrecruiters.com/${m[1]}` }),
+    build: (m) => (/^(oneclick-ui|widget|api|static|embed)$/i.test(m[1]) ? null : { careers_url: `https://careers.smartrecruiters.com/${m[1]}` }),
   },
   {
     id: 'workable',
     re: /https?:\/\/apply\.workable\.com\/([A-Za-z0-9_-]+)/g,
-    build: (m) => (m[1] === 'api' ? null : { careers_url: `https://apply.workable.com/${m[1]}` }),
+    build: (m) => (m[1] === 'api' || m[1] === 'j' || m[1].length < 3 ? null : { careers_url: `https://apply.workable.com/${m[1]}` }),
   },
   {
     id: 'teamtailor',
