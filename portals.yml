@@ -769,6 +769,7 @@ tracked_companies:
   - name: "Societe Generale"
     careers_url: https://socgen.taleo.net/careersection/sgcareers/jobsearch.ftl
     # added by find-ats (taleo) 2026-11-05
+    enabled: false   # site refuses GitHub's servers (fetch failed twice, Nov 2026)
   - name: "Mizuho"
     careers_url: https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas
     # added by find-ats (workday) 2026-11-05
@@ -801,6 +802,7 @@ tracked_companies:
   - name: "Berenberg"
     careers_url: https://berenberg.avature.net/careers
     # added by find-ats (avature) 2026-11-05
+    enabled: false   # site refuses GitHub's servers (fetch failed twice, Nov 2026)
   - name: "Panmure Liberum"
     careers_url: https://panmure.bamboohr.com/careers
     # added by find-ats (bamboohr) 2026-11-05
@@ -872,6 +874,7 @@ tracked_companies:
   - name: "Virgin Media O2"
     careers_url: https://virginmediao2.avature.net/careers
     # added by find-ats (avature) 2026-11-05
+    enabled: false   # site refuses GitHub's servers (fetch failed twice, Nov 2026)
   - name: "10x Banking"
     careers_url: https://apply.workable.com/10xbanking
     # added by find-ats (workable) 2026-11-05
