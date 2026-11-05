@@ -62,6 +62,8 @@ jobs:
           node "$RUNNER_TEMP/engine/scan.mjs" --since 2 --json --quiet > "$RUNNER_TEMP/dry.json" 2>/dev/null || true
           # Roles already open at newly added firms are recorded silently;
           # genuinely new roles at existing firms are still alerted.
+          node scripts/log-scan.mjs "$RUNNER_TEMP/dry.json" new-firms
+          node scripts/jobs-page.mjs --engine "$RUNNER_TEMP/engine" --out JOBS.md
           if [ -f data/scan-history.tsv ]; then
             SUPPRESS_FILE="$RUNNER_TEMP/new-firms.txt" node scripts/notify.mjs "$RUNNER_TEMP/dry.json" data/pipeline.md
           fi
@@ -82,7 +84,7 @@ jobs:
         run: |
           git config user.name "finance-job-radar"
           git config user.email "finance-job-radar@users.noreply.github.com"
-          git add portals.yml reports/
+          git add portals.yml reports/ JOBS.md
           git add -f data/
           if git diff --cached --quiet; then exit 0; fi
           git commit -q -m "weekly discovery $(date -u +%Y-%m-%d)"

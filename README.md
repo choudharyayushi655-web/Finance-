@@ -18,6 +18,7 @@ zero-token scanner (pinned to release `career-ops-v1.38.0`).
 | `.github/workflows/discover.yml` | Weekly: adds boards for firms in `companies.yml`, tests every board, writes `reports/discovery.md` |
 | `JOBS.md` | Every matched role, newest first, grouped by role type. Rebuilt after each scan |
 | `scripts/notify.mjs` | Sends the Slack / phone alerts |
+| `scripts/log-scan.mjs` | Records each scan's time, type and new roles in `data/scan-log.jsonl` (feeds the scan log on JOBS.md) |
 | `scripts/jobs-page.mjs` | Builds `JOBS.md` and `data/top-picks.json` |
 | `profiles.yml` | One keyword profile per CV (Finance, Credit, Equity, Investment, Consulting, Real Estate, Fund). Used to rank roles and pick the top 2 for each CV |
 | `scripts/rank.mjs` | The ranking: title fit, junior level, recency, London, sponsor licence |
@@ -81,7 +82,7 @@ about roles that are new since the last run.
 
 ## Alerts
 
-- **Every hour (only when something new appears):** the new roles, grouped by the CV that fits best, top 2 per CV. Tap to open the jobs page.
+- **Every hour (only when something new appears):** titled with the scan time and a count per CV, e.g. `16:23 scan: 2 new roles (Credit 1, Investment 1)`, listing every new role under the CV it fits best (Other last). Tap to open the jobs page at *Latest scan*.
 - **Every morning (first scan after 08:00 UK):** the top 2 open roles for each of the seven CVs.
 
 ## Tuning
