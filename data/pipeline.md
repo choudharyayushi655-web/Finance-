@@ -363,4 +363,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Associate_261004010 | Citi | Corporate Banking Associate | London United Kingdom | posted: 2026-11-03
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011 | Citi | Investment Banking Analyst, M&A | London United Kingdom | posted: 2026-11-03
 
+- [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310 | Next | Credit Risk Analyst | Leicester, Leicestershire, United Kingdom | posted: 2026-11-05
+- [ ] https://morganstanley.eightfold.ai/careers?pid=549800996444&domain=morganstanley.com | Morgan Stanley | Global Capital Markets – Analyst/Associate, Corporate Derivatives Group (London) | London, United Kingdom | posted: 2026-11-04
+
 ## Processed

@@ -1,66 +1,26 @@
 {
-  "finished_at": "2026-11-05T15:03:32.760Z",
+  "finished_at": "2026-11-05T16:23:02.020Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
-  "boards_scanned": 139,
-  "postings_seen": 39279,
-  "filtered_out": 38935,
-  "new_matches": 344,
-  "boards_failed": 13,
+  "boards_scanned": 192,
+  "postings_seen": 30385,
+  "filtered_out": 30340,
+  "new_matches": 2,
+  "boards_failed": 3,
   "failed": [
     {
-      "company": "Greenhill (Mizuho)",
-      "error": "workday: Greenhill (Mizuho) confirmed dead (maintenance page)"
+      "company": "Societe Generale",
+      "error": "fetch failed"
     },
     {
-      "company": "BlueCrest Capital",
-      "error": "HTTP 404 Not Found"
+      "company": "Berenberg",
+      "error": "fetch failed"
     },
     {
-      "company": "DRW",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "ThinkMarkets",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Checkout.com",
-      "error": "workday: Checkout.com confirmed dead (maintenance page)"
-    },
-    {
-      "company": "Revolut",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Wise",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Paddle",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Plum",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Klarna",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Airwallex",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "FundApps",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Howden",
-      "error": "workday: Howden confirmed dead (maintenance page)"
+      "company": "Virgin Media O2",
+      "error": "fetch failed"
     }
   ]
 }
