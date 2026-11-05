@@ -58,6 +58,9 @@ async function main() {
   const cfg = loadYaml(readFileSync('portals.yml', 'utf8')) || {};
   const titleOk = buildTitleFilter(cfg.title_filter);
   const skip = new Set(cfg.skip_tiers || []);
+  process.env.CAREER_OPS_ROOT = process.env.CAREER_OPS_ROOT || process.cwd();
+  const { buildLocationFilter } = await import(pathToFileURL(path.join(ENGINE, 'scan.mjs')).href);
+  const locationOk = cfg.location_filter ? buildLocationFilter(cfg.location_filter) : () => true;
 
   const seen = firstSeen();
   const rows = [];
@@ -66,7 +69,7 @@ async function main() {
     const r = parsePipelineLine(line.trim());
     if (!r || urls.has(r.url)) continue;
     urls.add(r.url);
-    if (!titleOk(r.title) || skip.has(classifyTier(r.title))) continue;
+    if (!titleOk(r.title) || skip.has(classifyTier(r.title)) || !locationOk(r.location, r.title)) continue;
     // Only the board's own posted date counts as "posted"; first-seen is used for
     // sorting undated roles but never shown as a posting date.
     const date = r.posted || '';

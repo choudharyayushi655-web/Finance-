@@ -151,6 +151,9 @@ title_filter:
     - "Marketing"
     - "Sales"
     - "Product Owner"
+    - "Administrator"
+    - "Coordinator"
+    - "Working Student"
     - "Workshop"
     - "word:Talk"
     - "Volunteer"
@@ -202,6 +205,14 @@ title_filter:
 # UK only. Order the scanner uses: always_allow wins, then block, then allow.
 # Postings with no location pass (strict is off), so nothing is lost silently.
 location_filter:
+  # block_hard is checked first, so "Sydney, New South Wales" can't sneak in
+  # through "Wales", or "London, Ontario" through "London".
+  block_hard:
+    - "New South Wales"
+    - "Sydney"
+    - "Ontario"
+    - "Kentucky"
+    - "New London"
   always_allow:
     - "United Kingdom"
     - "UK"
