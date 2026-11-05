@@ -16,7 +16,9 @@ zero-token scanner (pinned to release `career-ops-v1.38.0`).
 | `companies.yml` | ~200 more firms. The weekly discovery job finds their hiring boards and adds them to `portals.yml` |
 | `.github/workflows/scan.yml` | Hourly scan → alerts |
 | `.github/workflows/discover.yml` | Weekly: adds boards for firms in `companies.yml`, tests every board, writes `reports/discovery.md` |
+| `JOBS.md` | Every matched role, newest first, grouped by role type. Rebuilt after each scan |
 | `scripts/notify.mjs` | Sends the Slack / phone alerts |
+| `scripts/jobs-page.mjs` | Builds `JOBS.md` |
 | `scripts/find-ats.mjs` | Finds a firm's hiring system by reading its careers pages |
 
 ## Setup (about 15 minutes)
