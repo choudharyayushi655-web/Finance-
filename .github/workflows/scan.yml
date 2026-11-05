@@ -51,6 +51,26 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: node scripts/notify.mjs "$RUNNER_TEMP/receipt.json" data/pipeline.md
 
+      - name: Write run summary
+        run: |
+          node -e '
+            const fs=require("fs");
+            let r={};
+            try { r=JSON.parse(fs.readFileSync(process.argv[1],"utf8").trim().split("\n").filter(l=>l.startsWith("{")).pop()||"{}"); } catch {}
+            const s={
+              finished_at:new Date().toISOString(),
+              alerts_configured:{ntfy:Boolean(process.env.HAS_NTFY),slack:Boolean(process.env.HAS_SLACK)},
+              boards_scanned:r.scanned??null, postings_seen:r.found??null, filtered_out:r.filtered??null,
+              new_matches:r.added??0, boards_failed:(r.errors||[]).length,
+              failed:(r.errors||[]).map(e=>({company:e.company,error:String(e.error).slice(0,160)})),
+            };
+            fs.writeFileSync("data/last-run.json", JSON.stringify(s,null,2)+"\n");
+            console.log(JSON.stringify({...s,failed:undefined}));
+          ' "$RUNNER_TEMP/receipt.json"
+        env:
+          HAS_NTFY: ${{ secrets.NTFY_TOPIC != '' && '1' || '' }}
+          HAS_SLACK: ${{ secrets.SLACK_WEBHOOK_URL != '' && '1' || '' }}
+
       - name: Save what has been seen
         run: |
           git config user.name "finance-job-radar"
