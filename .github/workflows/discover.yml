@@ -59,7 +59,7 @@ jobs:
           grep -E '^  - name:' portals.yml | sed -E 's/^  - name: *"?([^"]*)"?$/\1/' | sort > "$RUNNER_TEMP/after.txt"
           comm -13 "$RUNNER_TEMP/before.txt" "$RUNNER_TEMP/after.txt" > "$RUNNER_TEMP/new-firms.txt"
           echo "New firms this week: $(wc -l < "$RUNNER_TEMP/new-firms.txt")"
-          node "$RUNNER_TEMP/engine/scan.mjs" --json --quiet > "$RUNNER_TEMP/dry.json" 2>/dev/null || true
+          node "$RUNNER_TEMP/engine/scan.mjs" --since 2 --json --quiet > "$RUNNER_TEMP/dry.json" 2>/dev/null || true
           # Roles already open at newly added firms are recorded silently;
           # genuinely new roles at existing firms are still alerted.
           if [ -f data/scan-history.tsv ]; then
