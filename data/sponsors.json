@@ -1,0 +1,726 @@
+{
+ "source": "UK Home Office register of licensed sponsors (Skilled Worker), copy dated 2026-08-29 via github.com/AryanYadav1010/sponsortrack-uk",
+ "note": "Check gov.uk before applying; a licence does not mean a role will sponsor.",
+ "firms": {
+  "10x Banking": {
+   "licensed": true,
+   "register_name": "10x banking technology services ltd"
+  },
+  "AIG": {
+   "licensed": true,
+   "register_name": "american international group uk limited"
+  },
+  "Accenture": {
+   "licensed": true,
+   "register_name": "accenture song brand uk limited"
+  },
+  "Airwallex": {
+   "licensed": true,
+   "register_name": "airwallex uk limited"
+  },
+  "Allica Bank": {
+   "licensed": true,
+   "register_name": "allica bank"
+  },
+  "Ardian": {
+   "licensed": true,
+   "register_name": "ardian investment uk limited"
+  },
+  "Ares Management": {
+   "licensed": true,
+   "register_name": "ares management limited"
+  },
+  "AstraZeneca": {
+   "licensed": true,
+   "register_name": "astrazeneca uk limited"
+  },
+  "Auto Trader": {
+   "licensed": true,
+   "register_name": "autotrader limited"
+  },
+  "Aviva": {
+   "licensed": true,
+   "register_name": "aviva plc"
+  },
+  "Aviva Investors": {
+   "licensed": true,
+   "register_name": "aviva dentistry limited"
+  },
+  "Ayvens": {
+   "licensed": true,
+   "register_name": "leaseplan uk ltd"
+  },
+  "Aztec Group": {
+   "licensed": true,
+   "register_name": "aztec group financial services uk limited"
+  },
+  "BAE Systems": {
+   "licensed": true,
+   "register_name": "bae systems plc"
+  },
+  "BBVA": {
+   "licensed": true,
+   "register_name": "banco bilbao vizcaya argentaria s a"
+  },
+  "BDO UK": {
+   "licensed": true,
+   "register_name": "bdo llp"
+  },
+  "BGF": {
+   "licensed": false,
+   "register_name": null
+  },
+  "BMO": {
+   "licensed": true,
+   "register_name": "bank of montreal"
+  },
+  "BNY": {
+   "licensed": true,
+   "register_name": "bank of new york mellon"
+  },
+  "BP": {
+   "licensed": true,
+   "register_name": "bp plc"
+  },
+  "Baillie Gifford": {
+   "licensed": true,
+   "register_name": "baillie gifford"
+  },
+  "Bain Capital": {
+   "licensed": true,
+   "register_name": "bain capital"
+  },
+  "Barclays": {
+   "licensed": true,
+   "register_name": "barclays bank plc"
+  },
+  "Berenberg": {
+   "licensed": true,
+   "register_name": "joh berenberg gossler and co kg london branch"
+  },
+  "Berkeley Research Group": {
+   "licensed": true,
+   "register_name": "berkeley research group uk limited"
+  },
+  "BlackRock": {
+   "licensed": true,
+   "register_name": "blackrock construction group ltd"
+  },
+  "Blackstone": {
+   "licensed": true,
+   "register_name": "blackstone agents ltd"
+  },
+  "Blenheim Chalcot": {
+   "licensed": true,
+   "register_name": "blenheim chalcot ltf limited"
+  },
+  "Boston Consulting Group": {
+   "licensed": true,
+   "register_name": "the boston consulting group uk llp"
+  },
+  "Brevan Howard": {
+   "licensed": true,
+   "register_name": "brevan howard asset management services limited"
+  },
+  "CMC Markets": {
+   "licensed": true,
+   "register_name": "cmc markets uk plc"
+  },
+  "CME Group": {
+   "licensed": true,
+   "register_name": "cme congresses limited"
+  },
+  "Calastone": {
+   "licensed": false,
+   "register_name": null
+  },
+  "Capital One UK": {
+   "licensed": true,
+   "register_name": "capital one europe plc"
+  },
+  "Centrica": {
+   "licensed": true,
+   "register_name": "centrica plc"
+  },
+  "Chip": {
+   "licensed": true,
+   "register_name": "chip financial ltd"
+  },
+  "Chubb": {
+   "licensed": true,
+   "register_name": "chubb group security limited"
+  },
+  "Cinven": {
+   "licensed": true,
+   "register_name": "cinven limited"
+  },
+  "Citi": {
+   "licensed": false,
+   "register_name": null
+  },
+  "ClearBank": {
+   "licensed": true,
+   "register_name": "clearbank group holdings limited"
+  },
+  "ClearScore": {
+   "licensed": false,
+   "register_name": null
+  },
+  "Cleo": {
+   "licensed": true,
+   "register_name": "cleo ai ltd"
+  },
+  "Coller Capital": {
+   "licensed": true,
+   "register_name": "coller capital ltd"
+  },
+  "DRW": {
+   "licensed": true,
+   "register_name": "drw investments uk ltd"
+  },
+  "Diageo": {
+   "licensed": true,
+   "register_name": "diageo plc"
+  },
+  "Dimensional Fund Advisors": {
+   "licensed": true,
+   "register_name": "dimensional fund advisors ltd"
+  },
+  "EQT": {
+   "licensed": true,
+   "register_name": "eqt partners limited"
+  },
+  "Ebury": {
+   "licensed": true,
+   "register_name": "ebury partners uk ltd"
+  },
+  "Evelyn Partners": {
+   "licensed": true,
+   "register_name": "evelyn partners group limited"
+  },
+  "Experian": {
+   "licensed": true,
+   "register_name": "experian limited"
+  },
+  "Fidelity International": {
+   "licensed": true,
+   "register_name": "fil investment management limited"
+  },
+  "Financial Times": {
+   "licensed": true,
+   "register_name": "the financial times ltd"
+  },
+  "Flow Traders": {
+   "licensed": true,
+   "register_name": "flow traders uk services ltd"
+  },
+  "Franklin Templeton": {
+   "licensed": true,
+   "register_name": "franklin templeton global investors limited"
+  },
+  "Freetrade": {
+   "licensed": true,
+   "register_name": "freetrade limited"
+  },
+  "Funding Circle": {
+   "licensed": true,
+   "register_name": "funding circle ltd"
+  },
+  "GSA Capital": {
+   "licensed": true,
+   "register_name": "gsa capital services limited"
+  },
+  "GSK": {
+   "licensed": true,
+   "register_name": "gsk plc"
+  },
+  "GoCardless": {
+   "licensed": true,
+   "register_name": "gocardless limited"
+  },
+  "Graham Capital": {
+   "licensed": true,
+   "register_name": "graham capital llp"
+  },
+  "Hargreaves Lansdown": {
+   "licensed": true,
+   "register_name": "hargreaves lansdown limited"
+  },
+  "Hiscox": {
+   "licensed": true,
+   "register_name": "hiscox underwriting group services limited"
+  },
+  "Houlihan Lokey": {
+   "licensed": true,
+   "register_name": "houlihan lokey uk limited"
+  },
+  "Howden": {
+   "licensed": true,
+   "register_name": "howden group holdings limited"
+  },
+  "ICG": {
+   "licensed": true,
+   "register_name": "icg plc"
+  },
+  "IG Group": {
+   "licensed": true,
+   "register_name": "ig group holdings plc"
+  },
+  "IMC Trading": {
+   "licensed": false,
+   "register_name": null
+  },
+  "ING": {
+   "licensed": false,
+   "register_name": null
+  },
+  "Informa": {
+   "licensed": true,
+   "register_name": "informa uk limited"
+  },
+  "Interactive Investor": {
+   "licensed": true,
+   "register_name": "interactive investor services ltd"
+  },
+  "Interpath Advisory": {
+   "licensed": true,
+   "register_name": "interpath limited"
+  },
+  "Invesco": {
+   "licensed": true,
+   "register_name": "invesco uk limited"
+  },
+  "JPMorgan Chase": {
+   "licensed": true,
+   "register_name": "jpmorgan chase bank national association"
+  },
+  "Jane Street": {
+   "licensed": true,
+   "register_name": "jane street europe limited"
+  },
+  "Julius Baer": {
+   "licensed": true,
+   "register_name": "julius baer international limited"
+  },
+  "Jump Trading": {
+   "licensed": true,
+   "register_name": "jump trading international limited"
+  },
+  "LSEG": {
+   "licensed": true,
+   "register_name": "london stock exchange group plc"
+  },
+  "Landsec": {
+   "licensed": true,
+   "register_name": "land securities properties ltd"
+  },
+  "Lazard": {
+   "licensed": true,
+   "register_name": "lazard and co services limited"
+  },
+  "Lendable": {
+   "licensed": true,
+   "register_name": "lendable operations ltd"
+  },
+  "Liberis": {
+   "licensed": true,
+   "register_name": "liberis ltd"
+  },
+  "Lloyd's of London": {
+   "licensed": true,
+   "register_name": "lloyds of london"
+  },
+  "Lloyds Banking Group": {
+   "licensed": true,
+   "register_name": "lloyds bank plc"
+  },
+  "Lombard Odier": {
+   "licensed": true,
+   "register_name": "lombard odier asset management europe limited"
+  },
+  "M&G": {
+   "licensed": true,
+   "register_name": "m and g plc"
+  },
+  "MFS": {
+   "licensed": true,
+   "register_name": "mfs international uk ltd"
+  },
+  "MS Amlin": {
+   "licensed": true,
+   "register_name": "ms amlin corporate services limited"
+  },
+  "MSCI": {
+   "licensed": true,
+   "register_name": "msci limited"
+  },
+  "MUFG": {
+   "licensed": true,
+   "register_name": "mufg bank ltd"
+  },
+  "Man Group": {
+   "licensed": true,
+   "register_name": "man group services limited"
+  },
+  "Marex": {
+   "licensed": true,
+   "register_name": "marex group plc"
+  },
+  "Markel": {
+   "licensed": true,
+   "register_name": "markel international services limited"
+  },
+  "Marks & Spencer": {
+   "licensed": true,
+   "register_name": "marks and spencer group plc"
+  },
+  "Marsh McLennan": {
+   "licensed": true,
+   "register_name": "marsh and partners ltd"
+  },
+  "Marshmallow": {
+   "licensed": true,
+   "register_name": "marshmallow technology ltd"
+  },
+  "Mastercard": {
+   "licensed": true,
+   "register_name": "mastercard uk management services ltd"
+  },
+  "Maven Securities": {
+   "licensed": true,
+   "register_name": "maven securities holding limited"
+  },
+  "Millennium": {
+   "licensed": true,
+   "register_name": "millennium capital management limited"
+  },
+  "Mizuho": {
+   "licensed": true,
+   "register_name": "mizuho bank ltd"
+  },
+  "Modulr": {
+   "licensed": true,
+   "register_name": "modulr finance"
+  },
+  "Moelis": {
+   "licensed": true,
+   "register_name": "moelis and company uk llp"
+  },
+  "Moneybox": {
+   "licensed": true,
+   "register_name": "digital moneybox limited"
+  },
+  "Moneyfarm": {
+   "licensed": true,
+   "register_name": "mfm investment ltd"
+  },
+  "Monzo": {
+   "licensed": true,
+   "register_name": "monzo bank ltd"
+  },
+  "Moody's": {
+   "licensed": true,
+   "register_name": "moodys analytics uk ltd"
+  },
+  "Morgan Stanley": {
+   "licensed": true,
+   "register_name": "morgan stanley uk limited"
+  },
+  "Nasdaq": {
+   "licensed": true,
+   "register_name": "nasdaq international limited"
+  },
+  "NatWest Group": {
+   "licensed": true,
+   "register_name": "natwest group plc"
+  },
+  "Next": {
+   "licensed": true,
+   "register_name": "next retail ltd"
+  },
+  "Northern Trust": {
+   "licensed": true,
+   "register_name": "northern trust management services limited"
+  },
+  "OSB Group": {
+   "licensed": true,
+   "register_name": "onesavings bank plc"
+  },
+  "OakNorth": {
+   "licensed": true,
+   "register_name": "oaknorth bank plc"
+  },
+  "Octopus Energy": {
+   "licensed": true,
+   "register_name": "octopus energy limited"
+  },
+  "Octus": {
+   "licensed": true,
+   "register_name": "octus intelligence limited"
+  },
+  "PIMCO": {
+   "licensed": true,
+   "register_name": "pimco europe ltd"
+  },
+  "PJT Partners": {
+   "licensed": true,
+   "register_name": "pjt partners uk limited"
+  },
+  "PKF": {
+   "licensed": true,
+   "register_name": "pkf hospitality ltd"
+  },
+  "Paddle": {
+   "licensed": true,
+   "register_name": "paddle com market limited"
+  },
+  "Panmure Liberum": {
+   "licensed": true,
+   "register_name": "panmure liberum limited"
+  },
+  "PayPal": {
+   "licensed": true,
+   "register_name": "paypal ltd"
+  },
+  "Pearson": {
+   "licensed": true,
+   "register_name": "pearson edexcel limited"
+  },
+  "Pemberton": {
+   "licensed": true,
+   "register_name": "pemberton asset management services uk limited"
+  },
+  "Perella Weinberg": {
+   "licensed": true,
+   "register_name": "perella weinberg uk limited"
+  },
+  "Phoenix Group": {
+   "licensed": true,
+   "register_name": "phoenix group management services limited"
+  },
+  "Pleo": {
+   "licensed": true,
+   "register_name": "pleo technologies limited"
+  },
+  "Point72": {
+   "licensed": true,
+   "register_name": "point72 uk limited"
+  },
+  "Primer": {
+   "licensed": true,
+   "register_name": "primer api limited"
+  },
+  "PwC": {
+   "licensed": true,
+   "register_name": "pricewaterhousecoopers llp"
+  },
+  "QBE": {
+   "licensed": true,
+   "register_name": "qbe management services uk limited"
+  },
+  "Quadrature Capital": {
+   "licensed": true,
+   "register_name": "quadrature capital limited"
+  },
+  "Qube Research & Technologies": {
+   "licensed": true,
+   "register_name": "qube research and technologies limited"
+  },
+  "Quilter": {
+   "licensed": true,
+   "register_name": "quilter business services ltd"
+  },
+  "RBC": {
+   "licensed": false,
+   "register_name": null
+  },
+  "Revolut": {
+   "licensed": true,
+   "register_name": "revolut ltd"
+  },
+  "Rightmove": {
+   "licensed": true,
+   "register_name": "rightmove group ltd"
+  },
+  "Rolls-Royce": {
+   "licensed": true,
+   "register_name": "rolls royce plc"
+  },
+  "Rothesay": {
+   "licensed": true,
+   "register_name": "rothesay pensions management limited"
+  },
+  "Rothschild & Co": {
+   "licensed": true,
+   "register_name": "rothschild and co global markets solutions limited"
+  },
+  "S&P Global": {
+   "licensed": true,
+   "register_name": "s and p global limited"
+  },
+  "Sainsbury's": {
+   "licensed": true,
+   "register_name": "j sainsbury plc"
+  },
+  "Salary Finance": {
+   "licensed": true,
+   "register_name": "salary finance limited"
+  },
+  "Santander": {
+   "licensed": true,
+   "register_name": "santander uk plc"
+  },
+  "Schroders": {
+   "licensed": true,
+   "register_name": "schroder investment management limited"
+  },
+  "Seccl": {
+   "licensed": false,
+   "register_name": null
+  },
+  "Shawbrook": {
+   "licensed": true,
+   "register_name": "shawbrook bank limited"
+  },
+  "Shell": {
+   "licensed": true,
+   "register_name": "shell and beyond projects ltd"
+  },
+  "Simply Business": {
+   "licensed": true,
+   "register_name": "xbridge limited t a simply business"
+  },
+  "Skipton Building Society": {
+   "licensed": true,
+   "register_name": "skipton building society"
+  },
+  "Sky": {
+   "licensed": true,
+   "register_name": "sky uk limited"
+  },
+  "Smarkets": {
+   "licensed": true,
+   "register_name": "smarkets limited"
+  },
+  "Societe Generale": {
+   "licensed": true,
+   "register_name": "societe generale equipment finance ltd"
+  },
+  "Squarepoint Capital": {
+   "licensed": true,
+   "register_name": "squarepoint capital llp"
+  },
+  "Starling Bank": {
+   "licensed": true,
+   "register_name": "starling bank limited"
+  },
+  "State Street": {
+   "licensed": true,
+   "register_name": "state street bank and trust company"
+  },
+  "Stifel": {
+   "licensed": true,
+   "register_name": "stifel nicolaus europe limited"
+  },
+  "Stripe": {
+   "licensed": true,
+   "register_name": "stripe consulting limited"
+  },
+  "T. Rowe Price": {
+   "licensed": true,
+   "register_name": "t rowe price international ltd"
+  },
+  "Tandem Bank": {
+   "licensed": true,
+   "register_name": "tandem bank limited"
+  },
+  "Teneo": {
+   "licensed": true,
+   "register_name": "teneo business consulting ltd"
+  },
+  "Thought Machine": {
+   "licensed": true,
+   "register_name": "thought machine group limited"
+  },
+  "Tide": {
+   "licensed": true,
+   "register_name": "tide platform ltd"
+  },
+  "Tower Research Capital": {
+   "licensed": true,
+   "register_name": "tower research capital europe limited"
+  },
+  "Trading 212": {
+   "licensed": true,
+   "register_name": "trading 212 uk ltd"
+  },
+  "TrueLayer": {
+   "licensed": true,
+   "register_name": "truelayer limited"
+  },
+  "Unilever": {
+   "licensed": true,
+   "register_name": "unilever uk limited"
+  },
+  "Universal Music UK": {
+   "licensed": true,
+   "register_name": "universal music operations ltd"
+  },
+  "Vanguard": {
+   "licensed": true,
+   "register_name": "vanguard building compliance limited"
+  },
+  "Virgin Media O2": {
+   "licensed": true,
+   "register_name": "virgin media limited"
+  },
+  "Visa": {
+   "licensed": true,
+   "register_name": "visa europe limited"
+  },
+  "WPP": {
+   "licensed": true,
+   "register_name": "wpp 2005 limited"
+  },
+  "Wellington Management": {
+   "licensed": true,
+   "register_name": "wellington management international limited"
+  },
+  "Wintermute": {
+   "licensed": true,
+   "register_name": "wintermute trading limited"
+  },
+  "Winton": {
+   "licensed": true,
+   "register_name": "winton capital management ltd"
+  },
+  "WorldQuant": {
+   "licensed": false,
+   "register_name": null
+  },
+  "Worldpay": {
+   "licensed": true,
+   "register_name": "worldpay uk ltd"
+  },
+  "XTX Markets": {
+   "licensed": true,
+   "register_name": "xtx research llp"
+  },
+  "Zilch": {
+   "licensed": true,
+   "register_name": "zilch technology limited"
+  },
+  "Zopa": {
+   "licensed": true,
+   "register_name": "zopa bank limited"
+  },
+  "abrdn": {
+   "licensed": false,
+   "register_name": null
+  },
+  "iCapital": {
+   "licensed": true,
+   "register_name": "icapital uk international limited"
+  }
+ }
+}

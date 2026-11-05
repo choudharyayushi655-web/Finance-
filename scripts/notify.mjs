@@ -16,13 +16,18 @@
  * posted date, which is what the alert shows.
  */
 
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
 const [receiptPath, pipelinePath = 'data/pipeline.md'] = process.argv.slice(2);
 const SLACK = process.env.SLACK_WEBHOOK_URL?.trim();
 const NTFY = process.env.NTFY_TOPIC?.trim();
 const SEED = process.env.SEED_RUN === '1';
 const SUPPRESS_FILE = process.env.SUPPRESS_FILE?.trim();
+const PICKS_FILE = process.env.PICKS_FILE?.trim() || 'data/top-picks.json';
+const DIGEST_FILE = 'data/digest-sent.txt';
+const DIGEST_HOUR = 8; // UK time: first scan at or after 08:00 sends the morning digest
+const JOBS_URL = process.env.GITHUB_REPOSITORY ? `https://github.com/${process.env.GITHUB_REPOSITORY}/blob/main/JOBS.md` : undefined;
+const shortCv = (cv) => String(cv || '').replace(/\s*\(.*$/, '').replace(/ CV$/, '');
 const MAX_PER_MESSAGE = 40;
 
 /** Parse one `- [ ] url | company | title | location | comp | posted: … | note: …` line. */
@@ -140,11 +145,62 @@ async function main() {
 
   if (NTFY) {
     const first = rows[0];
-    const body = rows.slice(0, 8).map((r) => `${r.company}: ${r.title}${r.location ? ` (${r.location})` : ''}`).join('\n')
-      + (rows.length > 8 ? `\n+${rows.length - 8} more in Slack` : '');
-    await postNtfy(`${rows.length} new finance role${rows.length === 1 ? '' : 's'}`, body, rows.length === 1 ? first.url : undefined);
+    await postNtfy(`${rows.length} new finance role${rows.length === 1 ? '' : 's'}`, newRolesBody(rows), rows.length === 1 ? first.url : JOBS_URL);
   }
 }
 
+function loadPicks() {
+  try { return JSON.parse(readFileSync(PICKS_FILE, 'utf8')); } catch { return null; }
+}
+
+/** New roles grouped by the CV that fits best; top 2 per CV, best CVs first. */
+export function newRolesBody(rows, picks = loadPicks()) {
+  const assign = picks?.assign || {};
+  const groups = new Map();
+  for (const r of rows) {
+    const a = assign[r.url] || { cv: '', score: 0 };
+    if (!groups.has(a.cv)) groups.set(a.cv, []);
+    groups.get(a.cv).push({ ...r, score: a.score });
+  }
+  const lines = [];
+  let shown = 0;
+  const ordered = [...groups.entries()].sort((x, y) => Math.max(...y[1].map((r) => r.score)) - Math.max(...x[1].map((r) => r.score)));
+  for (const [cv, list] of ordered) {
+    list.sort((a, b) => b.score - a.score);
+    lines.push(cv ? `${shortCv(cv)} CV:` : 'Other roles:');
+    for (const r of list.slice(0, 2)) { lines.push(`• ${r.title} | ${r.company}${r.location ? `, ${r.location.split(/[·,]/)[0].trim()}` : ''}`); shown++; }
+    if (list.length > 2) lines.push(`  +${list.length - 2} more`);
+  }
+  if (rows.length > shown) lines.push('', 'All roles: tap to open JOBS.md');
+  return lines.join('\n');
+}
+
+/** Morning digest: top 2 roles for each CV, once a day. */
+export function digestBody(picks) {
+  const lines = [];
+  for (const p of picks?.profiles || []) {
+    lines.push(`${shortCv(p.cv)} CV:`);
+    if (!p.picks.length) lines.push('• nothing fresh');
+    for (const x of p.picks) lines.push(`• ${x.title} | ${x.company}${x.sponsor === true ? ' ✅' : ''}`);
+  }
+  return lines.join('\n');
+}
+
+async function maybeDigest() {
+  if (!NTFY && !SLACK) return;
+  const now = new Date();
+  const ukHour = Number(now.toLocaleString('en-GB', { timeZone: 'Europe/London', hour: '2-digit', hour12: false }));
+  const ukDate = now.toLocaleDateString('en-CA', { timeZone: 'Europe/London' });
+  const last = existsSync(DIGEST_FILE) ? readFileSync(DIGEST_FILE, 'utf8').trim() : '';
+  if (ukHour < DIGEST_HOUR || last === ukDate) return;
+  const picks = loadPicks();
+  if (!picks?.profiles?.length) return;
+  const body = digestBody(picks);
+  await postNtfy('Morning picks: top 2 for each CV', body, JOBS_URL);
+  await postSlack({ text: `Morning picks: top 2 for each CV\n${body}` });
+  writeFileSync(DIGEST_FILE, `${ukDate}\n`);
+  console.log('notify: morning digest sent');
+}
+
 const isMain = process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href;
-if (isMain) main().catch((err) => { console.error(err); process.exit(0); });
+if (isMain) main().then(() => (SEED ? null : maybeDigest())).catch((err) => { console.error(err); process.exit(0); });

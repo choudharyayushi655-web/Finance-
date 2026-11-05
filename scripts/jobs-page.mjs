@@ -14,6 +14,7 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { parsePipelineLine } from './notify.mjs';
+import { compileProfiles, rankAll, scoreRole, baseFirm } from './rank.mjs';
 
 const args = process.argv.slice(2);
 const opt = (n, d) => { const i = args.indexOf(n); return i !== -1 && args[i + 1] ? args[i + 1] : d; };
@@ -21,6 +22,8 @@ const ENGINE = path.resolve(opt('--engine', '../career-ops'));
 const OUT = opt('--out', 'JOBS.md');
 const PIPELINE = opt('--pipeline', 'data/pipeline.md');
 const HISTORY = opt('--history', 'data/scan-history.tsv');
+const PICKS = opt('--picks', 'data/top-picks.json');
+const FRESH_DAYS = 21; // top picks only from roles posted (or first seen) in the last 3 weeks
 
 const CATEGORIES = [
   ['Investment banking & advisory', /investment banking|m&a|mergers|corporate finance|transaction services|deal|advisory|valuation|restructuring|capital markets|leveraged finance|structured finance|corporate banking/i],
@@ -83,10 +86,46 @@ async function main() {
   // by the radar in that window after the starting scan.
   const starting = [...seen.values()].sort()[0] || '';
   const recent = rows.filter((r) => (r.date && r.date >= dayAgo) || (!r.date && r.seenAt && r.seenAt > starting && r.seenAt >= dayAgo));
+  // Sponsor licence per firm (Home Office register copy), and per-CV top picks.
+  const sponsors = new Map();
+  if (existsSync('data/sponsors.json')) {
+    for (const [f, v] of Object.entries(JSON.parse(readFileSync('data/sponsors.json', 'utf8')).firms || {})) sponsors.set(f, v.licensed);
+  }
+  const sponsorMark = (r) => (sponsors.get(baseFirm(r.company)) === true ? '✅' : sponsors.has(baseFirm(r.company)) ? '❔' : '');
+  const freshCut = new Date(now - FRESH_DAYS * 86400000).toISOString().slice(0, 10);
+  const fresh = rows.filter((r) => (r.date ? r.date >= freshCut : (r.seenAt || '') >= freshCut));
+  const profilesDoc = existsSync('profiles.yml') ? loadYaml(readFileSync('profiles.yml', 'utf8')) : null;
+  const compiled = profilesDoc ? compileProfiles(profilesDoc) : null;
+  const ranked = compiled ? rankAll(fresh.map((r) => ({ ...r, posted: r.date })), compiled, { sponsors, now }) : new Map();
+  // Best-fitting CV for every role (used by the phone alerts to say which CV to send).
+  const assign = {};
+  if (compiled) {
+    const ctx = { ...compiled, sponsors, now };
+    for (const r of rows) {
+      let best = null;
+      for (const p of compiled.profiles) {
+        const sc = scoreRole({ ...r, posted: r.date }, p, ctx);
+        if (sc && (!best || sc.score > best.score)) best = { id: p.id, cv: p.cv, score: sc.score };
+      }
+      if (best) assign[r.url] = best;
+    }
+  }
+  const picksOut = [...ranked.values()].map(({ profile, picks, total }) => ({
+    id: profile.id, cv: profile.cv, matching: total,
+    picks: picks.map((p) => ({ title: p.title, company: p.company, location: p.location, posted: p.date || null, url: p.url, score: p.score, why: p.why, sponsor: p.sponsor ?? null })),
+  }));
+  writeFileSync(PICKS, JSON.stringify({ generated_at: now.toISOString(), profiles: picksOut, assign }, null, 1) + '\n');
+  const pickLines = picksOut.flatMap((p) => [
+    `**${p.cv}**${p.matching ? ` · ${p.matching} matching` : ''}`,
+    '',
+    ...(p.picks.length ? p.picks.map((x, i) => `${i + 1}. [${cell(x.title)}](${x.url}) · ${cell(x.company)} · ${cell(x.location).slice(0, 40) || 'UK'}${x.posted ? ` · posted ${x.posted}` : ''}${x.sponsor === true ? ' · ✅ sponsor licence' : ' · ❔ check sponsorship'}`) : ['_No fresh match right now._']),
+    '',
+  ]);
+
   const table = (list) => [
-    '| Posted | Role | Firm | Location |',
-    '|---|---|---|---|',
-    ...list.map((r) => `| ${r.date || '—'} | [${cell(r.title)}](${r.url}) | ${cell(r.company)} | ${cell(r.location).slice(0, 60)} |`),
+    '| Posted | Role | Firm | Location | Sponsor |',
+    '|---|---|---|---|---|',
+    ...list.map((r) => `| ${r.date || '—'} | [${cell(r.title)}](${r.url}) | ${cell(r.company)} | ${cell(r.location).slice(0, 60)} | ${sponsorMark(r)} |`),
   ].join('\n');
 
   const counts = CATEGORIES.map(([n]) => n).concat('Other')
@@ -97,9 +136,14 @@ async function main() {
     '',
     `Updated ${now.toISOString().slice(0, 16).replace('T', ' ')} UTC · **${rows.length} roles** matching your filters across ${new Set(rows.map((r) => r.company)).size} firms.`,
     '',
-    'Click a role to open the posting. Check visa sponsorship on each one before applying.',
+    'Click a role to open the posting. ✅ = firm holds a UK Skilled Worker sponsor licence (register copy of 29 Aug 2026); ❔ = not found, check. A licence does not guarantee the role sponsors.',
     '',
-    '**Jump to:** ' + ['New (last day or so)', ...counts.map(([n]) => n)].map((n) => `[${n}](#${n.toLowerCase().replace(/[^a-z0-9 -]/g, '').replace(/ /g, '-')})`).join(' · '),
+    '## Top picks for each CV',
+    '',
+    `Best two roles for each of your CVs from the last ${FRESH_DAYS} days, ranked on title fit, junior level, how recent, London, and sponsor licence. One pick per firm.`,
+    '',
+    ...pickLines,
+    '**Jump to:** ' + ['Top picks for each CV', 'New (last day or so)', ...counts.map(([n]) => n)].map((n) => `[${n}](#${n.toLowerCase().replace(/[^a-z0-9 -]/g, '').replace(/ /g, '-')})`).join(' · '),
     '',
     `## New (last day or so)`,
     '',
