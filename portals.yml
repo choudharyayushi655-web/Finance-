@@ -17,12 +17,41 @@ max_posting_age_days: 30
 
 title_filter:
   positive:
-    # -- Core junior titles --
-    - "Analyst"
-    - "Associate"
-    - "Graduate"
-    - "Trainee"
-    - "word:Analyst Programme"
+    # Titles must name a finance function. Bare "Analyst" / "Associate" let in
+    # too much (business, data, AML, compliance analysts), so they are paired
+    # with a finance word instead (" + " means both words, any order).
+    # -- FP&A / financial analysis / accounting --
+    - "Financial Analyst"
+    - "Finance Analyst"
+    - "Finance Associate"
+    - "FP&A"
+    - "Financial Planning"
+    - "Finance Business Partner"
+    - "Commercial Finance"
+    - "Commercial Analyst"
+    - "Pricing Analyst"
+    - "Management Accountant"
+    - "Assistant Accountant"
+    - "Financial Accountant"
+    - "Trainee Accountant"
+    - "Fund Accountant"
+    - "Fund Accounting"
+    - "Financial Reporting"
+    - "Product Control"
+    - "Treasury"
+    - "Financial Controller"
+    - "Finance Transformation"
+    - "Accountant"
+    # -- Credit & risk --
+    - "Credit"
+    - "Risk Analyst"
+    - "Risk Associate"
+    - "Market Risk"
+    - "Liquidity Risk"
+    - "Model Risk"
+    - "Counterparty Risk"
+    - "Prudential Risk"
+    - "Underwriting Analyst"
     # -- Investment banking / advisory --
     - "Investment Banking"
     - "M&A"
@@ -30,44 +59,54 @@ title_filter:
     - "Corporate Finance"
     - "Transaction Services"
     - "Deal Advisory"
+    - "Strategic Advisory"
+    - "Debt Advisory"
+    - "Capital Advisory"
+    - "Financial Advisory"
+    - "word:Debt"
     - "Valuation"
     - "Restructuring"
     - "Capital Markets"
     - "Leveraged Finance"
+    - "Structured Finance"
+    - "Corporate Banking"
     # -- Research / markets --
     - "Equity Research"
     - "Investment Research"
-    - "Credit Research"
+    - "Research Analyst"
     - "Trader"
+    - "Trading Analyst"
     - "Trading Assistant"
     - "Quant"
-    # -- Asset & wealth management --
-    - "Portfolio"
+    # -- Asset & wealth management / private markets --
+    - "Investment Analyst"
+    - "Investment Associate"
     - "Investment Management"
-    - "Asset Management"
-    - "Fund Accountant"
-    - "Fund Analyst"
     - "Investment Operations"
-    - "Wealth"
+    - "Asset Management"
+    - "Portfolio Analyst"
+    - "Portfolio Analytics"
+    - "Portfolio Management"
+    - "Fund Analyst"
     - "Private Equity"
     - "Private Credit"
-    # -- FP&A / corporate finance --
-    - "FP&A"
-    - "Financial Planning"
-    - "Finance Business Partner"
-    - "Commercial Finance"
-    - "Management Accountant"
-    - "Assistant Accountant"
-    - "Financial Accountant"
-    - "Treasury"
-    - "Financial Controller"
-    # -- Risk / credit --
-    - "Credit Risk"
-    - "Market Risk"
-    - "Credit Analyst"
+    - "Private Markets"
     # -- Consulting --
-    - "Consultant"
-    - "Strategy"
+    - "Management Consultant"
+    - "Strategy Consultant"
+    - "Strategy Analyst"
+    - "Strategy Associate"
+    - "Financial Services Consult"
+    # -- Graduate programmes with a finance focus --
+    - "word:Analyst Programme"
+    - "graduate + finance"
+    - "graduate + financial"
+    - "graduate + risk"
+    - "graduate + investment"
+    - "graduate + banking"
+    - "graduate + markets"
+    - "graduate + accountan"
+    - "graduate + treasury"
 
   negative:
     # Seniority not caught by skip_tiers
@@ -95,6 +134,32 @@ title_filter:
     - "Off-Cycle"
     - "Apprentice"
     - "Work Experience"
+    # Finance-adjacent roles that are not your target
+    - "Business Analyst"
+    - "Data Analyst"
+    - "word:AML"
+    - "word:KYC"
+    - "Financial Crime"
+    - "Compliance"
+    - "Legal"
+    - "Counsel"
+    - "Audit"
+    - "word:Tax"
+    - "Actuar"
+    - "Claims"
+    - "Loss Adjuster"
+    - "Marketing"
+    - "Sales"
+    - "Product Owner"
+    - "Workshop"
+    - "word:Talk"
+    - "Volunteer"
+    - "Reporter"
+    - "Journalist"
+    - "Leader"
+    - "Resilience"
+    - "Credit Control"
+    - "Credit Card"
     # Tech / non-finance
     - "Software"
     - "Engineer"
@@ -306,6 +371,7 @@ tracked_companies:
     careers_url: https://pjtpartners.wd1.myworkdayjobs.com/careers
   - name: Greenhill (Mizuho)
     careers_url: https://greenhill.wd5.myworkdayjobs.com/searchjobs
+    enabled: false   # board closed after the Mizuho merger (Nov 2026)
 
   # ===== Asset & wealth managers =====
   - name: BlackRock
@@ -362,6 +428,7 @@ tracked_companies:
     careers_url: https://brevanhoward.wd3.myworkdayjobs.com/bh_externalcareers
   - name: BlueCrest Capital
     careers_url: https://job-boards.greenhouse.io/bluecrestcapitalmanagement
+    enabled: false   # public job API switched off (404, Nov 2026); check their site
   - name: GSA Capital
     careers_url: https://job-boards.greenhouse.io/gsacapital
   - name: Squarepoint Capital
@@ -403,7 +470,7 @@ tracked_companies:
   - name: IMC Trading
     careers_url: https://job-boards.greenhouse.io/imc
   - name: DRW
-    careers_url: https://job-boards.greenhouse.io/drw
+    careers_url: https://job-boards.greenhouse.io/drweng
   - name: Tower Research Capital
     careers_url: https://job-boards.greenhouse.io/towerresearchcapital
   - name: Jump Trading
@@ -412,6 +479,7 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/mavensecuritiesholdingltd
   - name: ThinkMarkets
     careers_url: https://job-boards.greenhouse.io/thinkmarkets
+    enabled: false   # board gone (404, Nov 2026)
   - name: iCapital
     careers_url: https://job-boards.greenhouse.io/icapitalnetwork
   - name: Wintermute
@@ -453,15 +521,16 @@ tracked_companies:
   - name: Worldpay
     careers_url: https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site
   - name: Checkout.com
-    careers_url: https://checkout.wd3.myworkdayjobs.com/checkoutcareers
+    careers_url: https://jobs.lever.co/checkout
   - name: Stripe
     careers_url: https://job-boards.greenhouse.io/stripe
   - name: Monzo
     careers_url: https://job-boards.greenhouse.io/monzo
   - name: Revolut
-    careers_url: https://jobs.lever.co/revolut
+    careers_url: https://apply.workable.com/revolut
   - name: Wise
     careers_url: https://job-boards.greenhouse.io/transferwise
+    enabled: false   # moved to its own site wise.jobs, which the scanner can't read
   - name: GoCardless
     careers_url: https://job-boards.greenhouse.io/gocardless
   - name: Tide
@@ -475,7 +544,7 @@ tracked_companies:
   - name: Salary Finance
     careers_url: https://job-boards.greenhouse.io/salaryfinance
   - name: Paddle
-    careers_url: https://job-boards.greenhouse.io/paddle
+    careers_url: https://jobs.ashbyhq.com/paddle
   - name: Cleo
     careers_url: https://job-boards.greenhouse.io/cleo-emea
   - name: Zopa
@@ -484,12 +553,14 @@ tracked_companies:
     careers_url: https://jobs.lever.co/moneyboxapp
   - name: Plum
     careers_url: https://jobs.lever.co/plum
+    enabled: false   # board gone (404, Nov 2026)
   - name: Klarna
-    careers_url: https://jobs.lever.co/klarna
+    careers_url: https://klarnagroup.teamtailor.com/jobs
   - name: Airwallex
-    careers_url: https://jobs.lever.co/airwallex
+    careers_url: https://jobs.ashbyhq.com/airwallex
   - name: FundApps
     careers_url: https://jobs.lever.co/fundapps
+    enabled: false   # board gone (404, Nov 2026)
   - name: Freetrade
     careers_url: https://jobs.ashbyhq.com/freetrade
   - name: Funding Circle
@@ -542,6 +613,7 @@ tracked_companies:
     careers_url: https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external
   - name: Howden
     careers_url: https://howden.wd3.myworkdayjobs.com/external
+    enabled: false   # old board closed; Howden roles come through "Howden (Hyperion)"
   - name: MS Amlin
     careers_url: https://msamlin.wd3.myworkdayjobs.com/msamlincareers
   - name: Capital One UK
