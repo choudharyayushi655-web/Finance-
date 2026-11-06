@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 6 Nov, 20:17** (UK time) · **126 open roles** at 53 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 6 Nov, 21:10** (UK time) · **126 open roles** at 53 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 6 Nov, 20:16** · run by hand · checked 189 boards · **0 new roles**
+**Fri 6 Nov, 21:10** · run by hand · checked 189 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 6 Nov, 16:33** (3: Finance 1 · Credit 1 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 6 November
 
-<sub>Nothing new at: 20:16, 19:10, 18:10, 17:10, 16:53</sub>
+<sub>Nothing new at: 21:10, 20:16, 19:10, 18:10, 17:10, 16:53</sub>
 
 <details>
 <summary><b>16:33</b> · run by hand · <b>3 new</b> → Finance 1 · Credit 1 · Other 1</summary>
