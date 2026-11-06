@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T16:54:27.358Z",
+ "generated_at": "2026-11-06T17:10:45.068Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 36,
+   "matching": 35,
    "picks": [
     {
      "title": "Financial Planning & Analytics (FP&A) Analyst",
@@ -654,11 +654,6 @@
    "score": 0
   },
   "https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Analyst---Cost-Insights---Performance_R0003866": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
-  "https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Management-Information-Finance-Analyst_R0003863": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
