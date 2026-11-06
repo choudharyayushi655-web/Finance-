@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T16:33:11.638Z",
+ "generated_at": "2026-11-06T16:54:27.358Z",
  "order": [
   "finance",
   "credit",
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 23,
+   "matching": 22,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -121,7 +121,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 35,
+   "matching": 32,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -217,17 +217,18 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 11,
+   "matching": 10,
    "picks": [
     {
-     "title": "Investment Operations Analyst",
+     "title": "UK Product Team – NAV & Valuation Oversight - Associate",
      "company": "JPMorgan Chase",
-     "location": "EDINBURGH, MIDLOTHIAN, United Kingdom",
-     "posted": "2026-11-04",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210775308",
+     "location": "LONDON, LONDON, United Kingdom",
+     "posted": "2026-11-03",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341",
      "score": 21,
      "why": [
-      "Investment Operations"
+      "NAV",
+      "Valuation Oversight"
      ],
      "sponsor": true
     },
@@ -357,11 +358,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/UK-Corporate-Banking-Graduate-Programme-2027-London_JR-0000124400-1": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Global-Transaction-Banking-Graduate-Programme-2027-London_JR-0000124255-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -457,11 +453,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 19
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210775308": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 21
-  },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806807": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -542,16 +533,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/Birmingham/M-A-Executive_R20971-1": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 21
-  },
-  "https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/Leeds/Transaction-Services-Executive_R21500": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 17
-  },
   "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Guernsey-GG/Specialist--Quantitative-Analysis_332357-1": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -571,11 +552,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://jobs.ashbyhq.com/lendable/2b333321-547f-46ab-a128-301fc9d65686": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604295-1": {
    "id": "credit",
