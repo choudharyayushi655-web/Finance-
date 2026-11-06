@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 6 Nov, 03:30** (UK time) · **127 open roles** at 53 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 6 Nov, 04:29** (UK time) · **127 open roles** at 53 firms · the radar checks every board at about 17 minutes past each hour.
 
 Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = firm holds a UK Skilled Worker sponsor licence · ❔ = not found in the register, check. A licence doesn't guarantee the role itself sponsors.
 
@@ -8,7 +8,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 6 Nov, 03:30** · hourly scan · checked 189 boards · **0 new roles**
+**Fri 6 Nov, 04:29** · hourly scan · checked 189 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 6 Nov, 02:55** (1: Finance 1); open it in the scan log below.
 
@@ -57,7 +57,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 6 November
 
-<sub>Nothing new at: 03:30</sub>
+<sub>Nothing new at: 04:29, 03:30</sub>
 
 <details>
 <summary><b>02:55</b> · run by hand · <b>1 new</b> → Finance 1</summary>
