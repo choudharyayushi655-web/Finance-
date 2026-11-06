@@ -368,4 +368,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/clearbank/f3231b04-9538-4931-b7d5-1d0aea6c4c77 | ClearBank | Financial Control, Accountant | London Office - Hybrid · London - Hybrid · United Kingdom | posted: 2026-11-05
 
+- [ ] https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Credit-Analysis_R3367-1 | ICG | Associate, Credit Analysis | London | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e | Funding Circle | Credit Strategy Analyst | London · United Kingdom | posted: 2026-11-06
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761 | JPMorgan Chase | Investment Banking - EMEA M&A Diversified Industries - Associate - London | LONDON, LONDON, United Kingdom | posted: 2026-11-06
+
 ## Processed

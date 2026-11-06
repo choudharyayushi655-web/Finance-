@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T04:29:37.774Z",
+ "generated_at": "2026-11-06T13:07:39.389Z",
  "order": [
   "finance",
   "credit",
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 20,
+   "matching": 22,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -121,50 +121,50 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 33,
+   "matching": 34,
    "picks": [
+    {
+     "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
+     "company": "JPMorgan Chase",
+     "location": "LONDON, LONDON, United Kingdom",
+     "posted": "2026-11-06",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761",
+     "score": 29,
+     "why": [
+      "Investment Banking",
+      "M&A"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Investment Banking Analyst, M&A",
      "company": "Citi",
      "location": "London United Kingdom",
      "posted": "2026-11-03",
      "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011",
-     "score": 29,
+     "score": 27,
      "why": [
       "Investment Banking",
       "M&A"
      ],
      "sponsor": false
-    },
-    {
-     "title": "Associate - Corporate Finance (Business Services M&A)",
-     "company": "Houlihan Lokey",
-     "location": "London, UK",
-     "posted": "2026-10-21",
-     "url": "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635",
-     "score": 25,
-     "why": [
-      "M&A",
-      "Corporate Finance"
-     ],
-     "sponsor": true
     }
    ]
   },
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 18,
+   "matching": 19,
    "picks": [
     {
-     "title": "Equity Derivatives Trading Services - Efficiency Strategy Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, United Kingdom",
-     "posted": "2026-11-03",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805760",
-     "score": 19,
+     "title": "Credit Strategy Analyst",
+     "company": "Funding Circle",
+     "location": "London · United Kingdom",
+     "posted": "2026-11-06",
+     "url": "https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e",
+     "score": 22,
      "why": [
-      "Strategy Associate"
+      "Strategy Analyst"
      ],
      "sponsor": true
     },
@@ -220,15 +220,14 @@
    "matching": 11,
    "picks": [
     {
-     "title": "UK Product Team – NAV & Valuation Oversight - Associate",
+     "title": "Investment Operations Analyst",
      "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-11-03",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341",
-     "score": 23,
+     "location": "EDINBURGH, MIDLOTHIAN, United Kingdom",
+     "posted": "2026-11-04",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210775308",
+     "score": 21,
      "why": [
-      "NAV",
-      "Valuation Oversight"
+      "Investment Operations"
      ],
      "sponsor": true
     },
@@ -238,7 +237,7 @@
      "location": "Southampton",
      "posted": "2026-10-29",
      "url": "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030",
-     "score": 19,
+     "score": 17,
      "why": [
       "Fund Accountant"
      ],
@@ -251,7 +250,7 @@
   "https://rbs.wd3.myworkdayjobs.com/rbs/job/Aberdeen/Financial-Planning-Specialist_R-00287166-1": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 11
+   "score": 9
   },
   "https://rbs.wd3.myworkdayjobs.com/rbs/job/Belfast/Graduate-Trainee---Risk-Modelling-Specialist_R-00285724": {
    "id": "other",
@@ -301,7 +300,7 @@
   "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Private-Analytics-Stewardship--Associate_R260598": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 12
+   "score": 10
   },
   "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Private-Credit-Portfolio-Analytics---Reporting--PFS---Edinburgh_R265410": {
    "id": "credit",
@@ -471,12 +470,12 @@
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 23
+   "score": 21
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805760": {
    "id": "consulting",
    "cv": "Consulting CV",
-   "score": 19
+   "score": 17
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804850": {
    "id": "other",
@@ -571,7 +570,7 @@
   "https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 14
+   "score": 12
   },
   "https://jobs.ashbyhq.com/lendable/2b333321-547f-46ab-a128-301fc9d65686": {
    "id": "other",
@@ -591,7 +590,7 @@
   "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Primary-Capital-Advisory_R3421-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 19
+   "score": 17
   },
   "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Financial-Restructuring_R3583-1": {
    "id": "investment",
@@ -696,7 +695,7 @@
   "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 19
+   "score": 17
   },
   "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041": {
    "id": "fund",
@@ -711,12 +710,12 @@
   "https://job-boards.greenhouse.io/liberis/jobs/8349151": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 22
+   "score": 20
   },
   "https://job-boards.greenhouse.io/liberis/jobs/8349067": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 16
+   "score": 14
   },
   "https://umusic.wd5.myworkdayjobs.com/umguk/job/Kings-Cross-London/Commercial-Analyst_UMG-27761": {
    "id": "finance",
@@ -826,7 +825,7 @@
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Intercompany-Finance-Transformation-Consultant_R00359314": {
    "id": "consulting",
    "cv": "Consulting CV",
-   "score": 12
+   "score": 9
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1": {
    "id": "finance",
@@ -861,12 +860,12 @@
   "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Associate_261004010": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 10
+   "score": 8
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 29
+   "score": 27
   },
   "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310": {
    "id": "credit",
@@ -882,6 +881,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Credit-Analysis_R3367-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 22
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 29
   }
  }
 }

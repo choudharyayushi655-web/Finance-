@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 6 Nov, 04:29** (UK time) · **127 open roles** at 53 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 6 Nov, 13:07** (UK time) · **130 open roles** at 54 firms · the radar checks every board at about 17 minutes past each hour.
 
 Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = firm holds a UK Skilled Worker sponsor licence · ❔ = not found in the register, check. A licence doesn't guarantee the role itself sponsors.
 
@@ -8,9 +8,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 6 Nov, 04:29** · hourly scan · checked 189 boards · **0 new roles**
+**Fri 6 Nov, 13:07** · hourly scan · checked 189 boards · **3 new roles**
 
-Nothing new this time. The last scan that found something was **Fri 6 Nov, 02:55** (1: Finance 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-06 | [Associate, Credit Analysis](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Credit-Analysis_R3367-1) | ICG | London | ✅ |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-06 | [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
+
+### Consulting CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-06 | [Credit Strategy Analyst](https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e) | Funding Circle | London · United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -21,7 +37,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) · Capital One UK · Nottingham, Eng · posted 2026-10-20 · ✅
 2. [FP&A Analyst - Commercial & Schemes](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/FP-A-Analyst---Commercial---Schemes_R0019496-1) · Howden · London · Cheltenham - St James House · posted 2026-11-04 · ✅
 
-**Credit CV** (20 matching)
+**Credit CV** (22 matching)
 
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Analyst](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310) · Next · Leicester, Leicestershire, United Kingdo · posted 2026-11-05 · ✅
@@ -31,14 +47,14 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [EMEA Equity Research - Real Estate - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-10-23 · ✅
 
-**Investment (IB / PE) CV** (33 matching)
+**Investment (IB / PE) CV** (34 matching)
 
-1. [Investment Banking Analyst, M&A](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011) · Citi · London United Kingdom · posted 2026-11-03 · ❔
-2. [Associate - Corporate Finance (Business Services M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635) · Houlihan Lokey · London, UK · posted 2026-10-21 · ✅
+1. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
+2. [Investment Banking Analyst, M&A](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011) · Citi · London United Kingdom · posted 2026-11-03 · ❔
 
-**Consulting CV** (18 matching)
+**Consulting CV** (19 matching)
 
-1. [Equity Derivatives Trading Services - Efficiency Strategy Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805760) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-03 · ✅
+1. [Credit Strategy Analyst](https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e) · Funding Circle · London · United Kingdom · posted 2026-11-06 · ✅
 2. [Strategy Consultant for Commodity Markets](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Strategy-Consultant-for-Commodity-Markets_R00369068) · Accenture · London · posted 2026-11-04 · ✅
 
 **Real Estate CV** (11 matching)
@@ -48,7 +64,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 
 **Fund CV (written for India; tweak the header for UK roles)** (11 matching)
 
-1. [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-03 · ✅
+1. [Investment Operations Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210775308) · JPMorgan Chase · EDINBURGH, MIDLOTHIAN, United Kingdom · posted 2026-11-04 · ✅
 2. [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030) · Aztec Group · Southampton · posted 2026-10-29 · ✅
 
 ## Scan log (last 7 days)
@@ -56,6 +72,29 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 6 November
+
+<details>
+<summary><b>13:07</b> · hourly scan · <b>3 new</b> → Credit 1 · Investment 1 · Consulting 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-06 | [Associate, Credit Analysis](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Credit-Analysis_R3367-1) | ICG | London | ✅ |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-06 | [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-06 | [Credit Strategy Analyst](https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e) | Funding Circle | London · United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 04:29, 03:30</sub>
 
@@ -144,13 +183,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-05 | [Commercial Analyst](https://umusic.wd5.myworkdayjobs.com/umguk/job/Kings-Cross-London/Commercial-Analyst_UMG-27761) | Universal Music UK | Kings Cross, London | ✅ |
 | 2026-11-04 | [Treasury Assistant](https://job-boards.greenhouse.io/gocardless/jobs/8301377) | GoCardless | Leeds, UK | ✅ |
 | 2026-10-27 | [Finance Business Partner](https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Finance-Business-Partner_R5217) | Lloyd's of London | Lloyd's UK: London | ✅ |
-| 2026-10-29 | [Commercial Analyst](https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101) | Ebury | London | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 | — | [Management Accountant](https://umusic.wd5.myworkdayjobs.com/umguk/job/Kings-Cross-London/Management-Accountant_UMG-26262) | Universal Music UK | Kings Cross, London | ✅ |
 | 2026-10-22 | [Management Accountant - 12 month FTC](https://jobs.lever.co/octoenergy/edae3d41-b2d3-42b0-93e2-eb582e9aeeb2) | Octopus Energy | London (GB) | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Management Accountant](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Milton-Keynes---The-Avebury/Management-Accountant_R0019780) | Howden | Milton Keynes - The Avebury | ✅ |
 | 2026-10-27 | [Management Accountant](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Management-Accountant_JR_10041548) | Ayvens | Bristol CEC | ✅ |
+| 2026-10-29 | [Commercial Analyst](https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101) | Ebury | London | ✅ |
 | — | [Financial Analyst (2) - Corporate Finance (Business Services)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst--2----Corporate-Finance--Business-Services-_R3634) | Houlihan Lokey | London, UK | ✅ |
 | — | [Experienced Financial Analyst, Financial and Valuation Advisory - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Financial-and-Valuation-Advisory---London_R3576) | Houlihan Lokey | London, UK | ✅ |
 | — | [Experienced Financial Analyst, Portfolio Valuation and Fund Advisory (Structured Products) - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3225) | Houlihan Lokey | London, UK | ✅ |
@@ -168,16 +207,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | 2026-11-05 | [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
-| 2026-11-03 | [Analyst - Credit Risk](https://job-boards.greenhouse.io/liberis/jobs/8349151) | Liberis | London, United Kingdom | ✅ |
 | 2026-10-27 | [Credit Risk Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Risk-Analyst_JR_10039785) | Ayvens | Bristol CEC | ✅ |
 | 2026-11-02 | [Credit Analyst](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Credit-Analyst_JR016652) | Rothschild & Co | London | ✅ |
 | 2026-11-02 | [Associate, Private Credit Portfolio Analytics & Reporting, PFS - Edinburgh](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Private-Credit-Portfolio-Analytics---Reporting--PFS---Edinburgh_R265410) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-11-02 | [Associate, Private Credit Portfolio Analytics & Reporting, PFS - Edinburgh](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Private-Credit-Portfolio-Analytics---Reporting--PFS---Edinburgh_R265409) | BlackRock | Edinburgh, Scotland | ✅ |
+| 2026-11-03 | [Analyst - Credit Risk](https://job-boards.greenhouse.io/liberis/jobs/8349151) | Liberis | London, United Kingdom | ✅ |
 | 2026-10-28 | [Delegated Underwriting Analyst](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Delegated-Underwriting-Analyst_RQ14442) | MS Amlin | London | ✅ |
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-11-05 | [Risk Analyst](https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/London/Risk-Analyst_R0020743) | Hiscox | London · York | ✅ |
-| 2026-11-03 | [Risk Analyst](https://job-boards.greenhouse.io/liberis/jobs/8349067) | Liberis | London | ✅ |
 | 2026-11-02 | [Associate, Private Credit](https://invesco.wd1.myworkdayjobs.com/ivz/job/London-London/Associate--Private-Credit_R-13259) | Invesco | London, London | ✅ |
+| 2026-11-03 | [Risk Analyst](https://job-boards.greenhouse.io/liberis/jobs/8349067) | Liberis | London | ✅ |
 | 2026-10-15 | [Venture & Growth Debt - Analyst - London](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Venture---Growth-Debt---Analyst---London_R261163) | BlackRock | London, Greater London | ✅ |
 | — | [UK Corporate Banking Graduate Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/UK-Corporate-Banking-Graduate-Programme-2027-London_JR-0000124400-1) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
 | 2026-10-23 | [Associate, Global Credit](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate--Global-Credit_R-0000190883-2) | RBC | London, United Kingdom of Great Britain and Northe | ❔ |
@@ -209,11 +248,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-05 | [M&A Executive](https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/Birmingham/M-A-Executive_R20971-1) | BDO UK | Birmingham | ✅ |
 | — | [Associate, Private Equity Fund Investments](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Private-Equity-Fund-Investments_R3274) | ICG | London | ✅ |
 | 2026-11-04 | [Investment Banking – Benelux Financial Institutions Group (FIG) / FinTech – Associate – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210771123) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
-| 2026-11-03 | [Associate, Primary Capital Advisory](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Primary-Capital-Advisory_R3421-1) | Houlihan Lokey | London, UK | ✅ |
 | 2026-10-23 | [Investment Banking – Central & Eastern Europe Coverage – Analyst – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210775931) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-20 | [Investment Banking – France & Benelux Corp DCM - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210801986) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | — | [Associate - Advisory Deals - Transaction Services](https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/Associate---Advisory-Deals---Transaction-Services_552862WD) | PwC |  | ✅ |
 | 2026-10-26 | [Transaction Services Executive](https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/Leeds/Transaction-Services-Executive_R21500) | BDO UK | Leeds | ✅ |
+| 2026-11-03 | [Associate, Primary Capital Advisory](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Primary-Capital-Advisory_R3421-1) | Houlihan Lokey | London, UK | ✅ |
 | — | [Associate - Strategic Advisory (Industrials)](https://pjtpartners.wd1.myworkdayjobs.com/careers/job/London/Associate---Strategic-Advisory--Industrials-_R0003380) | PJT Partners | London | ✅ |
 | — | [Associate - Strategic Advisory (Media and Technology)](https://pjtpartners.wd1.myworkdayjobs.com/careers/job/London/Associate---Strategic-Advisory--TMT-_R0003135) | PJT Partners | London | ✅ |
 | — | [Associate - Strategic Advisory (UK Coverage)](https://pjtpartners.wd1.myworkdayjobs.com/careers/job/London/Associate---Strategic-Advisory--UK-Coverage-_R0002999) | PJT Partners | London | ✅ |
@@ -221,8 +260,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-10-12 | [Associate - Corporate Finance (Healthcare)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Healthcare-_R3638) | Houlihan Lokey | London, UK | ✅ |
 | — | [Associate - Corporate Finance (Oil & Gas)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Oil---Gas-_R3563) | Houlihan Lokey | London, UK | ✅ |
 | — | [Associate, Portfolio Valuation and Fund Advisory (Structured Products) - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3216) | Houlihan Lokey | London, UK | ✅ |
-| 2026-11-03 | [Private Markets Analytics, Associate](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Private-Analytics-Stewardship--Associate_R260598) | BlackRock | Edinburgh, Scotland | ✅ |
 | — | [Global Transaction Banking Graduate Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Global-Transaction-Banking-Graduate-Programme-2027-London_JR-0000124255-1) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
+| 2026-11-03 | [Private Markets Analytics, Associate](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Private-Analytics-Stewardship--Associate_R260598) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 | 2026-10-28 | [Associate - Financial Restructuring](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Financial-Restructuring_R3583-1) | Houlihan Lokey | London, UK | ✅ |
 
@@ -230,9 +269,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-03 | [Equity Derivatives Trading Services - Efficiency Strategy Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805760) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-11-04 | [Strategy Consultant for Commodity Markets](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Strategy-Consultant-for-Commodity-Markets_R00369068) | Accenture | London | ✅ |
 | 2026-11-04 | [Management Consultant - Insurance](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Insurance_R00344089) | Accenture | London | ✅ |
+| 2026-11-03 | [Equity Derivatives Trading Services - Efficiency Strategy Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805760) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-11-04 | [Digital Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Digital-Finance-Transformation-Consultant_R00362313) | Accenture | London | ✅ |
 | 2026-10-07 | [Asset & Wealth Management Strategy Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210797802) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Management Consultant – Comms, Media, Technology](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Comms--Media--Technology_R00354599) | Accenture | London | ✅ |
@@ -254,8 +293,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-04 | [Investment Operations Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210775308) | JPMorgan Chase | EDINBURGH, MIDLOTHIAN, United Kingdom | ✅ |
+| 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-29 | [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030) | Aztec Group | Southampton | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
@@ -289,7 +328,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (35)](#finance-fpa-cv-35) · [Credit (21)](#credit-cv-21) · [Equity (8)](#equity-cv-8) · [Investment (24)](#investment-ib--pe-cv-24) · [Consulting (11)](#consulting-cv-11) · [Real Estate (3)](#real-estate-cv-3) · [Fund (4)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-4) · [Other (21)](#other-fits-no-cv-closely-may-still-be-worth-a-look-21)
+Everything matched so far, newest first within each CV: [Finance (35)](#finance-fpa-cv-35) · [Credit (22)](#credit-cv-22) · [Equity (8)](#equity-cv-8) · [Investment (25)](#investment-ib--pe-cv-25) · [Consulting (12)](#consulting-cv-12) · [Real Estate (3)](#real-estate-cv-3) · [Fund (4)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-4) · [Other (21)](#other-fits-no-cv-closely-may-still-be-worth-a-look-21)
 
 ### Finance (FP&A) CV: 35
 
@@ -331,10 +370,11 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 | 2026-10-14 | [Management Accountant](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Milton-Keynes---The-Avebury/Management-Accountant_R0019780) | Howden | Milton Keynes - The Avebury | ✅ |
 
-### Credit CV: 21
+### Credit CV: 22
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-06 | [Associate, Credit Analysis](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Credit-Analysis_R3367-1) | ICG | London | ✅ |
 | 2026-11-05 | [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-11-05 | [Credit Risk Analyst](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310) | Next | Leicester, Leicestershire, United Kingdom | ✅ |
 | 2026-11-05 | [Risk Analyst](https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/London/Risk-Analyst_R0020743) | Hiscox | London · York | ✅ |
@@ -370,10 +410,11 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 24
+### Investment (IB / PE) CV: 25
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-06 | [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | — | [Associate - Corporate Finance (Technology M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Senior-Associate---Corporate-Finance--Technology-M-A-_R3381) | Houlihan Lokey | London, UK | ✅ |
 | 2026-11-05 | [M&A Executive](https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/Birmingham/M-A-Executive_R20971-1) | BDO UK | Birmingham | ✅ |
 | — | [Associate, Private Equity Fund Investments](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Private-Equity-Fund-Investments_R3274) | ICG | London | ✅ |
@@ -399,10 +440,11 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 | 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 | 2026-10-12 | [Associate - Corporate Finance (Healthcare)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Healthcare-_R3638) | Houlihan Lokey | London, UK | ✅ |
 
-### Consulting CV: 11
+### Consulting CV: 12
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-06 | [Credit Strategy Analyst](https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e) | Funding Circle | London · United Kingdom | ✅ |
 | 2026-11-04 | [Strategy Consultant for Commodity Markets](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Strategy-Consultant-for-Commodity-Markets_R00369068) | Accenture | London | ✅ |
 | 2026-11-04 | [Management Consultant - Insurance](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Insurance_R00344089) | Accenture | London | ✅ |
 | 2026-11-04 | [Digital Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Digital-Finance-Transformation-Consultant_R00362313) | Accenture | London | ✅ |
