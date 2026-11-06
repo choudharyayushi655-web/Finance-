@@ -86,6 +86,17 @@ about roles that are new since the last run.
 - **Every hour (only when something new appears):** titled with the scan time and a count per CV, e.g. `16:23 scan: 2 new roles (Credit 1, Investment 1)`, listing every new role under the CV it fits best (Other last). Tap to open the jobs page at *Latest scan*.
 - **Every morning (first scan after 08:00 UK):** the top 2 open roles for each of the seven CVs.
 
+## Reliable hourly runs (cron-job.org)
+
+GitHub's own scheduler regularly skips hours on free accounts. A free
+cron-job.org job calls GitHub once an hour to start **Finance job scan**:
+
+- URL: `https://api.github.com/repos/<you>/finance-job-radar/actions/workflows/scan.yml/dispatches`
+- Method `POST`, body `{"ref":"main"}`
+- Headers: `Authorization: Bearer <fine-grained token with Actions: read and write on this repo only>`,
+  `Accept: application/vnd.github+json`, `X-GitHub-Api-Version: 2022-11-28`
+- A successful call returns `204`.
+
 ## Tuning
 
 - **Roles:** edit `title_filter` in `portals.yml`. A title needs one

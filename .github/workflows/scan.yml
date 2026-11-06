@@ -4,7 +4,11 @@ name: Finance job scan
 # times, so expect alerts within roughly 1-1.5 hours of a role going live.
 on:
   schedule:
+    # Two slots per hour: GitHub's free scheduler often drops runs when busy,
+    # so the second slot is a backup. The reliable hourly trigger is the
+    # external cron-job.org call to workflow_dispatch (see README).
     - cron: '17 * * * *'
+    - cron: '47 * * * *'
   workflow_dispatch:
 
 permissions:
