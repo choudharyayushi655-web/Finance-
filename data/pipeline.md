@@ -372,4 +372,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e | Funding Circle | Credit Strategy Analyst | London · United Kingdom | posted: 2026-11-06
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761 | JPMorgan Chase | Investment Banking - EMEA M&A Diversified Industries - Associate - London | LONDON, LONDON, United Kingdom | posted: 2026-11-06
 
+- [ ] https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21298 | Phoenix Group | Reinsurance Protection Assistant Accountant | Birmingham, England, United Kingdom | posted: 2026-11-06
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829 | JPMorgan Chase | Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst | LONDON, LONDON, United Kingdom | posted: 2026-11-06
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Global-Capital-Management--GCM----Senior-Associate---LONDON_261008574-1 | Citi | Corporate Banking Global Capital Management (GCM) - Associate/Senior Associate - LONDON | London United Kingdom | posted: 2026-11-06
+
 ## Processed

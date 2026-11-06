@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T13:07:39.389Z",
+ "generated_at": "2026-11-06T16:33:11.638Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 35,
+   "matching": 36,
    "picks": [
     {
      "title": "Financial Planning & Analytics (FP&A) Analyst",
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 22,
+   "matching": 23,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -121,7 +121,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 34,
+   "matching": 35,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -896,6 +896,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 29
+  },
+  "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21298": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Global-Capital-Management--GCM----Senior-Associate---LONDON_261008574-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
   }
  }
 }
