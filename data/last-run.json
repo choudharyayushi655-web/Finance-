@@ -1,26 +1,13 @@
 {
-  "finished_at": "2026-11-05T16:23:02.020Z",
+  "finished_at": "2026-11-06T02:55:11.404Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
-  "boards_scanned": 192,
-  "postings_seen": 30385,
-  "filtered_out": 30340,
-  "new_matches": 2,
-  "boards_failed": 3,
-  "failed": [
-    {
-      "company": "Societe Generale",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Berenberg",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Virgin Media O2",
-      "error": "fetch failed"
-    }
-  ]
+  "boards_scanned": 189,
+  "postings_seen": 30510,
+  "filtered_out": 30475,
+  "new_matches": 1,
+  "boards_failed": 0,
+  "failed": []
 }

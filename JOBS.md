@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 5 Nov, 16:30** (UK time) · **126 open roles** at 52 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 6 Nov, 02:55** (UK time) · **127 open roles** at 53 firms · the radar checks every board at about 17 minutes past each hour.
 
 Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = firm holds a UK Skilled Worker sponsor licence · ❔ = not found in the register, check. A licence doesn't guarantee the role itself sponsors.
 
@@ -8,19 +8,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 5 Nov, 16:23** · run by hand · checked 192 boards · **2 new roles**
+**Fri 6 Nov, 02:55** · run by hand · checked 189 boards · **1 new role**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-05 | [Credit Risk Analyst](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310) | Next | Leicester, Leicestershire, United Kingdom | ✅ |
-
-### Investment (IB / PE) CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-04 | [Global Capital Markets – Analyst/Associate, Corporate Derivatives Group (London)](https://morganstanley.eightfold.ai/careers?pid=549800996444&domain=morganstanley.com) | Morgan Stanley | London, United Kingdom | ✅ |
+| 2026-11-05 | [Financial Control, Accountant](https://jobs.ashbyhq.com/clearbank/f3231b04-9538-4931-b7d5-1d0aea6c4c77) | ClearBank | London Office - Hybrid · London - Hybrid · United  | ✅ |
 
 ## Top picks for each CV
 
@@ -31,7 +25,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) · Capital One UK · Nottingham, Eng · posted 2026-10-20 · ✅
 2. [FP&A Analyst - Commercial & Schemes](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/FP-A-Analyst---Commercial---Schemes_R0019496-1) · Howden · London · Cheltenham - St James House · posted 2026-11-04 · ✅
 
-**Credit CV** (21 matching)
+**Credit CV** (20 matching)
 
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Analyst](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310) · Next · Leicester, Leicestershire, United Kingdo · posted 2026-11-05 · ✅
@@ -64,6 +58,19 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Friday 6 November
+
+<details>
+<summary><b>02:55</b> · run by hand · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-05 | [Financial Control, Accountant](https://jobs.ashbyhq.com/clearbank/f3231b04-9538-4931-b7d5-1d0aea6c4c77) | ClearBank | London Office - Hybrid · London - Hybrid · United  | ✅ |
+
+</details>
 
 ### Thursday 5 November
 
@@ -284,9 +291,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (34)](#finance-fpa-cv-34) · [Credit (21)](#credit-cv-21) · [Equity (8)](#equity-cv-8) · [Investment (24)](#investment-ib--pe-cv-24) · [Consulting (11)](#consulting-cv-11) · [Real Estate (3)](#real-estate-cv-3) · [Fund (4)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-4) · [Other (21)](#other-fits-no-cv-closely-may-still-be-worth-a-look-21)
+Everything matched so far, newest first within each CV: [Finance (35)](#finance-fpa-cv-35) · [Credit (21)](#credit-cv-21) · [Equity (8)](#equity-cv-8) · [Investment (24)](#investment-ib--pe-cv-24) · [Consulting (11)](#consulting-cv-11) · [Real Estate (3)](#real-estate-cv-3) · [Fund (4)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-4) · [Other (21)](#other-fits-no-cv-closely-may-still-be-worth-a-look-21)
 
-### Finance (FP&A) CV: 34
+### Finance (FP&A) CV: 35
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -302,6 +309,7 @@ Everything matched so far, newest first within each CV: [Finance (34)](#finance-
 | — | [Assistant Accountant (12 month FTC)](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Assistant-Accountant--12-month-FTC-_RQ14025) | MS Amlin | London | ✅ |
 | — | [Commercial Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/London-Eng/Commercial-Analyst_R1000696) | Capital One UK | London, Eng | ✅ |
 | — | [Reg Reporting Accountant - 12 month FTC](https://jobs.smartrecruiters.com/shawbrook/744000158538198-reg-reporting-accountant-12-month-ftc) | Shawbrook | London, England , United Kingdom | ✅ |
+| 2026-11-05 | [Financial Control, Accountant](https://jobs.ashbyhq.com/clearbank/f3231b04-9538-4931-b7d5-1d0aea6c4c77) | ClearBank | London Office - Hybrid · London - Hybrid · United  | ✅ |
 | — | [Blackstone Credit & Insurance (BXCI) Investment Fund Modeling & Forecasting](https://blackstone.wd1.myworkdayjobs.com/blackstone_careers/job/London/Blackstone-Credit---Insurance----FP-A--Associate_41787) | Blackstone | London | ✅ |
 | 2026-11-04 | [FP&A Analyst - Commercial & Schemes](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/FP-A-Analyst---Commercial---Schemes_R0019496-1) | Howden | London · Cheltenham - St James House | ✅ |
 | 2026-11-04 | [Finance Analyst](https://mlp.eightfold.ai/careers/job/755959615920) | Millennium | London, United Kingdom | ✅ |

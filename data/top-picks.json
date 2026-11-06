@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T16:30:25.151Z",
+ "generated_at": "2026-11-06T02:55:10.495Z",
  "order": [
   "finance",
   "credit",
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 21,
+   "matching": 20,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -877,6 +877,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 16
+  },
+  "https://jobs.ashbyhq.com/clearbank/f3231b04-9538-4931-b7d5-1d0aea6c4c77": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

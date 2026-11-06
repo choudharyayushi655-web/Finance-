@@ -366,4 +366,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310 | Next | Credit Risk Analyst | Leicester, Leicestershire, United Kingdom | posted: 2026-11-05
 - [ ] https://morganstanley.eightfold.ai/careers?pid=549800996444&domain=morganstanley.com | Morgan Stanley | Global Capital Markets – Analyst/Associate, Corporate Derivatives Group (London) | London, United Kingdom | posted: 2026-11-04
 
+- [ ] https://jobs.ashbyhq.com/clearbank/f3231b04-9538-4931-b7d5-1d0aea6c4c77 | ClearBank | Financial Control, Accountant | London Office - Hybrid · London - Hybrid · United Kingdom | posted: 2026-11-05
+
 ## Processed
