@@ -54,6 +54,9 @@ jobs:
           else KIND=manual; fi
           node scripts/log-scan.mjs "$RUNNER_TEMP/receipt.json" "$KIND"
 
+      - name: Take closed postings off the list
+        run: node scripts/check-live.mjs --engine "$RUNNER_TEMP/engine" --max 80
+
       - name: Update the jobs page (JOBS.md) and top picks per CV
         run: node scripts/jobs-page.mjs --engine "$RUNNER_TEMP/engine" --out JOBS.md
 

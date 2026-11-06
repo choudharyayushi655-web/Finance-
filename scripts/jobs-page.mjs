@@ -89,6 +89,10 @@ async function main() {
   const now = new Date();
   const ctx = { ...compiled, sponsors, now: now.getTime() };
 
+  // ---- postings found to be taken down (scripts/check-live.mjs)
+  const live = existsSync('data/liveness.json') ? JSON.parse(readFileSync('data/liveness.json', 'utf8')) : {};
+  const removed = [];
+
   // ---- every matched role that still passes today's filters, filed under its best CV
   const seen = firstSeen();
   const byUrl = new Map();
@@ -96,6 +100,7 @@ async function main() {
     const r = parsePipelineLine(line.trim());
     if (!r || byUrl.has(r.url)) continue;
     if (!titleOk(r.title) || skip.has(classifyTier(r.title)) || !locationOk(r.location, r.title)) continue;
+    if (live[r.url]?.status === 'closed') { removed.push({ ...r, closedAt: live[r.url].closed_at }); continue; }
     const role = { ...r, date: r.posted || '', seenAt: seen.get(r.url) || '' };
     let best = null;
     for (const p of compiled.profiles) {
@@ -144,6 +149,7 @@ async function main() {
   const L = [];
   L.push('# Finance jobs found', '');
   L.push(`Updated **${ukTime(now.toISOString())}** (UK time) · **${rows.length} open roles** at ${new Set(rows.map((r) => baseFirm(r.company))).size} firms · the radar checks every board at about 17 minutes past each hour.`, '');
+  L.push('Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley\'s can\'t be checked).', '');
   L.push("Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = firm holds a UK Skilled Worker sponsor licence · ❔ = not found in the register, check. A licence doesn't guarantee the role itself sponsors.", '');
   L.push(`**Jump to:** [Latest scan](#latest-scan) · [Top picks for each CV](#top-picks-for-each-cv) · [Scan log](#scan-log-last-${LOG_DAYS}-days) · [All open roles by CV](#all-open-roles-by-cv)`, '');
 
@@ -182,7 +188,7 @@ async function main() {
     L.push('<details>');
     L.push(`<summary><b>${ukTime(s.at, false)}</b> · ${KIND_LABEL[s.kind] || s.kind} · <b>${s.roles.length} new</b> → ${countLine(s.roles)}</summary>`, '');
     L.push(...grouped(s.roles, '####'));
-    if (s.dropped) L.push(`<sub>${s.dropped} more found by this scan no longer pass the role filter and are hidden.</sub>`, '');
+    if (s.dropped) L.push(`<sub>${s.dropped} more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>`, '');
     L.push('</details>', '');
   }
   flushQuiet();
@@ -193,6 +199,17 @@ async function main() {
   for (const [p, l] of all) {
     l.sort((a, b) => (b.date || b.seenAt || '').localeCompare(a.date || a.seenAt || '') || b.score - a.score);
     L.push(`### ${p.cv}: ${l.length}`, '', table(l), '');
+  }
+
+  const weekAgo = new Date(now - LOG_DAYS * 86400000).toISOString();
+  const recentRemoved = removed.filter((r) => (r.closedAt || '') >= weekAgo).sort((a, b) => b.closedAt.localeCompare(a.closedAt));
+  L.push(`## Removed: posting closed (last ${LOG_DAYS} days)`, '');
+  if (!recentRemoved.length) L.push('_None yet._', '');
+  else {
+    L.push('<details>', `<summary>${recentRemoved.length} role${recentRemoved.length === 1 ? '' : 's'} taken off the list because the firm closed the posting</summary>`, '');
+    L.push('| Closed (UK time) | Role | Firm |', '|---|---|---|');
+    for (const r of recentRemoved) L.push(`| ${ukTime(r.closedAt)} | ${cell(r.title)} | ${cell(baseFirm(r.company))} |`);
+    L.push('', '</details>', '');
   }
 
   writeFileSync(OUT, L.join('\n'), 'utf8');
