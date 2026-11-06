@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 6 Nov, 19:10** (UK time) · **127 open roles** at 53 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 6 Nov, 20:06** (UK time) · **126 open roles** at 53 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 6 Nov, 19:10** · run by hand · checked 189 boards · **0 new roles**
+**Fri 6 Nov, 20:06** · hourly scan · checked 189 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 6 Nov, 16:33** (3: Finance 1 · Credit 1 · Other 1); open it in the scan log below.
 
@@ -33,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [EMEA Equity Research - Real Estate - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-10-23 · ✅
 
-**Investment (IB / PE) CV** (32 matching)
+**Investment (IB / PE) CV** (31 matching)
 
 1. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
 2. [Investment Banking Analyst, M&A](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011) · Citi · London United Kingdom · posted 2026-11-03 · ❔
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 6 November
 
-<sub>Nothing new at: 19:10, 18:10, 17:10, 16:53</sub>
+<sub>Nothing new at: 20:06, 19:10, 18:10, 17:10, 16:53</sub>
 
 <details>
 <summary><b>16:33</b> · run by hand · <b>3 new</b> → Finance 1 · Credit 1 · Other 1</summary>
@@ -175,7 +175,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>110 new</b> → Finance 29 · Credit 18 · Equity 8 · Investment 20 · Consulting 11 · Real Estate 3 · Fund 3 · Other 18</summary>
+<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>109 new</b> → Finance 29 · Credit 18 · Equity 8 · Investment 19 · Consulting 11 · Real Estate 3 · Fund 3 · Other 18</summary>
 
 #### Finance (FP&A) CV: 29
 
@@ -247,7 +247,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Investment Analyst](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Investment-Analyst_RQ13445) | MS Amlin | London | ✅ |
 | 2026-11-02 | [Associate, Portfolio Analytics & Reporting, PFS](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/ED3---20-Brandon-Street-Edinburgh/Associate--Portfolio-Analytics---Reporting--PFS_R265358) | BlackRock | ED3 - 20 Brandon Street, Edinburgh | ✅ |
 
-#### Investment (IB / PE) CV: 20
+#### Investment (IB / PE) CV: 19
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -267,7 +267,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-10-12 | [Associate - Corporate Finance (Healthcare)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Healthcare-_R3638) | Houlihan Lokey | London, UK | ✅ |
 | — | [Associate - Corporate Finance (Oil & Gas)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Oil---Gas-_R3563) | Houlihan Lokey | London, UK | ✅ |
 | — | [Associate, Portfolio Valuation and Fund Advisory (Structured Products) - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3216) | Houlihan Lokey | London, UK | ✅ |
-| — | [Global Transaction Banking Graduate Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Global-Transaction-Banking-Graduate-Programme-2027-London_JR-0000124255-1) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
 | 2026-11-03 | [Private Markets Analytics, Associate](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Private-Analytics-Stewardship--Associate_R260598) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 | 2026-10-28 | [Associate - Financial Restructuring](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Financial-Restructuring_R3583-1) | Houlihan Lokey | London, UK | ✅ |
@@ -327,13 +326,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Finance - Shell Graduate Programme 2027 - United Kingdom](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London---Shell-Centre/Finance---Shell-Graduate-Programme-2027---United-Kingdom_R210018) | Shell | London - Shell Centre | ✅ |
 | 2026-10-26 | [Quantum Computational Science Specialist](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby/Quantum-Computational-Science-Specialist_JR6155409-1) | Rolls-Royce | Derby | ✅ |
 
-<sub>234 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>235 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (35)](#finance-fpa-cv-35) · [Credit (22)](#credit-cv-22) · [Equity (8)](#equity-cv-8) · [Investment (23)](#investment-ib--pe-cv-23) · [Consulting (12)](#consulting-cv-12) · [Real Estate (3)](#real-estate-cv-3) · [Fund (3)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-3) · [Other (21)](#other-fits-no-cv-closely-may-still-be-worth-a-look-21)
+Everything matched so far, newest first within each CV: [Finance (35)](#finance-fpa-cv-35) · [Credit (22)](#credit-cv-22) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (12)](#consulting-cv-12) · [Real Estate (3)](#real-estate-cv-3) · [Fund (3)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-3) · [Other (21)](#other-fits-no-cv-closely-may-still-be-worth-a-look-21)
 
 ### Finance (FP&A) CV: 35
 
@@ -415,7 +414,7 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 23
+### Investment (IB / PE) CV: 22
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -428,7 +427,6 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 | — | [Associate - Strategic Advisory (UK Coverage)](https://pjtpartners.wd1.myworkdayjobs.com/careers/job/London/Associate---Strategic-Advisory--UK-Coverage-_R0002999) | PJT Partners | London | ✅ |
 | — | [Associate - Corporate Finance (Oil & Gas)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Oil---Gas-_R3563) | Houlihan Lokey | London, UK | ✅ |
 | — | [Associate, Portfolio Valuation and Fund Advisory (Structured Products) - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3216) | Houlihan Lokey | London, UK | ✅ |
-| — | [Global Transaction Banking Graduate Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Global-Transaction-Banking-Graduate-Programme-2027-London_JR-0000124255-1) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
 | 2026-11-04 | [Investment Banking - UK Natural Resources - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806807) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-04 | [Investment Banking – Benelux Financial Institutions Group (FIG) / FinTech – Associate – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210771123) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-04 | [Global Capital Markets – Analyst/Associate, Corporate Derivatives Group (London)](https://morganstanley.eightfold.ai/careers?pid=549800996444&domain=morganstanley.com) | Morgan Stanley | London, United Kingdom | ✅ |
@@ -505,10 +503,11 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>6 roles taken off the list because the firm closed the posting</summary>
+<summary>7 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 6 Nov, 20:06 | Global Transaction Banking Graduate Programme 2027 London | Barclays |
 | Fri 6 Nov, 17:10 | Management Information Finance Analyst | Landsec |
 | Fri 6 Nov, 16:54 | Financial Operations Graduate (Kent) | Lendable |
 | Fri 6 Nov, 16:54 | M&A Executive | BDO UK |

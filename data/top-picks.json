@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:10:18.739Z",
+ "generated_at": "2026-11-06T20:06:49.527Z",
  "order": [
   "finance",
   "credit",
@@ -121,7 +121,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -357,11 +357,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Global-Transaction-Banking-Graduate-Programme-2027-London_JR-0000124255-1": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 12
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Leeds-Park-Row/UK-Corporate-Banking-Graduate-Programme-2027-Leeds_JR-0000125015": {
    "id": "credit",
