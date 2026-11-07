@@ -549,5 +549,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-media-and-communications-advisory-associate-london-at-jpmorganchase-4345917268 | JPMorganChase | Investment Banking - EMEA Media and Communications Advisory - Associate - London | Greater London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/central-and-eastern-europe-the-middle-east-and-africa-ceemea-investment-banking-associate-at-deutsche-bank-4440086223 | Deutsche Bank | Central and Eastern Europe, the Middle East, and Africa (CEEMEA) Investment Banking Associate | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127667698 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/project-finance-analyst-pmo-at-cgi-4480509242 | CGI | Project Finance Analyst (PMO) | Leatherhead, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-william-blair-4469766291 | William Blair | Investment Banking Associate, Healthcare | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst/57538349 | Pavilion Recruitment Solutions | Commercial Analyst | Crawley, Surrey | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127667648 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed

@@ -1732,6 +1732,11 @@
    "register_name": "Wellington Management International Limited",
    "match": "alias"
   },
+  "William Blair": {
+   "licensed": true,
+   "register_name": "William Blair International Limited",
+   "match": "exact"
+  },
   "Wintermute": {
    "licensed": true,
    "register_name": "Wintermute Trading Limited",
