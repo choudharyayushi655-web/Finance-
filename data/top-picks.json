@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T12:21:49.024Z",
+ "generated_at": "2026-11-07T12:22:40.807Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 113,
+   "matching": 97,
    "picks": [
     {
      "title": "Financial Planning & Analytics (FP&A) Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 39,
+   "matching": 38,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -1313,136 +1313,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127697560": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/quantity-surveyor-127697544": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/accountant-127697504": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/accountant-xero-127692790": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/financial-controller-127692786": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/financial-accountant-127692690": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/corporate-finance-specialist-127692689": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/accountant-remote-part-time-127692680": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/finance-business-partner-12-month-ftc-127688273": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.s1jobs.com/job/finance-analyst-127687715": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
-  "https://www.s1jobs.com/job/finance-business-partner-127680130": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.s1jobs.com/job/client-accountant-127667909": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/quantity-surveyor-m-e-127667904": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/managing-quantity-surveyor-127667695": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127667670": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.s1jobs.com/job/reporting-accountant-127667666": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
-  "https://www.s1jobs.com/job/management-accountant-127667661": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127667655": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/uk-statutory-reporting-accountant-127657830": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
-  "https://www.s1jobs.com/job/assistant-accountant-127656836": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
-  "https://www.s1jobs.com/job/assistant-quantity-surveyor-127655695": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/corporate-accountant-hybrid-working-127651677": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/graduate-quantity-surveyor-127651663": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/quantity-surveyor-pqs-127649281": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/quantity-surveyor-nec-127649278": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/part-qualified-management-accountant-127649270": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://scotjobsnet.co.uk/job/finance-business-partner/": {
    "id": "finance",

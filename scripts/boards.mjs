@@ -102,7 +102,12 @@ export function parseS1Jobs(html) {
       const mid = m.index - start;
       return all.sort((a, b) => Math.abs(a.index - mid) - Math.abs(b.index - mid))[0][1];
     };
-    const title = near('JobTitle') || near('Title') || titleFromSlug(m[2]);
+    // Titles sit in neighbouring objects too, so only accept one whose
+    // slugified form matches this job's URL slug; otherwise rebuild it from the slug.
+    const slug = m[2].replace(/-\d{5,}$/, '');
+    const slugify = (t) => decode(t).toLowerCase().replace(/&/g, ' ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    const candidates = [...obj.matchAll(/"(?:JobTitle|Title|title)":\s*"([^"]+)"/g)].map((x) => x[1]);
+    const title = candidates.find((t) => slugify(t) === slug) || candidates.find((t) => slug.startsWith(slugify(t)) && slugify(t).length > 5) || titleFromSlug(m[2]);
     out.push({
       url: `https://www.s1jobs.com${m[1]}`,
       title: decode(title),
@@ -188,11 +193,16 @@ async function main() {
 
   const added = [];
   const summary = {};
+  // A board's first run records what is already open without alerting.
+  const STATE = 'data/boards-state.json';
+  const state = existsSync(STATE) ? JSON.parse(readFileSync(STATE, 'utf8')) : {};
+  const silent = new Set();
   for (const [id, board] of Object.entries(BOARDS)) {
     const bc = cfg.boards?.[id];
     if (!bc || bc.enabled === false) continue;
     const s = { searches: 0, failed: 0, found: 0, passed: 0, new: 0 };
     summary[board.name] = s;
+    if (!state[board.name]) silent.add(board.name);
     for (const q of bc.queries || cfg.queries || []) {
       s.searches++;
       const r = await get(board.url(q, bc));
@@ -236,13 +246,17 @@ async function main() {
     const idx = raw.map((l, i) => (l.startsWith('{') ? i : -1)).filter((i) => i >= 0).pop();
     if (idx !== undefined) {
       const r = JSON.parse(raw[idx]);
-      r.added_urls = [...(r.added_urls || []), ...added.map((j) => j.url)];
+      r.added_urls = [...(r.added_urls || []), ...added.filter((j) => !silent.has(j.board)).map((j) => j.url)];
       r.added = r.added_urls.length;
       r.job_boards = summary;
       raw[idx] = JSON.stringify(r);
       writeFileSync(RECEIPT, `${raw.join('\n')}\n`);
     }
   }
+  const today2 = new Date().toISOString().slice(0, 10);
+  for (const name of Object.keys(summary)) if (!state[name] && summary[name].searches > summary[name].failed) state[name] = { first_run: today2 };
+  writeFileSync(STATE, `${JSON.stringify(state, null, 1)}\n`);
+  if (silent.size) console.log(`boards: first run for ${[...silent].join(', ')}: roles recorded without alerts`);
   console.log(`boards: ${added.length} new roles · ${Object.entries(summary).map(([n, s]) => `${n} ${s.new} new/${s.passed} matching/${s.found} seen${s.failed ? `, ${s.failed} failed` : ''}`).join(' · ')}`);
 }
 
