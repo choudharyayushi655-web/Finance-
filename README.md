@@ -18,6 +18,7 @@ zero-token scanner (pinned to release `career-ops-v1.38.0`).
 | `.github/workflows/discover.yml` | Weekly: adds boards for firms in `companies.yml`, tests every board, writes `reports/discovery.md` |
 | `JOBS.md` | Every matched role, newest first, grouped by role type. Rebuilt after each scan |
 | `scripts/notify.mjs` | Sends the Slack / phone alerts |
+| `boards.yml`, `scripts/boards.mjs` | Hourly search of UK job boards (LinkedIn, Reed, S1Jobs, MyJobScotland, ScotJobsNet) with the same filters. Indeed, Totaljobs, CV-Library and GOV.UK Find a Job block GitHub's servers |
 | `scripts/check-live.mjs` | Re-checks listed roles about every 3 hours and takes closed postings off the page (`data/liveness.json`) |
 | `scripts/log-scan.mjs` | Records each scan's time, type and new roles in `data/scan-log.jsonl` (feeds the scan log on JOBS.md) |
 | `scripts/jobs-page.mjs` | Builds `JOBS.md` and `data/top-picks.json` |

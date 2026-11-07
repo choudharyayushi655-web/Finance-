@@ -1,0 +1,37 @@
+# UK job boards searched every hour by scripts/boards.mjs, on top of the
+# employer careers sites in portals.yml. Results go through the same title,
+# seniority, UK-location and visa filters, and are grouped by CV like
+# everything else.
+#
+# Not included (they block automated access from GitHub's servers):
+# Indeed UK, Totaljobs, CV-Library, GOV.UK Find a Job. NHS Scotland loads its
+# results in the browser only.
+
+max_age_days: 3        # ignore postings older than this
+
+# Default searches, used by any board without its own list
+queries:
+  - financial analyst
+  - FP&A analyst
+  - finance analyst
+  - credit analyst
+  - credit risk analyst
+  - risk analyst
+  - investment analyst
+  - equity research
+  - M&A analyst
+  - corporate finance analyst
+  - fund accountant
+  - management accountant
+  - graduate finance
+
+boards:
+  linkedin:
+    hours: 24          # posted in the last 24 hours
+  reed: {}
+  s1jobs:              # Scotland; big pages, so fewer searches
+    queries: [finance, analyst, accountant, credit]
+  myjobscotland:       # Scottish councils and public bodies
+    queries: [finance, accountant, analyst]
+  scotjobsnet:
+    queries: [finance, analyst, accountant]
