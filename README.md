@@ -24,7 +24,7 @@ zero-token scanner (pinned to release `career-ops-v1.38.0`).
 | `scripts/jobs-page.mjs` | Builds `JOBS.md` and `data/top-picks.json` |
 | `profiles.yml` | One keyword profile per CV (Finance, Credit, Equity, Investment, Consulting, Real Estate, Fund). Used to rank roles and pick the top 2 for each CV |
 | `scripts/rank.mjs` | The ranking: title fit, junior level, recency, London, sponsor licence |
-| `companies_startups.yaml`, `scripts/startups.mjs` | Hourly scan of UK startups and SMEs through their Greenhouse, Lever, Ashby or Workable job-board APIs (see *Startups and SMEs* below) |
+| `companies_startups.yaml`, `scripts/startups.mjs` | Hourly scan of 64 UK startups and scale-ups through their Greenhouse, Lever, Ashby or Workable job-board APIs (see *Startups and SMEs* below). Work In Startups blocks GitHub's servers, so it isn't included |
 | `scripts/sponsors.mjs`, `sponsor-aliases.yml` | Downloads the Home Office register of licensed sponsors from gov.uk once a week and marks each firm licensed or not in `data/sponsors.json`. Firms it can't match are listed in `reports/sponsor-unmatched.md` |
 | `scripts/find-ats.mjs` | Finds a firm's hiring system by reading its careers pages |
 

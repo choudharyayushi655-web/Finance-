@@ -39,7 +39,10 @@ const SUFFIX = /\b(limited|ltd|plc|llp|llc|lp|inc|incorporated|corp|corporation|
 export function normName(s) {
   return String(s || '').toLowerCase()
     .replace(/\(.*?\)/g, ' ').replace(/&/g, ' and ').replace(/['’`.]/g, '')
-    .replace(/[^a-z0-9]+/g, ' ').replace(SUFFIX, ' ').replace(/\s+/g, ' ').trim();
+    .replace(/[^a-z0-9]+/g, ' ').replace(SUFFIX, ' ')
+    // NHS names vary: "Hospitals NHS Foundation Trust" vs "Hospital NHS Trust".
+    .replace(/\bhospitals\b/g, 'hospital').replace(/\bnhs foundation trust\b/g, 'nhs trust')
+    .replace(/\s+/g, ' ').trim();
 }
 const bigrams = (s) => { const t = s.replace(/ /g, ''); const out = new Map(); for (let i = 0; i < t.length - 1; i++) { const b = t.slice(i, i + 2); out.set(b, (out.get(b) || 0) + 1); } return out; };
 export function dice(a, b) {
