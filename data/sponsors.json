@@ -257,6 +257,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "CMC Consulting Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CMC Markets": {
    "licensed": true,
    "register_name": "CMC Markets UK Plc",
@@ -486,6 +491,11 @@
    "licensed": true,
    "register_name": "EXPERIAN LIMITED",
    "match": "alias"
+  },
+  "Fauna & Flora": {
+   "licensed": true,
+   "register_name": "Fauna & Flora International",
+   "match": "exact"
   },
   "Fidelity International": {
    "licensed": true,
@@ -1512,6 +1522,11 @@
    "register_name": "Squarepoint Capital LLP",
    "match": "alias"
   },
+  "Standard Life plc": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Starling Bank": {
    "licensed": true,
    "register_name": "Starling Bank Limited",
@@ -1761,6 +1776,11 @@
    "licensed": true,
    "register_name": "iCapital UK International Limited",
    "match": "alias"
+  },
+  "targetjobs UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "via ScotJobsNet": {
    "licensed": false,

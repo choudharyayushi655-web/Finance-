@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 353 firms checked, 263 matched, 90 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 357 firms checked, 264 matched, 93 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (90)
+## Not found (93)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -15,6 +15,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Atom Bank
 - Blockchain.com
 - Bloom Money
+- CMC Consulting Ltd
 - Calastone
 - Checkatrade
 - Checkout.com
@@ -85,6 +86,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Scout Global
 - Seccl
 - Signet Resources
+- Standard Life plc
 - Swoop Funding
 - TCS
 - Talan
@@ -95,6 +97,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - WorldQuant
 - Zego
 - abrdn
+- targetjobs UK
 - via ScotJobsNet
 
 ## Matched automatically by close name; worth a glance (22)

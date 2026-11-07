@@ -539,5 +539,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/finance-analyst-2/ | via ScotJobsNet | Finance Analyst | Scotland, Scotland | posted: 2026-11-07 | note: via ScotJobsNet
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127688367 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/accountant-127651711 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/commercial-strategy-analyst-at-lottie-4485870822 | Lottie | Commercial & Strategy Analyst | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/reinsurance-protection-assistant-accountant-at-standard-life-plc-4488408328 | Standard Life plc | Reinsurance Protection Assistant Accountant | Birmingham, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-cmc-consulting-ltd-4486271412 | CMC Consulting Ltd | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-fauna-flora-4479347920 | Fauna & Flora | Management Accountant | Cambridge, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-commodities-and-global-markets-graduate-programme-at-targetjobs-uk-4487614489 | targetjobs UK | 2027 Commodities and Global Markets Graduate Programme | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127680087 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed
