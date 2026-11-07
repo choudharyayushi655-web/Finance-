@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 7 Nov, 00:20** (UK time) · **125 open roles** at 52 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 7 Nov, 01:10** (UK time) · **124 open roles** at 52 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 7 Nov, 00:20** · hourly scan · checked 189 boards · **0 new roles**
+**Sat 7 Nov, 01:10** · run by hand · checked 189 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 6 Nov, 16:33** (3: Finance 1 · Credit 1 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 7 November
 
-<sub>Nothing new at: 00:20</sub>
+<sub>Nothing new at: 01:10, 00:20</sub>
 
 ### Friday 6 November
 
@@ -179,9 +179,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>108 new</b> → Finance 29 · Credit 18 · Equity 8 · Investment 19 · Consulting 11 · Real Estate 3 · Fund 3 · Other 17</summary>
+<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>107 new</b> → Finance 28 · Credit 18 · Equity 8 · Investment 19 · Consulting 11 · Real Estate 3 · Fund 3 · Other 17</summary>
 
-#### Finance (FP&A) CV: 29
+#### Finance (FP&A) CV: 28
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -201,7 +201,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Management Accountant](https://umusic.wd5.myworkdayjobs.com/umguk/job/Kings-Cross-London/Management-Accountant_UMG-26262) | Universal Music UK | Kings Cross, London | ✅ |
 | 2026-10-22 | [Management Accountant - 12 month FTC](https://jobs.lever.co/octoenergy/edae3d41-b2d3-42b0-93e2-eb582e9aeeb2) | Octopus Energy | London (GB) | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
-| 2026-10-14 | [Management Accountant](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Milton-Keynes---The-Avebury/Management-Accountant_R0019780) | Howden | Milton Keynes - The Avebury | ✅ |
 | 2026-10-27 | [Management Accountant](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Management-Accountant_JR_10041548) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-29 | [Commercial Analyst](https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101) | Ebury | London | ✅ |
 | — | [Financial Analyst (2) - Corporate Finance (Business Services)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst--2----Corporate-Finance--Business-Services-_R3634) | Houlihan Lokey | London, UK | ✅ |
@@ -329,15 +328,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Finance - Shell Graduate Programme 2027 - United Kingdom](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London---Shell-Centre/Finance---Shell-Graduate-Programme-2027---United-Kingdom_R210018) | Shell | London - Shell Centre | ✅ |
 | 2026-10-26 | [Quantum Computational Science Specialist](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby/Quantum-Computational-Science-Specialist_JR6155409-1) | Rolls-Royce | Derby | ✅ |
 
-<sub>236 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>237 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (35)](#finance-fpa-cv-35) · [Credit (22)](#credit-cv-22) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (12)](#consulting-cv-12) · [Real Estate (3)](#real-estate-cv-3) · [Fund (3)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-3) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
+Everything matched so far, newest first within each CV: [Finance (34)](#finance-fpa-cv-34) · [Credit (22)](#credit-cv-22) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (12)](#consulting-cv-12) · [Real Estate (3)](#real-estate-cv-3) · [Fund (3)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-3) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
 
-### Finance (FP&A) CV: 35
+### Finance (FP&A) CV: 34
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -375,7 +374,6 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 | 2026-10-20 | [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) | Capital One UK | Nottingham, Eng | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
-| 2026-10-14 | [Management Accountant](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Milton-Keynes---The-Avebury/Management-Accountant_R0019780) | Howden | Milton Keynes - The Avebury | ✅ |
 
 ### Credit CV: 22
 
@@ -505,10 +503,11 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>8 roles taken off the list because the firm closed the posting</summary>
+<summary>9 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 7 Nov, 01:10 | Management Accountant | Howden |
 | Sat 7 Nov, 00:20 | Private Companies Valuations Analyst | Baillie Gifford |
 | Fri 6 Nov, 20:16 | Global Transaction Banking Graduate Programme 2027 London | Barclays |
 | Fri 6 Nov, 17:10 | Management Information Finance Analyst | Landsec |
