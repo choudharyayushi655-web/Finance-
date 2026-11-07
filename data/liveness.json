@@ -531,7 +531,7 @@
  },
  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Global-Capital-Management--GCM----Senior-Associate---LONDON_261008574-1": {
   "status": "live",
-  "checked_at": "2026-11-07T12:21:48Z"
+  "checked_at": "2026-11-07T16:08:40Z"
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-at-holland-barrett-4477185474": {
   "status": "live",
@@ -764,5 +764,9 @@
  "https://www.linkedin.com/jobs/view/divisional-accountant-at-lookers-motor-group-limited-4469737810": {
   "status": "live",
   "checked_at": "2026-11-07T15:08:49Z"
+ },
+ "https://www.linkedin.com/jobs/view/v-i-e-12-months-financial-planning-amp-analysis-f-m-london-at-natixis-investment-managers-4401611824": {
+  "status": "unknown",
+  "checked_at": "2026-11-07T16:08:39Z"
  }
 }

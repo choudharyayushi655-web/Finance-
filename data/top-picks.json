@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T15:09:09.892Z",
+ "generated_at": "2026-11-07T16:08:40.512Z",
  "order": [
   "finance",
   "credit",
@@ -1662,6 +1662,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127688367": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/accountant-127651711": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   }
  }
 }

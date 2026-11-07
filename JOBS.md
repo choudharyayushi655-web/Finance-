@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 7 Nov, 15:09** (UK time) · **283 open roles** at 141 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 7 Nov, 16:08** (UK time) · **285 open roles** at 141 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,22 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 7 Nov, 15:08** · hourly scan · checked 200 boards · **5 new roles**
+**Sat 7 Nov, 16:08** · hourly scan · checked 200 boards · **2 new roles**
 
-### Finance (FP&A) CV: 4
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-06 | [V.I.E. - 12 months - Financial Planning &amp; Analysis F/M - London](https://www.linkedin.com/jobs/view/v-i-e-12-months-financial-planning-amp-analysis-f-m-london-at-natixis-investment-managers-4401611824) | Natixis Investment Managers | London, England, United Kingdom | ✅ |
-| 2026-11-07 | [Finance Analyst](https://scotjobsnet.co.uk/job/finance-analyst-2/) | via ScotJobsNet | Scotland, Scotland | ❔ |
-| — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57531561) | Sphere Digital Recruitment | London | ✅ |
-| — | [Accountant](https://www.s1jobs.com/job/accountant-127663083) | S1Jobs | Scotland | ❔ |
+| — | [Accountant](https://www.s1jobs.com/job/accountant-127651711) | S1Jobs | Scotland | ❔ |
 
 ### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688562) | S1Jobs | Scotland | ❔ |
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688367) | S1Jobs | Scotland | ❔ |
 
 ## Top picks for each CV
 
@@ -71,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 7 November
+
+<details>
+<summary><b>16:08</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Accountant](https://www.s1jobs.com/job/accountant-127651711) | S1Jobs | Scotland | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688367) | S1Jobs | Scotland | ❔ |
+
+</details>
 
 <details>
 <summary><b>15:08</b> · hourly scan · <b>5 new</b> → Finance 4 · Other 1</summary>
@@ -620,9 +634,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (129)](#finance-fpa-cv-129) · [Credit (36)](#credit-cv-36) · [Equity (18)](#equity-cv-18) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (47)](#other-fits-no-cv-closely-may-still-be-worth-a-look-47)
+Everything matched so far, newest first within each CV: [Finance (130)](#finance-fpa-cv-130) · [Credit (36)](#credit-cv-36) · [Equity (18)](#equity-cv-18) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (48)](#other-fits-no-cv-closely-may-still-be-worth-a-look-48)
 
-### Finance (FP&A) CV: 129
+### Finance (FP&A) CV: 130
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -675,6 +689,7 @@ Everything matched so far, newest first within each CV: [Finance (129)](#finance
 | — | [Accountant Xero](https://www.s1jobs.com/job/accountant-xero-127657020) | S1Jobs | Scotland | ❔ |
 | — | [Accountant](https://www.s1jobs.com/job/accountant-127667677) | S1Jobs | Scotland | ❔ |
 | — | [Accountant](https://www.s1jobs.com/job/accountant-127663083) | S1Jobs | Scotland | ❔ |
+| — | [Accountant](https://www.s1jobs.com/job/accountant-127651711) | S1Jobs | Scotland | ❔ |
 | 2026-11-06 | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57536364) | Robert Walters | Surrey Quays, London | ✅ |
 | 2026-11-06 | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57534610) | eFinancialCareers | London | ✅ |
 | 2026-11-06 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-holland-barrett-4477185474) | Holland & Barrett | Nuneaton, England, United Kingdom | ✅ |
@@ -893,7 +908,7 @@ Everything matched so far, newest first within each CV: [Finance (129)](#finance
 | 2026-10-29 | [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030) | Aztec Group | Southampton | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 47
+### Other (fits no CV closely, may still be worth a look): 48
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -916,6 +931,7 @@ Everything matched so far, newest first within each CV: [Finance (129)](#finance
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127692732) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688563) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688562) | S1Jobs | Scotland | ❔ |
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688367) | S1Jobs | Scotland | ❔ |
 | 2026-11-06 | [Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-06 | [Graduate - Relationship Banking](https://www.linkedin.com/jobs/view/graduate-relationship-banking-at-hsbc-innovation-banking-4488414352) | HSBC Innovation Banking | London, England, United Kingdom | ❔ |
 | 2026-11-06 | [Graduate trainee - accountancy](https://www.linkedin.com/jobs/view/graduate-trainee-accountancy-at-sd-business-management-4488153360) | SD Business Management | Glasgow City, Scotland, United Kingdom | ❔ |

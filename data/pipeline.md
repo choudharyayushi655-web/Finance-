@@ -537,5 +537,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127688562 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/accountant-127663083 | S1Jobs | Accountant | Scotland | note: via S1Jobs
 - [ ] https://scotjobsnet.co.uk/job/finance-analyst-2/ | via ScotJobsNet | Finance Analyst | Scotland, Scotland | posted: 2026-11-07 | note: via ScotJobsNet
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127688367 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127651711 | S1Jobs | Accountant | Scotland | note: via S1Jobs
 
 ## Processed
