@@ -98,6 +98,8 @@ async function fetchCompany(c) {
     const res = await fetch(f.url(c), { headers: { 'user-agent': UA, accept: 'application/json' }, signal: ctrl.signal });
     if (!res.ok) return { ok: false, status: `HTTP ${res.status}`, jobs: [] };
     const json = await res.json();
+    // Workable answers 200 with an empty body for accounts that don't exist.
+    if (c.ats === 'workable' && !json?.name && !(json?.jobs || []).length) return { ok: false, status: 'not found', jobs: [] };
     return { ok: true, status: 'ok', jobs: f.parse(json, c).filter((j) => j.title && j.url) };
   } catch (e) {
     return { ok: false, status: e.name === 'AbortError' ? 'timeout' : String(e.message).slice(0, 80), jobs: [] };
