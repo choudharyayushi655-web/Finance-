@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 7 Nov, 23:07** (UK time) · **308 open roles** at 154 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 7 Nov, 23:16** (UK time) · **310 open roles** at 155 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 7 Nov, 23:07** · hourly scan · checked 200 boards · **1 new role**
+**Sat 7 Nov, 23:15** · hourly scan · checked 200 boards · **3 new roles**
+
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-07 | [FP&A - Private Markets](https://www.linkedin.com/jobs/view/fp-a-private-markets-at-aria-partners-4474790264) | Aria Partners | London Area, United Kingdom | ❔ |
+
+### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-07 | [Fund Accountant - Private Markets](https://www.linkedin.com/jobs/view/fund-accountant-private-markets-at-aria-partners-4487503898) | Aria Partners | London Area, United Kingdom | ❔ |
 
 ### Other (fits no CV closely, may still be worth a look): 1
 
@@ -64,7 +76,19 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 7 November
 
 <details>
-<summary><b>23:07</b> · hourly scan · <b>1 new</b> → Other 1</summary>
+<summary><b>23:15</b> · hourly scan · <b>3 new</b> → Finance 1 · Fund 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-07 | [FP&A - Private Markets](https://www.linkedin.com/jobs/view/fp-a-private-markets-at-aria-partners-4474790264) | Aria Partners | London Area, United Kingdom | ❔ |
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-07 | [Fund Accountant - Private Markets](https://www.linkedin.com/jobs/view/fund-accountant-private-markets-at-aria-partners-4487503898) | Aria Partners | London Area, United Kingdom | ❔ |
 
 #### Other (fits no CV closely, may still be worth a look): 1
 
@@ -771,9 +795,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (139)](#finance-fpa-cv-139) · [Credit (36)](#credit-cv-36) · [Equity (18)](#equity-cv-18) · [Investment (34)](#investment-ib--pe-cv-34) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (58)](#other-fits-no-cv-closely-may-still-be-worth-a-look-58)
+Everything matched so far, newest first within each CV: [Finance (140)](#finance-fpa-cv-140) · [Credit (36)](#credit-cv-36) · [Equity (18)](#equity-cv-18) · [Investment (34)](#investment-ib--pe-cv-34) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (58)](#other-fits-no-cv-closely-may-still-be-worth-a-look-58)
 
-### Finance (FP&A) CV: 139
+### Finance (FP&A) CV: 140
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -787,6 +811,7 @@ Everything matched so far, newest first within each CV: [Finance (139)](#finance
 | 2026-11-07 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-fauna-flora-4479347920) | Fauna & Flora | Cambridge, England, United Kingdom | ✅ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57524496) | Halliday Marx | London | ❔ |
 | — | [Insurance Finance Analyst](https://www.reed.co.uk/jobs/insurance-finance-analyst/57531324) | Insight Recruitment Solutions Limited | London | ❔ |
+| 2026-11-07 | [FP&A - Private Markets](https://www.linkedin.com/jobs/view/fp-a-private-markets-at-aria-partners-4474790264) | Aria Partners | London Area, United Kingdom | ❔ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57530920) | Michael Page Finance | Peterborough, Cambridgeshire | ❔ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57531510) | In2 Consult | Slough, Berkshire | ❔ |
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57524089) | Distinct Recruitment | Derby, Derbyshire | ❔ |
@@ -1048,10 +1073,11 @@ Everything matched so far, newest first within each CV: [Finance (139)](#finance
 | — | [Associate, Real Estate Asset Management Operations](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 5
+### Fund CV (written for India; tweak the header for UK roles): 6
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-07 | [Fund Accountant - Private Markets](https://www.linkedin.com/jobs/view/fund-accountant-private-markets-at-aria-partners-4487503898) | Aria Partners | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Fund Accounting Analyst](https://www.reed.co.uk/jobs/fund-accounting-analyst/57540632) | Adecco | London | ✅ |
 | 2026-11-06 | [Junior Fund Accountant](https://www.linkedin.com/jobs/view/junior-fund-accountant-at-equifind-4488159699) | Equifind | London, England, United Kingdom | ❔ |
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |

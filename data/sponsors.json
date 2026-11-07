@@ -97,6 +97,11 @@
    "register_name": "Ares Management Limited",
    "match": "alias"
   },
+  "Aria Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Artemis": {
    "licensed": true,
    "register_name": "Artemis Investment Management LLP",
