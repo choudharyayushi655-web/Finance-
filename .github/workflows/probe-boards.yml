@@ -7,34 +7,24 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Probe
+      - name: Fetch sample pages
         run: |
+          mkdir -p pages
           UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36'
-          probe () {
-            name="$1"; url="$2"
-            code=$(curl -sS -L -A "$UA" -H 'Accept-Language: en-GB,en;q=0.9' --max-time 25 -o /tmp/body -w '%{http_code} %{content_type} %{size_download} %{url_effective}' "$url" 2>&1) || true
-            echo "=== $name"
-            echo "    $code"
-            echo "    title: $(grep -oiE '<title>[^<]{0,120}' /tmp/body | head -1)"
-            echo "    jobish links: $(grep -oiE 'href="[^"]*(job|vacanc|position)[^"]*"' /tmp/body | sort -u | wc -l)  items(rss): $(grep -c '<item>' /tmp/body)  json-ld JobPosting: $(grep -o '"JobPosting"' /tmp/body | wc -l)"
-            echo "    sample: $(grep -oiE 'href="[^"]*(job|vacanc)[^"]*"' /tmp/body | sort -u | head -3 | tr '\n' ' ')"
-            echo "    challenge: $(grep -oiE 'cf-chl|challenge-platform|captcha|access denied|are you a robot|px-captcha|akamai' /tmp/body | sort -u | tr '\n' ' ')"
-          }
-          probe "LinkedIn guest API"   "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=financial%20analyst&location=United%20Kingdom&f_TPR=r86400&start=0"
-          probe "Indeed UK search"     "https://uk.indeed.com/jobs?q=financial+analyst&l=United+Kingdom&fromage=1"
-          probe "Indeed UK rss"        "https://uk.indeed.com/rss?q=financial+analyst&l=United+Kingdom"
-          probe "S1Jobs search"        "https://www.s1jobs.com/jobs/?keywords=financial+analyst"
-          probe "S1Jobs rss"           "https://www.s1jobs.com/rss/jobs/?keywords=financial+analyst"
-          probe "MyJobScotland search" "https://www.myjobscotland.gov.uk/search?keywords=finance"
-          probe "Reed site"            "https://www.reed.co.uk/jobs/financial-analyst-jobs"
-          probe "Reed API (no key)"    "https://www.reed.co.uk/api/1.0/search?keywords=financial%20analyst"
-          probe "Totaljobs"            "https://www.totaljobs.com/jobs/financial-analyst"
-          probe "CV-Library"           "https://www.cv-library.co.uk/financial-analyst-jobs"
-          probe "CV-Library rss"       "https://www.cv-library.co.uk/search-jobs-rss?q=financial+analyst"
-          probe "ScotJobsNet search"   "https://www.scotjobsnet.co.uk/searchjobs/?keywords=financial+analyst"
-          probe "ScotJobsNet rss"      "https://www.scotjobsnet.co.uk/jobsrss/?keywords=analyst"
-          probe "NHS Scotland"         "https://apply.jobs.scot.nhs.uk/Home/Search?keyword=finance"
-          probe "NHS Scotland home"    "https://apply.jobs.scot.nhs.uk/"
-          probe "Find a Job search"    "https://findajob.dwp.gov.uk/search?q=financial+analyst"
-          probe "Find a Job rss"       "https://findajob.dwp.gov.uk/search.rss?q=financial+analyst"
-          probe "Adzuna API (no key)"  "https://api.adzuna.com/v1/api/jobs/gb/search/1?what=financial%20analyst"
+          get () { curl -sS -L -A "$UA" -H 'Accept-Language: en-GB,en;q=0.9' --max-time 40 -o "pages/$1" -w "$1 %{http_code} %{size_download} %{url_effective}\n" "$2" || echo "$1 FAILED"; }
+          get linkedin.html     "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=financial%20analyst&location=United%20Kingdom&f_TPR=r86400&start=0"
+          get s1jobs.html       "https://www.s1jobs.com/jobs/?keywords=financial+analyst"
+          get myjobscot.html    "https://www.myjobscotland.gov.uk/search-jobs?keywords=finance"
+          get reed.html         "https://www.reed.co.uk/jobs/financial-analyst-jobs?dateCreatedOffSet=today"
+          get scotjobs_home.html "https://scotjobsnet.co.uk/"
+          get scotjobs_s.html   "https://scotjobsnet.co.uk/?s=finance"
+          get scotjobs_jobs.html "https://scotjobsnet.co.uk/jobs/?search_keywords=finance"
+          get scotjobs_feed.xml "https://scotjobsnet.co.uk/?feed=job_feed&search_keywords=finance"
+          get nhs_job.html      "https://apply.jobs.scot.nhs.uk/Home/Job"
+          get nhs_main.html     "https://jobs.scot.nhs.uk/"
+          get findajob.html     "https://findajob.dwp.gov.uk/search?q=finance"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pages
+          path: pages/
+          retention-days: 1
