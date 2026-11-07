@@ -24,7 +24,8 @@ zero-token scanner (pinned to release `career-ops-v1.38.0`).
 | `scripts/jobs-page.mjs` | Builds `JOBS.md` and `data/top-picks.json` |
 | `profiles.yml` | One keyword profile per CV (Finance, Credit, Equity, Investment, Consulting, Real Estate, Fund). Used to rank roles and pick the top 2 for each CV |
 | `scripts/rank.mjs` | The ranking: title fit, junior level, recency, London, sponsor licence |
-| `data/sponsors.json` | Which tracked firms hold a UK Skilled Worker sponsor licence (Home Office register copy, 29 Aug 2026) |
+| `companies_startups.yaml`, `scripts/startups.mjs` | Hourly scan of UK startups and SMEs through their Greenhouse, Lever, Ashby or Workable job-board APIs (see *Startups and SMEs* below) |
+| `scripts/sponsors.mjs`, `sponsor-aliases.yml` | Downloads the Home Office register of licensed sponsors from gov.uk once a week and marks each firm licensed or not in `data/sponsors.json`. Firms it can't match are listed in `reports/sponsor-unmatched.md` |
 | `scripts/find-ats.mjs` | Finds a firm's hiring system by reading its careers pages |
 
 ## Setup (about 15 minutes)
@@ -86,6 +87,38 @@ about roles that are new since the last run.
 
 - **Every hour (only when something new appears):** titled with the scan time and a count per CV, e.g. `16:23 scan: 2 new roles (Credit 1, Investment 1)`, listing every new role under the CV it fits best (Other last). Tap to open the jobs page at *Latest scan*.
 - **Every morning (first scan after 08:00 UK):** the top 2 open roles for each of the seven CVs.
+- **Sponsor licence gate:** phone alerts and top picks only include firms on the
+  Home Office register of Skilled Worker sponsors. Roles at other firms are still
+  listed on JOBS.md (marked ❔). Startup/SME roles are tagged `[startup/SME]`.
+
+## Startups and SMEs
+
+`companies_startups.yaml` lists UK startups and SMEs whose job boards are read
+every hour through public APIs (no scraping). The same title, seniority and UK
+location filters apply, and the sponsor gate above decides what reaches your phone.
+
+**To add a company**
+
+1. Open one of its job ads. The address tells you the system and slug:
+   `job-boards.greenhouse.io/<slug>`, `jobs.lever.co/<slug>` (`jobs.eu.lever.co` → add `region: eu`),
+   `jobs.ashbyhq.com/<slug>`, `apply.workable.com/<slug>`.
+2. Add a line: `- { name: Company Name, ats: greenhouse, slug: theslug }`
+3. Optional: Actions → **Check startup list** → Run workflow. It tests every
+   slug (`reports/startups-check.md`) and tries name variants for any that fail
+   or that you list in its finder (`reports/startup-slugs.md`, with ready-to-paste lines).
+
+A company's first scan records its open roles without alerting; after that only
+new postings alert. Firms already in `portals.yml` are skipped.
+
+**Sponsor register.** `scripts/sponsors.mjs` fetches the current CSV from the
+[gov.uk register page](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers),
+keeps it in the Actions cache and refreshes it when it's over 7 days old (if
+gov.uk is down, it uses the last copy). Names are matched exactly, by trading
+name ("t/a"), by prefix ("Monzo" → "Monzo Bank") and by close spelling. Check
+`reports/sponsor-unmatched.md` now and then: if a firm is listed as not found
+but is licensed under another name, add it to `sponsor-aliases.yml`
+(`"Firm": "Register Name Ltd"`); if a fuzzy match is wrong, add the right name
+or `false`.
 
 ## Reliable hourly runs (cron-job.org)
 
@@ -119,8 +152,8 @@ cron-job.org job calls GitHub once an hour to start **Finance job scan**:
   McKinsey, BCG, Bain) run custom careers sites the scanner cannot read.
   `reports/discovery.md` lists them each week: set job alerts on their own
   sites for those.
-- **Sponsorship:** the visa filter only drops roles whose description says
-  "no sponsorship". Workday lists don't include descriptions, so check
+- **Sponsorship:** a firm's licence doesn't mean every role sponsors. The visa
+  filter only drops roles whose description says "no sponsorship". Workday lists don't include descriptions, so check
   sponsorship yourself on anything you apply to.
 - **Job boards:** this watches employers' own sites only. Keep LinkedIn and
   eFinancialCareers alerts (or your Apify scraper) running for recruiter

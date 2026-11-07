@@ -113,11 +113,12 @@ async function main() {
   }
   const rows = [...byUrl.values()];
 
+  const tag = (r) => (/startup\/SME/.test(r.note || '') ? ' · startup/SME' : '');
   const sponsorMark = (r) => (sponsors.get(baseFirm(r.company)) === true ? '✅' : '❔');
   const table = (list) => [
     '| Posted | Role | Firm | Location | Sponsor |',
     '|---|---|---|---|---|',
-    ...list.map((r) => `| ${r.date || '—'} | [${cell(r.title)}](${r.url}) | ${cell(baseFirm(r.company))} | ${cell(r.location).slice(0, 50)} | ${sponsorMark(r)} |`),
+    ...list.map((r) => `| ${r.date || '—'} | [${cell(r.title)}](${r.url}) | ${cell(baseFirm(r.company))}${tag(r)} | ${cell(r.location).slice(0, 50)} | ${sponsorMark(r)} |`),
   ].join('\n');
   const groupByCv = (list) => profiles
     .map((p) => [p, list.filter((r) => r.profile.id === p.id).sort((a, b) => b.score - a.score)])
@@ -136,7 +137,10 @@ async function main() {
 
   // ---- top picks per CV
   const freshCut = new Date(now - FRESH_DAYS * 86400000).toISOString().slice(0, 10);
-  const fresh = rows.filter((r) => (r.date ? r.date >= freshCut : (r.seenAt || '') >= freshCut));
+  // Picks (and the morning digest built from them) only come from firms on the
+  // Home Office sponsor register; other roles stay listed below.
+  const fresh = rows.filter((r) => (r.date ? r.date >= freshCut : (r.seenAt || '') >= freshCut))
+    .filter((r) => sponsors.size === 0 || sponsors.get(baseFirm(r.company)) === true);
   const ranked = rankAll(fresh.map((r) => ({ ...r, posted: r.date })), compiled, { sponsors, now: now.getTime() });
   const picksOut = [...ranked.values()].map(({ profile, picks, total }) => ({
     id: profile.id, cv: profile.cv, matching: total,
@@ -150,7 +154,7 @@ async function main() {
   L.push('# Finance jobs found', '');
   L.push(`Updated **${ukTime(now.toISOString())}** (UK time) · **${rows.length} open roles** at ${new Set(rows.map((r) => baseFirm(r.company))).size} firms · the radar checks every board at about 17 minutes past each hour.`, '');
   L.push('Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley\'s can\'t be checked).', '');
-  L.push("Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = firm holds a UK Skilled Worker sponsor licence · ❔ = not found in the register, check. A licence doesn't guarantee the role itself sponsors.", '');
+  L.push("Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = firm holds a UK Skilled Worker sponsor licence · ❔ = not found in the register (no phone alert; see reports/sponsor-unmatched.md). A licence doesn't guarantee the role itself sponsors.", '');
   L.push(`**Jump to:** [Latest scan](#latest-scan) · [Top picks for each CV](#top-picks-for-each-cv) · [Scan log](#scan-log-last-${LOG_DAYS}-days) · [All open roles by CV](#all-open-roles-by-cv)`, '');
 
   L.push('## Latest scan', '');
@@ -167,7 +171,7 @@ async function main() {
   }
 
   L.push('## Top picks for each CV', '');
-  L.push(`Best two open roles for each CV from the last ${FRESH_DAYS} days, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.`, '');
+  L.push(`Best two open roles for each CV from the last ${FRESH_DAYS} days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.`, '');
   for (const p of picksOut) {
     L.push(`**${p.cv}**${p.matching ? ` (${p.matching} matching)` : ''}`, '');
     if (!p.picks.length) L.push('_No fresh match right now._');

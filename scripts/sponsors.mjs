@@ -125,7 +125,17 @@ async function loadRegister() {
 // ----------------------------------------------------------------- matching
 const compact = (n) => n.replace(/ /g, '');
 const SAFE_TAIL = new Set('bank banking capital financial finance technology technologies tech payments pay markets management partners consulting consultants advisory advisors advisers investments investment securities solutions insurance asset assets wealth research retail energy supply digital labs software systems global operations trading money credit analytics data ventures fintech platform lending loans cards brokers broking asset'.split(' '));
-export function matchFirm(firm, reg, aliases, byFirstToken, regCompact = new Map([...reg.keys()].map((k) => [compact(k), k]))) {
+// "New Wave Capital Ltd t/a Capital on Tap" -> trading name "capital on tap".
+export function tradingNames(reg) {
+  const m = new Map();
+  for (const [k, raw] of reg) {
+    const t = String(raw).match(/\b(?:t\/a|trading as)\s+(.+)$/i);
+    if (t) { const n = normName(t[1]); if (n && !m.has(compact(n))) m.set(compact(n), k); }
+  }
+  return m;
+}
+
+export function matchFirm(firm, reg, aliases, byFirstToken, regCompact = new Map([...reg.keys()].map((k) => [compact(k), k])), taNames = tradingNames(reg)) {
   if (Object.prototype.hasOwnProperty.call(aliases, firm)) {
     const a = aliases[firm];
     if (a === false) return { licensed: false, register_name: null, match: 'alias: not licensed' };
@@ -136,6 +146,7 @@ export function matchFirm(firm, reg, aliases, byFirstToken, regCompact = new Map
   if (!n) return { licensed: false, register_name: null, match: 'none' };
   if (reg.has(n)) return { licensed: true, register_name: reg.get(n), match: 'exact' };
   if (regCompact.has(compact(n))) return { licensed: true, register_name: reg.get(regCompact.get(compact(n))), match: 'exact' };
+  if (taNames.has(compact(n))) return { licensed: true, register_name: reg.get(taNames.get(compact(n))), match: 'trading name' };
   const first = n.split(' ')[0];
   const cands = byFirstToken.get(first) || [];
   // Prefix: "Monzo" -> "Monzo Bank". For a one-word name the extra words must be
@@ -168,8 +179,9 @@ async function main() {
   firms.delete('');
 
   const regCompact = new Map([...reg.keys()].map((k) => [k.replace(/ /g, ''), k]));
+  const taNames = tradingNames(reg);
   const out = {};
-  for (const f of [...firms].sort()) out[f] = matchFirm(f, reg, aliases, byFirstToken, regCompact);
+  for (const f of [...firms].sort()) out[f] = matchFirm(f, reg, aliases, byFirstToken, regCompact, taNames);
   writeFileSync('data/sponsors.json', `${JSON.stringify({ source: `UK Home Office register of licensed sponsors (Skilled Worker), ${source}`, note: 'A licence does not mean a given role will sponsor; check the advert.', firms: out }, null, 1)}\n`);
 
   const unmatched = Object.entries(out).filter(([, v]) => !v.licensed);

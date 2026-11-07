@@ -62,7 +62,7 @@ const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replac
 
 export function slackBlocks(rows, header) {
   const lines = rows.map((r) => {
-    const bits = [r.company && `*${esc(r.company)}*`, r.location && esc(r.location), r.posted && `posted ${esc(r.posted)}`, r.comp && esc(r.comp)].filter(Boolean);
+    const bits = [isStartup(r) && '[startup/SME]', r.company && `*${esc(r.company)}*`, r.location && esc(r.location), r.posted && `posted ${esc(r.posted)}`, r.comp && esc(r.comp)].filter(Boolean);
     return `• <${r.url}|${esc(r.title || 'Open posting')}>\n   ${bits.join(' · ')}`;
   });
   const blocks = [{ type: 'header', text: { type: 'plain_text', text: header.slice(0, 150) } }];
@@ -150,6 +150,14 @@ async function main() {
   }
   for (const r of rowsForUrls(pipelineText, urls)) seenFirms.add(base(r.company));
   writeFileSync(FIRMS, `${JSON.stringify([...seenFirms].sort(), null, 1)}\n`);
+  // Phone alerts only for firms on the Home Office register of licensed
+  // sponsors (data/sponsors.json, refreshed weekly). Others stay on JOBS.md.
+  const lic = loadSponsors();
+  if (lic) {
+    const held = rows.filter((r) => lic.get(baseName(r.company)) !== true);
+    rows = rows.filter((r) => lic.get(baseName(r.company)) === true);
+    if (held.length) console.log(`notify: ${held.length} role(s) not alerted, firm not on the sponsor register: ${[...new Set(held.map((r) => baseName(r.company)))].join(', ')}`);
+  }
   if (rows.length === 0) return;
   const time = new Date().toLocaleTimeString('en-GB', { timeZone: 'Europe/London', hour: '2-digit', minute: '2-digit' });
 
@@ -163,6 +171,15 @@ async function main() {
     const first = rows[0];
     await postNtfy(newRolesTitle(rows), newRolesBody(rows), rows.length === 1 ? first.url : JOBS_URL);
   }
+}
+
+const baseName = (c) => String(c || '').replace(/\s*\(.*\)$/, '').replace(/^"|"$/g, '').trim();
+export const isStartup = (r) => /startup\/SME/.test(r.note || '');
+function loadSponsors() {
+  try {
+    const firms = JSON.parse(readFileSync('data/sponsors.json', 'utf8')).firms || {};
+    return new Map(Object.entries(firms).map(([f, v]) => [f, v.licensed === true]));
+  } catch { return null; }
 }
 
 function loadPicks() {
@@ -200,7 +217,7 @@ export function newRolesBody(rows, picks = loadPicks()) {
   const lines = [];
   for (const g of groups) {
     lines.push(g.id === 'other' ? `OTHER (${g.roles.length}):` : `${g.name.toUpperCase()} CV (${g.roles.length}):`);
-    for (const r of g.roles.slice(0, perCv)) lines.push(`• ${r.title} | ${r.company.replace(/\s*\(.*\)$/, '')}${r.location ? `, ${r.location.split(/[·,]/)[0].trim()}` : ''}`);
+    for (const r of g.roles.slice(0, perCv)) lines.push(`• ${isStartup(r) ? '[startup/SME] ' : ''}${r.title} | ${r.company.replace(/\s*\(.*\)$/, '')}${r.location ? `, ${r.location.split(/[·,]/)[0].trim()}` : ''}`);
     if (g.roles.length > perCv) lines.push(`  +${g.roles.length - perCv} more`);
     lines.push('');
   }
@@ -214,7 +231,7 @@ export function digestBody(picks) {
   for (const p of picks?.profiles || []) {
     lines.push(`${shortCv(p.cv).toUpperCase()} CV:`);
     if (!p.picks.length) lines.push('• nothing fresh');
-    for (const x of p.picks) lines.push(`• ${x.title} | ${x.company}${x.sponsor === true ? ' ✅' : ''}`);
+    for (const x of p.picks.filter((x) => x.sponsor !== false)) lines.push(`• ${x.title} | ${x.company}${x.sponsor === true ? ' ✅' : ''}`);
   }
   return lines.join('\n');
 }
