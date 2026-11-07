@@ -1,13 +1,90 @@
 {
-  "finished_at": "2026-11-07T06:13:43.219Z",
+  "finished_at": "2026-11-07T07:10:48.087Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 189,
-  "postings_seen": 32329,
-  "filtered_out": 32301,
+  "postings_seen": 30705,
+  "filtered_out": 30678,
   "new_matches": 0,
-  "boards_failed": 0,
-  "failed": []
+  "boards_failed": 19,
+  "failed": [
+    {
+      "company": "Lloyds Banking Group",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Skipton Building Society",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "RBC",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Lloyds Banking Group (Graduates)",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Barclays",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "NatWest Group",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Santander",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "RBC (Early Talent)",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "BMO",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "abrdn",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Lombard Odier",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Rothschild & Co",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "MUFG",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Julius Baer",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Fidelity International",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Baillie Gifford",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Baillie Gifford (Early Careers)",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Hargreaves Lansdown",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Berkeley Research Group",
+      "error": "fetch failed"
+    }
+  ]
 }
