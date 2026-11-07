@@ -1,29 +1,29 @@
 {
-  "finished_at": "2026-11-07T07:53:47.271Z",
+  "finished_at": "2026-11-07T08:06:58.511Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 189,
-  "postings_seen": 25601,
-  "filtered_out": 25591,
+  "postings_seen": 25261,
+  "filtered_out": 25251,
   "new_matches": 0,
   "boards_failed": 86,
   "failed": [
-    {
-      "company": "Lloyds Banking Group",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Lloyds Banking Group (Graduates)",
-      "error": "fetch failed"
-    },
     {
       "company": "Barclays",
       "error": "fetch failed"
     },
     {
       "company": "NatWest Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Lloyds Banking Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Lloyds Banking Group (Graduates)",
       "error": "fetch failed"
     },
     {
@@ -47,11 +47,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Moelis",
+      "company": "Moelis (University)",
       "error": "fetch failed"
     },
     {
-      "company": "Moelis (University)",
+      "company": "Moelis",
       "error": "fetch failed"
     },
     {
@@ -71,7 +71,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "MUFG",
+      "company": "Aviva Investors",
       "error": "fetch failed"
     },
     {
@@ -79,15 +79,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Rothschild & Co",
-      "error": "fetch failed"
-    },
-    {
       "company": "Lombard Odier",
       "error": "fetch failed"
     },
     {
-      "company": "Aviva Investors",
+      "company": "MUFG",
       "error": "fetch failed"
     },
     {
@@ -95,15 +91,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Vanguard",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Franklin Templeton",
-      "error": "fetch failed"
-    },
-    {
-      "company": "T. Rowe Price",
+      "company": "Rothschild & Co",
       "error": "fetch failed"
     },
     {
@@ -111,11 +99,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management",
+      "company": "Vanguard",
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management (Campus)",
+      "company": "T. Rowe Price",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Franklin Templeton",
       "error": "fetch failed"
     },
     {
@@ -123,11 +115,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "MFS",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PIMCO",
+      "company": "Wellington Management",
       "error": "fetch failed"
     },
     {
@@ -135,15 +123,27 @@
       "error": "fetch failed"
     },
     {
+      "company": "Wellington Management (Campus)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PIMCO",
+      "error": "fetch failed"
+    },
+    {
+      "company": "MFS",
+      "error": "fetch failed"
+    },
+    {
       "company": "Dimensional Fund Advisors",
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone",
+      "company": "Blackstone (Campus)",
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone (Campus)",
+      "company": "Blackstone",
       "error": "fetch failed"
     },
     {
@@ -175,11 +175,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "LSEG (Graduates)",
+      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
+      "company": "CME Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "LSEG (Graduates)",
       "error": "fetch failed"
     },
     {
@@ -191,19 +195,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "CME Group",
-      "error": "fetch failed"
-    },
-    {
       "company": "CMC Markets",
       "error": "fetch failed"
     },
     {
-      "company": "AIG",
+      "company": "Hiscox",
       "error": "fetch failed"
     },
     {
-      "company": "Hiscox",
+      "company": "AIG",
       "error": "fetch failed"
     },
     {
@@ -279,7 +279,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Houlihan Lokey (Campus)",
+      "company": "Rolls-Royce",
       "error": "fetch failed"
     },
     {
@@ -287,11 +287,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Sky",
+      "company": "Houlihan Lokey (Campus)",
       "error": "fetch failed"
     },
     {
-      "company": "Rolls-Royce",
+      "company": "Sky",
       "error": "fetch failed"
     },
     {
