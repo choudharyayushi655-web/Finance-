@@ -1,76 +1,65 @@
 # Startup list check
 
-Checked 70 companies (0 skipped: already scanned via portals.yml).
+Checked 59 companies (0 skipped: already scanned via portals.yml).
 
 | Company | ATS / slug | Status | All jobs | UK jobs | Junior finance matches |
 |---|---|---|---|---|---|
 | Capital on Tap | greenhouse / capitalontap | ok | 29 | 20 | 0 |
-| iwoca | greenhouse / iwoca | HTTP 404 | 0 | 0 | 0 |
-| Kriya | greenhouse / kriya | HTTP 404 | 0 | 0 | 0 |
 | Super Payments | greenhouse / superpayments | ok | 6 | 5 | 0 |
-| Paysend | greenhouse / paysend | HTTP 404 | 0 | 0 | 0 |
 | Payhawk | greenhouse / payhawkio | ok | 51 | 7 | 0 |
-| Soldo | greenhouse / soldo | HTTP 404 | 0 | 0 | 0 |
-| Curve | greenhouse / curve | HTTP 404 | 0 | 0 | 0 |
-| PrimaryBid | greenhouse / primarybid | HTTP 404 | 0 | 0 | 0 |
-| Wayflyer | greenhouse / wayflyer | HTTP 404 | 0 | 0 | 0 |
-| Griffin | greenhouse / griffin | HTTP 404 | 0 | 0 | 0 |
+| SumUp | greenhouse / sumup | ok | 342 | 76 | 0 |
+| Teya | ashby / teya | ok | 114 | 72 | 0 |
+| Dojo | greenhouse / dojo | ok | 10 | 8 | 0 |
+| Adyen | greenhouse / adyen | ok | 255 | 9 | 0 |
+| Payoneer | greenhouse / payoneer | ok | 99 | 5 | 0 |
+| Thunes | greenhouse / thunes | ok | 43 | 6 | 0 |
+| Nium | lever / nium | ok | 25 | 1 | 0 |
+| Form3 | greenhouse / form3 | ok | 6 | 2 | 0 |
+| Pliant | ashby / pliant | ok | 40 | 9 | 0 |
+| Moss | ashby / moss | ok | 33 | 5 | 0 |
+| Mollie | ashby / mollie | ok | 51 | 3 | 0 |
+| Satispay | ashby / satispay | ok | 77 | 1 | 0 |
+| Recognise Bank | lever / recognisebank | ok | 3 | 3 | 0 |
+| Griffin | ashby / griffin | ok | 7 | 7 | 0 |
+| Pave Bank | ashby / pavebank | ok | 25 | 2 | 0 |
+| Vitesse | ashby / vitesse | ok | 5 | 5 | 0 |
+| Codat | ashby / codat | ok | 2 | 1 | 0 |
+| Wayflyer | ashby / wayflyer | ok | 12 | 2 | 0 |
+| Nucleus Commercial Finance | greenhouse / nucleus | ok | 22 | 14 | 0 |
+| Swoop Funding | ashby / swoop | ok | 15 | 0 | 0 |
+| Landbay | greenhouse / landbay | ok | 2 | 2 | 0 |
+| Abound | ashby / abound | ok | 13 | 11 | 0 |
+| Ophelos | greenhouse / ophelos | ok | 6 | 6 | 0 |
+| Flagstone | ashby / flagstone | ok | 7 | 7 | 1 (Financial Controller) |
+| Cleo AI | greenhouse / cleo | ok | 8 | 0 | 0 |
 | Octopus Money | greenhouse / octopusmoney | ok | 5 | 5 | 0 |
-| Risk Ledger | greenhouse / riskledger | ok | 7 | 6 | 0 |
-| Silverfin | greenhouse / silverfin | HTTP 404 | 0 | 0 | 0 |
+| Bloom Money | lever / bloom | ok | 8 | 0 | 0 |
+| 9fin | ashby / 9fin | ok | 34 | 22 | 0 |
 | MarketAxess | greenhouse / marketaxesscorporation | ok | 4 | 2 | 0 |
 | GSR Markets | greenhouse / gsrmarkets | ok | 5 | 4 | 0 |
-| Chatham Financial | greenhouse / chathamfinancial | HTTP 404 | 0 | 0 | 0 |
-| MoonPay | greenhouse / moonpay | HTTP 404 | 0 | 0 | 0 |
-| Coinbase | greenhouse / coinbase | ok | 284 | 12 | 0 |
-| Banked | greenhouse / banked | HTTP 404 | 0 | 0 | 0 |
-| Moneyhub | greenhouse / moneyhub | HTTP 404 | 0 | 0 | 0 |
-| Codat | greenhouse / codat | HTTP 404 | 0 | 0 | 0 |
-| Ravelin | greenhouse / ravelin | HTTP 404 | 0 | 0 | 0 |
-| Habito | greenhouse / habito | HTTP 404 | 0 | 0 | 0 |
-| Flagstone | greenhouse / flagstone | HTTP 404 | 0 | 0 | 0 |
-| Tymit | greenhouse / tymit | HTTP 404 | 0 | 0 | 0 |
-| Juni | greenhouse / juni | HTTP 404 | 0 | 0 | 0 |
-| Mintago | greenhouse / mintago | HTTP 404 | 0 | 0 | 0 |
-| Wealthify | greenhouse / wealthify | HTTP 404 | 0 | 0 | 0 |
-| Nutmeg | greenhouse / nutmeg | HTTP 404 | 0 | 0 | 0 |
-| OpenPayd | lever / openpayd | HTTP 404 | 0 | 0 | 0 |
-| Spendesk | lever / spendesk | HTTP 404 | 0 | 0 | 0 |
-| Tribe Payments | lever / tribe-payments | ok | 2 | 0 | 0 |
-| Recognise Bank | lever / recognisebank | ok | 3 | 3 | 0 |
-| Ledger | lever / ledger | HTTP 404 | 0 | 0 | 0 |
-| Tradeshift | lever / tradeshift | HTTP 404 | 0 | 0 | 0 |
-| PayFit | lever / payfit | HTTP 404 | 0 | 0 | 0 |
-| Yapily | lever / yapily | HTTP 404 | 0 | 0 | 0 |
-| Lightyear | lever / lightyear | HTTP 404 | 0 | 0 | 0 |
-| Pockit | lever / pockit | HTTP 404 | 0 | 0 | 0 |
-| Uncapped | lever / uncapped | HTTP 404 | 0 | 0 | 0 |
-| Bink | lever / bink | HTTP 404 | 0 | 0 | 0 |
-| 9fin | ashby / 9fin | ok | 34 | 22 | 0 |
-| Yonder | ashby / yondercard | HTTP 404 | 0 | 0 | 0 |
-| Pave Bank | ashby / pavebank | ok | 25 | 2 | 0 |
 | Talos | ashby / talos-trading | ok | 19 | 9 | 0 |
+| Capital.com | lever / capital | ok | 51 | 11 | 0 |
+| Duco | greenhouse / duco | ok | 11 | 4 | 0 |
+| Cobalt | greenhouse / cobaltio | ok | 7 | 0 | 0 |
+| Quantexa | ashby / quantexa | ok | 45 | 20 | 0 |
+| Risk Ledger | greenhouse / riskledger | ok | 7 | 6 | 0 |
+| Silverfin | lever / silverfin | ok | 7 | 1 | 0 |
+| Coinbase | greenhouse / coinbase | ok | 284 | 12 | 0 |
+| Blockchain.com | greenhouse / blockchain | ok | 45 | 23 | 3 (OTC Derivatives Trader; Quantitative Trader) |
+| Gemini | greenhouse / gemini | ok | 27 | 0 | 0 |
+| Paxos | ashby / paxos | ok | 26 | 0 | 0 |
+| MoonPay | lever / moonpay | ok | 25 | 8 | 0 |
+| Ledger | ashby / ledger | ok | 14 | 3 | 0 |
+| Zego | ashby / zego | ok | 35 | 24 | 0 |
+| Flock | ashby / flock | ok | 10 | 10 | 1 (Assistant Financial Controller) |
+| Lemonade | ashby / lemonade | ok | 41 | 2 | 0 |
+| Deliveroo | greenhouse / deliveroo | ok | 199 | 130 | 1 (IT Mobile Asset Management Analyst) |
+| HelloFresh | greenhouse / hellofresh | ok | 380 | 26 | 0 |
+| Carwow | ashby / carwow | ok | 43 | 26 | 1 (Transactional Financial Controller ) |
+| Motorway | ashby / motorway | ok | 19 | 19 | 0 |
 | Checkatrade | ashby / checkatrade | ok | 17 | 16 | 0 |
-| Bud | ashby / bud | HTTP 404 | 0 | 0 | 0 |
-| Vitesse | ashby / vitesse | ok | 5 | 5 | 0 |
-| Ember | ashby / ember | HTTP 404 | 0 | 0 | 0 |
-| Fuse Energy | ashby / fuse-energy | HTTP 404 | 0 | 0 | 0 |
-| Payrails | ashby / payrails | ok | 4 | 0 | 0 |
-| Finary | ashby / finary | ok | 9 | 0 | 0 |
-| Lemon Markets | ashby / lemon-markets | ok | 11 | 0 | 0 |
-| Satispay | ashby / satispay | ok | 77 | 1 | 0 |
-| Kroo Bank | ashby / kroo | HTTP 404 | 0 | 0 | 0 |
-| Ophelos | ashby / ophelos | HTTP 404 | 0 | 0 | 0 |
+| Multiverse | ashby / multiverse | ok | 26 | 26 | 0 |
+| Ohme | greenhouse / ohme | ok | 25 | 22 | 0 |
+| Beamery | ashby / beamery | ok | 6 | 4 | 0 |
 | Synthesia | ashby / synthesia | ok | 32 | 19 | 0 |
 | ElevenLabs | ashby / elevenlabs | ok | 139 | 42 | 1 (Partnerships - Private Equity) |
-| Cleo AI | ashby / cleo | HTTP 404 | 0 | 0 | 0 |
-| Moneybox Workable | workable / moneybox | ok | 0 | 0 | 0 |
-| Fintern | workable / fintern | HTTP 404 | 0 | 0 | 0 |
-| Wagestream | workable / wagestream | ok | 0 | 0 | 0 |
-| Hoxton Wealth | workable / hoxton-wealth | HTTP 404 | 0 | 0 | 0 |
-| Nude | workable / nude | ok | 0 | 0 | 0 |
-| Kuflink | workable / kuflink | HTTP 404 | 0 | 0 | 0 |
-| Fluidly | workable / fluidly | ok | 0 | 0 | 0 |
-| Sedgwick UK | workable / sedgwick-uk | HTTP 404 | 0 | 0 | 0 |
-| Landbay | workable / landbay | ok | 0 | 0 | 0 |
-| Proportunity | workable / proportunity | ok | 0 | 0 | 0 |
