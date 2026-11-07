@@ -257,6 +257,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "CGI": {
+   "licensed": true,
+   "register_name": "Logica Ltd t/a CGI",
+   "match": "trading name"
+  },
   "CMC Consulting Ltd": {
    "licensed": false,
    "register_name": null,
@@ -1207,6 +1212,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Pavilion Recruitment Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Paxos": {
    "licensed": true,
    "register_name": "Paxos Technology Limited",
@@ -1476,6 +1486,11 @@
    "licensed": true,
    "register_name": "Silverfin Software Ltd",
    "match": "prefix"
+  },
+  "Simmons & Simmons": {
+   "licensed": true,
+   "register_name": "Simmons & Simmons LLP",
+   "match": "exact"
   },
   "Simply Business": {
    "licensed": true,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T17:11:56.320Z",
+ "generated_at": "2026-11-07T18:09:22.633Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 59,
+   "matching": 61,
    "picks": [
     {
      "title": "Financial Planning & Analytics (FP&A) Analyst",
@@ -1699,6 +1699,26 @@
    "score": 0
   },
   "https://www.s1jobs.com/job/quantity-surveyor-127680087": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/it-%E2%80%93-finance-analyst-at-simmons-simmons-4449750880": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/project-finance-analyst-pmo-at-cgi-4480509242": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.reed.co.uk/jobs/commercial-analyst/57538349": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127667698": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
