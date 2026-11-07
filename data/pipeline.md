@@ -561,5 +561,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/group-accountant-at-bath-north-east-somerset-council-4488441876 | Bath & North East Somerset Council | Group Accountant | Keynsham, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-assa-abloy-group-4477708680 | ASSA ABLOY Group | Financial Accountant | Carlisle, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127660487 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127657800 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed
