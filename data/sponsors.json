@@ -17,6 +17,11 @@
    "register_name": "American International Group UK Limited",
    "match": "alias"
   },
+  "ASSA ABLOY Group": {
+   "licensed": true,
+   "register_name": "ASSA ABLOY Ltd",
+   "match": "exact"
+  },
   "AXA UK": {
    "licensed": true,
    "register_name": "AXA UK Plc",
@@ -196,6 +201,11 @@
    "licensed": true,
    "register_name": "Barclays Bank PLC",
    "match": "alias"
+  },
+  "Bath & North East Somerset Council": {
+   "licensed": true,
+   "register_name": "Bath and North East Somerset Council",
+   "match": "exact"
   },
   "Beamery": {
    "licensed": true,

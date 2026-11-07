@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:58:22.318Z",
+ "generated_at": "2026-11-07T22:08:56.827Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 61,
+   "matching": 63,
    "picks": [
     {
      "title": "Financial Planning & Analytics (FP&A) Analyst",
@@ -1764,6 +1764,21 @@
    "score": 0
   },
   "https://www.s1jobs.com/job/quantity-surveyor-127662881": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/group-accountant-at-bath-north-east-somerset-council-4488441876": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-assa-abloy-group-4477708680": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127660487": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
