@@ -1,0 +1,99 @@
+# UK startups and SMEs scanned every hour by scripts/startups.mjs, using each
+# hiring system's public job-board API (no scraping):
+#
+#   greenhouse  https://boards-api.greenhouse.io/v1/boards/<slug>/jobs
+#   lever       https://api.lever.co/v0/postings/<slug>?mode=json   (add `region: eu` for api.eu.lever.co)
+#   ashby       https://api.ashbyhq.com/posting-api/job-board/<slug>
+#   workable    https://apply.workable.com/api/v1/widget/accounts/<slug>
+#
+# HOW TO ADD A COMPANY
+#   1. Open one of the company's job ads and look at the address bar:
+#        job-boards.greenhouse.io/<slug>/...   or boards.greenhouse.io/<slug>  -> ats: greenhouse
+#        jobs.lever.co/<slug>/...              (jobs.eu.lever.co -> region: eu) -> ats: lever
+#        jobs.ashbyhq.com/<slug>/...                                             -> ats: ashby
+#        apply.workable.com/<slug>/...                                           -> ats: workable
+#   2. Add a line below:   - { name: Company Name, ats: greenhouse, slug: theslug }
+#   3. Optional: run "Check startup list" in the GitHub Actions tab to confirm
+#      the slug works and see how many UK roles it has.
+# A company's first scan records its open roles without alerting; after that
+# you're alerted to new postings only. Firms already in portals.yml are
+# skipped automatically, so there are no duplicate alerts.
+#
+# `verified:` is filled in by the check workflow (date the slug last answered).
+
+companies:
+
+  # ---- Payments, banking & lending
+  - { name: Capital on Tap, ats: greenhouse, slug: capitalontap }
+  - { name: iwoca, ats: greenhouse, slug: iwoca }
+  - { name: Kriya, ats: greenhouse, slug: kriya }
+  - { name: Super Payments, ats: greenhouse, slug: superpayments }
+  - { name: Paysend, ats: greenhouse, slug: paysend }
+  - { name: Payhawk, ats: greenhouse, slug: payhawkio }
+  - { name: Soldo, ats: greenhouse, slug: soldo }
+  - { name: Curve, ats: greenhouse, slug: curve }
+  - { name: PrimaryBid, ats: greenhouse, slug: primarybid }
+  - { name: Wayflyer, ats: greenhouse, slug: wayflyer }
+  - { name: Griffin, ats: greenhouse, slug: griffin }
+  - { name: Octopus Money, ats: greenhouse, slug: octopusmoney }
+  - { name: Risk Ledger, ats: greenhouse, slug: riskledger }
+  - { name: Silverfin, ats: greenhouse, slug: silverfin }
+  - { name: MarketAxess, ats: greenhouse, slug: marketaxesscorporation }
+  - { name: GSR Markets, ats: greenhouse, slug: gsrmarkets }
+  - { name: Chatham Financial, ats: greenhouse, slug: chathamfinancial }
+  - { name: MoonPay, ats: greenhouse, slug: moonpay }
+  - { name: Coinbase, ats: greenhouse, slug: coinbase }
+  - { name: Banked, ats: greenhouse, slug: banked }
+  - { name: Moneyhub, ats: greenhouse, slug: moneyhub }
+  - { name: Codat, ats: greenhouse, slug: codat }
+  - { name: Ravelin, ats: greenhouse, slug: ravelin }
+  - { name: Habito, ats: greenhouse, slug: habito }
+  - { name: Flagstone, ats: greenhouse, slug: flagstone }
+  - { name: Tymit, ats: greenhouse, slug: tymit }
+  - { name: Juni, ats: greenhouse, slug: juni }
+  - { name: Mintago, ats: greenhouse, slug: mintago }
+  - { name: Wealthify, ats: greenhouse, slug: wealthify }
+  - { name: Nutmeg, ats: greenhouse, slug: nutmeg }
+
+  - { name: OpenPayd, ats: lever, slug: openpayd }
+  - { name: Spendesk, ats: lever, slug: spendesk }
+  - { name: Tribe Payments, ats: lever, slug: tribe-payments }
+  - { name: Recognise Bank, ats: lever, slug: recognisebank }
+  - { name: Ledger, ats: lever, slug: ledger }
+  - { name: Tradeshift, ats: lever, slug: tradeshift }
+  - { name: PayFit, ats: lever, slug: payfit }
+  - { name: Yapily, ats: lever, slug: yapily }
+  - { name: Lightyear, ats: lever, slug: lightyear }
+  - { name: Pockit, ats: lever, slug: pockit }
+  - { name: Uncapped, ats: lever, slug: uncapped }
+  - { name: Bink, ats: lever, slug: bink }
+
+  - { name: 9fin, ats: ashby, slug: 9fin }
+  - { name: Yonder, ats: ashby, slug: yondercard }
+  - { name: Pave Bank, ats: ashby, slug: pavebank }
+  - { name: Talos, ats: ashby, slug: talos-trading }
+  - { name: Checkatrade, ats: ashby, slug: checkatrade }
+  - { name: Bud, ats: ashby, slug: bud }
+  - { name: Vitesse, ats: ashby, slug: vitesse }
+  - { name: Ember, ats: ashby, slug: ember }
+  - { name: Fuse Energy, ats: ashby, slug: fuse-energy }
+  - { name: Payrails, ats: ashby, slug: payrails }
+  - { name: Finary, ats: ashby, slug: finary }
+  - { name: Lemon Markets, ats: ashby, slug: lemon-markets }
+  - { name: Satispay, ats: ashby, slug: satispay }
+  - { name: Kroo Bank, ats: ashby, slug: kroo }
+  - { name: Ophelos, ats: ashby, slug: ophelos }
+  - { name: Synthesia, ats: ashby, slug: synthesia }
+  - { name: ElevenLabs, ats: ashby, slug: elevenlabs }
+  - { name: Cleo AI, ats: ashby, slug: cleo }
+
+  - { name: Moneybox Workable, ats: workable, slug: moneybox }
+  - { name: Fintern, ats: workable, slug: fintern }
+  - { name: Wagestream, ats: workable, slug: wagestream }
+  - { name: Hoxton Wealth, ats: workable, slug: hoxton-wealth }
+  - { name: Nude, ats: workable, slug: nude }
+  - { name: Kuflink, ats: workable, slug: kuflink }
+  - { name: Fluidly, ats: workable, slug: fluidly }
+  - { name: Sedgwick UK, ats: workable, slug: sedgwick-uk }
+  - { name: Landbay, ats: workable, slug: landbay }
+  - { name: Proportunity, ats: workable, slug: proportunity }
