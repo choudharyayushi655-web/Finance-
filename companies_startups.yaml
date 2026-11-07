@@ -23,77 +23,77 @@
 
 companies:
 
-  # ---- Payments, banking & lending
+  # ---- Payments, cards & banking
   - { name: Capital on Tap, ats: greenhouse, slug: capitalontap }
-  - { name: iwoca, ats: greenhouse, slug: iwoca }
-  - { name: Kriya, ats: greenhouse, slug: kriya }
   - { name: Super Payments, ats: greenhouse, slug: superpayments }
-  - { name: Paysend, ats: greenhouse, slug: paysend }
   - { name: Payhawk, ats: greenhouse, slug: payhawkio }
-  - { name: Soldo, ats: greenhouse, slug: soldo }
-  - { name: Curve, ats: greenhouse, slug: curve }
-  - { name: PrimaryBid, ats: greenhouse, slug: primarybid }
-  - { name: Wayflyer, ats: greenhouse, slug: wayflyer }
-  - { name: Griffin, ats: greenhouse, slug: griffin }
+  - { name: SumUp, ats: greenhouse, slug: sumup }
+  - { name: Teya, ats: ashby, slug: teya }
+  - { name: Dojo, ats: greenhouse, slug: dojo }
+  - { name: Adyen, ats: greenhouse, slug: adyen }
+  - { name: Payoneer, ats: greenhouse, slug: payoneer }
+  - { name: Thunes, ats: greenhouse, slug: thunes }
+  - { name: Nium, ats: lever, slug: nium }
+  - { name: Form3, ats: greenhouse, slug: form3 }
+  - { name: Pliant, ats: ashby, slug: pliant }
+  - { name: Moss, ats: ashby, slug: moss }
+  - { name: Mollie, ats: ashby, slug: mollie }
+  - { name: Satispay, ats: ashby, slug: satispay }
+  - { name: Recognise Bank, ats: lever, slug: recognisebank }
+  - { name: Griffin, ats: ashby, slug: griffin }
+  - { name: Pave Bank, ats: ashby, slug: pavebank }
+  - { name: Vitesse, ats: ashby, slug: vitesse }
+  - { name: Codat, ats: ashby, slug: codat }
+
+  # ---- Lending, credit & SME finance
+  - { name: Wayflyer, ats: ashby, slug: wayflyer }
+  - { name: Nucleus Commercial Finance, ats: greenhouse, slug: nucleus }
+  - { name: Swoop Funding, ats: ashby, slug: swoop }
+  - { name: Landbay, ats: greenhouse, slug: landbay }
+  - { name: Abound, ats: ashby, slug: abound }
+  - { name: Ophelos, ats: greenhouse, slug: ophelos }
+  - { name: Flagstone, ats: ashby, slug: flagstone }
+  - { name: Cleo AI, ats: greenhouse, slug: cleo }
   - { name: Octopus Money, ats: greenhouse, slug: octopusmoney }
-  - { name: Risk Ledger, ats: greenhouse, slug: riskledger }
-  - { name: Silverfin, ats: greenhouse, slug: silverfin }
+  - { name: Bloom Money, ats: lever, slug: bloom }
+
+  # ---- Markets, data, trading & crypto
+  - { name: 9fin, ats: ashby, slug: 9fin }
   - { name: MarketAxess, ats: greenhouse, slug: marketaxesscorporation }
   - { name: GSR Markets, ats: greenhouse, slug: gsrmarkets }
-  - { name: Chatham Financial, ats: greenhouse, slug: chathamfinancial }
-  - { name: MoonPay, ats: greenhouse, slug: moonpay }
-  - { name: Coinbase, ats: greenhouse, slug: coinbase }
-  - { name: Banked, ats: greenhouse, slug: banked }
-  - { name: Moneyhub, ats: greenhouse, slug: moneyhub }
-  - { name: Codat, ats: greenhouse, slug: codat }
-  - { name: Ravelin, ats: greenhouse, slug: ravelin }
-  - { name: Habito, ats: greenhouse, slug: habito }
-  - { name: Flagstone, ats: greenhouse, slug: flagstone }
-  - { name: Tymit, ats: greenhouse, slug: tymit }
-  - { name: Juni, ats: greenhouse, slug: juni }
-  - { name: Mintago, ats: greenhouse, slug: mintago }
-  - { name: Wealthify, ats: greenhouse, slug: wealthify }
-  - { name: Nutmeg, ats: greenhouse, slug: nutmeg }
-
-  - { name: OpenPayd, ats: lever, slug: openpayd }
-  - { name: Spendesk, ats: lever, slug: spendesk }
-  - { name: Tribe Payments, ats: lever, slug: tribe-payments }
-  - { name: Recognise Bank, ats: lever, slug: recognisebank }
-  - { name: Ledger, ats: lever, slug: ledger }
-  - { name: Tradeshift, ats: lever, slug: tradeshift }
-  - { name: PayFit, ats: lever, slug: payfit }
-  - { name: Yapily, ats: lever, slug: yapily }
-  - { name: Lightyear, ats: lever, slug: lightyear }
-  - { name: Pockit, ats: lever, slug: pockit }
-  - { name: Uncapped, ats: lever, slug: uncapped }
-  - { name: Bink, ats: lever, slug: bink }
-
-  - { name: 9fin, ats: ashby, slug: 9fin }
-  - { name: Yonder, ats: ashby, slug: yondercard }
-  - { name: Pave Bank, ats: ashby, slug: pavebank }
   - { name: Talos, ats: ashby, slug: talos-trading }
+  - { name: Capital.com, ats: lever, slug: capital }
+  - { name: Duco, ats: greenhouse, slug: duco }
+  - { name: Cobalt, ats: greenhouse, slug: cobaltio }
+  - { name: Quantexa, ats: ashby, slug: quantexa }
+  - { name: Risk Ledger, ats: greenhouse, slug: riskledger }
+  - { name: Silverfin, ats: lever, slug: silverfin, region: eu }
+  - { name: Coinbase, ats: greenhouse, slug: coinbase }
+  - { name: Blockchain.com, ats: greenhouse, slug: blockchain }
+  - { name: Gemini, ats: greenhouse, slug: gemini }
+  - { name: Paxos, ats: ashby, slug: paxos }
+  - { name: MoonPay, ats: lever, slug: moonpay }
+  - { name: Ledger, ats: ashby, slug: ledger }
+
+  # ---- Insurance
+  - { name: Zego, ats: ashby, slug: zego }
+  - { name: Flock, ats: ashby, slug: flock }
+  - { name: Lemonade, ats: ashby, slug: lemonade }
+
+  # ---- Scale-ups outside finance with UK finance teams
+  - { name: Deliveroo, ats: greenhouse, slug: deliveroo }
+  - { name: HelloFresh, ats: greenhouse, slug: hellofresh }
+  - { name: Carwow, ats: ashby, slug: carwow }
+  - { name: Motorway, ats: ashby, slug: motorway }
   - { name: Checkatrade, ats: ashby, slug: checkatrade }
-  - { name: Bud, ats: ashby, slug: bud }
-  - { name: Vitesse, ats: ashby, slug: vitesse }
-  - { name: Ember, ats: ashby, slug: ember }
-  - { name: Fuse Energy, ats: ashby, slug: fuse-energy }
-  - { name: Payrails, ats: ashby, slug: payrails }
-  - { name: Finary, ats: ashby, slug: finary }
-  - { name: Lemon Markets, ats: ashby, slug: lemon-markets }
-  - { name: Satispay, ats: ashby, slug: satispay }
-  - { name: Kroo Bank, ats: ashby, slug: kroo }
-  - { name: Ophelos, ats: ashby, slug: ophelos }
+  - { name: Multiverse, ats: ashby, slug: multiverse }
+  - { name: Ohme, ats: greenhouse, slug: ohme }
+  - { name: Beamery, ats: ashby, slug: beamery }
   - { name: Synthesia, ats: ashby, slug: synthesia }
   - { name: ElevenLabs, ats: ashby, slug: elevenlabs }
-  - { name: Cleo AI, ats: ashby, slug: cleo }
 
-  - { name: Moneybox Workable, ats: workable, slug: moneybox }
-  - { name: Fintern, ats: workable, slug: fintern }
-  - { name: Wagestream, ats: workable, slug: wagestream }
-  - { name: Hoxton Wealth, ats: workable, slug: hoxton-wealth }
-  - { name: Nude, ats: workable, slug: nude }
-  - { name: Kuflink, ats: workable, slug: kuflink }
-  - { name: Fluidly, ats: workable, slug: fluidly }
-  - { name: Sedgwick UK, ats: workable, slug: sedgwick-uk }
-  - { name: Landbay, ats: workable, slug: landbay }
-  - { name: Proportunity, ats: workable, slug: proportunity }
+# Checked 7 Nov 2026 and not on Greenhouse, Lever, Ashby or Workable (they use
+# Workday, Teamtailor, their own sites etc.), so they can't be added here:
+# iwoca, Kriya, Curve, Paysend, Soldo, PrimaryBid, Moneyhub, Banked, Ravelin,
+# Habito, Tymit, Juni, Wealthify, Nutmeg, OpenPayd, Spendesk, Yapily, PayFit,
+# Lightyear, Kroo, Atom bank, AJ Bell, PensionBee, LendInvest, YouLend, Tink.
