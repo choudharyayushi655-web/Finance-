@@ -557,5 +557,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-march-2027-at-vecta-4488746235 | Vecta | Graduate Finance Broker Programme - March 2027 | Greater London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127667636 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127667415 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127662881 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed
