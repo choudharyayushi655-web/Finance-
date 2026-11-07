@@ -422,6 +422,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Deutsche Bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Diageo": {
    "licensed": true,
    "register_name": "Diageo plc",
