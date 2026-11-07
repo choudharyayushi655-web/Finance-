@@ -517,5 +517,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8337684 | Deliveroo | IT Mobile Asset Management Analyst | London, United Kingdom | posted: 2026-11-02 | note: via startup/SME (greenhouse)
 - [ ] https://jobs.ashbyhq.com/carwow/4c48158a-95aa-4cd6-b908-f649241eee2e | Carwow | Transactional Financial Controller  | London · United Kingdom | posted: 2026-11-04 | note: via startup/SME (ashby)
 - [ ] https://jobs.ashbyhq.com/ElevenLabs/f1427164-3037-47d1-a768-11cfb87953ae | ElevenLabs | Partnerships - Private Equity | New York · United States · United Kingdom · London | posted: 2026-11-02 | note: via startup/SME (ashby)
+- [ ] https://www.linkedin.com/jobs/view/private-bank-endowments-foundations-portfolio-management-team-program-analyst-at-jpmorganchase-4488706602 | JPMorganChase | Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst | Greater London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-finance-associate-private-equity-at-deutsche-asset-management-4472213705 | Deutsche Asset Management | Fund Finance Associate, Private Equity | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-insurance-asset-management-at-miryco-consultants-ltd-4488433134 | Miryco Consultants Ltd | Financial Accountant - Insurance/Asset Management | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127692732 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-analyst-127687704 | S1Jobs | Finance Analyst | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127667691 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-accountant-127662542 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127662500 | S1Jobs | Corporate Finance Specialist | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-remote-part-time-127661977 | S1Jobs | Accountant Remote Part Time | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-controller-127657103 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-xero-127657020 | S1Jobs | Accountant Xero | Scotland | note: via S1Jobs
 
 ## Processed

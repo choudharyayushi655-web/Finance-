@@ -407,6 +407,11 @@
    "register_name": "Deloitte LLP",
    "match": "exact"
   },
+  "Deutsche Asset Management": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Diageo": {
    "licensed": true,
    "register_name": "Diageo plc",
@@ -982,6 +987,11 @@
    "register_name": "Millennium Capital Management Limited",
    "match": "alias"
   },
+  "Miryco Consultants Ltd": {
+   "licensed": true,
+   "register_name": "Miryco Consultants Ltd",
+   "match": "exact"
+  },
   "Mizuho": {
    "licensed": true,
    "register_name": "Mizuho Bank, Ltd.",
@@ -1348,9 +1358,9 @@
    "match": "trading name"
   },
   "Royal United Hospitals Bath NHS Foundation Trust": {
-   "licensed": false,
-   "register_name": null,
-   "match": "none"
+   "licensed": true,
+   "register_name": "Royal United Hospital Bath NHS Trust",
+   "match": "exact"
   },
   "S&P Global": {
    "licensed": true,
