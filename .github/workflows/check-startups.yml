@@ -36,6 +36,14 @@ jobs:
         env:
           CAREER_OPS_ROOT: ${{ github.workspace }}
         run: node scripts/startup-slugs.mjs --engine "$RUNNER_TEMP/engine"
+      - name: Work In Startups - robots.txt and feed (information only)
+        continue-on-error: true
+        run: |
+          echo "== robots.txt"; curl -sSL -m 20 https://workinstartups.com/robots.txt | head -60 || true
+          for u in https://workinstartups.com/job-board/rss https://workinstartups.com/rss https://workinstartups.com/feed https://workinstartups.com/terms; do
+            echo "== $u"; curl -sSL -m 20 -o /tmp/wis -w "%{http_code} %{content_type}\n" "$u" || true; head -c 600 /tmp/wis; echo
+          done
+          curl -sSL -m 20 https://workinstartups.com/terms | sed 's/<[^>]*>/ /g' | tr -s ' \n' | grep -ioE ".{0,200}(scrap|automat|robot|crawl|harvest|reproduc).{0,200}" | head -20 || true
       - name: Save the report
         run: |
           git config user.name "finance-job-radar"
