@@ -78,8 +78,8 @@ companies:
   - { name: Livingstone Partners, website: livingstonepartners.com }
   - { name: Fenchurch Advisory, website: fenchurchadvisory.com }
   - { name: Kroll, website: kroll.com }
-  - { name: Alvarez & Marsal, website: alvarezandmarsal.com }
-  - { name: FTI Consulting, website: fticonsulting.com }
+  - { name: Alvarez & Marsal, website: alvarezandmarsal.com, careers: "https://www.alvarezandmarsal.com/careers" }
+  - { name: FTI Consulting, website: fticonsulting.com, careers: "https://www.fticonsulting.com/careers" }
   - { name: Interpath Advisory, website: interpathadvisory.com }
   - { name: Teneo, website: teneo.com }
   - { name: Marex, website: marex.com }
@@ -97,16 +97,33 @@ companies:
   - { name: Crowe UK, website: crowe.com/uk }
   - { name: Azets, website: azets.co.uk }
   - { name: PKF, website: pkf.co.uk }
-  - { name: McKinsey, website: mckinsey.com }
+  - { name: McKinsey, website: mckinsey.com, careers: "https://www.mckinsey.com/careers/search-jobs" }
   - { name: Boston Consulting Group, website: bcg.com }
-  - { name: Bain & Company, website: bain.com }
-  - { name: Oliver Wyman, website: oliverwyman.com }
-  - { name: L.E.K. Consulting, website: lek.com }
-  - { name: OC&C Strategy Consultants, website: occstrategy.com }
+  - { name: Bain & Company, website: bain.com, careers: "https://www.bain.com/careers/" }
+  - { name: Oliver Wyman, website: oliverwyman.com, careers: "https://careers.oliverwyman.com/" }
+  - { name: L.E.K. Consulting, website: lek.com, careers: "https://www.lek.com/join-lek" }
+  - { name: OC&C Strategy Consultants, website: occstrategy.com, careers: "https://www.occstrategy.com/en/careers" }
   - { name: Simon-Kucher, website: simon-kucher.com }
   - { name: Berkeley Research Group, website: thinkbrg.com }
   - { name: Charles River Associates, website: crai.com }
   - { name: Frontier Economics, website: frontier-economics.com }
+
+  # ===== Consulting & IT services firms (added 7 Nov 2026) =====
+  - { name: Kearney, website: kearney.com, careers: "https://www.kearney.com/careers" }
+  - { name: Roland Berger, website: rolandberger.com, careers: "https://www.rolandberger.com/en/Join-Us/" }
+  - { name: Capgemini, website: capgemini.com, careers: "https://careers.capgemini.com/" }
+  - { name: IBM, website: ibm.com, careers: "https://www.ibm.com/careers/search" }
+  - { name: TCS, website: tcs.com, careers: "https://www.tcs.com/careers" }
+  - { name: Cognizant, website: cognizant.com, careers: "https://careers.cognizant.com/global-en/" }
+  - { name: Infosys, website: infosys.com, careers: "https://www.infosys.com/careers/" }
+  - { name: Wipro, website: wipro.com, careers: "https://careers.wipro.com/" }
+  - { name: Sopra Steria, website: soprasteria.co.uk, careers: "https://careers.soprasteria.com/" }
+  - { name: CGI, website: cgi.com, careers: "https://www.cgi.com/en/careers" }
+  - { name: PA Consulting, website: paconsulting.com, careers: "https://www.paconsulting.com/careers" }
+  - { name: Slalom, website: slalom.com, careers: "https://www.slalom.com/gb/en/careers" }
+  - { name: Talan, website: talan.com, careers: "https://www.talan.com/careers/" }
+  - { name: Teamwill Consulting, website: teamwill-consulting.com, careers: "https://www.teamwill-consulting.com/en/careers/" }
+  - { name: ICF, website: icf.com, careers: "https://www.icf.com/careers" }
 
   # ===== Asset & wealth managers =====
   - { name: Schroders, website: schroders.com }

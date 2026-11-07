@@ -147,11 +147,12 @@ export const RULES = [
 export const BRANDED = [
   { id: 'phenom', re: /cdn\.phenompeople\.com|phenompeople|"phApp"|window\.phApp/i },
   { id: 'radancy', re: /tbcdn\.talentbrew\.com|talentbrew|radancy/i },
+  // SAP SuccessFactors Recruiting Marketing (ex-jobs2web) branded career sites
+  { id: 'successfactors', re: /jobs2web|rmkcdn|\/tile-search-results|rmk-map|successfactors\.(com|eu)/i },
 ];
 
 /** Systems we can see but the scanner cannot read without manual setup. */
 export const REPORT_ONLY = [
-  { id: 'successfactors', re: /jobs2web|rmkcdn|successfactors\.(com|eu)/i },
   { id: 'brassring', re: /brassring\.com|kenexa/i },
   { id: 'tal.net', re: /\.tal\.net/i },
   { id: 'cornerstone', re: /csod\.com/i },
@@ -321,7 +322,8 @@ async function main() {
   const portalsText = readFileSync(PORTALS, 'utf8');
   const portals = loadYaml(portalsText) || {};
   const tracked = Array.isArray(portals.tracked_companies) ? portals.tracked_companies : [];
-  const trackedNames = new Set(tracked.map((t) => String(t.name || '').toLowerCase()));
+  // Switched-off entries don't count as tracked, so a firm whose board died can be re-found.
+  const trackedNames = new Set(tracked.filter((t) => t.enabled !== false).map((t) => String(t.name || '').toLowerCase()));
   const trackedUrls = new Set(tracked.map((t) => norm(t.careers_url)));
 
   // Which companies still need work: unresolved by discover-ats, and not already tracked.
