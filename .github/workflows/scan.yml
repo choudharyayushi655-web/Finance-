@@ -55,7 +55,7 @@ jobs:
         run: |
           if [ "$SEED_RUN" = "1" ]; then KIND=starting
           elif [ "$GITHUB_EVENT_NAME" = "schedule" ]; then KIND=hourly
-          else KIND=manual; fi
+          else KIND=hourly; fi  # cron-job.org starts most runs this way
           node scripts/log-scan.mjs "$RUNNER_TEMP/receipt.json" "$KIND"
 
       - name: Take closed postings off the list
