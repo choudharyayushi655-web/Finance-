@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T20:08:29.188Z",
+ "generated_at": "2026-11-07T21:11:19.247Z",
  "order": [
   "finance",
   "credit",
@@ -1754,6 +1754,11 @@
    "score": 0
   },
   "https://www.s1jobs.com/job/quantity-surveyor-127667636": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127667415": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
