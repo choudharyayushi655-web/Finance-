@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 7 Nov, 00:10** (UK time) · **125 open roles** at 52 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 7 Nov, 00:20** (UK time) · **125 open roles** at 52 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 7 Nov, 00:10** · run by hand · checked 189 boards · **0 new roles**
+**Sat 7 Nov, 00:20** · hourly scan · checked 189 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 6 Nov, 16:33** (3: Finance 1 · Credit 1 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 7 November
 
-<sub>Nothing new at: 00:10</sub>
+<sub>Nothing new at: 00:20</sub>
 
 ### Friday 6 November
 
@@ -509,7 +509,7 @@ Everything matched so far, newest first within each CV: [Finance (35)](#finance-
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Sat 7 Nov, 00:10 | Private Companies Valuations Analyst | Baillie Gifford |
+| Sat 7 Nov, 00:20 | Private Companies Valuations Analyst | Baillie Gifford |
 | Fri 6 Nov, 20:16 | Global Transaction Banking Graduate Programme 2027 London | Barclays |
 | Fri 6 Nov, 17:10 | Management Information Finance Analyst | Landsec |
 | Fri 6 Nov, 16:54 | Financial Operations Graduate (Kent) | Lendable |
