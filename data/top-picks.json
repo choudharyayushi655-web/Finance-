@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T12:22:40.807Z",
+ "generated_at": "2026-11-07T12:36:19.756Z",
  "order": [
   "finance",
   "credit",
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 34,
+   "matching": 36,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 13,
+   "matching": 15,
    "picks": [
     {
      "title": "UK Product Team – NAV & Valuation Oversight - Associate",
@@ -1363,6 +1363,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
+  },
+  "https://jobs.smartrecruiters.com/talan/744000151083244-front-office-quant-analyst": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://jobs.smartrecruiters.com/talan/744000141879193-front-office-quant-analyst": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://careers.nomura.com/Nomura/job/London-Structured-Credit-Middle-Office-%28Associate%29-Lond-EC4R-3AB/1408186600/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 6
+  },
+  "https://careers.nomura.com/Nomura/job/London-Credit-Risk-Reporting-Analyst-Lond-EC4R-3AB/1416933700/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
   }
  }
 }

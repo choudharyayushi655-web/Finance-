@@ -1,60 +1,23 @@
-# Discovery report: 2026-11-05 15:18 UTC
+# Discovery report: 2026-11-07 12:30 UTC
 
-Checked 177 companies that the name lookup could not resolve.
-Added to portals.yml: **50**. Still not scannable: **124**.
+Checked 149 companies that the name lookup could not resolve.
+Added to portals.yml: **13**. Still not scannable: **130**.
 
 ## Added
 
-- **Goldman Sachs**: avature → https://recruiting360.avature.net/careers
-- **Morgan Stanley**: eightfold → https://morganstanley.eightfold.ai/careers
-- **Citi**: workday → https://citi.wd5.myworkdayjobs.com/2
-- **Societe Generale**: taleo → https://socgen.taleo.net/careersection/sgcareers/jobsearch.ftl
-- **Mizuho**: workday → https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas
-- **State Street**: workday → https://statestreet.wd1.myworkdayjobs.com/Global
-- **BNY**: oraclecloud → https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/jobs
-- **Northern Trust**: workday → https://ntrs.wd1.myworkdayjobs.com/northerntrust
-- **ING**: radancy → https://careers.ing.com
-- **Metro Bank**: avature → https://metrobank.avature.net/careers
-- **OSB Group**: icims → https://careers-osb.icims.com/jobs/search?ss=1
-- **Lazard**: oraclecloud → https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs
-- **Perella Weinberg**: workday-site → https://wd1.myworkdaysite.com/recruiting/pwp/PWP_Experienced_Opportunities
-- **Berenberg**: avature → https://berenberg.avature.net/careers
-- **Panmure Liberum**: bamboohr → https://panmure.bamboohr.com/careers
-- **Interpath Advisory**: workable → https://apply.workable.com/interpath-advisory
-- **IG Group**: workday → https://ig.wd103.myworkdayjobs.com/EXT_IG
-- **Deloitte UK**: avature → https://deloitteuk.avature.net/careers
-- **Boston Consulting Group**: eightfold → https://bcg.eightfold.ai/careers
-- **Berkeley Research Group**: workday → https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site
-- **Schroders**: oraclecloud → https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs
-- **M&G**: workday → https://mgpru.wd3.myworkdayjobs.com/mandgprudential
-- **Evelyn Partners**: smartrecruiters → https://careers.smartrecruiters.com/EvelynPartners
-- **Interactive Investor**: workable → https://apply.workable.com/interactive-investor
-- **Octopus Group**: smartrecruiters → https://careers.smartrecruiters.com/oneclick-ui
-- **MSCI**: icims → https://ukcareers-msci.icims.com/jobs/search?ss=1
-- **Moody's**: radancy → https://careers.moodys.com
-- **EQT**: greenhouse → https://job-boards.greenhouse.io/eqtpartners
-- **Coller Capital**: teamtailor → https://collercapital-1660725598.teamtailor.com/jobs
-- **Millennium**: eightfold → https://mlp.eightfold.ai/careers
-- **Susquehanna**: icims → https://cookie-policy-scripts.icims.com/jobs/search?ss=1
-- **Phoenix Group**: oraclecloud → https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
-- **Chubb**: oraclecloud → https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs
-- **QBE**: phenom → https://careers.qbe.com
-- **Next**: oraclecloud → https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/jobs
-- **Virgin Media O2**: avature → https://virginmediao2.avature.net/careers
-- **10x Banking**: workable → https://apply.workable.com/10xbanking
-- **Kroo**: workable → https://apply.workable.com/j
-- **Chip**: teamtailor → https://chip.teamtailor.com/jobs
-- **Moneyfarm**: workable → https://apply.workable.com/moneyfarm
-- **Calastone**: workday-site → https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies
-- **Sainsbury's**: oraclecloud → https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
-- **Vodafone**: eightfold → https://vodafone-qa-sandbox.eightfold.ai/careers
-- **BP**: workday → https://bpinternational.wd3.myworkdayjobs.com/bpCareers
-- **BAE Systems**: phenom → https://jobs.baesystems.com
-- **Rightmove**: greenhouse → https://job-boards.greenhouse.io/rightmovecareers
-- **Auto Trader**: greenhouse → https://job-boards.greenhouse.io/autotrader
-- **Marks & Spencer**: oraclecloud → https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
-- **Pearson**: oraclecloud → https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs
-- **Informa**: smartrecruiters → https://careers.smartrecruiters.com/InformaGroupPlc
+- **Nomura**: successfactors → https://careers.nomura.com
+- **SMBC**: successfactors → https://careers.smbcgroup.com
+- **Capgemini**: taleo → https://capgemini.taleo.net/careersection/1/jobsearch.ftl
+- **Sopra Steria**: smartrecruiters → https://careers.smartrecruiters.com/SopraSteria1
+- **PA Consulting**: avature → https://jacobs.avature.net/careers
+- **ICF**: workday → https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site
+- **Janus Henderson**: successfactors → https://jobs.janushenderson.com
+- **Royal London**: successfactors → https://jobs.royallondon.com
+- **Susquehanna**: icims → https://sig.icims.com/jobs/search?ss=1
+- **AXA UK**: icims → https://move-en-axa.icims.com/jobs/search?ss=1
+- **Aon**: icims → https://aon.icims.com/jobs/search?ss=1
+- **BT Group**: successfactors → https://jobs.bt.com
+- **Reckitt**: successfactors → https://careers.reckitt.com
 
 ## Not scannable automatically
 
@@ -65,12 +28,11 @@ Set a job alert on their own site, or follow them on LinkedIn.
 |---|---|---|
 | HSBC | no hiring system link found | https://www.hsbc.com/careers |
 | Standard Chartered | no hiring system link found | https://www.sc.com/en/careers/ |
+| Goldman Sachs | no hiring system link found | https://higher.gs.com/ |
 | Bank of America | tal.net | https://careers.bankofamerica.com/ |
 | Deutsche Bank | no hiring system link found | https://careers.db.com/ |
 | UBS | no hiring system link found | https://www.ubs.com/global/en/careers.html |
 | BNP Paribas | no hiring system link found | https://group.bnpparibas/en/careers |
-| Nomura | successfactors | https://careers.nomura.com |
-| SMBC | successfactors | https://careers.smbcgroup.com |
 | Macquarie | no hiring system link found | https://www.macquarie.com/uk/en/careers.html |
 | Wells Fargo | no hiring system link found | https://www.wellsfargojobs.com/ |
 | ABN AMRO | no hiring system link found | abnamro.com |
@@ -102,8 +64,8 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | Arma Partners | no hiring system link found | armapartners.com |
 | Livingstone Partners | no hiring system link found | livingstonepartners.com |
 | Fenchurch Advisory | no hiring system link found | fenchurchadvisory.com |
-| Alvarez & Marsal | no hiring system link found | alvarezandmarsal.com |
-| FTI Consulting | no hiring system link found | fticonsulting.com |
+| Alvarez & Marsal | no hiring system link found | https://www.alvarezandmarsal.com/careers |
+| FTI Consulting | no hiring system link found | https://www.fticonsulting.com/careers |
 | TP ICAP | no hiring system link found | tpicap.com |
 | Plus500 | no hiring system link found | plus500.com |
 | KPMG UK | cornerstone | https://www.instagram.com/kpmgukcareers/ |
@@ -112,21 +74,27 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | RSM UK | no hiring system link found | rsmuk.com |
 | Crowe UK | no hiring system link found | crowe.com/uk |
 | Azets | no hiring system link found | azets.co.uk |
-| McKinsey | no hiring system link found | mckinsey.com |
-| Bain & Company | no hiring system link found | bain.com |
-| Oliver Wyman | no hiring system link found | oliverwyman.com |
-| L.E.K. Consulting | tal.net | https://www.lek.com/careers |
-| OC&C Strategy Consultants | no hiring system link found | occstrategy.com |
+| McKinsey | no hiring system link found | https://www.mckinsey.com/careers/search-jobs |
+| Bain & Company | no hiring system link found | https://www.bain.com/careers/ |
+| Oliver Wyman | no hiring system link found | https://careers.oliverwyman.com/ |
+| L.E.K. Consulting | tal.net | https://www.lek.com/join-lek |
+| OC&C Strategy Consultants | no hiring system link found | https://www.occstrategy.com/en/careers |
 | Simon-Kucher | cornerstone | https://www.simon-kucher.com |
 | Charles River Associates | no hiring system link found | crai.com |
 | Frontier Economics | no hiring system link found | frontier-economics.com |
+| Kearney | no hiring system link found | https://www.kearney.com/careers |
+| Roland Berger | no hiring system link found | https://www.rolandberger.com/en/Join-Us/ |
+| IBM | no hiring system link found | https://www.ibm.com/careers/search |
+| Cognizant | no hiring system link found | https://careers.cognizant.com/global-en/ |
+| Infosys | no hiring system link found | https://www.infosys.com/careers/ |
+| CGI | no hiring system link found | https://www.cgi.com/en/careers |
+| Slalom | no hiring system link found | https://www.slalom.com/gb/en/careers |
+| Teamwill Consulting | no hiring system link found | https://www.teamwill-consulting.com/en/careers/ |
 | Legal & General | no hiring system link found | https://careers.legalandgeneral.com/ |
 | Jupiter | no hiring system link found | jupiteram.com |
 | Ninety One | no hiring system link found | ninetyone.com |
 | Liontrust | no hiring system link found | liontrust.co.uk |
-| Janus Henderson | successfactors | https://jobs.janushenderson.com |
 | Columbia Threadneedle | no hiring system link found | columbiathreadneedle.com |
-| Royal London | successfactors | https://jobs.royallondon.com |
 | Federated Hermes | no hiring system link found | hermes-investment.com |
 | Ruffer | no hiring system link found | ruffer.co.uk |
 | Polar Capital | no hiring system link found | polarcapital.co.uk |
@@ -136,6 +104,7 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | St. James's Place | cornerstone | https://careers.sjp.co.uk |
 | Brooks Macdonald | no hiring system link found | brooksmacdonald.com |
 | AJ Bell | no hiring system link found | ajbell.co.uk |
+| Octopus Group | no hiring system link found | octopusgroup.com |
 | Foresight Group | no hiring system link found | foresightgroup.eu |
 | Gresham House | no hiring system link found | greshamhouse.com |
 | Morningstar | no hiring system link found | morningstar.co.uk |
@@ -173,10 +142,10 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | Mitchells & Butlers | no hiring system link found | https://www.mbcareersandjobs.com/ |
 | EDF | no hiring system link found | edfenergy.com |
 | Bank of England | no hiring system link found | bankofengland.co.uk |
+| Kroo | no hiring system link found | kroo.com |
 | Curve | no hiring system link found | curve.com |
 | Tesco | no hiring system link found | tesco-careers.com |
-| BT Group | successfactors | https://jobs.bt.com |
-| Reckitt | successfactors | https://careers.reckitt.com |
+| Vodafone | no hiring system link found | vodafone.com |
 | Haleon | no hiring system link found | haleon.com |
 | Sage | no hiring system link found | sage.com |
 | Burberry | no hiring system link found | burberry.com |
@@ -188,25 +157,11 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | National Grid | no hiring system link found | nationalgrid.com |
 | SSE | no hiring system link found | sse.com |
 
-## Boards that could not be read this week (18)
+## Boards that could not be read this week (4)
 
 The hourly scan keeps trying these, but they return nothing until fixed. Usually the company moved to a new careers site.
 
-- **Revolut**: HTTP 429 Too Many Requests
-- **Klarna**: HTTP 404 Not Found
-- **Checkout.com**: HTTP 404 Not Found
-- **Starling Bank**: HTTP 429 Too Many Requests
-- **Morgan Stanley**: HTTP 422 UNPROCESSABLE ENTITY
-- **Goldman Sachs**: HTTP 404 Not Found
-- **Societe Generale**: fetch failed
-- **Metro Bank**: HTTP 404 Not Found
-- **Berenberg**: fetch failed
-- **Interpath Advisory**: HTTP 429 Too Many Requests
-- **Deloitte UK**: HTTP 404 Not Found
-- **Interactive Investor**: HTTP 429 Too Many Requests
-- **Susquehanna**: HTTP 404 Not Found
-- **Virgin Media O2**: fetch failed
-- **10x Banking**: HTTP 429 Too Many Requests
-- **Kroo**: HTTP 429 Too Many Requests
-- **Moneyfarm**: HTTP 429 Too Many Requests
-- **Vodafone**: HTTP 422 UNPROCESSABLE ENTITY
+- **PA Consulting**: fetch failed
+- **Capgemini**: fetch failed
+- **Susquehanna**: fetch failed
+- **Aon**: fetch failed

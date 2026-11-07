@@ -475,4 +475,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/statutory-reporting-accountant/ | via ScotJobsNet | Statutory Reporting Accountant | Aberdeenshire, Scotland | posted: 2026-11-04 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/assistant-management-accountant/ | via ScotJobsNet | Assistant Management Accountant | Glasgow, Scotland | posted: 2026-11-04 | note: via ScotJobsNet
 
+- [ ] https://jobs.smartrecruiters.com/talan/744000151083244-front-office-quant-analyst | Talan | Front Office Quant Analyst | London, England, United Kingdom
+- [ ] https://jobs.smartrecruiters.com/talan/744000141879193-front-office-quant-analyst | Talan | Front Office Quant Analyst | London, England, United Kingdom
+- [ ] https://careers.nomura.com/Nomura/job/London-Structured-Credit-Middle-Office-%28Associate%29-Lond-EC4R-3AB/1408186600/ | Nomura | Structured Credit Middle Office (Associate) | London
+- [ ] https://careers.nomura.com/Nomura/job/London-Credit-Risk-Reporting-Analyst-Lond-EC4R-3AB/1416933700/ | Nomura | Credit Risk Reporting Analyst | London
+
 ## Processed

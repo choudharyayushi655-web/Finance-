@@ -920,3 +920,62 @@ tracked_companies:
   - name: "Informa"
     careers_url: https://careers.smartrecruiters.com/InformaGroupPlc
     # added by find-ats (smartrecruiters) 2026-11-05
+
+  - name: TCS
+    careers_url: https://job-boards.greenhouse.io/tcs
+    api: https://boards-api.greenhouse.io/v1/boards/tcs/jobs
+    enabled: true
+
+  - name: Wipro
+    careers_url: https://wipro.bamboohr.com
+    enabled: true
+    # verify: only 4 posting(s) — confirm this is the right board
+
+  - name: Talan
+    careers_url: https://careers.smartrecruiters.com/talan
+    enabled: true
+  - name: "Nomura"
+    careers_url: https://careers.nomura.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "SMBC"
+    careers_url: https://careers.smbcgroup.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "Capgemini"
+    careers_url: https://capgemini.taleo.net/careersection/1/jobsearch.ftl
+    # added by find-ats (taleo) 2026-11-07
+  - name: "Sopra Steria"
+    careers_url: https://careers.smartrecruiters.com/SopraSteria1
+    # added by find-ats (smartrecruiters) 2026-11-07
+  - name: "PA Consulting"
+    careers_url: https://jacobs.avature.net/careers
+    # added by find-ats (avature) 2026-11-07
+  - name: "ICF"
+    careers_url: https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site
+    # added by find-ats (workday) 2026-11-07
+  - name: "Janus Henderson"
+    careers_url: https://jobs.janushenderson.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "Royal London"
+    careers_url: https://jobs.royallondon.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "Susquehanna"
+    careers_url: https://sig.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-07
+  - name: "AXA UK"
+    careers_url: https://move-en-axa.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-07
+  - name: "Aon"
+    careers_url: https://aon.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-07
+  - name: "BT Group"
+    careers_url: https://jobs.bt.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "Reckitt"
+    careers_url: https://careers.reckitt.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
