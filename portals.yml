@@ -924,12 +924,12 @@ tracked_companies:
   - name: TCS
     careers_url: https://job-boards.greenhouse.io/tcs
     api: https://boards-api.greenhouse.io/v1/boards/tcs/jobs
-    enabled: true
+    enabled: false   # name match is a different company (not Tata Consultancy Services)
 
   - name: Wipro
     careers_url: https://wipro.bamboohr.com
-    enabled: true
     # verify: only 4 posting(s) — confirm this is the right board
+    enabled: false   # name match is a different company (not Wipro)
 
   - name: Talan
     careers_url: https://careers.smartrecruiters.com/talan
@@ -945,12 +945,14 @@ tracked_companies:
   - name: "Capgemini"
     careers_url: https://capgemini.taleo.net/careersection/1/jobsearch.ftl
     # added by find-ats (taleo) 2026-11-07
+    enabled: false   # Taleo board would not load from GitHub (Nov 2026)
   - name: "Sopra Steria"
     careers_url: https://careers.smartrecruiters.com/SopraSteria1
     # added by find-ats (smartrecruiters) 2026-11-07
   - name: "PA Consulting"
     careers_url: https://jacobs.avature.net/careers
     # added by find-ats (avature) 2026-11-07
+    enabled: false   # board found via Jacobs but would not load (Nov 2026)
   - name: "ICF"
     careers_url: https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site
     # added by find-ats (workday) 2026-11-07
@@ -965,12 +967,14 @@ tracked_companies:
   - name: "Susquehanna"
     careers_url: https://sig.icims.com/jobs/search?ss=1
     # added by find-ats (icims) 2026-11-07
+    enabled: false   # board would not load from GitHub (Nov 2026)
   - name: "AXA UK"
     careers_url: https://move-en-axa.icims.com/jobs/search?ss=1
     # added by find-ats (icims) 2026-11-07
   - name: "Aon"
     careers_url: https://aon.icims.com/jobs/search?ss=1
     # added by find-ats (icims) 2026-11-07
+    enabled: false   # board would not load from GitHub (Nov 2026)
   - name: "BT Group"
     careers_url: https://jobs.bt.com
     provider: successfactors
@@ -979,3 +983,7 @@ tracked_companies:
     careers_url: https://careers.reckitt.com
     provider: successfactors
     # added by find-ats (successfactors) 2026-11-07
+  - name: "EY"
+    careers_url: https://careers.ey.com
+    provider: successfactors
+    # added by hand 2026-11-07 (SAP SuccessFactors career site)

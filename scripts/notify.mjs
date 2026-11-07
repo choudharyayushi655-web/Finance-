@@ -45,7 +45,7 @@ export function parsePipelineLine(line) {
     else positional.push(c);
   }
   const [company = '', title = '', location = '', comp = ''] = positional;
-  return { url, company, title, location, comp, posted: labeled.posted || '' };
+  return { url, company, title, location, comp, posted: labeled.posted || '', note: labeled.note || '' };
 }
 
 export function rowsForUrls(pipelineText, urls) {
@@ -134,6 +134,22 @@ async function main() {
     rows = rows.filter((r) => !quiet.has(r.company.trim().toLowerCase()));
     if (before !== rows.length) console.log(`notify: ${before - rows.length} roles at newly added firms recorded without alerts`);
   }
+  // A firm's first appearance is silent: the roles it already has open are
+  // recorded, not alerted (job-board roles, which carry "via ...", always alert).
+  const FIRMS = 'data/seen-firms.json';
+  const base = (c) => String(c || '').replace(/\s*\(.*\)$/, '').trim().toLowerCase();
+  let seenFirms = existsSync(FIRMS) ? new Set(JSON.parse(readFileSync(FIRMS, 'utf8'))) : null;
+  if (!seenFirms) {
+    const newUrls = new Set(urls);
+    seenFirms = new Set(pipelineText.split('\n').map((l) => parsePipelineLine(l.trim())).filter((r) => r && !newUrls.has(r.url)).map((r) => base(r.company)));
+  }
+  const firstTime = new Set(rows.filter((r) => !r.note && !seenFirms.has(base(r.company))).map((r) => base(r.company)));
+  if (firstTime.size) {
+    console.log(`notify: first scan for ${[...firstTime].join(', ')}: their open roles recorded without alerts`);
+    rows = rows.filter((r) => r.note || !firstTime.has(base(r.company)));
+  }
+  for (const r of rowsForUrls(pipelineText, urls)) seenFirms.add(base(r.company));
+  writeFileSync(FIRMS, `${JSON.stringify([...seenFirms].sort(), null, 1)}\n`);
   if (rows.length === 0) return;
   const time = new Date().toLocaleTimeString('en-GB', { timeZone: 'Europe/London', hour: '2-digit', minute: '2-digit' });
 
