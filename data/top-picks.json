@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:09:49.446Z",
+ "generated_at": "2026-11-07T00:10:58.694Z",
  "order": [
   "finance",
   "credit",
@@ -154,7 +154,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 19,
+   "matching": 18,
    "picks": [
     {
      "title": "Credit Strategy Analyst",
@@ -282,11 +282,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Private-Companies-Valuations-Analyst_R0004645": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst--Multi-Asset_84131-1": {
    "id": "equity",
