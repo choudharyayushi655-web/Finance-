@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T14:08:52.354Z",
+ "generated_at": "2026-11-07T14:29:31.362Z",
  "order": [
   "finance",
   "credit",
@@ -1617,6 +1617,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/divisional-accountant-at-lookers-motor-group-limited-4469737810": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127688563": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/accountant-127667677": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
+  },
+  "https://www.s1jobs.com/job/finance-analyst-127656275": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

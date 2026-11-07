@@ -867,6 +867,11 @@
    "register_name": "LOMBARD ODIER ASSET MANAGEMENT (EUROPE) LIMITED",
    "match": "alias"
   },
+  "Lookers Motor Group Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lottie": {
    "licensed": false,
    "register_name": null,

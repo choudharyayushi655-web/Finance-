@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 7 Nov, 14:08** (UK time) · **274 open roles** at 138 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 7 Nov, 14:29** (UK time) · **278 open roles** at 139 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,33 +10,21 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 7 Nov, 14:08** · hourly scan · checked 200 boards · **11 new roles**
+**Sat 7 Nov, 14:29** · hourly scan · checked 200 boards · **4 new roles**
 
-### Finance (FP&A) CV: 7
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127687704) | S1Jobs | Scotland | ❔ |
-| 2026-11-06 | [Financial Accountant - Insurance/Asset Management](https://www.linkedin.com/jobs/view/financial-accountant-insurance-asset-management-at-miryco-consultants-ltd-4488433134) | Miryco Consultants Ltd | London Area, United Kingdom | ✅ |
-| — | [Accountant](https://www.s1jobs.com/job/accountant-127667691) | S1Jobs | Scotland | ❔ |
-| — | [Financial Accountant](https://www.s1jobs.com/job/financial-accountant-127662542) | S1Jobs | Scotland | ❔ |
-| — | [Accountant Remote Part Time](https://www.s1jobs.com/job/accountant-remote-part-time-127661977) | S1Jobs | Scotland | ❔ |
-| — | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127657103) | S1Jobs | Scotland | ❔ |
-| — | [Accountant Xero](https://www.s1jobs.com/job/accountant-xero-127657020) | S1Jobs | Scotland | ❔ |
-
-### Investment (IB / PE) CV: 2
+### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-07 | [Fund Finance Associate, Private Equity](https://www.linkedin.com/jobs/view/fund-finance-associate-private-equity-at-deutsche-asset-management-4472213705) | Deutsche Asset Management | London, England, United Kingdom | ❔ |
-| — | [Corporate Finance Specialist](https://www.s1jobs.com/job/corporate-finance-specialist-127662500) | S1Jobs | Scotland | ❔ |
+| — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127656275) | S1Jobs | Scotland | ❔ |
+| 2026-11-07 | [Divisional Accountant](https://www.linkedin.com/jobs/view/divisional-accountant-at-lookers-motor-group-limited-4469737810) | Lookers Motor Group Limited | Chester, England, United Kingdom | ❔ |
+| — | [Accountant](https://www.s1jobs.com/job/accountant-127667677) | S1Jobs | Scotland | ❔ |
 
-### Other (fits no CV closely, may still be worth a look): 2
+### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-07 | [Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst](https://www.linkedin.com/jobs/view/private-bank-endowments-foundations-portfolio-management-team-program-analyst-at-jpmorganchase-4488706602) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127692732) | S1Jobs | Scotland | ❔ |
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688563) | S1Jobs | Scotland | ❔ |
 
 ## Top picks for each CV
 
@@ -82,6 +70,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 7 November
+
+<details>
+<summary><b>14:29</b> · hourly scan · <b>4 new</b> → Finance 3 · Other 1</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127656275) | S1Jobs | Scotland | ❔ |
+| 2026-11-07 | [Divisional Accountant](https://www.linkedin.com/jobs/view/divisional-accountant-at-lookers-motor-group-limited-4469737810) | Lookers Motor Group Limited | Chester, England, United Kingdom | ❔ |
+| — | [Accountant](https://www.s1jobs.com/job/accountant-127667677) | S1Jobs | Scotland | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688563) | S1Jobs | Scotland | ❔ |
+
+</details>
 
 <details>
 <summary><b>14:08</b> · hourly scan · <b>11 new</b> → Finance 7 · Investment 2 · Other 2</summary>
@@ -592,9 +599,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (122)](#finance-fpa-cv-122) · [Credit (36)](#credit-cv-36) · [Equity (18)](#equity-cv-18) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (45)](#other-fits-no-cv-closely-may-still-be-worth-a-look-45)
+Everything matched so far, newest first within each CV: [Finance (125)](#finance-fpa-cv-125) · [Credit (36)](#credit-cv-36) · [Equity (18)](#equity-cv-18) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (46)](#other-fits-no-cv-closely-may-still-be-worth-a-look-46)
 
-### Finance (FP&A) CV: 122
+### Finance (FP&A) CV: 125
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -610,6 +617,7 @@ Everything matched so far, newest first within each CV: [Finance (122)](#finance
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57532854) | Ambition Europe Limited | London | ✅ |
 | — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127687715) | S1Jobs | Scotland | ❔ |
 | — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127687704) | S1Jobs | Scotland | ❔ |
+| — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127656275) | S1Jobs | Scotland | ❔ |
 | 2026-11-07 | [Client Accountant - Funds](https://www.linkedin.com/jobs/view/client-accountant-funds-at-iq-eq-4480504225) | IQ-EQ | Newcastle Upon Tyne, England, United Kingdom | ✅ |
 | — | [Finance Business Partner- Grants](https://www.reed.co.uk/jobs/finance-business-partner-grants/57523853) | Mackie Myers | London | ❔ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57523746) | Signet Resources | Slough, Berkshire | ❔ |
@@ -627,6 +635,7 @@ Everything matched so far, newest first within each CV: [Finance (122)](#finance
 | — | [Reporting Accountant](https://www.s1jobs.com/job/reporting-accountant-127667666) | S1Jobs | Scotland | ❔ |
 | — | [Uk Statutory Reporting Accountant](https://www.s1jobs.com/job/uk-statutory-reporting-accountant-127657830) | S1Jobs | Scotland | ❔ |
 | — | [Assistant Accountant](https://www.s1jobs.com/job/assistant-accountant-127656836) | S1Jobs | Scotland | ❔ |
+| 2026-11-07 | [Divisional Accountant](https://www.linkedin.com/jobs/view/divisional-accountant-at-lookers-motor-group-limited-4469737810) | Lookers Motor Group Limited | Chester, England, United Kingdom | ❔ |
 | — | [Financial Accountant – Accounts & Administration 6 Month FTC](https://www.reed.co.uk/jobs/financial-accountant--accounts-administration-6-month-ftc/57531036) | Rendall & Rittner | London | ❔ |
 | — | [Service Charge Accountant](https://www.reed.co.uk/jobs/service-charge-accountant/57533588) | PARALLEL RECRUITMENT LTD | Stockport, Cheshire | ❔ |
 | — | [Accountant](https://www.s1jobs.com/job/accountant-127697504) | S1Jobs | Scotland | ❔ |
@@ -641,6 +650,7 @@ Everything matched so far, newest first within each CV: [Finance (122)](#finance
 | — | [Accountant Remote Part Time](https://www.s1jobs.com/job/accountant-remote-part-time-127661977) | S1Jobs | Scotland | ❔ |
 | — | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127657103) | S1Jobs | Scotland | ❔ |
 | — | [Accountant Xero](https://www.s1jobs.com/job/accountant-xero-127657020) | S1Jobs | Scotland | ❔ |
+| — | [Accountant](https://www.s1jobs.com/job/accountant-127667677) | S1Jobs | Scotland | ❔ |
 | 2026-11-06 | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57536364) | Robert Walters | Surrey Quays, London | ✅ |
 | 2026-11-06 | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57534610) | eFinancialCareers | London | ✅ |
 | 2026-11-06 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-holland-barrett-4477185474) | Holland & Barrett | Nuneaton, England, United Kingdom | ✅ |
@@ -858,7 +868,7 @@ Everything matched so far, newest first within each CV: [Finance (122)](#finance
 | 2026-10-29 | [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030) | Aztec Group | Southampton | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 45
+### Other (fits no CV closely, may still be worth a look): 46
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -879,6 +889,7 @@ Everything matched so far, newest first within each CV: [Finance (122)](#finance
 | — | [Quantity Surveyor Nec](https://www.s1jobs.com/job/quantity-surveyor-nec-127649278) | S1Jobs | Scotland | ❔ |
 | 2026-11-07 | [Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst](https://www.linkedin.com/jobs/view/private-bank-endowments-foundations-portfolio-management-team-program-analyst-at-jpmorganchase-4488706602) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127692732) | S1Jobs | Scotland | ❔ |
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688563) | S1Jobs | Scotland | ❔ |
 | 2026-11-06 | [Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-06 | [Graduate - Relationship Banking](https://www.linkedin.com/jobs/view/graduate-relationship-banking-at-hsbc-innovation-banking-4488414352) | HSBC Innovation Banking | London, England, United Kingdom | ❔ |
 | 2026-11-06 | [Graduate trainee - accountancy](https://www.linkedin.com/jobs/view/graduate-trainee-accountancy-at-sd-business-management-4488153360) | SD Business Management | Glasgow City, Scotland, United Kingdom | ❔ |

@@ -528,5 +528,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/accountant-remote-part-time-127661977 | S1Jobs | Accountant Remote Part Time | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/financial-controller-127657103 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/accountant-xero-127657020 | S1Jobs | Accountant Xero | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/divisional-accountant-at-lookers-motor-group-limited-4469737810 | Lookers Motor Group Limited | Divisional Accountant | Chester, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127688563 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127667677 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-analyst-127656275 | S1Jobs | Finance Analyst | Scotland | note: via S1Jobs
 
 ## Processed
