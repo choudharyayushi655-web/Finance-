@@ -1,89 +1,357 @@
 {
-  "finished_at": "2026-11-07T07:10:48.087Z",
+  "finished_at": "2026-11-07T07:53:47.271Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 189,
-  "postings_seen": 30705,
-  "filtered_out": 30678,
+  "postings_seen": 25601,
+  "filtered_out": 25591,
   "new_matches": 0,
-  "boards_failed": 19,
+  "boards_failed": 86,
   "failed": [
     {
       "company": "Lloyds Banking Group",
-      "error": "This operation was aborted"
-    },
-    {
-      "company": "Skipton Building Society",
-      "error": "This operation was aborted"
-    },
-    {
-      "company": "RBC",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
     },
     {
       "company": "Lloyds Banking Group (Graduates)",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
     },
     {
       "company": "Barclays",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
     },
     {
       "company": "NatWest Group",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
+    },
+    {
+      "company": "Skipton Building Society",
+      "error": "fetch failed"
     },
     {
       "company": "Santander",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
     },
     {
       "company": "RBC (Early Talent)",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
+    },
+    {
+      "company": "RBC",
+      "error": "fetch failed"
     },
     {
       "company": "BMO",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
     },
     {
-      "company": "abrdn",
-      "error": "This operation was aborted"
+      "company": "Moelis",
+      "error": "fetch failed"
     },
     {
-      "company": "Lombard Odier",
-      "error": "This operation was aborted"
+      "company": "Moelis (University)",
+      "error": "fetch failed"
     },
     {
-      "company": "Rothschild & Co",
-      "error": "This operation was aborted"
+      "company": "PJT Partners",
+      "error": "fetch failed"
+    },
+    {
+      "company": "BlackRock",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Invesco",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Invesco (Early Careers)",
+      "error": "fetch failed"
     },
     {
       "company": "MUFG",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
     },
     {
       "company": "Julius Baer",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
+    },
+    {
+      "company": "Rothschild & Co",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Lombard Odier",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Aviva Investors",
+      "error": "fetch failed"
+    },
+    {
+      "company": "abrdn",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Vanguard",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Franklin Templeton",
+      "error": "fetch failed"
+    },
+    {
+      "company": "T. Rowe Price",
+      "error": "fetch failed"
     },
     {
       "company": "Fidelity International",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
+    },
+    {
+      "company": "Wellington Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Wellington Management (Campus)",
+      "error": "fetch failed"
     },
     {
       "company": "Baillie Gifford",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
+    },
+    {
+      "company": "MFS",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PIMCO",
+      "error": "fetch failed"
     },
     {
       "company": "Baillie Gifford (Early Careers)",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
+    },
+    {
+      "company": "Dimensional Fund Advisors",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone (Campus)",
+      "error": "fetch failed"
     },
     {
       "company": "Hargreaves Lansdown",
-      "error": "This operation was aborted"
+      "error": "fetch failed"
+    },
+    {
+      "company": "Ares Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "ICG",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Bain Capital",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Man Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Brevan Howard",
+      "error": "fetch failed"
+    },
+    {
+      "company": "S&P Global",
+      "error": "fetch failed"
+    },
+    {
+      "company": "LSEG (Graduates)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Nasdaq",
+      "error": "fetch failed"
+    },
+    {
+      "company": "LSEG",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Aviva",
+      "error": "fetch failed"
+    },
+    {
+      "company": "CME Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "CMC Markets",
+      "error": "fetch failed"
+    },
+    {
+      "company": "AIG",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Hiscox",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Lloyd's of London",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Simply Business",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PwC (Campus)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PwC (Experienced)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "BDO UK",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Marsh McLennan",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Mastercard",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Visa",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PayPal",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Worldpay",
+      "error": "fetch failed"
+    },
+    {
+      "company": "GSK",
+      "error": "fetch failed"
+    },
+    {
+      "company": "AstraZeneca (Emerging Talent)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "AstraZeneca",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Unilever (Early Careers)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Unilever",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Diageo",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Shell",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Centrica",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Houlihan Lokey (Campus)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Houlihan Lokey (Lateral)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Sky",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Rolls-Royce",
+      "error": "fetch failed"
+    },
+    {
+      "company": "BBVA",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Howden (Hyperion)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "MS Amlin",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Ayvens",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Universal Music UK",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Landsec",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Citi",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Mizuho",
+      "error": "fetch failed"
+    },
+    {
+      "company": "State Street",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Northern Trust",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Perella Weinberg",
+      "error": "fetch failed"
     },
     {
       "company": "Berkeley Research Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "M&G",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Calastone",
+      "error": "fetch failed"
+    },
+    {
+      "company": "BP",
       "error": "fetch failed"
     }
   ]
