@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T11:07:41.378Z",
+ "generated_at": "2026-11-07T12:07:50.530Z",
  "order": [
   "finance",
   "credit",
@@ -45,7 +45,7 @@
      "location": "London · Cheltenham - St James House",
      "posted": "2026-11-04",
      "url": "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/FP-A-Analyst---Commercial---Schemes_R0019496-1",
-     "score": 22,
+     "score": 20,
      "why": [
       "FP&A"
      ],
@@ -169,14 +169,14 @@
      "sponsor": true
     },
     {
-     "title": "Strategy Consultant for Commodity Markets",
-     "company": "Accenture",
-     "location": "London",
-     "posted": "2026-11-04",
-     "url": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Strategy-Consultant-for-Commodity-Markets_R00369068",
-     "score": 18,
+     "title": "Equity Derivatives Trading Services - Efficiency Strategy Associate",
+     "company": "JPMorgan Chase",
+     "location": "LONDON, United Kingdom",
+     "posted": "2026-11-03",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805760",
+     "score": 17,
      "why": [
-      "Strategy Consultant"
+      "Strategy Associate"
      ],
      "sponsor": true
     }
@@ -441,12 +441,12 @@
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210771123": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 19
+   "score": 17
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806807": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 22
+   "score": 20
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341": {
    "id": "fund",
@@ -496,7 +496,7 @@
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210797802": {
    "id": "consulting",
    "cv": "Consulting CV",
-   "score": 15
+   "score": 12
   },
   "https://travelers.wd5.myworkdayjobs.com/simplybusinesssexternal/job/LON---London/Finance-Business-Partner---Commercial_R-53611": {
    "id": "finance",
@@ -536,7 +536,7 @@
   "https://job-boards.greenhouse.io/gocardless/jobs/8301377": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 15
+   "score": 13
   },
   "https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101": {
    "id": "finance",
@@ -701,7 +701,7 @@
   "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/FP-A-Analyst---Commercial---Schemes_R0019496-1": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 22
+   "score": 20
   },
   "https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Accounts-Assistant_JR_10040466-1": {
    "id": "finance",
@@ -751,22 +751,22 @@
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406": {
    "id": "consulting",
    "cv": "Consulting CV",
-   "score": 12
+   "score": 9
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Strategy-Consultant-for-Commodity-Markets_R00369068": {
    "id": "consulting",
    "cv": "Consulting CV",
-   "score": 18
+   "score": 16
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Digital-Finance-Transformation-Consultant_R00362313": {
    "id": "consulting",
    "cv": "Consulting CV",
-   "score": 16
+   "score": 14
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Insurance_R00344089": {
    "id": "consulting",
    "cv": "Consulting CV",
-   "score": 18
+   "score": 16
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Automotive-Management-Consultant_R00362436": {
    "id": "consulting",
@@ -786,7 +786,7 @@
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 6
+   "score": 4
   },
   "https://blackstone.wd1.myworkdayjobs.com/blackstone_careers/job/London/Blackstone-Credit---Insurance----FP-A--Associate_41787": {
    "id": "finance",
@@ -806,7 +806,7 @@
   "https://mlp.eightfold.ai/careers/job/755959615920": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 22
+   "score": 20
   },
   "https://mlp.eightfold.ai/careers/job/755959590097": {
    "id": "other",
@@ -831,7 +831,7 @@
   "https://morganstanley.eightfold.ai/careers?pid=549800996444&domain=morganstanley.com": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 16
+   "score": 14
   },
   "https://jobs.ashbyhq.com/clearbank/f3231b04-9538-4931-b7d5-1d0aea6c4c77": {
    "id": "finance",
