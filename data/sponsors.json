@@ -1,726 +1,1746 @@
 {
- "source": "UK Home Office register of licensed sponsors (Skilled Worker), copy dated 2026-08-29 via github.com/AryanYadav1010/sponsortrack-uk",
- "note": "Check gov.uk before applying; a licence does not mean a role will sponsor.",
+ "source": "UK Home Office register of licensed sponsors (Skilled Worker), downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv",
+ "note": "A licence does not mean a given role will sponsor; check the advert.",
  "firms": {
   "10x Banking": {
    "licensed": true,
-   "register_name": "10x banking technology services ltd"
+   "register_name": "10X Banking Technology Services Ltd",
+   "match": "alias"
+  },
+  "9fin": {
+   "licensed": true,
+   "register_name": "9fin Limited",
+   "match": "exact"
   },
   "AIG": {
    "licensed": true,
-   "register_name": "american international group uk limited"
+   "register_name": "American International Group UK Limited",
+   "match": "alias"
+  },
+  "AXA UK": {
+   "licensed": true,
+   "register_name": "AXA UK Plc",
+   "match": "exact"
+  },
+  "Abound": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Accenture": {
+   "licensed": false,
+   "register_name": null,
+   "match": "alias not on current register (accenture song brand uk limited)"
+  },
+  "Addington Ball Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Adecco": {
    "licensed": true,
-   "register_name": "accenture song brand uk limited"
+   "register_name": "Adecco UK Limited",
+   "match": "exact"
+  },
+  "Adyen": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Airwallex": {
    "licensed": true,
-   "register_name": "airwallex uk limited"
+   "register_name": "Airwallex (UK) Limited",
+   "match": "alias"
+  },
+  "Alexander Chapman": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Allica Bank": {
    "licensed": true,
-   "register_name": "allica bank"
+   "register_name": "Allica Bank",
+   "match": "alias"
+  },
+  "Alvarez & Marsal": {
+   "licensed": true,
+   "register_name": "Alvarez & Marsal Europe, LLP",
+   "match": "exact"
+  },
+  "Ambition Europe Limited": {
+   "licensed": true,
+   "register_name": "Ambition Europe Limited",
+   "match": "exact"
+  },
+  "Aon": {
+   "licensed": true,
+   "register_name": "Aon UK  Limited",
+   "match": "exact"
+  },
+  "Archer": {
+   "licensed": true,
+   "register_name": "ARCHER (UK) LIMITED",
+   "match": "exact"
   },
   "Ardian": {
    "licensed": true,
-   "register_name": "ardian investment uk limited"
+   "register_name": "Ardian Investment UK Limited",
+   "match": "alias"
   },
   "Ares Management": {
    "licensed": true,
-   "register_name": "ares management limited"
+   "register_name": "Ares Management Limited",
+   "match": "alias"
+  },
+  "Artemis": {
+   "licensed": true,
+   "register_name": "Artemis Investment Management LLP",
+   "match": "alias"
+  },
+  "Aster Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "AstraZeneca": {
    "licensed": true,
-   "register_name": "astrazeneca uk limited"
+   "register_name": "AstraZeneca UK Limited",
+   "match": "alias"
+  },
+  "Atom Bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Auto Trader": {
    "licensed": true,
-   "register_name": "autotrader limited"
+   "register_name": "Autotrader Limited",
+   "match": "alias"
   },
   "Aviva": {
    "licensed": true,
-   "register_name": "aviva plc"
+   "register_name": "Aviva plc",
+   "match": "alias"
   },
   "Aviva Investors": {
    "licensed": true,
-   "register_name": "aviva dentistry limited"
+   "register_name": "AVIVA DENTISTRY LIMITED",
+   "match": "alias"
   },
   "Ayvens": {
    "licensed": true,
-   "register_name": "leaseplan uk ltd"
+   "register_name": "LeasePlan UK Ltd",
+   "match": "alias"
   },
   "Aztec Group": {
    "licensed": true,
-   "register_name": "aztec group financial services uk limited"
+   "register_name": "Aztec Group Financial Services (UK) Limited",
+   "match": "alias"
   },
   "BAE Systems": {
    "licensed": true,
-   "register_name": "bae systems plc"
+   "register_name": "BAE Systems Plc",
+   "match": "alias"
   },
   "BBVA": {
    "licensed": true,
-   "register_name": "banco bilbao vizcaya argentaria s a"
+   "register_name": "Banco Bilbao Vizcaya Argentaria S.A.",
+   "match": "alias"
   },
   "BDO UK": {
    "licensed": true,
-   "register_name": "bdo llp"
+   "register_name": "BDO LLP",
+   "match": "alias"
   },
   "BGF": {
-   "licensed": false,
-   "register_name": null
+   "licensed": true,
+   "register_name": "BGF Services Ltd",
+   "match": "exact"
   },
   "BMO": {
    "licensed": true,
-   "register_name": "bank of montreal"
+   "register_name": "Bank Of Montreal",
+   "match": "alias"
   },
   "BNY": {
    "licensed": true,
-   "register_name": "bank of new york mellon"
+   "register_name": "Bank of New York Mellon",
+   "match": "alias"
   },
   "BP": {
    "licensed": true,
-   "register_name": "bp plc"
+   "register_name": "BP plc",
+   "match": "alias"
+  },
+  "BT Group": {
+   "licensed": true,
+   "register_name": "BT Group",
+   "match": "exact"
   },
   "Baillie Gifford": {
    "licensed": true,
-   "register_name": "baillie gifford"
+   "register_name": "Baillie Gifford",
+   "match": "alias"
   },
   "Bain Capital": {
    "licensed": true,
-   "register_name": "bain capital"
+   "register_name": "Bain Capital",
+   "match": "alias"
+  },
+  "Baird": {
+   "licensed": true,
+   "register_name": "Robert W. Baird Group Ltd",
+   "match": "alias"
   },
   "Barclays": {
    "licensed": true,
-   "register_name": "barclays bank plc"
+   "register_name": "Barclays Bank PLC",
+   "match": "alias"
+  },
+  "Beamery": {
+   "licensed": true,
+   "register_name": "Beamery Ltd",
+   "match": "exact"
   },
   "Berenberg": {
    "licensed": true,
-   "register_name": "joh berenberg gossler and co kg london branch"
+   "register_name": "Joh. Berenberg, Gossler & Co. KG, London Branch",
+   "match": "alias"
   },
   "Berkeley Research Group": {
    "licensed": true,
-   "register_name": "berkeley research group uk limited"
+   "register_name": "Berkeley Research Group (UK) Limited",
+   "match": "alias"
+  },
+  "Black Swan Group": {
+   "licensed": true,
+   "register_name": "Black Swan Group Ltd",
+   "match": "exact"
   },
   "BlackRock": {
    "licensed": true,
-   "register_name": "blackrock construction group ltd"
+   "register_name": "Blackrock Construction Group Ltd",
+   "match": "alias"
   },
   "Blackstone": {
    "licensed": true,
-   "register_name": "blackstone agents ltd"
+   "register_name": "BLACKSTONE AGENTS LTD",
+   "match": "alias"
   },
   "Blenheim Chalcot": {
    "licensed": true,
-   "register_name": "blenheim chalcot ltf limited"
+   "register_name": "Blenheim Chalcot LTF Limited",
+   "match": "alias"
+  },
+  "Blockchain.com": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Bloom Money": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "BlueCrest Capital": {
+   "licensed": true,
+   "register_name": "BlueCrest Capital Management (UK) LLP",
+   "match": "prefix"
   },
   "Boston Consulting Group": {
    "licensed": true,
-   "register_name": "the boston consulting group uk llp"
+   "register_name": "The Boston Consulting Group UK LLP",
+   "match": "alias"
   },
   "Brevan Howard": {
    "licensed": true,
-   "register_name": "brevan howard asset management services limited"
+   "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
+   "match": "alias"
   },
   "CMC Markets": {
    "licensed": true,
-   "register_name": "cmc markets uk plc"
+   "register_name": "CMC Markets UK Plc",
+   "match": "alias"
   },
   "CME Group": {
    "licensed": true,
-   "register_name": "cme congresses limited"
+   "register_name": "CME Congresses Limited",
+   "match": "alias"
   },
   "Calastone": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
+  },
+  "Capgemini": {
+   "licensed": true,
+   "register_name": "Capgemini UK PLC",
+   "match": "exact"
   },
   "Capital One UK": {
    "licensed": true,
-   "register_name": "capital one europe plc"
+   "register_name": "CAPITAL ONE (EUROPE) PLC",
+   "match": "alias"
+  },
+  "Capital on Tap": {
+   "licensed": true,
+   "register_name": "New Wave Capital Ltd t/a Capital on Tap",
+   "match": "trading name"
+  },
+  "Capital.com": {
+   "licensed": true,
+   "register_name": "Capital Com (UK) Limited T/A Capital.Com",
+   "match": "trading name"
+  },
+  "Carwow": {
+   "licensed": true,
+   "register_name": "carwow Ltd.",
+   "match": "exact"
   },
   "Centrica": {
    "licensed": true,
-   "register_name": "centrica plc"
+   "register_name": "Centrica plc",
+   "match": "alias"
+  },
+  "Checkatrade": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Checkout.com": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Chip": {
    "licensed": true,
-   "register_name": "chip financial ltd"
+   "register_name": "Chip Financial Ltd",
+   "match": "alias"
   },
   "Chubb": {
    "licensed": true,
-   "register_name": "chubb group security limited"
+   "register_name": "Chubb Group Security Limited",
+   "match": "alias"
   },
   "Cinven": {
    "licensed": true,
-   "register_name": "cinven limited"
+   "register_name": "Cinven Limited",
+   "match": "alias"
   },
   "Citi": {
+   "licensed": true,
+   "register_name": "Citi Group",
+   "match": "exact"
+  },
+  "City Recruitment Associates": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
   },
   "ClearBank": {
    "licensed": true,
-   "register_name": "clearbank group holdings limited"
+   "register_name": "ClearBank Group Holdings Limited",
+   "match": "alias"
   },
   "ClearScore": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
   },
   "Cleo": {
    "licensed": true,
-   "register_name": "cleo ai ltd"
+   "register_name": "Cleo AI Ltd",
+   "match": "alias"
+  },
+  "Cleo AI": {
+   "licensed": true,
+   "register_name": "Cleo AI Ltd",
+   "match": "exact"
+  },
+  "Cobalt": {
+   "licensed": true,
+   "register_name": "Cobalt Labs UK Limited",
+   "match": "prefix"
+  },
+  "Codat": {
+   "licensed": true,
+   "register_name": "Codat Limited",
+   "match": "exact"
+  },
+  "Coinbase": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Coller Capital": {
    "licensed": true,
-   "register_name": "coller capital ltd"
+   "register_name": "Coller Capital Ltd",
+   "match": "alias"
+  },
+  "Connect Recruitment Consultants Ltd.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Core3": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Cornell Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "DRW": {
    "licensed": true,
-   "register_name": "drw investments uk ltd"
+   "register_name": "DRW Investments (UK) Ltd",
+   "match": "alias"
+  },
+  "Deliveroo": {
+   "licensed": true,
+   "register_name": "Roofoods Ltd t/a Deliveroo",
+   "match": "trading name"
+  },
+  "Deloitte UK": {
+   "licensed": true,
+   "register_name": "Deloitte LLP",
+   "match": "exact"
   },
   "Diageo": {
    "licensed": true,
-   "register_name": "diageo plc"
+   "register_name": "Diageo plc",
+   "match": "alias"
   },
   "Dimensional Fund Advisors": {
    "licensed": true,
-   "register_name": "dimensional fund advisors ltd"
+   "register_name": "Dimensional Fund Advisors Ltd",
+   "match": "alias"
+  },
+  "Distinct": {
+   "licensed": true,
+   "register_name": "Distinct Services (Freight Networking) Ltd",
+   "match": "exact"
+  },
+  "Distinct Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Dojo": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Duco": {
+   "licensed": true,
+   "register_name": "Duco Technology Limited",
+   "match": "prefix"
   },
   "EQT": {
    "licensed": true,
-   "register_name": "eqt partners limited"
+   "register_name": "EQT Partners Limited",
+   "match": "alias"
+  },
+  "EY": {
+   "licensed": true,
+   "register_name": "Ernst & Young",
+   "match": "alias"
   },
   "Ebury": {
    "licensed": true,
-   "register_name": "ebury partners uk ltd"
+   "register_name": "Ebury Partners UK Ltd",
+   "match": "alias"
+  },
+  "Echo": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "ElevenLabs": {
+   "licensed": true,
+   "register_name": "Eleven Labs Ltd",
+   "match": "exact"
+  },
+  "Equifind": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Ernest Gordon Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Evelyn Partners": {
    "licensed": true,
-   "register_name": "evelyn partners group limited"
+   "register_name": "Evelyn Partners Group Limited",
+   "match": "alias"
   },
   "Experian": {
    "licensed": true,
-   "register_name": "experian limited"
+   "register_name": "EXPERIAN LIMITED",
+   "match": "alias"
   },
   "Fidelity International": {
    "licensed": true,
-   "register_name": "fil investment management limited"
+   "register_name": "FIL Investment Management Limited",
+   "match": "alias"
   },
   "Financial Times": {
    "licensed": true,
-   "register_name": "the financial times ltd"
+   "register_name": "The Financial Times Ltd",
+   "match": "alias"
+  },
+  "Flagstone": {
+   "licensed": true,
+   "register_name": "Flagstone Group Limited",
+   "match": "exact"
+  },
+  "Flock": {
+   "licensed": true,
+   "register_name": "Flock Limited",
+   "match": "exact"
   },
   "Flow Traders": {
    "licensed": true,
-   "register_name": "flow traders uk services ltd"
+   "register_name": "Flow Traders UK Services Ltd",
+   "match": "alias"
+  },
+  "Form3": {
+   "licensed": true,
+   "register_name": "Form3 Technology Limited",
+   "match": "prefix"
   },
   "Franklin Templeton": {
    "licensed": true,
-   "register_name": "franklin templeton global investors limited"
+   "register_name": "Franklin Templeton Global Investors Limited",
+   "match": "alias"
+  },
+  "Frasers Group": {
+   "licensed": true,
+   "register_name": "Frasers Group Plc",
+   "match": "exact"
   },
   "Freetrade": {
    "licensed": true,
-   "register_name": "freetrade limited"
+   "register_name": "Freetrade Limited",
+   "match": "alias"
+  },
+  "FundApps": {
+   "licensed": true,
+   "register_name": "FundApps Ltd",
+   "match": "exact"
   },
   "Funding Circle": {
    "licensed": true,
-   "register_name": "funding circle ltd"
+   "register_name": "FUNDING CIRCLE LTD",
+   "match": "alias"
+  },
+  "Funding Circle UK": {
+   "licensed": true,
+   "register_name": "FUNDING CIRCLE LTD",
+   "match": "exact"
+  },
+  "GKN Aerospace": {
+   "licensed": true,
+   "register_name": "GKN Aerospace Services",
+   "match": "exact"
   },
   "GSA Capital": {
    "licensed": true,
-   "register_name": "gsa capital services limited"
+   "register_name": "GSA Capital Services Limited",
+   "match": "alias"
   },
   "GSK": {
    "licensed": true,
-   "register_name": "gsk plc"
+   "register_name": "GSK Plc",
+   "match": "alias"
+  },
+  "GSR Markets": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Gemini": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Gleeson Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "GoCardless": {
    "licensed": true,
-   "register_name": "gocardless limited"
+   "register_name": "GoCardless Limited",
+   "match": "alias"
+  },
+  "Goldman Sachs": {
+   "licensed": true,
+   "register_name": "Goldman Sachs International",
+   "match": "exact"
   },
   "Graham Capital": {
    "licensed": true,
-   "register_name": "graham capital llp"
+   "register_name": "Graham Capital LLP",
+   "match": "alias"
+  },
+  "Greencore": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Greenhill": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Greenwich Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Griffin": {
+   "licensed": true,
+   "register_name": "Griffin Bank Ltd",
+   "match": "prefix"
+  },
+  "HSBC Innovation Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Halliday Marx": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Handpicked Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Hargreaves Lansdown": {
    "licensed": true,
-   "register_name": "hargreaves lansdown limited"
+   "register_name": "Hargreaves Lansdown Limited",
+   "match": "alias"
+  },
+  "Harper May Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Harvey Nash": {
+   "licensed": true,
+   "register_name": "Harvey Nash Limited",
+   "match": "exact"
+  },
+  "Hays Specialist Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "HelloFresh": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Hiscox": {
    "licensed": true,
-   "register_name": "hiscox underwriting group services limited"
+   "register_name": "HISCOX UNDERWRITING GROUP SERVICES LIMITED",
+   "match": "alias"
+  },
+  "Holland & Barrett": {
+   "licensed": true,
+   "register_name": "Holland & Barrett Retail Limited",
+   "match": "prefix"
   },
   "Houlihan Lokey": {
    "licensed": true,
-   "register_name": "houlihan lokey uk limited"
+   "register_name": "HOULIHAN LOKEY UK LIMITED",
+   "match": "alias"
   },
   "Howden": {
    "licensed": true,
-   "register_name": "howden group holdings limited"
+   "register_name": "Howden Group Holdings Limited",
+   "match": "alias"
+  },
+  "IAG Transform": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "ICF": {
+   "licensed": true,
+   "register_name": "ICF Consulting Services Limited",
+   "match": "prefix"
   },
   "ICG": {
    "licensed": true,
-   "register_name": "icg plc"
+   "register_name": "ICG PLC",
+   "match": "alias"
   },
   "IG Group": {
    "licensed": true,
-   "register_name": "ig group holdings plc"
+   "register_name": "IG Group Holdings plc",
+   "match": "alias"
   },
   "IMC Trading": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
   },
   "ING": {
+   "licensed": true,
+   "register_name": "ING Services Limited",
+   "match": "exact"
+  },
+  "IQ-EQ": {
+   "licensed": true,
+   "register_name": "IQ EQ (UK) Services Limited",
+   "match": "exact"
+  },
+  "In2 Consult": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
   },
   "Informa": {
    "licensed": true,
-   "register_name": "informa uk limited"
+   "register_name": "Informa UK Limited",
+   "match": "alias"
+  },
+  "Insight Recruitment Solutions Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Interactive Investor": {
-   "licensed": true,
-   "register_name": "interactive investor services ltd"
+   "licensed": false,
+   "register_name": null,
+   "match": "alias not on current register (interactive investor services ltd)"
   },
   "Interpath Advisory": {
    "licensed": true,
-   "register_name": "interpath limited"
+   "register_name": "Interpath Limited",
+   "match": "alias"
   },
   "Invesco": {
    "licensed": true,
-   "register_name": "invesco uk limited"
+   "register_name": "Invesco UK Limited",
+   "match": "alias"
+  },
+  "Investigo": {
+   "licensed": true,
+   "register_name": "Investigo Limited",
+   "match": "exact"
+  },
+  "JJ SEARCH LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "JPMorgan Chase": {
    "licensed": true,
-   "register_name": "jpmorgan chase bank national association"
+   "register_name": "JPMorgan Chase Bank, National Association",
+   "match": "alias"
+  },
+  "JPMorganChase": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Jane Street": {
    "licensed": true,
-   "register_name": "jane street europe limited"
+   "register_name": "Jane Street Europe Limited",
+   "match": "alias"
+  },
+  "Janus Henderson": {
+   "licensed": true,
+   "register_name": "JANUS HENDERSON ADMINISTRATION UK LIMITED",
+   "match": "prefix"
+  },
+  "Joblet-AI": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Julius Baer": {
    "licensed": true,
-   "register_name": "julius baer international limited"
+   "register_name": "Julius Baer International Limited",
+   "match": "alias"
   },
   "Jump Trading": {
    "licensed": true,
-   "register_name": "jump trading international limited"
+   "register_name": "Jump Trading International Limited",
+   "match": "alias"
+  },
+  "Kennedy Pearce Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Klarna": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Kroll": {
+   "licensed": true,
+   "register_name": "Kroll Advisory Ltd",
+   "match": "prefix"
+  },
+  "Kroo": {
+   "licensed": true,
+   "register_name": "Kroo Bank Ltd",
+   "match": "prefix"
   },
   "LSEG": {
    "licensed": true,
-   "register_name": "london stock exchange group plc"
+   "register_name": "London Stock Exchange Group plc",
+   "match": "alias"
+  },
+  "Landbay": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Landsec": {
    "licensed": true,
-   "register_name": "land securities properties ltd"
+   "register_name": "Land Securities Properties Ltd",
+   "match": "alias"
+  },
+  "Language Matters": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Lazard": {
    "licensed": true,
-   "register_name": "lazard and co services limited"
+   "register_name": "Lazard & Co., Services Limited",
+   "match": "alias"
+  },
+  "Ledger": {
+   "licensed": true,
+   "register_name": "Ledger Technologies UK LTD",
+   "match": "prefix"
+  },
+  "Lemonade": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Lendable": {
    "licensed": true,
-   "register_name": "lendable operations ltd"
+   "register_name": "Lendable Operations Ltd",
+   "match": "alias"
   },
   "Liberis": {
    "licensed": true,
-   "register_name": "liberis ltd"
+   "register_name": "Liberis Ltd",
+   "match": "alias"
+  },
+  "Lightfoot": {
+   "licensed": true,
+   "register_name": "Lightfoot Advisors",
+   "match": "prefix"
   },
   "Lloyd's of London": {
    "licensed": true,
-   "register_name": "lloyds of london"
+   "register_name": "LLOYD'S OF LONDON",
+   "match": "alias"
   },
   "Lloyds Banking Group": {
    "licensed": true,
-   "register_name": "lloyds bank plc"
+   "register_name": "Lloyds Bank plc",
+   "match": "alias"
   },
   "Lombard Odier": {
    "licensed": true,
-   "register_name": "lombard odier asset management europe limited"
+   "register_name": "LOMBARD ODIER ASSET MANAGEMENT (EUROPE) LIMITED",
+   "match": "alias"
+  },
+  "Lottie": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "M&G": {
    "licensed": true,
-   "register_name": "m and g plc"
+   "register_name": "M & G PlC",
+   "match": "alias"
   },
   "MFS": {
    "licensed": true,
-   "register_name": "mfs international uk ltd"
+   "register_name": "MFS International (UK) Ltd",
+   "match": "alias"
   },
   "MS Amlin": {
    "licensed": true,
-   "register_name": "ms amlin corporate services limited"
+   "register_name": "MS Amlin Corporate Services Limited",
+   "match": "alias"
   },
   "MSCI": {
    "licensed": true,
-   "register_name": "msci limited"
+   "register_name": "MSCI Limited",
+   "match": "alias"
   },
   "MUFG": {
    "licensed": true,
-   "register_name": "mufg bank ltd"
+   "register_name": "MUFG Bank, Ltd.",
+   "match": "alias"
+  },
+  "Mackie Myers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Man Group": {
    "licensed": true,
-   "register_name": "man group services limited"
+   "register_name": "MAN CORPORATION LIMITED",
+   "match": "alias"
   },
   "Marex": {
    "licensed": true,
-   "register_name": "marex group plc"
+   "register_name": "Marex Group Plc",
+   "match": "alias"
   },
   "Markel": {
    "licensed": true,
-   "register_name": "markel international services limited"
+   "register_name": "Markel International Services Limited",
+   "match": "alias"
+  },
+  "MarketAxess": {
+   "licensed": true,
+   "register_name": "MarketAxess Europe Ltd",
+   "match": "exact"
   },
   "Marks & Spencer": {
    "licensed": true,
-   "register_name": "marks and spencer group plc"
+   "register_name": "Marks and Spencer Group Plc",
+   "match": "alias"
+  },
+  "Marks Sattin": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Marlin Selection Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Marsh McLennan": {
    "licensed": true,
-   "register_name": "marsh and partners ltd"
+   "register_name": "Marsh & Partners Ltd",
+   "match": "alias"
   },
   "Marshmallow": {
    "licensed": true,
-   "register_name": "marshmallow technology ltd"
+   "register_name": "Marshmallow Technology Ltd",
+   "match": "alias"
   },
   "Mastercard": {
    "licensed": true,
-   "register_name": "mastercard uk management services ltd"
+   "register_name": "Mastercard UK Management Services LTD",
+   "match": "alias"
+  },
+  "Matched Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Maven Securities": {
    "licensed": true,
-   "register_name": "maven securities holding limited"
+   "register_name": "Maven Securities Holding Limited.",
+   "match": "alias"
+  },
+  "Mears Group PLC": {
+   "licensed": true,
+   "register_name": "Mears Group PLC",
+   "match": "exact"
+  },
+  "Metis Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Metro Bank": {
+   "licensed": true,
+   "register_name": "METRO BANK PLC",
+   "match": "exact"
+  },
+  "Michael Page Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Millennium": {
    "licensed": true,
-   "register_name": "millennium capital management limited"
+   "register_name": "Millennium Capital Management Limited",
+   "match": "alias"
   },
   "Mizuho": {
    "licensed": true,
-   "register_name": "mizuho bank ltd"
+   "register_name": "Mizuho Bank, Ltd.",
+   "match": "alias"
   },
   "Modulr": {
    "licensed": true,
-   "register_name": "modulr finance"
+   "register_name": "Modulr Finance",
+   "match": "alias"
   },
   "Moelis": {
    "licensed": true,
-   "register_name": "moelis and company uk llp"
+   "register_name": "Moelis & Company UK LLP",
+   "match": "alias"
+  },
+  "Mollie": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Moneybox": {
    "licensed": true,
-   "register_name": "digital moneybox limited"
+   "register_name": "Digital Moneybox Limited",
+   "match": "alias"
   },
   "Moneyfarm": {
    "licensed": true,
-   "register_name": "mfm investment ltd"
+   "register_name": "MFM Investment Ltd",
+   "match": "alias"
   },
   "Monzo": {
    "licensed": true,
-   "register_name": "monzo bank ltd"
+   "register_name": "Monzo Bank Ltd",
+   "match": "alias"
   },
   "Moody's": {
    "licensed": true,
-   "register_name": "moodys analytics uk ltd"
+   "register_name": "Moody's Analytics UK Ltd",
+   "match": "alias"
+  },
+  "MoonPay": {
+   "licensed": true,
+   "register_name": "MoonPay (UK) Limited",
+   "match": "exact"
+  },
+  "Morgan McKinley": {
+   "licensed": true,
+   "register_name": "Morgan McKinley",
+   "match": "exact"
   },
   "Morgan Stanley": {
    "licensed": true,
-   "register_name": "morgan stanley uk limited"
+   "register_name": "Morgan Stanley UK Limited",
+   "match": "alias"
+  },
+  "Moss": {
+   "licensed": true,
+   "register_name": "Moss Europe Limited",
+   "match": "exact"
+  },
+  "Motorway": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Multiverse": {
+   "licensed": true,
+   "register_name": "Multiverse Group Limited",
+   "match": "exact"
   },
   "Nasdaq": {
    "licensed": true,
-   "register_name": "nasdaq international limited"
+   "register_name": "Nasdaq Limited",
+   "match": "alias"
   },
   "NatWest Group": {
    "licensed": true,
-   "register_name": "natwest group plc"
+   "register_name": "NatWest Group PLC",
+   "match": "alias"
+  },
+  "New Avenues": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Next": {
    "licensed": true,
-   "register_name": "next retail ltd"
+   "register_name": "Next Retail Ltd",
+   "match": "alias"
+  },
+  "Nium": {
+   "licensed": true,
+   "register_name": "Nium Fintech Ltd",
+   "match": "prefix"
+  },
+  "Nomura": {
+   "licensed": true,
+   "register_name": "Nomura International Plc",
+   "match": "exact"
   },
   "Northern Trust": {
    "licensed": true,
-   "register_name": "northern trust management services limited"
+   "register_name": "Northern Trust Management Services Limited",
+   "match": "alias"
+  },
+  "Nucleus Commercial Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "OSB Group": {
    "licensed": true,
-   "register_name": "onesavings bank plc"
+   "register_name": "OneSavings Bank plc",
+   "match": "alias"
   },
   "OakNorth": {
    "licensed": true,
-   "register_name": "oaknorth bank plc"
+   "register_name": "OakNorth Bank Plc",
+   "match": "alias"
   },
   "Octopus Energy": {
    "licensed": true,
-   "register_name": "octopus energy limited"
+   "register_name": "Octopus Energy Limited",
+   "match": "alias"
+  },
+  "Octopus Group": {
+   "licensed": true,
+   "register_name": "Octopus Energy Limited",
+   "match": "prefix"
+  },
+  "Octopus Money": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Octus": {
    "licensed": true,
-   "register_name": "octus intelligence limited"
+   "register_name": "Octus Intelligence Limited",
+   "match": "alias"
+  },
+  "Ohme": {
+   "licensed": true,
+   "register_name": "Ohme Operations UK Limited",
+   "match": "prefix"
+  },
+  "Ophelos": {
+   "licensed": true,
+   "register_name": "Ophelos Ltd",
+   "match": "exact"
+  },
+  "PA Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "PARALLEL RECRUITMENT LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "PIMCO": {
    "licensed": true,
-   "register_name": "pimco europe ltd"
+   "register_name": "PIMCO Europe Ltd",
+   "match": "alias"
   },
   "PJT Partners": {
    "licensed": true,
-   "register_name": "pjt partners uk limited"
+   "register_name": "PJT Partners UK Limited",
+   "match": "alias"
   },
   "PKF": {
    "licensed": true,
-   "register_name": "pkf hospitality ltd"
+   "register_name": "PKF hospitality Ltd",
+   "match": "alias"
   },
   "Paddle": {
-   "licensed": true,
-   "register_name": "paddle com market limited"
+   "licensed": false,
+   "register_name": null,
+   "match": "alias not on current register (paddle com market limited)"
   },
   "Panmure Liberum": {
    "licensed": true,
-   "register_name": "panmure liberum limited"
+   "register_name": "Panmure Liberum Limited",
+   "match": "alias"
+  },
+  "Pantheon": {
+   "licensed": true,
+   "register_name": "Pantheon Partners Limited",
+   "match": "prefix"
+  },
+  "Pave Bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Paxos": {
+   "licensed": true,
+   "register_name": "Paxos Technology Limited",
+   "match": "prefix"
   },
   "PayPal": {
    "licensed": true,
-   "register_name": "paypal ltd"
+   "register_name": "PayPal Ltd",
+   "match": "alias"
+  },
+  "Payhawk": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Payoneer": {
+   "licensed": true,
+   "register_name": "PAYONEER (UK) LIMITED",
+   "match": "exact"
   },
   "Pearson": {
    "licensed": true,
-   "register_name": "pearson edexcel limited"
+   "register_name": "Pearson Edexcel Limited",
+   "match": "alias"
   },
   "Pemberton": {
    "licensed": true,
-   "register_name": "pemberton asset management services uk limited"
+   "register_name": "Pemberton Asset Management Services (UK) Limited",
+   "match": "alias"
   },
   "Perella Weinberg": {
    "licensed": true,
-   "register_name": "perella weinberg uk limited"
+   "register_name": "Perella Weinberg UK Limited",
+   "match": "alias"
+  },
+  "Perigus Energy": {
+   "licensed": true,
+   "register_name": "PERIGUS ENERGY UK LIMITED",
+   "match": "exact"
   },
   "Phoenix Group": {
    "licensed": true,
-   "register_name": "phoenix group management services limited"
+   "register_name": "Phoenix Group Management Services Limited",
+   "match": "alias"
   },
   "Pleo": {
    "licensed": true,
-   "register_name": "pleo technologies limited"
+   "register_name": "Pleo Technologies Limited",
+   "match": "alias"
+  },
+  "Pliant": {
+   "licensed": true,
+   "register_name": "Pliant Payments Limited",
+   "match": "prefix"
+  },
+  "Plum": {
+   "licensed": true,
+   "register_name": "Plum Fintech",
+   "match": "prefix"
   },
   "Point72": {
    "licensed": true,
-   "register_name": "point72 uk limited"
+   "register_name": "Point72 UK Limited",
+   "match": "alias"
   },
   "Primer": {
    "licensed": true,
-   "register_name": "primer api limited"
+   "register_name": "Primer API Limited",
+   "match": "alias"
+  },
+  "Propel Holdings": {
+   "licensed": true,
+   "register_name": "Propel Holdings Limited",
+   "match": "exact"
   },
   "PwC": {
    "licensed": true,
-   "register_name": "pricewaterhousecoopers llp"
+   "register_name": "PricewaterhouseCoopers (Northern Ireland) LLP",
+   "match": "alias"
   },
   "QBE": {
    "licensed": true,
-   "register_name": "qbe management services uk limited"
+   "register_name": "QBE Management Services (UK) Limited",
+   "match": "alias"
   },
   "Quadrature Capital": {
    "licensed": true,
-   "register_name": "quadrature capital limited"
+   "register_name": "Quadrature Capital Limited",
+   "match": "alias"
+  },
+  "Quantexa": {
+   "licensed": true,
+   "register_name": "Quantexa Ltd",
+   "match": "exact"
   },
   "Qube Research & Technologies": {
    "licensed": true,
-   "register_name": "qube research and technologies limited"
+   "register_name": "Qube Research & Technologies Limited",
+   "match": "alias"
   },
   "Quilter": {
    "licensed": true,
-   "register_name": "quilter business services ltd"
+   "register_name": "Quilter Business Services Ltd",
+   "match": "alias"
   },
   "RBC": {
+   "licensed": true,
+   "register_name": "RBC Group",
+   "match": "exact"
+  },
+  "Reckitt": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
+  },
+  "Recognise Bank": {
+   "licensed": true,
+   "register_name": "Recognise Bank Limited",
+   "match": "exact"
+  },
+  "Reed": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Rendall & Rittner": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Revolut": {
    "licensed": true,
-   "register_name": "revolut ltd"
+   "register_name": "Revolut Ltd",
+   "match": "alias"
   },
   "Rightmove": {
    "licensed": true,
-   "register_name": "rightmove group ltd"
+   "register_name": "Rightmove Group Ltd",
+   "match": "alias"
+  },
+  "Risk Ledger": {
+   "licensed": true,
+   "register_name": "Risk Ledger Ltd",
+   "match": "exact"
+  },
+  "Robert Walters": {
+   "licensed": true,
+   "register_name": "Robert Walters PLC",
+   "match": "exact"
   },
   "Rolls-Royce": {
    "licensed": true,
-   "register_name": "rolls royce plc"
+   "register_name": "Rolls-Royce plc",
+   "match": "alias"
   },
   "Rothesay": {
    "licensed": true,
-   "register_name": "rothesay pensions management limited"
+   "register_name": "Rothesay Pensions Management Limited",
+   "match": "alias"
   },
   "Rothschild & Co": {
    "licensed": true,
-   "register_name": "rothschild and co global markets solutions limited"
+   "register_name": "Rothschild & Co Global Markets Solutions Limited",
+   "match": "alias"
+  },
+  "Royal London": {
+   "licensed": true,
+   "register_name": "Horsefair Management Ltd T/A The Royal",
+   "match": "trading name"
+  },
+  "Royal United Hospitals Bath NHS Foundation Trust": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "S&P Global": {
    "licensed": true,
-   "register_name": "s and p global limited"
+   "register_name": "S&P Global Limited",
+   "match": "alias"
+  },
+  "S1Jobs": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "SD Business Management": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "SMBC": {
+   "licensed": true,
+   "register_name": "SMBC Bank International plc",
+   "match": "prefix"
+  },
+  "STEP Fusion": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "STONEMONT PARTNERS LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "STORMX RECRUITMENT LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Sainsbury's": {
    "licensed": true,
-   "register_name": "j sainsbury plc"
+   "register_name": "J Sainsbury Plc",
+   "match": "alias"
   },
   "Salary Finance": {
    "licensed": true,
-   "register_name": "salary finance limited"
+   "register_name": "Salary Finance Limited",
+   "match": "alias"
   },
   "Santander": {
    "licensed": true,
-   "register_name": "santander uk plc"
+   "register_name": "Santander UK PLC",
+   "match": "alias"
+  },
+  "Satispay": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Schroders": {
    "licensed": true,
-   "register_name": "schroder investment management limited"
+   "register_name": "Schroder Investment Management Limited",
+   "match": "alias"
+  },
+  "ScottishPower": {
+   "licensed": true,
+   "register_name": "ScottishPower Limited",
+   "match": "exact"
+  },
+  "Scout Global": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Seccl": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
   },
   "Shawbrook": {
    "licensed": true,
-   "register_name": "shawbrook bank limited"
+   "register_name": "SHAWBROOK BANK LIMITED",
+   "match": "alias"
   },
   "Shell": {
    "licensed": true,
-   "register_name": "shell and beyond projects ltd"
+   "register_name": "Shell and Beyond Projects Ltd",
+   "match": "alias"
+  },
+  "Signet Resources": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Silverfin": {
+   "licensed": true,
+   "register_name": "Silverfin Software Ltd",
+   "match": "prefix"
   },
   "Simply Business": {
    "licensed": true,
-   "register_name": "xbridge limited t a simply business"
+   "register_name": "Xbridge Limited T/A Simply Business",
+   "match": "alias"
   },
   "Skipton Building Society": {
    "licensed": true,
-   "register_name": "skipton building society"
+   "register_name": "Skipton Building Society",
+   "match": "alias"
   },
   "Sky": {
    "licensed": true,
-   "register_name": "sky uk limited"
+   "register_name": "Sky Services Ltd",
+   "match": "alias"
   },
   "Smarkets": {
    "licensed": true,
-   "register_name": "smarkets limited"
+   "register_name": "Smarkets Limited",
+   "match": "alias"
   },
   "Societe Generale": {
    "licensed": true,
-   "register_name": "societe generale equipment finance ltd"
+   "register_name": "Societe Generale Equipment Finance Ltd",
+   "match": "alias"
+  },
+  "Sopra Steria": {
+   "licensed": true,
+   "register_name": "Sopra Steria Limited",
+   "match": "exact"
+  },
+  "Spectrum Brands (UK) Limited": {
+   "licensed": true,
+   "register_name": "Spectrum Brands (UK) Limited",
+   "match": "exact"
   },
   "Squarepoint Capital": {
    "licensed": true,
-   "register_name": "squarepoint capital llp"
+   "register_name": "Squarepoint Capital LLP",
+   "match": "alias"
   },
   "Starling Bank": {
    "licensed": true,
-   "register_name": "starling bank limited"
+   "register_name": "Starling Bank Limited",
+   "match": "alias"
   },
   "State Street": {
    "licensed": true,
-   "register_name": "state street bank and trust company"
+   "register_name": "State Street Bank and Trust Company",
+   "match": "alias"
   },
   "Stifel": {
    "licensed": true,
-   "register_name": "stifel nicolaus europe limited"
+   "register_name": "Stifel Nicolaus Europe Limited",
+   "match": "alias"
   },
   "Stripe": {
    "licensed": true,
-   "register_name": "stripe consulting limited"
+   "register_name": "STRIPE CONSULTING LIMITED",
+   "match": "alias"
+  },
+  "SumUp": {
+   "licensed": true,
+   "register_name": "SumUp Payments Limited",
+   "match": "prefix"
+  },
+  "Super Payments": {
+   "licensed": true,
+   "register_name": "Super Payments Ltd",
+   "match": "exact"
+  },
+  "Susquehanna": {
+   "licensed": true,
+   "register_name": "Susquehanna UK Limited",
+   "match": "exact"
+  },
+  "Swoop Funding": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Synthesia": {
+   "licensed": true,
+   "register_name": "Synthesia Limited",
+   "match": "exact"
   },
   "T. Rowe Price": {
    "licensed": true,
-   "register_name": "t rowe price international ltd"
+   "register_name": "T Rowe Price  International Ltd",
+   "match": "alias"
+  },
+  "TCS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Talan": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Talos": {
+   "licensed": true,
+   "register_name": "Talos Trading Solutions Limited",
+   "match": "alias"
   },
   "Tandem Bank": {
    "licensed": true,
-   "register_name": "tandem bank limited"
+   "register_name": "Tandem Bank Limited",
+   "match": "alias"
   },
   "Teneo": {
    "licensed": true,
-   "register_name": "teneo business consulting ltd"
+   "register_name": "Teneo Business Consulting Ltd",
+   "match": "alias"
+  },
+  "Teya": {
+   "licensed": true,
+   "register_name": "Teya Europe Ltd",
+   "match": "exact"
+  },
+  "The Consultancy Group": {
+   "licensed": true,
+   "register_name": "The Consultancy Group",
+   "match": "exact"
+  },
+  "ThinkMarkets": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Thought Machine": {
    "licensed": true,
-   "register_name": "thought machine group limited"
+   "register_name": "Thought Machine Group Limited",
+   "match": "alias"
+  },
+  "Thunes": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Tide": {
    "licensed": true,
-   "register_name": "tide platform ltd"
+   "register_name": "Tide Platform Ltd",
+   "match": "alias"
   },
   "Tower Research Capital": {
    "licensed": true,
-   "register_name": "tower research capital europe limited"
+   "register_name": "Tower Research Capital Europe Limited",
+   "match": "alias"
   },
   "Trading 212": {
    "licensed": true,
-   "register_name": "trading 212 uk ltd"
+   "register_name": "Trading 212 UK Ltd",
+   "match": "alias"
+  },
+  "TransUnion": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Trinity House Group": {
+   "licensed": true,
+   "register_name": "Trinity House",
+   "match": "exact"
   },
   "TrueLayer": {
    "licensed": true,
-   "register_name": "truelayer limited"
+   "register_name": "TrueLayer Limited",
+   "match": "alias"
   },
   "Unilever": {
    "licensed": true,
-   "register_name": "unilever uk limited"
+   "register_name": "Unilever UK Limited",
+   "match": "alias"
   },
   "Universal Music UK": {
    "licensed": true,
-   "register_name": "universal music operations ltd"
+   "register_name": "Universal Music Operations Ltd",
+   "match": "alias"
   },
   "Vanguard": {
    "licensed": true,
-   "register_name": "vanguard building compliance limited"
+   "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
+   "match": "alias"
+  },
+  "Ventula Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Virgin Media O2": {
    "licensed": true,
-   "register_name": "virgin media limited"
+   "register_name": "Virgin Media Limited",
+   "match": "alias"
   },
   "Visa": {
    "licensed": true,
-   "register_name": "visa europe limited"
+   "register_name": "VISA EUROPE LIMITED",
+   "match": "alias"
+  },
+  "Vitesse": {
+   "licensed": true,
+   "register_name": "Vitesse PSP",
+   "match": "alias"
+  },
+  "Vodafone": {
+   "licensed": true,
+   "register_name": "Vodafone Group Services Limited",
+   "match": "exact"
   },
   "WPP": {
    "licensed": true,
-   "register_name": "wpp 2005 limited"
+   "register_name": "WPP 2005 Limited",
+   "match": "alias"
+  },
+  "Wayflyer": {
+   "licensed": true,
+   "register_name": "Wayflyer UK Limited",
+   "match": "exact"
   },
   "Wellington Management": {
    "licensed": true,
-   "register_name": "wellington management international limited"
+   "register_name": "Wellington Management International Limited",
+   "match": "alias"
   },
   "Wintermute": {
    "licensed": true,
-   "register_name": "wintermute trading limited"
+   "register_name": "Wintermute Trading Limited",
+   "match": "alias"
   },
   "Winton": {
    "licensed": true,
-   "register_name": "winton capital management ltd"
+   "register_name": "Winton Capital Management Ltd",
+   "match": "alias"
+  },
+  "Wipro": {
+   "licensed": true,
+   "register_name": "Wipro Limited",
+   "match": "exact"
+  },
+  "Wise": {
+   "licensed": true,
+   "register_name": "UK Wise Group Ltd",
+   "match": "exact"
   },
   "WorldQuant": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
   },
   "Worldpay": {
    "licensed": true,
-   "register_name": "worldpay uk ltd"
+   "register_name": "WorldPay (UK) Ltd",
+   "match": "alias"
   },
   "XTX Markets": {
    "licensed": true,
-   "register_name": "xtx research llp"
+   "register_name": "XTX Research LLP",
+   "match": "alias"
+  },
+  "Zego": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Zilch": {
    "licensed": true,
-   "register_name": "zilch technology limited"
+   "register_name": "Zilch Technology Limited",
+   "match": "alias"
   },
   "Zopa": {
    "licensed": true,
-   "register_name": "zopa bank limited"
+   "register_name": "Zopa Bank Limited",
+   "match": "alias"
   },
   "abrdn": {
    "licensed": false,
-   "register_name": null
+   "register_name": null,
+   "match": "none"
+  },
+  "eFinancialCareers": {
+   "licensed": true,
+   "register_name": "eFinancialCareers Ltd",
+   "match": "exact"
   },
   "iCapital": {
    "licensed": true,
-   "register_name": "icapital uk international limited"
+   "register_name": "iCapital UK International Limited",
+   "match": "alias"
+  },
+  "via ScotJobsNet": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   }
  }
 }

@@ -479,5 +479,43 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/talan/744000141879193-front-office-quant-analyst | Talan | Front Office Quant Analyst | London, England, United Kingdom
 - [ ] https://careers.nomura.com/Nomura/job/London-Structured-Credit-Middle-Office-%28Associate%29-Lond-EC4R-3AB/1408186600/ | Nomura | Structured Credit Middle Office (Associate) | London
 - [ ] https://careers.nomura.com/Nomura/job/London-Credit-Risk-Reporting-Analyst-Lond-EC4R-3AB/1416933700/ | Nomura | Credit Risk Reporting Analyst | London
+- [ ] https://www.linkedin.com/jobs/view/portfolio-risk-analyst-investment-monitoring-wealth-management-at-jj-search-limited-4487339986 | JJ SEARCH LIMITED | Portfolio Risk Analyst , Investment Monitoring , Wealth Management | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-royal-united-hospitals-bath-nhs-foundation-trust-4487368140 | Royal United Hospitals Bath NHS Foundation Trust | Management Accountant | Bath, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-management-accountant-at-distinct-b-corp-4488165342 | Distinct | B Corp | Group Management Accountant | Leeds, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-core3-b-corp%E2%84%A2-4487318616 | Core3 | B Corp™ | Assistant Management Accountant | Bristol, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127697560 | S1Jobs | Graduate Quantity Surveyor Assistant Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127697544 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127697504 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-xero-127692790 | S1Jobs | Accountant Xero | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-controller-127692786 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-accountant-127692690 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127692689 | S1Jobs | Corporate Finance Specialist | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-remote-part-time-127692680 | S1Jobs | Accountant Remote Part Time | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-business-partner-12-month-ftc-127688273 | S1Jobs | Finance Business Partner 12 Month Ftc | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-analyst-127687715 | S1Jobs | Finance Analyst | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-business-partner-127680130 | S1Jobs | Finance Business Partner | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/client-accountant-127667909 | S1Jobs | Client Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-m-e-127667904 | S1Jobs | Quantity Surveyor M E | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/managing-quantity-surveyor-127667695 | S1Jobs | Managing Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127667670 | S1Jobs | Management Accountant 1 Year Contract Part Time | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/reporting-accountant-127667666 | S1Jobs | Reporting Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127667661 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127667655 | S1Jobs | Trainee Finance Assistant Graduate | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/uk-statutory-reporting-accountant-127657830 | S1Jobs | Uk Statutory Reporting Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-accountant-127656836 | S1Jobs | Assistant Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127655695 | S1Jobs | Assistant Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/corporate-accountant-hybrid-working-127651677 | S1Jobs | Corporate Accountant Hybrid Working | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-127651663 | S1Jobs | Graduate Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-127649281 | S1Jobs | Quantity Surveyor Pqs | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-nec-127649278 | S1Jobs | Quantity Surveyor Nec | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/part-qualified-management-accountant-127649270 | S1Jobs | Part Qualified Management Accountant | Scotland | note: via S1Jobs
+- [ ] https://jobs.ashbyhq.com/flagstone/448c1cb5-e1b4-4a20-a967-e6ef8ffff780 | Flagstone | Financial Controller | London Office · United Kingdom · Remote | posted: 2026-11-02 | note: via startup/SME (ashby)
+- [ ] https://job-boards.greenhouse.io/blockchain/jobs/8359982 | Blockchain.com | OTC Derivatives Trader | London | posted: 2026-11-06 | note: via startup/SME (greenhouse)
+- [ ] https://job-boards.greenhouse.io/blockchain/jobs/8289214 | Blockchain.com | Quantitative Trader | London | posted: 2026-10-16 | note: via startup/SME (greenhouse)
+- [ ] https://job-boards.greenhouse.io/blockchain/jobs/8289231 | Blockchain.com | Trader, Market Making | London | posted: 2026-10-16 | note: via startup/SME (greenhouse)
+- [ ] https://jobs.ashbyhq.com/flock/7014d3d3-63e4-40ea-a450-508e1cddff61 | Flock | Assistant Financial Controller | London · United Kingdom · Remote | posted: 2026-11-06 | note: via startup/SME (ashby)
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8337684 | Deliveroo | IT Mobile Asset Management Analyst | London, United Kingdom | posted: 2026-11-02 | note: via startup/SME (greenhouse)
+- [ ] https://jobs.ashbyhq.com/carwow/4c48158a-95aa-4cd6-b908-f649241eee2e | Carwow | Transactional Financial Controller  | London · United Kingdom | posted: 2026-11-04 | note: via startup/SME (ashby)
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/f1427164-3037-47d1-a768-11cfb87953ae | ElevenLabs | Partnerships - Private Equity | New York · United States · United Kingdom · London | posted: 2026-11-02 | note: via startup/SME (ashby)
 
 ## Processed

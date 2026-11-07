@@ -1,0 +1,122 @@
+# Sponsor licence: firms to review
+
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 348 firms checked, 259 matched, 89 not found.
+
+Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
+
+## Not found (89)
+
+- Abound
+- Accenture (alias not on current register (accenture song brand uk limited))
+- Addington Ball Recruitment Ltd
+- Adyen
+- Alexander Chapman
+- Aster Group
+- Atom Bank
+- Blockchain.com
+- Bloom Money
+- Calastone
+- Checkatrade
+- Checkout.com
+- City Recruitment Associates
+- ClearScore
+- Coinbase
+- Connect Recruitment Consultants Ltd.
+- Core3
+- Cornell Search
+- Distinct Recruitment
+- Dojo
+- Echo
+- Equifind
+- Ernest Gordon Recruitment Limited
+- GSR Markets
+- Gemini
+- Gleeson Recruitment Group
+- Greencore
+- Greenhill
+- Greenwich Partners
+- HSBC Innovation Banking
+- Halliday Marx
+- Handpicked Recruitment Limited
+- Harper May Ltd
+- Hays Specialist Recruitment Limited
+- HelloFresh
+- IAG Transform
+- IMC Trading
+- In2 Consult
+- Insight Recruitment Solutions Limited
+- Interactive Investor (alias not on current register (interactive investor services ltd))
+- JJ SEARCH LIMITED
+- JPMorganChase
+- Joblet-AI
+- Kennedy Pearce Consulting
+- Klarna
+- Landbay
+- Language Matters
+- Lemonade
+- Lottie
+- Mackie Myers
+- Marks Sattin
+- Marlin Selection Recruitment
+- Matched Group
+- Metis Search
+- Michael Page Finance
+- Mollie
+- Motorway
+- New Avenues
+- Nucleus Commercial Finance
+- Octopus Money
+- PA Consulting
+- PARALLEL RECRUITMENT LTD
+- Paddle (alias not on current register (paddle com market limited))
+- Pave Bank
+- Payhawk
+- Reckitt
+- Reed
+- Rendall & Rittner
+- Royal United Hospitals Bath NHS Foundation Trust
+- S1Jobs
+- SD Business Management
+- STEP Fusion
+- STONEMONT PARTNERS LIMITED
+- STORMX RECRUITMENT LIMITED
+- Satispay
+- Scout Global
+- Seccl
+- Signet Resources
+- Swoop Funding
+- TCS
+- Talan
+- ThinkMarkets
+- Thunes
+- TransUnion
+- Ventula Consulting
+- WorldQuant
+- Zego
+- abrdn
+- via ScotJobsNet
+
+## Matched automatically by close name; worth a glance (22)
+
+- BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
+- Cobalt → Cobalt Labs UK Limited (prefix)
+- Duco → Duco Technology Limited (prefix)
+- Form3 → Form3 Technology Limited (prefix)
+- Griffin → Griffin Bank Ltd (prefix)
+- Holland & Barrett → Holland & Barrett Retail Limited (prefix)
+- ICF → ICF Consulting Services Limited (prefix)
+- Janus Henderson → JANUS HENDERSON ADMINISTRATION UK LIMITED (prefix)
+- Kroll → Kroll Advisory Ltd (prefix)
+- Kroo → Kroo Bank Ltd (prefix)
+- Ledger → Ledger Technologies UK LTD (prefix)
+- Lightfoot → Lightfoot Advisors (prefix)
+- Nium → Nium Fintech Ltd (prefix)
+- Octopus Group → Octopus Energy Limited (prefix)
+- Ohme → Ohme Operations UK Limited (prefix)
+- Pantheon → Pantheon Partners Limited (prefix)
+- Paxos → Paxos Technology Limited (prefix)
+- Pliant → Pliant Payments Limited (prefix)
+- Plum → Plum Fintech (prefix)
+- SMBC → SMBC Bank International plc (prefix)
+- Silverfin → Silverfin Software Ltd (prefix)
+- SumUp → SumUp Payments Limited (prefix)
