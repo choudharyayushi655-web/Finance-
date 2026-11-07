@@ -375,5 +375,130 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21298 | Phoenix Group | Reinsurance Protection Assistant Accountant | Birmingham, England, United Kingdom | posted: 2026-11-06
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829 | JPMorgan Chase | Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst | LONDON, LONDON, United Kingdom | posted: 2026-11-06
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Global-Capital-Management--GCM----Senior-Associate---LONDON_261008574-1 | Citi | Corporate Banking Global Capital Management (GCM) - Associate/Senior Associate - LONDON | London United Kingdom | posted: 2026-11-06
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-holland-barrett-4477185474 | Holland & Barrett | Finance Analyst | Nuneaton, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-lottie-4486294694 | Lottie | Financial Analyst | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-retail-wholesale-at-new-avenues-4488177942 | New Avenues | Financial Analyst - Retail/Wholesale | Croydon, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-transunion-4479373904 | TransUnion | FP&A Analyst | Leeds, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-performance-value-assurance-at-iag-transform-4486991581 | IAG Transform | Financial Analyst - Performance & Value Assurance | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-step-fusion-4488147412 | STEP Fusion | Finance Analyst | Bole, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/performance-accountant-at-scottishpower-4477098794 | ScottishPower | Performance Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-spectrum-brands-uk-limited-4486986777 | Spectrum Brands (UK) Limited | Management Accountant | Greater Manchester, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-%E2%80%93-european-financials-at-man-group-4480366321 | Man Group | Credit Analyst – European Financials | London, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-at-city-recruitment-associates-4488126750 | City Recruitment Associates | Corporate Credit Analyst | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-emerging-markets-mena-associate-at-jpmorganchase-4403159570 | JPMorganChase | Wholesale Credit Risk - EMEA Emerging Markets (MENA) Associate | Greater London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902 | Morgan McKinley | Credit Risk Underwriter - Structured Lending | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/goldman-sachs-alternatives-private-credit-investing-analyst-london-at-goldman-sachs-4479147204 | Goldman Sachs | Goldman Sachs Alternatives - Private Credit Investing - Analyst - London | London, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-ventula-consulting-4485733754 | Ventula Consulting | Credit Risk Analyst | Leeds, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-propel-holdings-4472012111 | Propel Holdings | Credit Risk Analyst | Nottingham, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686 | Funding Circle UK | Credit Strategy Analyst | London, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hedge-fund-risk-analyst-at-black-swan-group-4488409544 | Black Swan Group | Hedge Fund Risk Analyst | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/gas-power-market-risk-analyst-at-marlin-selection-recruitment-4488166725 | Marlin Selection Recruitment | Gas & Power Market Risk Analyst | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/l-s-investment-analyst-at-alexander-chapman-4488161713 | Alexander Chapman | L/S Investment Analyst | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-scout-global-4485826581 | Scout Global | Investment Analyst | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-european-real-estate-global-bank-at-greenwich-partners-4488192274 | Greenwich Partners | Equity Research Analyst, European Real Estate, Global Bank | Greater London, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-perigus-energy-4479390755 | Perigus Energy | Financial Analyst | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487378386 | Joblet-AI | M&A Research Analyst (Remote) | United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-%E2%80%93-venture-capital-at-cornell-search-4478669808 | Cornell Search | Investment Associate – Venture Capital | Cardiff, Wales, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487395047 | Joblet-AI | Equity Research Analyst (Remote) | United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-industrial-consumer-at-baird-4487608302 | Baird | Investment Banking Analyst - Industrial & Consumer | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-industrials-at-metis-search-4473171400 | Metis Search | Investment Banking - Industrials | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-the-consultancy-group-london-4486251680 | The Consultancy Group (London) | Corporate Finance Analyst | Dartford, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-corporate-finance-bristol-at-alvarez-marsal-4479890421 | Alvarez & Marsal | Associate, Corporate Finance (Bristol) | Birmingham, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-fund-accountant-at-equifind-4488159699 | Equifind | Junior Fund Accountant | London, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/client-accountant-funds-at-iq-eq-4480504225 | IQ-EQ | Client Accountant - Funds | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-equifind-4488161616 | Equifind | Financial Controller | City Of London, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-marks-sattin-4486248562 | Marks Sattin | Management Accountant | London Area, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-property-at-frasers-group-4488160799 | Frasers Group | Management Accountant - Property | Shirebrook, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-trinity-house-group-4484382193 | Trinity House Group | Management Accountant | Abingdon-On-Thames, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-echo-4487345742 | Echo | Management Accountant | Walsall, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-gkn-aerospace-4487322567 | GKN Aerospace | Assistant Management Accountant | Bristol, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-mears-group-plc-4434030589 | Mears Group PLC | Management Accountant | Gloucestershire, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-relationship-banking-at-hsbc-innovation-banking-4488414352 | HSBC Innovation Banking | Graduate - Relationship Banking | London, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-relationship-banking-at-archer-4487386781 | Archer | Graduate - Relationship Banking | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-trainee-accountancy-at-sd-business-management-4488153360 | SD Business Management | Graduate trainee - accountancy | Glasgow City, Scotland, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-operations-graduate-programme-%E2%80%93-northern-ireland-september-2027-intake-at-ey-4471483351 | EY | Finance Operations Graduate Programme – Northern Ireland - September 2027 Intake | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/systems-project-accountant/57537771 | Aster Group | Systems & Project Accountant | Bristol, Avon | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-finance-analyst/57540629 | Greencore | Interim Finance Analyst | Northampton, Northamptonshire | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57530920 | Michael Page Finance | FP&A Analyst | Peterborough, Cambridgeshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57531510 | In2 Consult | FP&A Analyst | Slough, Berkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57524496 | Halliday Marx | FP&A Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57524089 | Distinct Recruitment | Finance Analyst | Derby, Derbyshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57536084 | Harper May Ltd | Finance Analyst | City of London, London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57536364 | Robert Walters | Finance Analyst | Surrey Quays, London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57532479 | Investigo | Finance Analyst | Hemel Hempstead, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/insurance-finance-analyst/57531324 | Insight Recruitment Solutions Limited | Insurance Finance Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/trade-finance-analyst-junior-arm-to-rm-mandarin-preferred/57530981 | Harvey Nash | Trade Finance Analyst (Junior ARM to RM) (Mandarin preferred) | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57523746 | Signet Resources | Finance Business Partner | Slough, Berkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant/57537297 | Robert Walters | Financial Accountant | Birmingham, West Midlands (County) | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/credit-analyst/57540471 | Reed | Credit Analyst | City of London, London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/credit-operations-support-graduate/57536031 | Connect Recruitment Consultants Ltd. | Credit Operations Support Graduate | Slough, Berkshire | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/analyst-programme-capital-solutions-barings/57527859 | eFinancialCareers | Analyst Programme - Capital Solutions - Barings | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-analyst-pricing-risk-model-validation-macquarie-group/57536552 | eFinancialCareers | Quantitative Analyst, Pricing Risk Model Validation - Macquarie Group | London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/risk-valuation-analyst-london-tikehau-capital/57527916 | eFinancialCareers | Risk & Valuation Analyst, London - Tikehau Capital | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/investment-analyst/57538040 | Reed | Investment Analyst | Coventry, West Midlands (County) | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fund-accounting-analyst/57540632 | Adecco | Fund Accounting Analyst | London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/cash-equity-quant-researcher-london-new-york-open/57527927 | eFinancialCareers | Cash Equity Quant Researcher / London/ New York - Open | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equities/57527870 | eFinancialCareers | Quantitative Researcher - Systematic Equities | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/aim-research-analyst-quilter/57527886 | eFinancialCareers | AIM Research Analyst - Quilter | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-researcher-equity-strategies-mid-to-high-frequency/57527928 | eFinancialCareers | Quantitative Researcher - Equity Strategies Mid to High Frequency | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-researcher-macro-systematic-strategies/57527926 | eFinancialCareers | Quantitative Researcher - Macro Systematic Strategies | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57534610 | eFinancialCareers | Finance Analyst | London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/accounts-assistant-progression-to-chartered-accountant/57536249 | Ernest Gordon Recruitment Limited | Accounts Assistant (Progression to Chartered Accountant) | Brighton, East Sussex | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57536236 | Atom Bank | Finance Business Partner | Newcastle Upon Tyne, Tyne and Wear | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant--accounts-administration-6-month-ftc/57531036 | Rendall & Rittner | Financial Accountant – Accounts & Administration 6 Month FTC | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant/57540747 | Reed | Financial Accountant | Holborn, London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/treasury-accountant/57534932 | Handpicked Recruitment Limited | Treasury Accountant | London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner-grants/57523853 | Mackie Myers | Finance Business Partner- Grants | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57532879 | Reed | Management Accountant | Liverpool, Merseyside | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/group-management-accountant/57540501 | Addington Ball Recruitment Ltd | Group Management Accountant | Milton Keynes, Buckinghamshire | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57531271 | Hays Specialist Recruitment Limited | Management Accountant | Oxford, Oxfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/service-charge-accountant/57533588 | PARALLEL RECRUITMENT LTD | Service Charge Accountant | Stockport, Cheshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant-fixed-term-contract/57538817 | Lightfoot | Management Accountant (Fixed Term Contract) | Exeter, Devon | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57534852 | Kennedy Pearce Consulting | Management Accountant | London | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57523485 | STONEMONT PARTNERS LIMITED | Management Accountant | Cambridge, Cambridgeshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57533298 | Michael Page Finance | Management Accountant | Epsom, Surrey | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57532854 | Ambition Europe Limited | Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57532588 | Gleeson Recruitment Group | Management Accountant | Solihull, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/dealer-finance-operations-graduate/57533899 | Connect Recruitment Consultants Ltd. | Dealer Finance Operations Graduate | Slough, Berkshire | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/graduate-financial-accountant/57537301 | Robert Walters | Graduate Financial Accountant | Birmingham, West Midlands (County) | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/graduate-accountant-customer-support/57524224 | Matched Group | Graduate Accountant - Customer Support | Wokingham, Berkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/graduate-assistant-accountant/57534711 | STORMX RECRUITMENT LIMITED | Graduate Assistant Accountant | Hertford, Hertfordshire | posted: 2026-11-06 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/dutch-speaking-finance-graduate-client-service-associate/57530839 | Language Matters | Dutch speaking Finance Graduate Client Service Associate | Canary Wharf, London | note: via Reed
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127697560 | S1Jobs | Graduate Quantity Surveyor Assistant Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127697544 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127697504 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-xero-127692790 | S1Jobs | Accountant Xero | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-controller-127692786 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-accountant-127692690 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127692689 | S1Jobs | Corporate Finance Specialist | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-remote-part-time-127692680 | S1Jobs | Accountant Remote Part Time | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-business-partner-12-month-ftc-127688273 | S1Jobs | Finance Business Partner 12 Month Ftc | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-analyst-127687715 | S1Jobs | Finance Analyst | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-business-partner-127680130 | S1Jobs | Finance Business Partner | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/client-accountant-127667909 | S1Jobs | Client Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-m-e-127667904 | S1Jobs | Quantity Surveyor M E | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/managing-quantity-surveyor-127667695 | S1Jobs | Managing Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127667670 | S1Jobs | Management Accountant 1 Year Contract Part Time | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/reporting-accountant-127667666 | S1Jobs | Reporting Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127667661 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127667655 | S1Jobs | Trainee Finance Assistant Graduate | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/uk-statutory-reporting-accountant-127657830 | S1Jobs | Uk Statutory Reporting Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-accountant-127656836 | S1Jobs | Assistant Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127655695 | S1Jobs | Assistant Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/corporate-accountant-hybrid-working-127651677 | S1Jobs | Corporate Accountant Hybrid Working | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-127651663 | S1Jobs | Graduate Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-127649281 | S1Jobs | Quantity Surveyor Pqs | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-nec-127649278 | S1Jobs | Quantity Surveyor Nec | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/part-qualified-management-accountant-127649270 | S1Jobs | Part Qualified Management Accountant | Scotland | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/finance-business-partner/ | via ScotJobsNet | Finance Business Partner | Lanarkshire, Scotland | posted: 2026-11-06 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/chartered-accountant/ | via ScotJobsNet | Chartered Accountant | Edinburgh, Scotland | posted: 2026-11-07 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/management-accountant-9/ | via ScotJobsNet | Management Accountant | Glasgow, Scotland | posted: 2026-11-06 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/financial-accountant/ | via ScotJobsNet | Financial Accountant | Aberdeenshire, Scotland | posted: 2026-11-06 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/commercial-management-accountant/ | via ScotJobsNet | Commercial Management Accountant | Lanarkshire, Scotland | posted: 2026-11-06 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/interim-financial-accountant/ | via ScotJobsNet | Interim Financial Accountant | Lanarkshire, Scotland | posted: 2026-11-06 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/interim-accountant-local-government/ | via ScotJobsNet | Interim Accountant – Local Government | Midlothian, Scotland | posted: 2026-11-06 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/accountant-2/ | via ScotJobsNet | Accountant | Scotland, Scotland | posted: 2026-11-06 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/statutory-reporting-accountant/ | via ScotJobsNet | Statutory Reporting Accountant | Aberdeenshire, Scotland | posted: 2026-11-04 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/assistant-management-accountant/ | via ScotJobsNet | Assistant Management Accountant | Glasgow, Scotland | posted: 2026-11-04 | note: via ScotJobsNet
 
 ## Processed
