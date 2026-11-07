@@ -532,5 +532,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127688563 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/accountant-127667677 | S1Jobs | Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/finance-analyst-127656275 | S1Jobs | Finance Analyst | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/v-i-e-12-months-financial-planning-amp-analysis-f-m-london-at-natixis-investment-managers-4401611824 | Natixis Investment Managers | V.I.E. - 12 months - Financial Planning &amp; Analysis F/M - London | London, England, United Kingdom | posted: 2026-11-06 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57531561 | Sphere Digital Recruitment | Finance Business Partner | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127688562 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127663083 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/finance-analyst-2/ | via ScotJobsNet | Finance Analyst | Scotland, Scotland | posted: 2026-11-07 | note: via ScotJobsNet
 
 ## Processed

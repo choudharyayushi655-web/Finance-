@@ -1077,6 +1077,11 @@
    "register_name": "NatWest Group PLC",
    "match": "alias"
   },
+  "Natixis Investment Managers": {
+   "licensed": true,
+   "register_name": "Natixis Investment Managers UK LImited",
+   "match": "exact"
+  },
   "New Avenues": {
    "licensed": false,
    "register_name": null,
@@ -1495,6 +1500,11 @@
   "Spectrum Brands (UK) Limited": {
    "licensed": true,
    "register_name": "Spectrum Brands (UK) Limited",
+   "match": "exact"
+  },
+  "Sphere Digital Recruitment": {
+   "licensed": true,
+   "register_name": "Sphere Digital Recruitment Limited",
    "match": "exact"
   },
   "Squarepoint Capital": {
