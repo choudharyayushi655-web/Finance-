@@ -727,6 +727,11 @@
    "register_name": "IQ EQ (UK) Services Limited",
    "match": "exact"
   },
+  "IVC Evidensia": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "In2 Consult": {
    "licensed": false,
    "register_name": null,
@@ -1691,6 +1696,11 @@
    "licensed": true,
    "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
    "match": "alias"
+  },
+  "Vecta": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Ventula Consulting": {
    "licensed": false,

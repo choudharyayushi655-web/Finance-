@@ -553,5 +553,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-william-blair-4469766291 | William Blair | Investment Banking Associate, Healthcare | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/commercial-analyst/57538349 | Pavilion Recruitment Solutions | Commercial Analyst | Crawley, Surrey | posted: 2026-11-06 | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127667648 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-integrations-%E2%80%93-global-business-services-12-month-fixed-term-contract-at-ivc-evidensia-4460981986 | IVC Evidensia | Management Accountant, Integrations – Global Business Services - 12 Month Fixed Term Contract | Bristol, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-march-2027-at-vecta-4488746235 | Vecta | Graduate Finance Broker Programme - March 2027 | Greater London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127667636 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed

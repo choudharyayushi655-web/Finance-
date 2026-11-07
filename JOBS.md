@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 7 Nov, 19:17** (UK time) · **299 open roles** at 150 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 7 Nov, 20:08** (UK time) · **302 open roles** at 152 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 7 Nov, 19:17** · hourly scan · checked 200 boards · **4 new roles**
+**Sat 7 Nov, 20:08** · hourly scan · checked 200 boards · **3 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Project Finance Analyst (PMO)](https://www.linkedin.com/jobs/view/project-finance-analyst-pmo-at-cgi-4480509242) | CGI | Leatherhead, England, United Kingdom | ✅ |
-| 2026-11-06 | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57538349) | Pavilion Recruitment Solutions | Crawley, Surrey | ❔ |
-
-### Investment (IB / PE) CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-07 | [Investment Banking Associate, Healthcare](https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-william-blair-4469766291) | William Blair | London, England, United Kingdom | ✅ |
+| 2026-11-07 | [Management Accountant, Integrations – Global Business Services - 12 Month Fixed Term Contract](https://www.linkedin.com/jobs/view/management-accountant-integrations-%E2%80%93-global-business-services-12-month-fixed-term-contract-at-ivc-evidensia-4460981986) | IVC Evidensia | Bristol, England, United Kingdom | ❔ |
 
-### Other (fits no CV closely, may still be worth a look): 1
+### Other (fits no CV closely, may still be worth a look): 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127667648) | S1Jobs | Scotland | ❔ |
+| 2026-11-07 | [Graduate Finance Broker Programme - March 2027](https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-march-2027-at-vecta-4488746235) | Vecta | Greater London, England, United Kingdom | ❔ |
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127667636) | S1Jobs | Scotland | ❔ |
 
 ## Top picks for each CV
 
@@ -75,6 +69,24 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 7 November
+
+<details>
+<summary><b>20:08</b> · hourly scan · <b>3 new</b> → Finance 1 · Other 2</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-07 | [Management Accountant, Integrations – Global Business Services - 12 Month Fixed Term Contract](https://www.linkedin.com/jobs/view/management-accountant-integrations-%E2%80%93-global-business-services-12-month-fixed-term-contract-at-ivc-evidensia-4460981986) | IVC Evidensia | Bristol, England, United Kingdom | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-07 | [Graduate Finance Broker Programme - March 2027](https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-march-2027-at-vecta-4488746235) | Vecta | Greater London, England, United Kingdom | ❔ |
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127667636) | S1Jobs | Scotland | ❔ |
+
+</details>
 
 <details>
 <summary><b>19:17</b> · hourly scan · <b>4 new</b> → Finance 2 · Investment 1 · Other 1</summary>
@@ -715,9 +727,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (136)](#finance-fpa-cv-136) · [Credit (36)](#credit-cv-36) · [Equity (18)](#equity-cv-18) · [Investment (34)](#investment-ib--pe-cv-34) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (52)](#other-fits-no-cv-closely-may-still-be-worth-a-look-52)
+Everything matched so far, newest first within each CV: [Finance (137)](#finance-fpa-cv-137) · [Credit (36)](#credit-cv-36) · [Equity (18)](#equity-cv-18) · [Investment (34)](#investment-ib--pe-cv-34) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (54)](#other-fits-no-cv-closely-may-still-be-worth-a-look-54)
 
-### Finance (FP&A) CV: 136
+### Finance (FP&A) CV: 137
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -739,6 +751,7 @@ Everything matched so far, newest first within each CV: [Finance (136)](#finance
 | — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127687704) | S1Jobs | Scotland | ❔ |
 | — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127656275) | S1Jobs | Scotland | ❔ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57531561) | Sphere Digital Recruitment | London | ✅ |
+| 2026-11-07 | [Management Accountant, Integrations – Global Business Services - 12 Month Fixed Term Contract](https://www.linkedin.com/jobs/view/management-accountant-integrations-%E2%80%93-global-business-services-12-month-fixed-term-contract-at-ivc-evidensia-4460981986) | IVC Evidensia | Bristol, England, United Kingdom | ❔ |
 | 2026-11-07 | [Client Accountant - Funds](https://www.linkedin.com/jobs/view/client-accountant-funds-at-iq-eq-4480504225) | IQ-EQ | Newcastle Upon Tyne, England, United Kingdom | ✅ |
 | — | [Finance Business Partner- Grants](https://www.reed.co.uk/jobs/finance-business-partner-grants/57523853) | Mackie Myers | London | ❔ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57523746) | Signet Resources | Slough, Berkshire | ❔ |
@@ -999,7 +1012,7 @@ Everything matched so far, newest first within each CV: [Finance (136)](#finance
 | 2026-10-29 | [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030) | Aztec Group | Southampton | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 52
+### Other (fits no CV closely, may still be worth a look): 54
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1027,6 +1040,8 @@ Everything matched so far, newest first within each CV: [Finance (136)](#finance
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127680087) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127667698) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127667648) | S1Jobs | Scotland | ❔ |
+| 2026-11-07 | [Graduate Finance Broker Programme - March 2027](https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-march-2027-at-vecta-4488746235) | Vecta | Greater London, England, United Kingdom | ❔ |
+| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127667636) | S1Jobs | Scotland | ❔ |
 | 2026-11-06 | [Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-06 | [Graduate - Relationship Banking](https://www.linkedin.com/jobs/view/graduate-relationship-banking-at-hsbc-innovation-banking-4488414352) | HSBC Innovation Banking | London, England, United Kingdom | ❔ |
 | 2026-11-06 | [Graduate trainee - accountancy](https://www.linkedin.com/jobs/view/graduate-trainee-accountancy-at-sd-business-management-4488153360) | SD Business Management | Glasgow City, Scotland, United Kingdom | ❔ |
