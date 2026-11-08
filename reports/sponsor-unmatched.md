@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 380 firms checked, 276 matched, 104 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 384 firms checked, 279 matched, 105 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (104)
+## Not found (105)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -37,6 +37,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ernest Gordon Recruitment Limited
 - Fletcher George Recruitment Ltd
 - Flex
+- Forward Role
 - GSR Markets
 - Gemini
 - Gleeson Recruitment Group
@@ -111,7 +112,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (23)
+## Matched automatically by close name; worth a glance (24)
 
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
@@ -135,4 +136,5 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Plum → Plum Fintech (prefix)
 - SMBC → SMBC Bank International plc (prefix)
 - Silverfin → Silverfin Software Ltd (prefix)
+- Standard Chartered → Standard Chartered Bank (prefix)
 - SumUp → SumUp Payments Limited (prefix)

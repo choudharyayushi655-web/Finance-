@@ -87,6 +87,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Arcadis": {
+   "licensed": true,
+   "register_name": "Arcadis LLP",
+   "match": "exact"
+  },
   "Archer": {
    "licensed": true,
    "register_name": "ARCHER (UK) LIMITED",
@@ -582,6 +587,11 @@
    "register_name": "Form3 Technology Limited",
    "match": "prefix"
   },
+  "Forward Role": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Franklin Templeton": {
    "licensed": true,
    "register_name": "Franklin Templeton Global Investors Limited",
@@ -1006,6 +1016,11 @@
    "licensed": true,
    "register_name": "MAN CORPORATION LIMITED",
    "match": "alias"
+  },
+  "Manpower": {
+   "licensed": true,
+   "register_name": "Manpower UK Limited",
+   "match": "exact"
   },
   "Marex": {
    "licensed": true,
@@ -1626,6 +1641,11 @@
    "licensed": true,
    "register_name": "Squarepoint Capital LLP",
    "match": "alias"
+  },
+  "Standard Chartered": {
+   "licensed": true,
+   "register_name": "Standard Chartered Bank",
+   "match": "prefix"
   },
   "Standard Life plc": {
    "licensed": false,

@@ -873,7 +873,7 @@
  },
  "https://www.linkedin.com/jobs/view/investment-banking-emea-m-a-diversified-industries-associate-london-at-jpmorganchase-4472245363": {
   "status": "live",
-  "checked_at": "2026-11-08T12:07:58Z"
+  "checked_at": "2026-11-08T16:05:14Z"
  },
  "https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086": {
   "status": "unknown",
@@ -882,5 +882,17 @@
  "https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457": {
   "status": "live",
   "checked_at": "2026-11-08T15:07:53Z"
+ },
+ "https://www.linkedin.com/jobs/view/management-accountant-at-brown-brown-4427951209": {
+  "status": "unknown",
+  "checked_at": "2026-11-08T16:05:03Z"
+ },
+ "https://www.linkedin.com/jobs/view/international-business-partner-accountant-at-flex-4444326963": {
+  "status": "live",
+  "checked_at": "2026-11-08T16:05:07Z"
+ },
+ "https://www.linkedin.com/jobs/view/project-accountant-at-leonardo-4479378893": {
+  "status": "unknown",
+  "checked_at": "2026-11-08T16:05:10Z"
  }
 }
