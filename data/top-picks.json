@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T18:08:44.137Z",
+ "generated_at": "2026-11-08T19:09:09.055Z",
  "order": [
   "finance",
   "credit",
@@ -1916,6 +1916,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

@@ -594,5 +594,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/analyst-global-quantitative-research/57542662 | eFinancialCareers | Analyst, Global Quantitative Research | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-distinct-b-corp-4488784840 | Distinct | B Corp | Management Accountant | Leeds, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/quantitative-researcher/57539406 | eFinancialCareers | Quantitative Researcher | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048 | SOCOTEC UK & Ireland | Finance Business Partner | Burton Upon Trent, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 
 ## Processed

@@ -1507,6 +1507,11 @@
    "register_name": "SMBC Bank International plc",
    "match": "prefix"
   },
+  "SOCOTEC UK & Ireland": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "STEP Fusion": {
    "licensed": false,
    "register_name": null,

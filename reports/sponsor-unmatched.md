@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 382 firms checked, 278 matched, 104 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 383 firms checked, 278 matched, 105 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (104)
+## Not found (105)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -89,6 +89,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Rendall & Rittner
 - S1Jobs
 - SD Business Management
+- SOCOTEC UK & Ireland
 - STEP Fusion
 - STONEMONT PARTNERS LIMITED
 - STORMX RECRUITMENT LIMITED
