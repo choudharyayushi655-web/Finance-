@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T09:36:11.546Z",
+ "generated_at": "2026-11-08T10:07:53.647Z",
  "order": [
   "finance",
   "credit",
@@ -217,7 +217,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 14,
+   "matching": 15,
    "picks": [
     {
      "title": "Fund Accounting Analyst",
@@ -232,15 +232,14 @@
      "sponsor": true
     },
     {
-     "title": "UK Product Team – NAV & Valuation Oversight - Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-11-03",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341",
+     "title": "Investment Operations Analyst",
+     "company": "LGPS Central",
+     "location": "Wolverhampton, England, United Kingdom",
+     "posted": "2026-11-08",
+     "url": "https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441",
      "score": 21,
      "why": [
-      "NAV",
-      "Valuation Oversight"
+      "Investment Operations"
      ],
      "sponsor": true
     }
@@ -1867,6 +1866,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 21
   }
  }
 }

@@ -581,5 +581,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427 | Goodman Masson | Finance Analyst - Private Equity | London Area, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-controller-private-markets-at-aria-partners-4479818826 | Aria Partners | Fund Controller - Private Markets | London Area, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-6-months-maternity-cover-at-harley-davidson-motor-company-4479358900 | Harley-Davidson Motor Company | Credit Risk Analyst- (6 Months Maternity Cover) | Oxford, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441 | LGPS Central | Investment Operations Analyst | Wolverhampton, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 
 ## Processed

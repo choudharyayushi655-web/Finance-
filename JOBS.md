@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 09:36** (UK time) · **324 open roles** at 161 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 8 Nov, 10:07** (UK time) · **325 open roles** at 162 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 09:35** · hourly scan · checked 200 boards · **1 new role**
+**Sun 8 Nov, 10:07** · hourly scan · checked 200 boards · **1 new role**
 
-### Credit CV: 1
+### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-07 | [Credit Risk Analyst- (6 Months Maternity Cover)](https://www.linkedin.com/jobs/view/credit-risk-analyst-6-months-maternity-cover-at-harley-davidson-motor-company-4479358900) | Harley-Davidson Motor Company | Oxford, England, United Kingdom | ❔ |
+| 2026-11-08 | [Investment Operations Analyst](https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441) | LGPS Central | Wolverhampton, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -52,16 +52,27 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 2. [EMEA Equity Research - Real Estate - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-10-23 · ✅
 
-**Fund CV (written for India; tweak the header for UK roles)** (14 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (15 matching)
 
 1. [Fund Accounting Analyst](https://www.reed.co.uk/jobs/fund-accounting-analyst/57540632) · Adecco · London · posted 2026-11-06 · ✅
-2. [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-03 · ✅
+2. [Investment Operations Analyst](https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441) · LGPS Central · Wolverhampton, England, United Kingdom · posted 2026-11-08 · ✅
 
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>10:07</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Investment Operations Analyst](https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441) | LGPS Central | Wolverhampton, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>09:35</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -883,7 +894,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (147)](#finance-fpa-cv-147) · [Credit (39)](#credit-cv-39) · [Equity (19)](#equity-cv-19) · [Investment (35)](#investment-ib--pe-cv-35) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
+Everything matched so far, newest first within each CV: [Finance (147)](#finance-fpa-cv-147) · [Credit (39)](#credit-cv-39) · [Equity (19)](#equity-cv-19) · [Investment (35)](#investment-ib--pe-cv-35) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
 
 ### Finance (FP&A) CV: 147
 
@@ -1173,10 +1184,11 @@ Everything matched so far, newest first within each CV: [Finance (147)](#finance
 | — | [Associate, Real Estate Asset Management Operations](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 6
+### Fund CV (written for India; tweak the header for UK roles): 7
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-08 | [Investment Operations Analyst](https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441) | LGPS Central | Wolverhampton, England, United Kingdom | ✅ |
 | 2026-11-07 | [Fund Accountant - Private Markets](https://www.linkedin.com/jobs/view/fund-accountant-private-markets-at-aria-partners-4487503898) | Aria Partners | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Fund Accounting Analyst](https://www.reed.co.uk/jobs/fund-accounting-analyst/57540632) | Adecco | London | ✅ |
 | 2026-11-06 | [Junior Fund Accountant](https://www.linkedin.com/jobs/view/junior-fund-accountant-at-equifind-4488159699) | Equifind | London, England, United Kingdom | ❔ |

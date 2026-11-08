@@ -872,6 +872,11 @@
    "register_name": "Kroo Bank Ltd",
    "match": "prefix"
   },
+  "LGPS Central": {
+   "licensed": true,
+   "register_name": "LGPS Central Limited",
+   "match": "exact"
+  },
   "LSEG": {
    "licensed": true,
    "register_name": "London Stock Exchange Group plc",
