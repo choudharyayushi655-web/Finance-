@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T17:07:41.321Z",
+ "generated_at": "2026-11-08T18:08:44.137Z",
  "order": [
   "finance",
   "credit",
@@ -1908,6 +1908,11 @@
    "score": 0
   },
   "https://www.reed.co.uk/jobs/analyst-global-quantitative-research/57542662": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/quantitative-researcher/57539406": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0

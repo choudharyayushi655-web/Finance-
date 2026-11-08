@@ -592,5 +592,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-arcadis-4461487070 | Arcadis | Risk Analyst | York, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-markets-graduate-programme-uk-2027-at-standard-chartered-4488768815 | Standard Chartered | Financial Markets Graduate Programme UK 2027 | London, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/analyst-global-quantitative-research/57542662 | eFinancialCareers | Analyst, Global Quantitative Research | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-distinct-b-corp-4488784840 | Distinct | B Corp | Management Accountant | Leeds, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/quantitative-researcher/57539406 | eFinancialCareers | Quantitative Researcher | London | note: via Reed
 
 ## Processed
