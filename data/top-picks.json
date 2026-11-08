@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T13:10:24.797Z",
+ "generated_at": "2026-11-08T14:08:36.824Z",
  "order": [
   "finance",
   "credit",
@@ -1871,6 +1871,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
   }
  }
 }

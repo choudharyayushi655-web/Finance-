@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 13:10** (UK time) · **325 open roles** at 162 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 8 Nov, 14:08** (UK time) · **327 open roles** at 163 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 13:07** · hourly scan · checked 200 boards · **0 new roles**
+**Sun 8 Nov, 14:07** · hourly scan · checked 200 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 8 Nov, 12:07** (1: Finance 1); open it in the scan log below.
+### Equity CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Buy side investment analyst](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
+| 2026-11-08 | [Buy side investment analyst assistent](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +63,18 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>14:07</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
+
+#### Equity CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Buy side investment analyst](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
+| 2026-11-08 | [Buy side investment analyst assistent](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 13:07</sub>
 
@@ -914,7 +931,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (148)](#finance-fpa-cv-148) · [Credit (39)](#credit-cv-39) · [Equity (17)](#equity-cv-17) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
+Everything matched so far, newest first within each CV: [Finance (148)](#finance-fpa-cv-148) · [Credit (39)](#credit-cv-39) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
 
 ### Finance (FP&A) CV: 148
 
@@ -1113,10 +1130,12 @@ Everything matched so far, newest first within each CV: [Finance (148)](#finance
 | 2026-10-15 | [Venture & Growth Debt - Analyst - London](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Venture---Growth-Debt---Analyst---London_R261163) | BlackRock | London, Greater London | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 17
+### Equity CV: 19
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-08 | [Buy side investment analyst](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
+| 2026-11-08 | [Buy side investment analyst assistent](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
 | — | [AIM Research Analyst - Quilter](https://www.reed.co.uk/jobs/aim-research-analyst-quilter/57527886) | eFinancialCareers | London | ✅ |
 | 2026-11-07 | [Quantitative Researcher Equities](https://www.linkedin.com/jobs/view/quantitative-researcher-equities-at-drw-4408269115) | DRW | London, England, United Kingdom | ✅ |
 | — | [Cash Equity Quant Researcher / London/ New York - Open](https://www.reed.co.uk/jobs/cash-equity-quant-researcher-london-new-york-open/57527927) | eFinancialCareers | London | ✅ |

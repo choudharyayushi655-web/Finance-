@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 376 firms checked, 274 matched, 102 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 377 firms checked, 274 matched, 103 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (102)
+## Not found (103)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -75,6 +75,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Motorway
 - New Avenues
 - Nucleus Commercial Finance
+- OAK LIFE SCIENCE LTD
 - Octopus Money
 - PA Consulting
 - PARALLEL RECRUITMENT LTD

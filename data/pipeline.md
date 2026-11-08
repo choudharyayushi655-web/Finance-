@@ -584,5 +584,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441 | LGPS Central | Investment Operations Analyst | Wolverhampton, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-m-a-diversified-industries-associate-london-at-jpmorganchase-4472245363 | JPMorganChase | Investment Banking - EMEA M&A Diversified Industries - Associate - London | Greater London, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57542536 | Cedar | FP&A Analyst | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086 | OAK LIFE SCIENCE LTD | Buy side investment analyst | London, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457 | OAK LIFE SCIENCE LTD | Buy side investment analyst assistent | London, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 
 ## Processed
