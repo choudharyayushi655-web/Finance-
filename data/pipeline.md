@@ -574,5 +574,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57538142 | Robert Half | Management Accountant | Leeds, West Yorkshire | posted: 2026-11-07 | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127651654 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127651630 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-equities-at-drw-4408269115 | DRW | Quantitative Researcher Equities | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 
 ## Processed
