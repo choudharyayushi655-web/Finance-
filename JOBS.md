@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 10:07** (UK time) · **325 open roles** at 162 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 8 Nov, 11:08** (UK time) · **326 open roles** at 162 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 10:07** · hourly scan · checked 200 boards · **1 new role**
+**Sun 8 Nov, 11:07** · hourly scan · checked 200 boards · **1 new role**
 
-### Fund CV (written for India; tweak the header for UK roles): 1
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-08 | [Investment Operations Analyst](https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441) | LGPS Central | Wolverhampton, England, United Kingdom | ✅ |
+| 2026-11-08 | [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-m-a-diversified-industries-associate-london-at-jpmorganchase-4472245363) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>11:07</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-m-a-diversified-industries-associate-london-at-jpmorganchase-4472245363) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>10:07</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -894,7 +905,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (147)](#finance-fpa-cv-147) · [Credit (39)](#credit-cv-39) · [Equity (19)](#equity-cv-19) · [Investment (35)](#investment-ib--pe-cv-35) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
+Everything matched so far, newest first within each CV: [Finance (147)](#finance-fpa-cv-147) · [Credit (39)](#credit-cv-39) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
 
 ### Finance (FP&A) CV: 147
 
@@ -1116,10 +1127,11 @@ Everything matched so far, newest first within each CV: [Finance (147)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 35
+### Investment (IB / PE) CV: 36
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-08 | [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-m-a-diversified-industries-associate-london-at-jpmorganchase-4472245363) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-07 | [Investment Banking Analyst - Industrial & Consumer](https://www.linkedin.com/jobs/view/investment-banking-analyst-industrial-consumer-at-baird-4487608302) | Baird | London, England, United Kingdom | ✅ |
 | 2026-11-07 | [Investment Banking Associate, Healthcare](https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-william-blair-4469766291) | William Blair | London, England, United Kingdom | ✅ |
 | — | [Risk & Valuation Analyst, London - Tikehau Capital](https://www.reed.co.uk/jobs/risk-valuation-analyst-london-tikehau-capital/57527916) | eFinancialCareers | London | ✅ |
