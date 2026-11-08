@@ -637,6 +637,11 @@
    "register_name": "Goldman Sachs International",
    "match": "exact"
   },
+  "Goodman Masson": {
+   "licensed": true,
+   "register_name": "Goodman Masson Ltd",
+   "match": "exact"
+  },
   "Graham Capital": {
    "licensed": true,
    "register_name": "Graham Capital LLP",
