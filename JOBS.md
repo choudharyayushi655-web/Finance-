@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 12:07** (UK time) · **327 open roles** at 163 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 8 Nov, 13:10** (UK time) · **325 open roles** at 162 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 12:07** · hourly scan · checked 200 boards · **1 new role**
+**Sun 8 Nov, 13:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57542536) | Cedar | London | ✅ |
+Nothing new this time. The last scan that found something was **Sun 8 Nov, 12:07** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<sub>Nothing new at: 13:07</sub>
 
 <details>
 <summary><b>12:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -478,7 +476,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>12:21</b> · hourly scan · <b>125 new</b> → Finance 77 · Credit 11 · Equity 10 · Investment 6 · Consulting 1 · Fund 2 · Other 18</summary>
+<summary><b>12:21</b> · hourly scan · <b>123 new</b> → Finance 77 · Credit 11 · Equity 8 · Investment 6 · Consulting 1 · Fund 2 · Other 18</summary>
 
 #### Finance (FP&A) CV: 77
 
@@ -578,13 +576,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-06 | [Hedge Fund Risk Analyst](https://www.linkedin.com/jobs/view/hedge-fund-risk-analyst-at-black-swan-group-4488409544) | Black Swan Group | London Area, United Kingdom | ✅ |
 | 2026-11-06 | [Credit Operations Support Graduate](https://www.reed.co.uk/jobs/credit-operations-support-graduate/57536031) | Connect Recruitment Consultants Ltd. | Slough, Berkshire | ❔ |
 
-#### Equity CV: 10
+#### Equity CV: 8
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-06 | [Equity Research Analyst, European Real Estate, Global Bank](https://www.linkedin.com/jobs/view/equity-research-analyst-european-real-estate-global-bank-at-greenwich-partners-4488192274) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
-| 2026-11-07 | [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487395047) | Joblet-AI | United Kingdom | ❔ |
-| 2026-11-07 | [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487378386) | Joblet-AI | United Kingdom | ❔ |
 | — | [AIM Research Analyst - Quilter](https://www.reed.co.uk/jobs/aim-research-analyst-quilter/57527886) | eFinancialCareers | London | ✅ |
 | 2026-11-06 | [L/S Investment Analyst](https://www.linkedin.com/jobs/view/l-s-investment-analyst-at-alexander-chapman-4488161713) | Alexander Chapman | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-scout-global-4485826581) | Scout Global | London Area, United Kingdom | ❔ |
@@ -639,6 +635,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Graduate Quantity Surveyor](https://www.s1jobs.com/job/graduate-quantity-surveyor-127651663) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor Pqs](https://www.s1jobs.com/job/quantity-surveyor-pqs-127649281) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor Nec](https://www.s1jobs.com/job/quantity-surveyor-nec-127649278) | S1Jobs | Scotland | ❔ |
+
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -916,7 +914,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (148)](#finance-fpa-cv-148) · [Credit (39)](#credit-cv-39) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
+Everything matched so far, newest first within each CV: [Finance (148)](#finance-fpa-cv-148) · [Credit (39)](#credit-cv-39) · [Equity (17)](#equity-cv-17) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
 
 ### Finance (FP&A) CV: 148
 
@@ -1115,12 +1113,10 @@ Everything matched so far, newest first within each CV: [Finance (148)](#finance
 | 2026-10-15 | [Venture & Growth Debt - Analyst - London](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Venture---Growth-Debt---Analyst---London_R261163) | BlackRock | London, Greater London | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 19
+### Equity CV: 17
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-07 | [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487395047) | Joblet-AI | United Kingdom | ❔ |
-| 2026-11-07 | [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487378386) | Joblet-AI | United Kingdom | ❔ |
 | — | [AIM Research Analyst - Quilter](https://www.reed.co.uk/jobs/aim-research-analyst-quilter/57527886) | eFinancialCareers | London | ✅ |
 | 2026-11-07 | [Quantitative Researcher Equities](https://www.linkedin.com/jobs/view/quantitative-researcher-equities-at-drw-4408269115) | DRW | London, England, United Kingdom | ✅ |
 | — | [Cash Equity Quant Researcher / London/ New York - Open](https://www.reed.co.uk/jobs/cash-equity-quant-researcher-london-new-york-open/57527927) | eFinancialCareers | London | ✅ |
@@ -1288,10 +1284,12 @@ Everything matched so far, newest first within each CV: [Finance (148)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>12 roles taken off the list because the firm closed the posting</summary>
+<summary>14 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 8 Nov, 13:08 | Equity Research Analyst (Remote) | Joblet-AI |
+| Sun 8 Nov, 13:08 | M&A Research Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 09:14 | Investment Banking Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 06:09 | 2027 Commodities and Global Markets Graduate Programme | targetjobs UK |
 | Sun 8 Nov, 01:33 | Finance Business Partner | Lloyd's of London |
