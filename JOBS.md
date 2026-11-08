@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 16:05** (UK time) · **335 open roles** at 170 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 8 Nov, 16:14** (UK time) · **333 open roles** at 168 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 16:05** · hourly scan · checked 200 boards · **5 new roles**
-
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57535773) | Manpower | Coventry, West Midlands (County) | ✅ |
-| — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57535569) | Forward Role | Leeds, West Yorkshire | ❔ |
+**Sun 8 Nov, 16:12** · hourly scan · checked 200 boards · **3 new roles**
 
 ### Credit CV: 1
 
@@ -78,14 +71,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Sunday 8 November
 
 <details>
-<summary><b>16:05</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 1 · Other 2</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57535773) | Manpower | Coventry, West Midlands (County) | ✅ |
-| — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57535569) | Forward Role | Leeds, West Yorkshire | ❔ |
+<summary><b>16:12</b> · hourly scan · <b>3 new</b> → Credit 1 · Other 2</summary>
 
 #### Credit CV: 1
 
@@ -982,7 +968,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (153)](#finance-fpa-cv-153) · [Credit (40)](#credit-cv-40) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (62)](#other-fits-no-cv-closely-may-still-be-worth-a-look-62)
+Everything matched so far, newest first within each CV: [Finance (151)](#finance-fpa-cv-151) · [Credit (40)](#credit-cv-40) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (62)](#other-fits-no-cv-closely-may-still-be-worth-a-look-62)
 
 ### Finance (FP&A) CV: 153
 

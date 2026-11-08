@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T16:05:14.781Z",
+ "generated_at": "2026-11-08T16:14:58.250Z",
  "order": [
   "finance",
   "credit",
@@ -1911,16 +1911,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.reed.co.uk/jobs/financial-accountant/57535773": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 7
-  },
-  "https://www.reed.co.uk/jobs/financial-accountant/57535569": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
   }
  }
 }
