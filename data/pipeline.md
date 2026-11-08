@@ -564,5 +564,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-private-markets-at-aria-partners-4474790264 | Aria Partners | FP&A - Private Markets | London Area, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-private-markets-at-aria-partners-4487503898 | Aria Partners | Fund Accountant - Private Markets | London Area, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127657800 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.reed.co.uk/jobs/portfolio-risk-analyst--investment-monitoring--wealth-management-jj-search/57541113 | eFinancialCareers | Portfolio Risk Analyst , Investment Monitoring , Wealth Management - JJ Search | London | posted: 2026-11-07 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/revenue-finance-business-partner/57537707 | Handle Recruitment | Revenue Finance Business Partner | London | posted: 2026-11-07 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/corporate-banking-associate-citi/57534639 | eFinancialCareers | Corporate Banking Associate - Citi | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/commercial-management-accountant/57534250 | Robert Half | Commercial Management Accountant | Glasgow, Lanarkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-controller-home-or-office-based/57538658 | Mackie Myers | Financial Controller (home or office based) | London | posted: 2026-11-07 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57532908 | Reed | Finance Business Partner | Glasgow, Lanarkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57534282 | Fletcher George Recruitment Ltd | Management Accountant | Leatherhead, Surrey | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57538142 | Robert Half | Management Accountant | Leeds, West Yorkshire | posted: 2026-11-07 | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127651654 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed

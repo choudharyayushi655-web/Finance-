@@ -537,6 +537,11 @@
    "register_name": "Flagstone Group Limited",
    "match": "exact"
   },
+  "Fletcher George Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Flock": {
    "licensed": true,
    "register_name": "Flock Limited",
@@ -656,6 +661,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Handle Recruitment": {
+   "licensed": true,
+   "register_name": "Handle Recruitment",
+   "match": "exact"
   },
   "Handpicked Recruitment Limited": {
    "licensed": false,
@@ -1385,6 +1395,11 @@
   "Risk Ledger": {
    "licensed": true,
    "register_name": "Risk Ledger Ltd",
+   "match": "exact"
+  },
+  "Robert Half": {
+   "licensed": true,
+   "register_name": "Robert Half Limited",
    "match": "exact"
   },
   "Robert Walters": {

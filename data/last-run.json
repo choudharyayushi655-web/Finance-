@@ -1,18 +1,13 @@
 {
-  "finished_at": "2026-11-07T23:16:19.223Z",
+  "finished_at": "2026-11-08T00:09:29.911Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 36299,
-  "filtered_out": 36268,
-  "new_matches": 3,
-  "boards_failed": 1,
-  "failed": [
-    {
-      "company": "BT Group",
-      "error": "HTTP 404 Not Found"
-    }
-  ]
+  "postings_seen": 36532,
+  "filtered_out": 36506,
+  "new_matches": 9,
+  "boards_failed": 0,
+  "failed": []
 }
