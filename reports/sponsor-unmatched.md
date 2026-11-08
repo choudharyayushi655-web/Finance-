@@ -4,7 +4,7 @@ Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/me
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (105)
+## Not found (104)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -37,7 +37,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ernest Gordon Recruitment Limited
 - Fletcher George Recruitment Ltd
 - Flex
-- Forward Role
 - GSR Markets
 - Gemini
 - Gleeson Recruitment Group

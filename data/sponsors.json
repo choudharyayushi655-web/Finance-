@@ -587,11 +587,6 @@
    "register_name": "Form3 Technology Limited",
    "match": "prefix"
   },
-  "Forward Role": {
-   "licensed": false,
-   "register_name": null,
-   "match": "none"
-  },
   "Franklin Templeton": {
    "licensed": true,
    "register_name": "Franklin Templeton Global Investors Limited",
@@ -1016,11 +1011,6 @@
    "licensed": true,
    "register_name": "MAN CORPORATION LIMITED",
    "match": "alias"
-  },
-  "Manpower": {
-   "licensed": true,
-   "register_name": "Manpower UK Limited",
-   "match": "exact"
   },
   "Marex": {
    "licensed": true,
