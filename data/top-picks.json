@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T03:08:41.071Z",
+ "generated_at": "2026-11-08T04:09:19.542Z",
  "order": [
   "finance",
   "credit",
@@ -1857,6 +1857,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-joblet-ai-4487391466": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }

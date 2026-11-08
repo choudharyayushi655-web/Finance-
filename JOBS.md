@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 03:08** (UK time) · **322 open roles** at 160 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 8 Nov, 04:09** (UK time) · **323 open roles** at 160 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 03:08** · hourly scan · checked 200 boards · **0 new roles**
+**Sun 8 Nov, 04:08** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sun 8 Nov, 02:08** (2: Finance 1 · Other 1); open it in the scan log below.
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-07 | [Investment Banking Analyst (Remote)](https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-joblet-ai-4487391466) | Joblet-AI | United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>04:08</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-07 | [Investment Banking Analyst (Remote)](https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-joblet-ai-4487391466) | Joblet-AI | United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 03:08, 02:50</sub>
 
@@ -850,7 +865,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (146)](#finance-fpa-cv-146) · [Credit (38)](#credit-cv-38) · [Equity (19)](#equity-cv-19) · [Investment (34)](#investment-ib--pe-cv-34) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (61)](#other-fits-no-cv-closely-may-still-be-worth-a-look-61)
+Everything matched so far, newest first within each CV: [Finance (146)](#finance-fpa-cv-146) · [Credit (38)](#credit-cv-38) · [Equity (19)](#equity-cv-19) · [Investment (35)](#investment-ib--pe-cv-35) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (61)](#other-fits-no-cv-closely-may-still-be-worth-a-look-61)
 
 ### Finance (FP&A) CV: 146
 
@@ -1070,13 +1085,14 @@ Everything matched so far, newest first within each CV: [Finance (146)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 34
+### Investment (IB / PE) CV: 35
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-07 | [Investment Banking Analyst - Industrial & Consumer](https://www.linkedin.com/jobs/view/investment-banking-analyst-industrial-consumer-at-baird-4487608302) | Baird | London, England, United Kingdom | ✅ |
 | 2026-11-07 | [Investment Banking Associate, Healthcare](https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-william-blair-4469766291) | William Blair | London, England, United Kingdom | ✅ |
 | — | [Risk & Valuation Analyst, London - Tikehau Capital](https://www.reed.co.uk/jobs/risk-valuation-analyst-london-tikehau-capital/57527916) | eFinancialCareers | London | ✅ |
+| 2026-11-07 | [Investment Banking Analyst (Remote)](https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-joblet-ai-4487391466) | Joblet-AI | United Kingdom | ❔ |
 | 2026-11-07 | [Fund Finance Associate, Private Equity](https://www.linkedin.com/jobs/view/fund-finance-associate-private-equity-at-deutsche-asset-management-4472213705) | Deutsche Asset Management | London, England, United Kingdom | ❔ |
 | 2026-11-07 | [Investment Banking - EMEA Media and Communications Advisory - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-media-and-communications-advisory-associate-london-at-jpmorganchase-4345917268) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-07 | [Central and Eastern Europe, the Middle East, and Africa (CEEMEA) Investment Banking Associate](https://www.linkedin.com/jobs/view/central-and-eastern-europe-the-middle-east-and-africa-ceemea-investment-banking-associate-at-deutsche-bank-4440086223) | Deutsche Bank | London, England, United Kingdom | ❔ |
