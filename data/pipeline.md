@@ -575,5 +575,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127651654 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127651630 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-equities-at-drw-4408269115 | DRW | Quantitative Researcher Equities | London, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-chartered-accountant-at-armstrong-watson-4460345110 | Armstrong Watson | Graduate / Chartered Accountant | Skipton, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/emerging-markets-quantitative-researcher-hsbcjp00059549/57541880 | Appcastenterprise | Emerging Markets Quantitative Researcher HSBCJP00059549 | London | note: via Reed
 
 ## Processed

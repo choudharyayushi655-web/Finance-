@@ -82,6 +82,11 @@
    "register_name": "Aon UK  Limited",
    "match": "exact"
   },
+  "Appcastenterprise": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Archer": {
    "licensed": true,
    "register_name": "ARCHER (UK) LIMITED",
@@ -98,6 +103,11 @@
    "match": "alias"
   },
   "Aria Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Armstrong Watson": {
    "licensed": false,
    "register_name": null,
    "match": "none"

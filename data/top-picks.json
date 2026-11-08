@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T01:34:17.950Z",
+ "generated_at": "2026-11-08T02:08:51.898Z",
  "order": [
   "finance",
   "credit",
@@ -1847,6 +1847,16 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/graduate-chartered-accountant-at-armstrong-watson-4460345110": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/emerging-markets-quantitative-researcher-hsbcjp00059549/57541880": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
