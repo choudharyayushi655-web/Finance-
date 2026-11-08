@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 14:08** (UK time) · **327 open roles** at 163 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 8 Nov, 15:08** (UK time) · **330 open roles** at 166 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,21 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 14:07** · hourly scan · checked 200 boards · **2 new roles**
+**Sun 8 Nov, 15:07** · hourly scan · checked 200 boards · **3 new roles**
 
-### Equity CV: 2
+### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-08 | [Buy side investment analyst](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
-| 2026-11-08 | [Buy side investment analyst assistent](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
+| 2026-11-08 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-brown-brown-4427951209) | Brown & Brown | Basildon, England, United Kingdom | ✅ |
+| 2026-11-07 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-leonardo-4479378893) | Leonardo | Yeovil, England, United Kingdom | ✅ |
+| 2026-11-08 | [International Business Partner Accountant](https://www.linkedin.com/jobs/view/international-business-partner-accountant-at-flex-4444326963) | Flex | Warrington, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (67 matching)
+**Finance (FP&A) CV** (69 matching)
 
 1. [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) · Capital One UK · Nottingham, Eng · posted 2026-10-20 · ✅
 2. [Finance Analyst - Private Equity](https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427) · Goodman Masson · London Area, United Kingdom · posted 2026-11-08 · ✅
@@ -63,6 +64,19 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>15:07</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-brown-brown-4427951209) | Brown & Brown | Basildon, England, United Kingdom | ✅ |
+| 2026-11-07 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-leonardo-4479378893) | Leonardo | Yeovil, England, United Kingdom | ✅ |
+| 2026-11-08 | [International Business Partner Accountant](https://www.linkedin.com/jobs/view/international-business-partner-accountant-at-flex-4444326963) | Flex | Warrington, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>14:07</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
@@ -931,17 +945,19 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (148)](#finance-fpa-cv-148) · [Credit (39)](#credit-cv-39) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
+Everything matched so far, newest first within each CV: [Finance (151)](#finance-fpa-cv-151) · [Credit (39)](#credit-cv-39) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
 
-### Finance (FP&A) CV: 148
+### Finance (FP&A) CV: 151
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-08 | [Finance Analyst - Private Equity](https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427) | Goodman Masson | London Area, United Kingdom | ✅ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57542536) | Cedar | London | ✅ |
+| 2026-11-08 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-brown-brown-4427951209) | Brown & Brown | Basildon, England, United Kingdom | ✅ |
 | — | [Commercial Management Accountant](https://www.reed.co.uk/jobs/commercial-management-accountant/57534250) | Robert Half | Glasgow, Lanarkshire | ✅ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57532908) | Reed | Glasgow, Lanarkshire | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57534282) | Fletcher George Recruitment Ltd | Leatherhead, Surrey | ❔ |
+| 2026-11-08 | [International Business Partner Accountant](https://www.linkedin.com/jobs/view/international-business-partner-accountant-at-flex-4444326963) | Flex | Warrington, England, United Kingdom | ❔ |
 | 2026-11-07 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-perigus-energy-4479390755) | Perigus Energy | London, England, United Kingdom | ✅ |
 | 2026-11-07 | [IT – Finance Analyst](https://www.linkedin.com/jobs/view/it-%E2%80%93-finance-analyst-at-simmons-simmons-4449750880) | Simmons & Simmons | Bristol, England, United Kingdom | ✅ |
 | 2026-11-07 | [Project Finance Analyst (PMO)](https://www.linkedin.com/jobs/view/project-finance-analyst-pmo-at-cgi-4480509242) | CGI | Leatherhead, England, United Kingdom | ✅ |
@@ -968,6 +984,7 @@ Everything matched so far, newest first within each CV: [Finance (148)](#finance
 | 2026-11-07 | [Client Accountant - Funds](https://www.linkedin.com/jobs/view/client-accountant-funds-at-iq-eq-4480504225) | IQ-EQ | Newcastle Upon Tyne, England, United Kingdom | ✅ |
 | — | [Finance Business Partner- Grants](https://www.reed.co.uk/jobs/finance-business-partner-grants/57523853) | Mackie Myers | London | ❔ |
 | 2026-11-07 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-assa-abloy-group-4477708680) | ASSA ABLOY Group | Carlisle, England, United Kingdom | ✅ |
+| 2026-11-07 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-leonardo-4479378893) | Leonardo | Yeovil, England, United Kingdom | ✅ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57523746) | Signet Resources | Slough, Berkshire | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57531271) | Hays Specialist Recruitment Limited | Oxford, Oxfordshire | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57523485) | STONEMONT PARTNERS LIMITED | Cambridge, Cambridgeshire | ❔ |

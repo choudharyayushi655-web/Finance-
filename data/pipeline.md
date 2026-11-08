@@ -586,5 +586,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57542536 | Cedar | FP&A Analyst | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086 | OAK LIFE SCIENCE LTD | Buy side investment analyst | London, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457 | OAK LIFE SCIENCE LTD | Buy side investment analyst assistent | London, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-brown-brown-4427951209 | Brown & Brown | Management Accountant | Basildon, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/international-business-partner-accountant-at-flex-4444326963 | Flex | International Business Partner Accountant | Warrington, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-accountant-at-leonardo-4479378893 | Leonardo | Project Accountant | Yeovil, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 
 ## Processed

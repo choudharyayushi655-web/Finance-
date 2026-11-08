@@ -282,6 +282,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "Brown & Brown": {
+   "licensed": true,
+   "register_name": "Brown & Brown (Europe) Limited",
+   "match": "exact"
+  },
   "CGI": {
    "licensed": true,
    "register_name": "Logica Ltd t/a CGI",
@@ -553,6 +558,11 @@
    "match": "exact"
   },
   "Fletcher George Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Flex": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -921,6 +931,11 @@
    "licensed": true,
    "register_name": "Lendable Operations Ltd",
    "match": "alias"
+  },
+  "Leonardo": {
+   "licensed": true,
+   "register_name": "Leonardo UK Ltd",
+   "match": "exact"
   },
   "Liberis": {
    "licensed": true,
