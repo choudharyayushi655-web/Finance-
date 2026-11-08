@@ -332,6 +332,11 @@
    "register_name": "carwow Ltd.",
    "match": "exact"
   },
+  "Cedar": {
+   "licensed": true,
+   "register_name": "Cedar Capital Partners Ltd",
+   "match": "prefix"
+  },
   "Centrica": {
    "licensed": true,
    "register_name": "Centrica plc",

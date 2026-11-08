@@ -583,5 +583,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-6-months-maternity-cover-at-harley-davidson-motor-company-4479358900 | Harley-Davidson Motor Company | Credit Risk Analyst- (6 Months Maternity Cover) | Oxford, England, United Kingdom | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441 | LGPS Central | Investment Operations Analyst | Wolverhampton, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-m-a-diversified-industries-associate-london-at-jpmorganchase-4472245363 | JPMorganChase | Investment Banking - EMEA M&A Diversified Industries - Associate - London | Greater London, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57542536 | Cedar | FP&A Analyst | London | note: via Reed
 
 ## Processed
