@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T09:17:25.603Z",
+ "generated_at": "2026-11-08T09:36:11.546Z",
  "order": [
   "finance",
   "credit",
@@ -1862,6 +1862,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-6-months-maternity-cover-at-harley-davidson-motor-company-4479358900": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
   }
  }
 }

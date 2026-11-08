@@ -692,6 +692,11 @@
    "register_name": "Hargreaves Lansdown Limited",
    "match": "alias"
   },
+  "Harley-Davidson Motor Company": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Harper May Ltd": {
    "licensed": false,
    "register_name": null,
