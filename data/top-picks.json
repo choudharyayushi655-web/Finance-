@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T09:08:08.706Z",
+ "generated_at": "2026-11-08T09:17:25.603Z",
  "order": [
   "finance",
   "credit",
@@ -1852,11 +1852,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-joblet-ai-4487391466": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427": {
    "id": "finance",

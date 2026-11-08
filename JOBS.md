@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 09:08** (UK time) · **324 open roles** at 160 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 8 Nov, 09:17** (UK time) · **323 open roles** at 160 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 09:05** · hourly scan · checked 200 boards · **2 new roles**
+**Sun 8 Nov, 09:14** · hourly scan · checked 200 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
@@ -70,7 +70,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Sunday 8 November
 
 <details>
-<summary><b>09:05</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+<summary><b>09:14</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -86,20 +86,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:07, 07:09, 06:09, 05:08</sub>
-
-<details>
-<summary><b>04:08</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Investment Banking Analyst (Remote)](https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-joblet-ai-4487391466) | Joblet-AI | United Kingdom | ❔ |
-
-</details>
-
-<sub>Nothing new at: 03:08, 02:50</sub>
+<sub>Nothing new at: 08:07, 07:09, 06:09, 05:08, 04:08, 03:08, 02:50</sub>
 
 <details>
 <summary><b>02:08</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
@@ -891,7 +878,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (147)](#finance-fpa-cv-147) · [Credit (38)](#credit-cv-38) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
+Everything matched so far, newest first within each CV: [Finance (147)](#finance-fpa-cv-147) · [Credit (38)](#credit-cv-38) · [Equity (19)](#equity-cv-19) · [Investment (35)](#investment-ib--pe-cv-35) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (60)](#other-fits-no-cv-closely-may-still-be-worth-a-look-60)
 
 ### Finance (FP&A) CV: 147
 
@@ -1119,7 +1106,6 @@ Everything matched so far, newest first within each CV: [Finance (147)](#finance
 | 2026-11-07 | [Investment Banking Analyst - Industrial & Consumer](https://www.linkedin.com/jobs/view/investment-banking-analyst-industrial-consumer-at-baird-4487608302) | Baird | London, England, United Kingdom | ✅ |
 | 2026-11-07 | [Investment Banking Associate, Healthcare](https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-william-blair-4469766291) | William Blair | London, England, United Kingdom | ✅ |
 | — | [Risk & Valuation Analyst, London - Tikehau Capital](https://www.reed.co.uk/jobs/risk-valuation-analyst-london-tikehau-capital/57527916) | eFinancialCareers | London | ✅ |
-| 2026-11-07 | [Investment Banking Analyst (Remote)](https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-joblet-ai-4487391466) | Joblet-AI | United Kingdom | ❔ |
 | 2026-11-07 | [Fund Finance Associate, Private Equity](https://www.linkedin.com/jobs/view/fund-finance-associate-private-equity-at-deutsche-asset-management-4472213705) | Deutsche Asset Management | London, England, United Kingdom | ❔ |
 | 2026-11-07 | [Investment Banking - EMEA Media and Communications Advisory - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-media-and-communications-advisory-associate-london-at-jpmorganchase-4345917268) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-07 | [Central and Eastern Europe, the Middle East, and Africa (CEEMEA) Investment Banking Associate](https://www.linkedin.com/jobs/view/central-and-eastern-europe-the-middle-east-and-africa-ceemea-investment-banking-associate-at-deutsche-bank-4440086223) | Deutsche Bank | London, England, United Kingdom | ❔ |
@@ -1260,10 +1246,11 @@ Everything matched so far, newest first within each CV: [Finance (147)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>11 roles taken off the list because the firm closed the posting</summary>
+<summary>12 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 8 Nov, 09:14 | Investment Banking Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 06:09 | 2027 Commodities and Global Markets Graduate Programme | targetjobs UK |
 | Sun 8 Nov, 01:33 | Finance Business Partner | Lloyd's of London |
 | Sat 7 Nov, 01:10 | Management Accountant | Howden |
