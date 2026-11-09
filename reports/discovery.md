@@ -1,4 +1,4 @@
-# Discovery report: 2026-11-09 14:26 UTC
+# Discovery report: 2026-11-09 16:54 UTC
 
 Checked 140 companies that the name lookup could not resolve.
 Added to portals.yml: **0**. Still not scannable: **130**.
@@ -145,12 +145,13 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | National Grid | no hiring system link found | nationalgrid.com |
 | SSE | no hiring system link found | sse.com |
 
-## Boards that could not be read this week (5)
+## Boards that could not be read this week (6)
 
 The hourly scan keeps trying these, but they return nothing until fixed. Usually the company moved to a new careers site.
 
-- **Blackstone**: workday: Blackstone confirmed dead (maintenance page)
-- **Blackstone (Campus)**: workday: Blackstone (Campus) confirmed dead (maintenance page)
+- **Revolut**: HTTP 429 Too Many Requests
+- **Starling Bank**: HTTP 429 Too Many Requests
+- **Interpath Advisory**: HTTP 429 Too Many Requests
 - **Interactive Investor**: HTTP 429 Too Many Requests
 - **10x Banking**: HTTP 429 Too Many Requests
 - **Moneyfarm**: HTTP 429 Too Many Requests

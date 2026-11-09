@@ -649,4 +649,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/finance-business-partner-865790-127720799 | S1Jobs | Finance Business Partner 865790 | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127720787 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
+- [ ] https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8934943002 | Tandem Bank | Junior Treasury Analyst | London, United Kingdom | posted: 2026-11-09
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Credit-Officer---C12---LONDON_261007635 | Citi | Credit Officer | London United Kingdom | posted: 2026-11-09
+
 ## Processed
