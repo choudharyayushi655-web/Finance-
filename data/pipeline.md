@@ -607,4 +607,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-card-factory-4485780642 | Card Factory | Commercial Finance Analyst | Wakefield, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748 | targetjobs UK | 2027 Risk Management Group Graduate Programme | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8359155 | Monzo | VAIB Strategy Analyst | Cardiff, London or Remote (UK) | posted: 2026-11-09
+
 ## Processed

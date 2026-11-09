@@ -1,23 +1,11 @@
-# Discovery report: 2026-11-07 12:30 UTC
+# Discovery report: 2026-11-09 14:26 UTC
 
-Checked 149 companies that the name lookup could not resolve.
-Added to portals.yml: **13**. Still not scannable: **130**.
+Checked 140 companies that the name lookup could not resolve.
+Added to portals.yml: **0**. Still not scannable: **130**.
 
 ## Added
 
-- **Nomura**: successfactors → https://careers.nomura.com
-- **SMBC**: successfactors → https://careers.smbcgroup.com
-- **Capgemini**: taleo → https://capgemini.taleo.net/careersection/1/jobsearch.ftl
-- **Sopra Steria**: smartrecruiters → https://careers.smartrecruiters.com/SopraSteria1
-- **PA Consulting**: avature → https://jacobs.avature.net/careers
-- **ICF**: workday → https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site
-- **Janus Henderson**: successfactors → https://jobs.janushenderson.com
-- **Royal London**: successfactors → https://jobs.royallondon.com
-- **Susquehanna**: icims → https://sig.icims.com/jobs/search?ss=1
-- **AXA UK**: icims → https://move-en-axa.icims.com/jobs/search?ss=1
-- **Aon**: icims → https://aon.icims.com/jobs/search?ss=1
-- **BT Group**: successfactors → https://jobs.bt.com
-- **Reckitt**: successfactors → https://careers.reckitt.com
+- none this run
 
 ## Not scannable automatically
 
@@ -157,11 +145,12 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | National Grid | no hiring system link found | nationalgrid.com |
 | SSE | no hiring system link found | sse.com |
 
-## Boards that could not be read this week (4)
+## Boards that could not be read this week (5)
 
 The hourly scan keeps trying these, but they return nothing until fixed. Usually the company moved to a new careers site.
 
-- **PA Consulting**: fetch failed
-- **Capgemini**: fetch failed
-- **Susquehanna**: fetch failed
-- **Aon**: fetch failed
+- **Blackstone**: workday: Blackstone confirmed dead (maintenance page)
+- **Blackstone (Campus)**: workday: Blackstone (Campus) confirmed dead (maintenance page)
+- **Interactive Investor**: HTTP 429 Too Many Requests
+- **10x Banking**: HTTP 429 Too Many Requests
+- **Moneyfarm**: HTTP 429 Too Many Requests
