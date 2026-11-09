@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T16:58:43.653Z",
+ "generated_at": "2026-11-09T17:43:37.846Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 84,
+   "matching": 86,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 38,
+   "matching": 39,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 24,
+   "matching": 25,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -564,11 +564,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 25
   },
-  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Healthcare-_R3638": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 15
-  },
   "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst--2----Corporate-Finance--Business-Services-_R3634": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -578,11 +573,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Senior-Associate---Corporate-Finance--Technology-M-A-_R3381": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 25
   },
   "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Financial-and-Valuation-Advisory---London_R3576": {
    "id": "finance",
@@ -2188,6 +2178,136 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-ashurst-perkins-coie-4487170627": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-lorien-4488881487": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/associate-commercial-real-estate-debt-london-at-cvc-marathon-4409579927": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/security-risk-analyst-at-nominet-4487933171": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/graduate-risk-assurance-analyst-ai-digital-controls-it-digital-warwick-at-national-grid-4487149775": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-everet-marsh-4488841226": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-healthcare-life-sciences-at-brock-decker-4487729523": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-associate-healthcare-at-brock-decker-4488883399": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/portfolio-operations-finance-associate-at-inventum-group-4487172523": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-consumer-additions-and-consumer-exec-4483426750": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-sowena-group-4488870883": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-dana-incorporated-4488878783": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-healthcare-at-edward-mann-4487155815": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-accountable-recruitment-limited-4488871991": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-thrive-childcare-and-education-4487168867": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57546607": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/growth-equity-investment-associate-efinancialcareers/57546014": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 9
+  },
+  "https://www.reed.co.uk/jobs/corporate-finance-associate/57546501": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57546546": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57547109": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57545863": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57546386": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/finance-graduate/57547136": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/jnr-management-accountant-canterbury-cima-training/57546316": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127720783": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-660620": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

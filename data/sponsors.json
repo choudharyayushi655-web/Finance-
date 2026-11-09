@@ -17,6 +17,11 @@
    "register_name": "American International Group UK Limited",
    "match": "alias"
   },
+  "ASC Connections Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ASSA ABLOY Group": {
    "licensed": true,
    "register_name": "ASSA ABLOY Ltd",
@@ -36,6 +41,11 @@
    "licensed": false,
    "register_name": null,
    "match": "alias not on current register (accenture song brand uk limited)"
+  },
+  "Accountable Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Accountable Recruitment Limited": {
    "licensed": false,
@@ -81,6 +91,11 @@
    "licensed": true,
    "register_name": "Allica Bank",
    "match": "alias"
+  },
+  "Altum Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Alvarez & Marsal": {
    "licensed": true,
@@ -136,6 +151,11 @@
    "licensed": true,
    "register_name": "Artemis Investment Management LLP",
    "match": "alias"
+  },
+  "Ashurst Perkins Coie": {
+   "licensed": true,
+   "register_name": "Ashurst Perkins Coie (International) LLP",
+   "match": "exact"
   },
   "Aster Group": {
    "licensed": false,
@@ -237,6 +257,11 @@
    "register_name": "Robert W. Baird Group Ltd",
    "match": "alias"
   },
+  "Banham Patent Locks Ltd": {
+   "licensed": true,
+   "register_name": "Banham Patent Locks Ltd",
+   "match": "exact"
+  },
   "Bank of America": {
    "licensed": true,
    "register_name": "Bank of America, N.A.",
@@ -317,6 +342,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "Brock & Decker": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brown & Brown": {
    "licensed": true,
    "register_name": "Brown & Brown (Europe) Limited",
@@ -341,6 +371,11 @@
    "licensed": true,
    "register_name": "CME Congresses Limited",
    "match": "alias"
+  },
+  "CVC Marathon": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Calastone": {
    "licensed": false,
@@ -477,6 +512,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Consumer Additions and Consumer Exec": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Cooper Parry Finance Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -496,6 +536,11 @@
    "licensed": true,
    "register_name": "DRW Investments (UK) Ltd",
    "match": "alias"
+  },
+  "Dana Incorporated": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Deliveroo": {
    "licensed": true,
@@ -572,6 +617,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Edward Mann": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ElevenLabs": {
    "licensed": true,
    "register_name": "Eleven Labs Ltd",
@@ -592,6 +642,11 @@
    "register_name": "Evelyn Partners Group Limited",
    "match": "alias"
   },
+  "Everet Marsh": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Executive Talent Solutions": {
    "licensed": false,
    "register_name": null,
@@ -611,6 +666,11 @@
    "licensed": true,
    "register_name": "FIL Investment Management Limited",
    "match": "alias"
+  },
+  "Financial Divisions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Financial Times": {
    "licensed": true,
@@ -787,6 +847,11 @@
    "register_name": "Harvey Nash Limited",
    "match": "exact"
   },
+  "Hawke Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hays": {
    "licensed": true,
    "register_name": "Hays PLC",
@@ -896,6 +961,11 @@
    "licensed": true,
    "register_name": "Interpath Limited",
    "match": "alias"
+  },
+  "Inventum Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Invesco": {
    "licensed": true,
@@ -1053,6 +1123,16 @@
    "match": "alias"
   },
   "Lookers Motor Group Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lord Accounting & Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lorien": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1306,6 +1386,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Nominet": {
+   "licensed": true,
+   "register_name": "Nominet",
+   "match": "exact"
   },
   "Nomura": {
    "licensed": true,
@@ -1692,6 +1777,11 @@
    "register_name": "Schroder Investment Management Limited",
    "match": "alias"
   },
+  "Scottish public sector": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ScottishPower": {
    "licensed": true,
    "register_name": "ScottishPower Limited",
@@ -1761,6 +1851,11 @@
    "licensed": true,
    "register_name": "Sopra Steria Limited",
    "match": "exact"
+  },
+  "Sowena Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Spectrum Brands (UK) Limited": {
    "licensed": true,
@@ -1896,6 +1991,11 @@
    "licensed": true,
    "register_name": "Thought Machine Group Limited",
    "match": "alias"
+  },
+  "Thrive Childcare and Education": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Thunes": {
    "licensed": false,
@@ -2056,6 +2156,11 @@
    "licensed": true,
    "register_name": "XTX Research LLP",
    "match": "alias"
+  },
+  "Yolk Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Zachary Daniels": {
    "licensed": false,

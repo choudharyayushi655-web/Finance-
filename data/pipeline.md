@@ -651,5 +651,31 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8934943002 | Tandem Bank | Junior Treasury Analyst | London, United Kingdom | posted: 2026-11-09
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Credit-Officer---C12---LONDON_261007635 | Citi | Credit Officer | London United Kingdom | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-ashurst-perkins-coie-4487170627 | Ashurst Perkins Coie | FP&A Analyst | Glasgow, Scotland, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-lorien-4488881487 | Lorien | Financial Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-commercial-real-estate-debt-london-at-cvc-marathon-4409579927 | CVC Marathon | Associate, Commercial Real Estate Debt (London) | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/security-risk-analyst-at-nominet-4487933171 | Nominet | Security Risk Analyst | Oxford, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-risk-assurance-analyst-ai-digital-controls-it-digital-warwick-at-national-grid-4487149775 | National Grid | Graduate Risk & Assurance Analyst (AI & Digital Controls), IT & Digital, Warwick | Warwick, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-everet-marsh-4488841226 | Everet Marsh | Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-healthcare-life-sciences-at-brock-decker-4487729523 | Brock & Decker | Investment Associate - Healthcare & Life Sciences | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-associate-healthcare-at-brock-decker-4488883399 | Brock & Decker | Corporate Finance Associate / Healthcare | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-operations-finance-associate-at-inventum-group-4487172523 | Inventum Group | Portfolio Operations & Finance Associate | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-consumer-additions-and-consumer-exec-4483426750 | Consumer Additions and Consumer Exec | Management Accountant | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-sowena-group-4488870883 | Sowena Group | Management Accountant | Greater Manchester, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-dana-incorporated-4488878783 | Dana Incorporated | Management Accountant | Birmingham, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-healthcare-at-edward-mann-4487155815 | Edward Mann | Management Accountant (Healthcare) | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-accountable-recruitment-limited-4488871991 | Accountable Recruitment Limited | Assistant Management Accountant | Warrington, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-thrive-childcare-and-education-4487168867 | Thrive Childcare and Education | Management Accountant | Salford, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57546607 | Accountable Recruitment | Assistant Management Accountant | Warrington, Cheshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/growth-equity-investment-associate-efinancialcareers/57546014 | eFinancialCareers | Growth Equity - Investment Associate - eFinancialCareers | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/corporate-finance-associate/57546501 | Lord Accounting & Finance | Corporate Finance Associate | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57546546 | Altum Consulting | Finance Business Partner | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57547109 | Banham Patent Locks Ltd | Assistant Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57545863 | Yolk Recruitment Ltd | Management Accountant | Cardiff, South Glamorgan | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57546386 | ASC Connections Ltd | Management Accountant | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-graduate/57547136 | Financial Divisions | Finance Graduate | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/jnr-management-accountant-canterbury-cima-training/57546316 | Hawke Search | Jnr Management Accountant - Canterbury - CIMA Training | Canterbury, Kent | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127720783 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-660620 | Scottish public sector | Accountant | Scotland | posted: 2026-11-09 | note: via MyJobScotland
 
 ## Processed
