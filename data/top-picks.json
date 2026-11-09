@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T00:14:20.797Z",
+ "generated_at": "2026-11-09T06:50:59.702Z",
  "order": [
   "finance",
   "credit",
@@ -1963,6 +1963,16 @@
    "score": 10
   },
   "https://www.reed.co.uk/jobs/finance-graduate/57537108": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-card-factory-4485780642": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
