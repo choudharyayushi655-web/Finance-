@@ -37,6 +37,11 @@
    "register_name": null,
    "match": "alias not on current register (accenture song brand uk limited)"
   },
+  "Accountable Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Addington Ball Recruitment Ltd": {
    "licensed": false,
    "register_name": null,
@@ -47,7 +52,17 @@
    "register_name": "Adecco UK Limited",
    "match": "exact"
   },
+  "Advocate Group": {
+   "licensed": true,
+   "register_name": "ADVOCATE GROUP LTD",
+   "match": "exact"
+  },
   "Adyen": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Agility": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -162,6 +177,11 @@
    "register_name": "Aztec Group Financial Services (UK) Limited",
    "match": "alias"
   },
+  "B&Q": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BAE Systems": {
    "licensed": true,
    "register_name": "BAE Systems Plc",
@@ -216,6 +236,11 @@
    "licensed": true,
    "register_name": "Robert W. Baird Group Ltd",
    "match": "alias"
+  },
+  "Bank of America": {
+   "licensed": true,
+   "register_name": "Bank of America, N.A.",
+   "match": "prefix"
   },
   "Barclays": {
    "licensed": true,
@@ -281,6 +306,11 @@
    "licensed": true,
    "register_name": "The Boston Consulting Group UK LLP",
    "match": "alias"
+  },
+  "Brent Council": {
+   "licensed": true,
+   "register_name": "Brent Council",
+   "match": "exact"
   },
   "Brevan Howard": {
    "licensed": true,
@@ -422,6 +452,11 @@
    "register_name": "Cobalt Labs UK Limited",
    "match": "prefix"
   },
+  "Cobalt Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Codat": {
    "licensed": true,
    "register_name": "Codat Limited",
@@ -438,6 +473,11 @@
    "match": "alias"
   },
   "Connect Recruitment Consultants Ltd.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Cooper Parry Finance Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -517,6 +557,11 @@
    "register_name": "Ernst & Young",
    "match": "alias"
   },
+  "Eaton": {
+   "licensed": true,
+   "register_name": "Eaton Ltd",
+   "match": "exact"
+  },
   "Ebury": {
    "licensed": true,
    "register_name": "Ebury Partners UK Ltd",
@@ -546,6 +591,11 @@
    "licensed": true,
    "register_name": "Evelyn Partners Group Limited",
    "match": "alias"
+  },
+  "Executive Talent Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Experian": {
    "licensed": true,
@@ -737,6 +787,11 @@
    "register_name": "Harvey Nash Limited",
    "match": "exact"
   },
+  "Hays": {
+   "licensed": true,
+   "register_name": "Hays PLC",
+   "match": "alias"
+  },
   "Hays Specialist Recruitment Limited": {
    "licensed": false,
    "register_name": null,
@@ -916,6 +971,11 @@
    "licensed": true,
    "register_name": "Kroo Bank Ltd",
    "match": "prefix"
+  },
+  "LCM Partners": {
+   "licensed": true,
+   "register_name": "LCM Partners Limited",
+   "match": "exact"
   },
   "LGPS Central": {
    "licensed": true,
@@ -1097,6 +1157,11 @@
    "register_name": "Mears Group PLC",
    "match": "exact"
   },
+  "MetLife UK": {
+   "licensed": true,
+   "register_name": "MetLife Europe Services Limited",
+   "match": "exact"
+  },
   "Metis Search": {
    "licensed": false,
    "register_name": null,
@@ -1106,6 +1171,11 @@
    "licensed": true,
    "register_name": "METRO BANK PLC",
    "match": "exact"
+  },
+  "Michael Page": {
+   "licensed": true,
+   "register_name": "Michael Page International Recruitment Ltd",
+   "match": "prefix"
   },
   "Michael Page Finance": {
    "licensed": false,
@@ -1141,6 +1211,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Mondrian Alpha": {
+   "licensed": true,
+   "register_name": "Mondrian Alpha Ltd",
+   "match": "exact"
   },
   "Moneybox": {
    "licensed": true,
@@ -1202,6 +1277,11 @@
    "register_name": "NatWest Group PLC",
    "match": "alias"
   },
+  "National Grid": {
+   "licensed": true,
+   "register_name": "National Grid plc",
+   "match": "exact"
+  },
   "Natixis Investment Managers": {
    "licensed": true,
    "register_name": "Natixis Investment Managers UK LImited",
@@ -1222,6 +1302,11 @@
    "register_name": "Nium Fintech Ltd",
    "match": "prefix"
   },
+  "No1 Legal and Professional": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nomura": {
    "licensed": true,
    "register_name": "Nomura International Plc",
@@ -1238,6 +1323,11 @@
    "match": "none"
   },
   "OAK LIFE SCIENCE LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "OJK Business Management": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1307,6 +1397,11 @@
    "register_name": "PKF hospitality Ltd",
    "match": "alias"
   },
+  "PRATAP PARTNERSHIP LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Paddle": {
    "licensed": false,
    "register_name": null,
@@ -1352,6 +1447,11 @@
    "register_name": "PAYONEER (UK) LIMITED",
    "match": "exact"
   },
+  "Pearse Partners": {
+   "licensed": true,
+   "register_name": "Pearse Partners Ltd",
+   "match": "exact"
+  },
   "Pearson": {
    "licensed": true,
    "register_name": "Pearson Edexcel Limited",
@@ -1361,6 +1461,16 @@
    "licensed": true,
    "register_name": "Pemberton Asset Management Services (UK) Limited",
    "match": "alias"
+  },
+  "Pennon Group": {
+   "licensed": true,
+   "register_name": "Pennon Group",
+   "match": "exact"
+  },
+  "Perch Group": {
+   "licensed": true,
+   "register_name": "Perch Group Limited",
+   "match": "exact"
   },
   "Perella Weinberg": {
    "licensed": true,
@@ -1441,6 +1551,11 @@
    "licensed": true,
    "register_name": "RBC Group",
    "match": "exact"
+  },
+  "Randstad Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Reckitt": {
    "licensed": false,
@@ -1732,6 +1847,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Talentedge": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Talos": {
    "licensed": true,
    "register_name": "Talos Trading Solutions Limited",
@@ -1760,6 +1880,11 @@
   "The Consultancy Group": {
    "licensed": true,
    "register_name": "The Consultancy Group",
+   "match": "exact"
+  },
+  "The Noble Restaurant Group": {
+   "licensed": true,
+   "register_name": "Noble Restaurant Group Limited",
    "match": "exact"
   },
   "ThinkMarkets": {
@@ -1817,6 +1942,11 @@
    "register_name": "Universal Music Operations Ltd",
    "match": "alias"
   },
+  "VIA MATCH LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Vanguard": {
    "licensed": true,
    "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
@@ -1828,6 +1958,16 @@
    "match": "none"
   },
   "Ventula Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Veracious Talent Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Veracious Talent Partners Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1856,6 +1996,11 @@
    "licensed": true,
    "register_name": "WPP 2005 Limited",
    "match": "alias"
+  },
+  "Walker Dendle Financial Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Wayflyer": {
    "licensed": true,
@@ -1911,6 +2056,11 @@
    "licensed": true,
    "register_name": "XTX Research LLP",
    "match": "alias"
+  },
+  "Zachary Daniels": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Zego": {
    "licensed": false,

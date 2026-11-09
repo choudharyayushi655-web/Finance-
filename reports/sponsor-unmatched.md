@@ -1,21 +1,24 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 390 firms checked, 281 matched, 109 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 420 firms checked, 295 matched, 125 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (109)
+## Not found (125)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
+- Accountable Recruitment Limited
 - Addington Ball Recruitment Ltd
 - Adyen
+- Agility
 - Alexander Chapman
 - Appcastenterprise
 - Aria Partners
 - Armstrong Watson
 - Aster Group
 - Atom Bank
+- B&Q
 - Blockchain.com
 - Bloom Money
 - CMC Consulting Ltd
@@ -26,8 +29,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Checkout.com
 - City Recruitment Associates
 - ClearScore
+- Cobalt Recruitment
 - Coinbase
 - Connect Recruitment Consultants Ltd.
+- Cooper Parry Finance Recruitment
 - Core3
 - Cornell Search
 - Deutsche Asset Management
@@ -37,6 +42,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Echo
 - Equifind
 - Ernest Gordon Recruitment Limited
+- Executive Talent Solutions
 - Fletcher George Recruitment Ltd
 - Flex
 - GSR Markets
@@ -79,15 +85,19 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Mollie
 - Motorway
 - New Avenues
+- No1 Legal and Professional
 - Nucleus Commercial Finance
 - OAK LIFE SCIENCE LTD
+- OJK Business Management
 - Octopus Money
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
+- PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
 - Pave Bank
 - Pavilion Recruitment Solutions
 - Payhawk
+- Randstad Finance
 - Reckitt
 - Reed
 - Rendall & Rittner
@@ -105,19 +115,26 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Swoop Funding
 - TCS
 - Talan
+- Talentedge
 - ThinkMarkets
 - Thunes
 - TransUnion
+- VIA MATCH LIMITED
 - Vecta
 - Ventula Consulting
+- Veracious Talent Partners
+- Veracious Talent Partners Ltd
+- Walker Dendle Financial Recruitment
 - WorldQuant
+- Zachary Daniels
 - Zego
 - abrdn
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (25)
+## Matched automatically by close name; worth a glance (27)
 
+- Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
@@ -131,6 +148,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kroo → Kroo Bank Ltd (prefix)
 - Ledger → Ledger Technologies UK LTD (prefix)
 - Lightfoot → Lightfoot Advisors (prefix)
+- Michael Page → Michael Page International Recruitment Ltd (prefix)
 - Nium → Nium Fintech Ltd (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)
