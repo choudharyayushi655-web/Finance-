@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T17:43:37.846Z",
+ "generated_at": "2026-11-09T18:00:22.967Z",
  "order": [
   "finance",
   "credit",
@@ -122,21 +122,8 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 41,
+   "matching": 40,
    "picks": [
-    {
-     "title": "Investment Banking Analyst, M&A",
-     "company": "Citi",
-     "location": "London United Kingdom",
-     "posted": "2026-11-03",
-     "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011",
-     "score": 30,
-     "why": [
-      "Investment Banking",
-      "M&A"
-     ],
-     "sponsor": true
-    },
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
      "company": "JPMorgan Chase",
@@ -147,6 +134,19 @@
      "why": [
       "Investment Banking",
       "M&A"
+     ],
+     "sponsor": true
+    },
+    {
+     "title": "Associate - Corporate Finance (Business Services M&A)",
+     "company": "Houlihan Lokey",
+     "location": "London, UK",
+     "posted": "2026-10-21",
+     "url": "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635",
+     "score": 25,
+     "why": [
+      "M&A",
+      "Corporate Finance"
      ],
      "sponsor": true
     }
@@ -749,11 +749,6 @@
    "cv": "Consulting CV",
    "score": 11
   },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Insurance_R00344089": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 13
-  },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Automotive-Management-Consultant_R00362436": {
    "id": "consulting",
    "cv": "Consulting CV",
@@ -803,11 +798,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 11
-  },
-  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 30
   },
   "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310": {
    "id": "credit",
@@ -2308,6 +2298,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57547157": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

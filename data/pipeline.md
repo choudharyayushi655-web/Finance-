@@ -677,5 +677,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/jnr-management-accountant-canterbury-cima-training/57546316 | Hawke Search | Jnr Management Accountant - Canterbury - CIMA Training | Canterbury, Kent | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127720783 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-660620 | Scottish public sector | Accountant | Scotland | posted: 2026-11-09 | note: via MyJobScotland
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57547157 | SRM RECRUITMENT LIMITED | Management Accountant | Hoddesdon, Hertfordshire | note: via Reed
 
 ## Processed
