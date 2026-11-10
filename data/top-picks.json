@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T18:03:23.898Z",
+ "generated_at": "2026-11-10T22:43:34.830Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 103,
+   "matching": 104,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 27,
+   "matching": 28,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -106,11 +106,11 @@
      "sponsor": true
     },
     {
-     "title": "EMEA Equity Research - Real Estate - Analyst or Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-10-23",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518",
+     "title": "Bloomberg Intelligence European Quantitative Equity Research Strategist",
+     "company": "Bloomberg",
+     "location": "London, England, United Kingdom",
+     "posted": "2026-11-10",
+     "url": "https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859",
      "score": 18,
      "why": [
       "Equity Research"
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 45,
+   "matching": 46,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -897,11 +897,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-ventula-consulting-4485733754": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 20
   },
   "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-propel-holdings-4472012111": {
    "id": "credit",
@@ -2612,6 +2607,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-the-university-of-manchester-4488392694": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/leveraged-finance-specialist-at-kennedy-pearce-consulting-4487499010": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-rushlift-gse-4481217005": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.s1jobs.com/job/financial-controller-127727844": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/accountant-xero-127727840": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/assistant-accountant-127727854": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.s1jobs.com/job/treasury-ap-127727833": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   }
  }
 }

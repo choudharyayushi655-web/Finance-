@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 478 firms checked, 311 matched, 167 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 485 firms checked, 314 matched, 171 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (167)
+## Not found (171)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -27,6 +27,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Aster Group
 - Atom Bank
 - B&Q
+- Bield Housing Association
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
@@ -54,12 +55,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Distinct Recruitment
 - Dojo
 - Echo
+- Edgworth Partners
 - Edward Mann
 - Elevation Recruitment Group
 - Equifind
 - Ernest Gordon Recruitment Limited
 - Everet Marsh
 - Executive Talent Solutions
+- FT Recruitment Group
 - Financial Divisions
 - Fletcher George Recruitment Ltd
 - Flex
@@ -133,6 +136,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Reed
 - Rendall & Rittner
 - Richard James Recruitment Specialists Ltd
+- Rushlift GSE
 - S1Jobs
 - SD Business Management
 - SOCOTEC UK & Ireland

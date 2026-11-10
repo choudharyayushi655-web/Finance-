@@ -317,6 +317,11 @@
    "register_name": "Berkeley Research Group (UK) Limited",
    "match": "alias"
   },
+  "Bield Housing Association": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Black Swan Group": {
    "licensed": true,
    "register_name": "Black Swan Group Ltd",
@@ -351,6 +356,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Bloomberg": {
+   "licensed": true,
+   "register_name": "Bloomberg LP",
+   "match": "exact"
   },
   "BlueCrest Capital": {
    "licensed": true,
@@ -657,6 +667,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Edgworth Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Edward Mann": {
    "licensed": false,
    "register_name": null,
@@ -701,6 +716,16 @@
    "licensed": true,
    "register_name": "EXPERIAN LIMITED",
    "match": "alias"
+  },
+  "FRP Advisory": {
+   "licensed": true,
+   "register_name": "FRP Advisory Group PLC",
+   "match": "exact"
+  },
+  "FT Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Fauna & Flora": {
    "licensed": true,
@@ -1832,6 +1857,11 @@
    "register_name": "Royal United Hospital Bath NHS Trust",
    "match": "exact"
   },
+  "Rushlift GSE": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "S&P Global": {
    "licensed": true,
    "register_name": "S&P Global Limited",
@@ -2120,6 +2150,11 @@
   "The Noble Restaurant Group": {
    "licensed": true,
    "register_name": "Noble Restaurant Group Limited",
+   "match": "exact"
+  },
+  "The University of Manchester": {
+   "licensed": true,
+   "register_name": "The University of Manchester",
    "match": "exact"
   },
   "ThinkMarkets": {

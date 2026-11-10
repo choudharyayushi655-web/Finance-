@@ -752,5 +752,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-dpd-uk-4489496621 | DPD UK | Assistant Management Accountant | Smethwick, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-management-accountant-at-distinct-b-corp-4489440890 | Distinct | B Corp | Commercial Management Accountant | Halifax, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-malaberg-4487476241 | Malaberg | Management Accountant | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-university-of-manchester-4488392694 | The University of Manchester | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-specialist-at-kennedy-pearce-consulting-4487499010 | Kennedy Pearce Consulting | Leveraged Finance Specialist | City Of London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112 | Edgworth Partners | Real Estate Investment Analyst, Global Real Estate Investor, London | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859 | Bloomberg | Bloomberg Intelligence European Quantitative Equity Research Strategist | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721 | FRP Advisory | Executive - Corporate Finance | Brighton, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-rushlift-gse-4481217005 | Rushlift GSE | Management Accountant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/financial-controller-127727844 | FT Recruitment Group | Financial Controller | Aberdeen Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-xero-127727840 | FT Recruitment Group | Accountant Xero | Aberdeen Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-accountant-127727854 | Bield Housing Association | Assistant Accountant | City of Edinburgh, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/treasury-ap-127727833 | S1Jobs | Treasury Ap | Scotland | note: via S1Jobs
 
 ## Processed
