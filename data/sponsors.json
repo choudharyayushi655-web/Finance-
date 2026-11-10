@@ -7,6 +7,11 @@
    "register_name": "10X Banking Technology Services Ltd",
    "match": "alias"
   },
+  "93 MGMT": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "9fin": {
    "licensed": true,
    "register_name": "9fin Limited",
@@ -837,6 +842,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Harmonic Group Ltd": {
+   "licensed": true,
+   "register_name": "Harmonic (UK) Ltd.",
+   "match": "exact"
+  },
   "Harper May Ltd": {
    "licensed": false,
    "register_name": null,
@@ -1017,6 +1027,11 @@
    "register_name": "Jump Trading International Limited",
    "match": "alias"
   },
+  "KBS Corporate": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Kennedy Pearce Consulting": {
    "licensed": false,
    "register_name": null,
@@ -1081,6 +1096,11 @@
    "licensed": true,
    "register_name": "Ledger Technologies UK LTD",
    "match": "prefix"
+  },
+  "Legend": {
+   "licensed": true,
+   "register_name": "LEGEND SERVICES UK LTD",
+   "match": "exact"
   },
   "Lemonade": {
    "licensed": false,
@@ -1235,6 +1255,11 @@
   "Mears Group PLC": {
    "licensed": true,
    "register_name": "Mears Group PLC",
+   "match": "exact"
+  },
+  "Mercuria": {
+   "licensed": true,
+   "register_name": "MERCURIA UK LLP",
    "match": "exact"
   },
   "MetLife UK": {
@@ -2027,6 +2052,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Trident": {
+   "licensed": true,
+   "register_name": "TRIDENT EUROPE LIMITED",
+   "match": "exact"
+  },
   "Trinity House Group": {
    "licensed": true,
    "register_name": "Trinity House",
@@ -2036,6 +2066,11 @@
    "licensed": true,
    "register_name": "TrueLayer Limited",
    "match": "alias"
+  },
+  "UCEA - Family Office Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Unilever": {
    "licensed": true,
@@ -2096,6 +2131,11 @@
    "licensed": true,
    "register_name": "Vodafone Group Services Limited",
    "match": "exact"
+  },
+  "Vonage": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "WPP": {
    "licensed": true,

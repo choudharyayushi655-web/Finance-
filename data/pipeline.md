@@ -678,5 +678,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127720783 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-660620 | Scottish public sector | Accountant | Scotland | posted: 2026-11-09 | note: via MyJobScotland
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57547157 | SRM RECRUITMENT LIMITED | Management Accountant | Hoddesdon, Hertfordshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-legend-4436758947 | Legend | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884 | LSEG | Credit Risk Analyst | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-vonage-4480962783 | Vonage | Credit and Collections Analyst | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-risk-analyst-at-mercuria-4488899743 | Mercuria | Treasury Risk Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-ucea-family-office-group-4489102870 | UCEA - Family Office Group | Investment Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-at-kbs-corporate-4489137814 | KBS Corporate | M&A Analyst | Bolton, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-equity-aca-at-93-mgmt-4489143057 | 93 MGMT | Fund Controller | Private Equity | ACA | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309 | eFinancialCareers | Debt Advisory - Analyst - eFinancialCareers | London | posted: 2026-11-09 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst-tether/57547481 | eFinancialCareers | Finance Analyst - Tether | London | posted: 2026-11-09 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-controller-real-estate-funds/57547212 | Trident | Financial Controller - Real Estate Funds | London | posted: 2026-11-09 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-controller-vc-or-hedge-fund-investment-accountant-tether/57547483 | eFinancialCareers | Financial Controller VC or Hedge Fund- Investment Accountant - Tether | London | posted: 2026-11-09 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57544170 | Harmonic Group Ltd | Management Accountant | Woking, Surrey | posted: 2026-11-09 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57543913 | Agility | Assistant Management Accountant | Leeds, West Yorkshire | posted: 2026-11-09 | note: via Reed
 
 ## Processed

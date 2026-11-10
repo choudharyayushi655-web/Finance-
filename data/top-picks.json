@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T18:00:22.967Z",
+ "generated_at": "2026-11-10T01:44:28.274Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 86,
+   "matching": 92,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 39,
+   "matching": 42,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -73,15 +73,15 @@
      "sponsor": true
     },
     {
-     "title": "Credit Risk Underwriter - Structured Lending",
-     "company": "Morgan McKinley",
-     "location": "London Area, United Kingdom",
-     "posted": "2026-11-06",
-     "url": "https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902",
+     "title": "Credit Risk Analyst",
+     "company": "LSEG",
+     "location": "London, England, United Kingdom",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884",
      "score": 26,
      "why": [
       "Credit Risk",
-      "Lending"
+      "Risk Analyst"
      ],
      "sponsor": true
     }
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 25,
+   "matching": 24,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 40,
+   "matching": 41,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 15,
+   "matching": 16,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -202,11 +202,11 @@
      "sponsor": true
     },
     {
-     "title": "EMEA Equity Research - Real Estate - Analyst or Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-10-23",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518",
+     "title": "Financial Controller - Real Estate Funds",
+     "company": "Trident",
+     "location": "London",
+     "posted": "2026-11-09",
+     "url": "https://www.reed.co.uk/jobs/financial-controller-real-estate-funds/57547212",
      "score": 18,
      "why": [
       "Real Estate"
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 16,
+   "matching": 17,
    "picks": [
     {
      "title": "Investment Operations Analyst",
@@ -278,11 +278,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 20
-  },
-  "https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Financial-Reporting---Control-Analyst_R0074073": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst--Multi-Asset_84131-1": {
    "id": "equity",
@@ -390,11 +385,6 @@
    "score": 0
   },
   "https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/London-United-Kingdom/Product---Market-Planning-Graduate-Programme--Risk-Intelligence-_R0124725": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANTAGE-POINT-WOODWATER-PARK-PYNES-HILLEXETER/Portfolio-Management-Assistant_R-0000191269": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
@@ -2303,6 +2293,66 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-legend-4436758947": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-vonage-4480962783": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/treasury-risk-analyst-at-mercuria-4488899743": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-ucea-family-office-group-4489102870": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/m-a-analyst-at-kbs-corporate-4489137814": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst-tether/57547481": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.reed.co.uk/jobs/financial-controller-real-estate-funds/57547212": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/financial-controller-vc-or-hedge-fund-investment-accountant-tether/57547483": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57544170": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57543913": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
