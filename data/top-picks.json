@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:43:34.830Z",
+ "generated_at": "2026-11-10T23:34:25.533Z",
  "order": [
   "finance",
   "credit",
@@ -2657,6 +2657,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

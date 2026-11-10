@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 22:43** (UK time) · **482 open roles** at 270 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 10 Nov, 23:34** (UK time) · **483 open roles** at 271 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,37 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 22:40** · hourly scan · checked 200 boards · **10 new roles**
+**Tue 10 Nov, 23:32** · hourly scan · checked 200 boards · **1 new role**
 
-### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-the-university-of-manchester-4488392694) | The University of Manchester | Manchester, England, United Kingdom | ✅ |
-| 2026-11-10 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-rushlift-gse-4481217005) | Rushlift GSE | London, England, United Kingdom | ❔ |
-| 2026-11-10 | [Assistant Accountant](https://www.s1jobs.com/job/assistant-accountant-127727854) | Bield Housing Association | City of Edinburgh, Scotland | ❔ |
-| 2026-11-10 | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127727844) | FT Recruitment Group | Aberdeen Area, Scotland | ❔ |
-| 2026-11-10 | [Accountant Xero](https://www.s1jobs.com/job/accountant-xero-127727840) | FT Recruitment Group | Aberdeen Area, Scotland | ❔ |
-| — | [Treasury Ap](https://www.s1jobs.com/job/treasury-ap-127727833) | S1Jobs | Scotland | ❔ |
-
-### Equity CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-10 | [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) | Bloomberg | London, England, United Kingdom | ✅ |
-
-### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Executive - Corporate Finance](https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721) | FRP Advisory | Brighton, England, United Kingdom | ✅ |
-| 2026-11-10 | [Leveraged Finance Specialist](https://www.linkedin.com/jobs/view/leveraged-finance-specialist-at-kennedy-pearce-consulting-4487499010) | Kennedy Pearce Consulting | City Of London, England, United Kingdom | ❔ |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Real Estate Investment Analyst, Global Real Estate Investor, London](https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112) | Edgworth Partners | London Area, United Kingdom | ❔ |
+| 2026-11-10 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209) | Monmouthshire Building Society | Cardiff, Wales, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -86,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>23:32</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-10 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209) | Monmouthshire Building Society | Cardiff, Wales, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>22:40</b> · hourly scan · <b>10 new</b> → Finance 6 · Equity 1 · Investment 2 · Real Estate 1</summary>
@@ -1455,9 +1442,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (245)](#finance-fpa-cv-245) · [Credit (54)](#credit-cv-54) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (15)](#consulting-cv-15) · [Real Estate (7)](#real-estate-cv-7) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (75)](#other-fits-no-cv-closely-may-still-be-worth-a-look-75)
+Everything matched so far, newest first within each CV: [Finance (246)](#finance-fpa-cv-246) · [Credit (54)](#credit-cv-54) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (15)](#consulting-cv-15) · [Real Estate (7)](#real-estate-cv-7) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (75)](#other-fits-no-cv-closely-may-still-be-worth-a-look-75)
 
-### Finance (FP&A) CV: 245
+### Finance (FP&A) CV: 246
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1482,6 +1469,7 @@ Everything matched so far, newest first within each CV: [Finance (245)](#finance
 | 2026-11-10 | [Investment Portfolio Analyst – Finance (Qualified Accountant)](https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996) | Inventum Group | London Area, United Kingdom | ❔ |
 | — | [Treasury Analyst -](https://www.reed.co.uk/jobs/treasury-analyst/57552700) | Robert Walters | London | ✅ |
 | 2026-11-10 | [Assistant Accountant](https://www.s1jobs.com/job/assistant-accountant-127727854) | Bield Housing Association | City of Edinburgh, Scotland | ❔ |
+| 2026-11-10 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209) | Monmouthshire Building Society | Cardiff, Wales, United Kingdom | ❔ |
 | 2026-11-10 | [Business Services Accountant](https://www.s1jobs.com/job/business-services-accountant-127727584) | Ashurst Perkins Coie | Glasgow Area, Scotland | ✅ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57554865) | Blood Cancer UK | London | ❔ |
 | 2026-11-10 | [Qualified Accountant](https://www.s1jobs.com/job/qualified-accountant-127727626) | WHEATLEY GROUP | Glasgow Area, Scotland | ✅ |
