@@ -691,5 +691,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-controller-vc-or-hedge-fund-investment-accountant-tether/57547483 | eFinancialCareers | Financial Controller VC or Hedge Fund- Investment Accountant - Tether | London | posted: 2026-11-09 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57544170 | Harmonic Group Ltd | Management Accountant | Woking, Surrey | posted: 2026-11-09 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57543913 | Agility | Assistant Management Accountant | Leeds, West Yorkshire | posted: 2026-11-09 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536 | Trainline | Management Accountant | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/group-management-accountant/57544816 | Robert Half | Group Management Accountant | Leeds, West Yorkshire | posted: 2026-11-09 | note: via Reed
 
 ## Processed

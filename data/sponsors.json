@@ -2047,6 +2047,11 @@
    "register_name": "Trading 212 UK Ltd",
    "match": "alias"
   },
+  "Trainline": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TransUnion": {
    "licensed": false,
    "register_name": null,

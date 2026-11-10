@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 01:44** (UK time) · **421 open roles** at 239 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 10 Nov, 01:54** (UK time) · **423 open roles** at 240 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,50 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 01:42** · hourly scan · checked 200 boards · **12 new roles**
+**Tue 10 Nov, 01:52** · hourly scan · checked 200 boards · **2 new roles**
 
-### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-legend-4436758947) | Legend | London Area, United Kingdom | ✅ |
-| 2026-11-09 | [Finance Analyst - Tether](https://www.reed.co.uk/jobs/finance-analyst-tether/57547481) | eFinancialCareers | London | ✅ |
-| 2026-11-09 | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57543913) | Agility | Leeds, West Yorkshire | ❔ |
-| 2026-11-09 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57544170) | Harmonic Group Ltd | Woking, Surrey | ✅ |
-| 2026-11-09 | [Treasury Risk Analyst](https://www.linkedin.com/jobs/view/treasury-risk-analyst-at-mercuria-4488899743) | Mercuria | London Area, United Kingdom | ✅ |
-| 2026-11-09 | [Financial Controller VC or Hedge Fund- Investment Accountant - Tether](https://www.reed.co.uk/jobs/financial-controller-vc-or-hedge-fund-investment-accountant-tether/57547483) | eFinancialCareers | London | ✅ |
-
-### Credit CV: 3
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-09 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884) | LSEG | London, England, United Kingdom | ✅ |
-| 2026-11-09 | [Debt Advisory - Analyst - eFinancialCareers](https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309) | eFinancialCareers | London | ✅ |
-| 2026-11-09 | [Credit and Collections Analyst](https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-vonage-4480962783) | Vonage | London, England, United Kingdom | ❔ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-ucea-family-office-group-4489102870) | UCEA - Family Office Group | London Area, United Kingdom | ❔ |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [M&A Analyst](https://www.linkedin.com/jobs/view/m-a-analyst-at-kbs-corporate-4489137814) | KBS Corporate | Bolton, England, United Kingdom | ❔ |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [Financial Controller - Real Estate Funds](https://www.reed.co.uk/jobs/financial-controller-real-estate-funds/57547212) | Trident | London | ✅ |
+| 2026-11-09 | [Group Management Accountant](https://www.reed.co.uk/jobs/group-management-accountant/57544816) | Robert Half | Leeds, West Yorkshire | ✅ |
+| 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536) | Trainline | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (92 matching)
+**Finance (FP&A) CV** (93 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-investigo-4488848869) · Investigo · London Area, United Kingdom · posted 2026-11-09 · ✅
 2. [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) · Capital One UK · Nottingham, Eng · posted 2026-10-20 · ✅
@@ -93,6 +63,18 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>01:52</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-09 | [Group Management Accountant](https://www.reed.co.uk/jobs/group-management-accountant/57544816) | Robert Half | Leeds, West Yorkshire | ✅ |
+| 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536) | Trainline | London, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>01:42</b> · hourly scan · <b>12 new</b> → Finance 6 · Credit 3 · Equity 1 · Investment 1 · Real Estate 1</summary>
@@ -1279,9 +1261,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (211)](#finance-fpa-cv-211) · [Credit (48)](#credit-cv-48) · [Equity (24)](#equity-cv-24) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (14)](#consulting-cv-14) · [Real Estate (6)](#real-estate-cv-6) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (70)](#other-fits-no-cv-closely-may-still-be-worth-a-look-70)
+Everything matched so far, newest first within each CV: [Finance (213)](#finance-fpa-cv-213) · [Credit (48)](#credit-cv-48) · [Equity (24)](#equity-cv-24) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (14)](#consulting-cv-14) · [Real Estate (6)](#real-estate-cv-6) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (70)](#other-fits-no-cv-closely-may-still-be-worth-a-look-70)
 
-### Finance (FP&A) CV: 211
+### Finance (FP&A) CV: 213
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1309,12 +1291,14 @@ Everything matched so far, newest first within each CV: [Finance (211)](#finance
 | 2026-11-09 | [of Management Accountant - Freehold](https://www.linkedin.com/jobs/view/of-management-accountant-freehold-at-frasers-group-4488841973) | Frasers Group | Shirebrook, England, United Kingdom | ✅ |
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57545720) | Robert Half | Manchester, Lancashire | ✅ |
 | 2026-11-09 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57544170) | Harmonic Group Ltd | Woking, Surrey | ✅ |
+| 2026-11-09 | [Group Management Accountant](https://www.reed.co.uk/jobs/group-management-accountant/57544816) | Robert Half | Leeds, West Yorkshire | ✅ |
 | 2026-11-09 | [Junior Treasury Analyst](https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8934943002) | Tandem Bank | London, United Kingdom | ✅ |
 | 2026-11-09 | [Treasury Risk Analyst](https://www.linkedin.com/jobs/view/treasury-risk-analyst-at-mercuria-4488899743) | Mercuria | London Area, United Kingdom | ✅ |
 | 2026-11-09 | [Financial Controller VC or Hedge Fund- Investment Accountant - Tether](https://www.reed.co.uk/jobs/financial-controller-vc-or-hedge-fund-investment-accountant-tether/57547483) | eFinancialCareers | London | ✅ |
 | — | [Finance Analyst (Pensions)](https://www.reed.co.uk/jobs/finance-analyst-pensions/57544583) | Hays Specialist Recruitment Limited | Wembley, London, London | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-consumer-additions-and-consumer-exec-4483426750) | Consumer Additions and Consumer Exec | London Area, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant (Healthcare)](https://www.linkedin.com/jobs/view/management-accountant-healthcare-at-edward-mann-4487155815) | Edward Mann | London Area, United Kingdom | ❔ |
+| 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536) | Trainline | London, England, United Kingdom | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-veracious-talent-partners-4488865220) | Veracious Talent Partners | Peterborough, England, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-sowena-group-4488870883) | Sowena Group | Greater Manchester, England, United Kingdom | ❔ |
