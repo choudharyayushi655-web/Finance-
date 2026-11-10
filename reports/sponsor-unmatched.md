@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 473 firms checked, 308 matched, 165 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 478 firms checked, 311 matched, 167 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (165)
+## Not found (167)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -118,6 +118,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Nucleus Commercial Finance
 - OAK LIFE SCIENCE LTD
 - OJK Business Management
+- Octavius Finance
 - Octopus Money
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
@@ -143,6 +144,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Scottish public sector
 - Scout Global
 - Seccl
+- Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
 - Sowena Group
 - Standard Life plc
@@ -172,7 +174,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (28)
+## Matched automatically by close name; worth a glance (29)
 
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
@@ -200,5 +202,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)
 - SumUp → SumUp Payments Limited (prefix)
+- The Dune Group → Dune Advisors Limited (prefix)
 - WHEATLEY GROUP → Wheatley Software Solutions Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)

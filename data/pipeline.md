@@ -746,5 +746,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/qualified-accountant-127727627 | S1Jobs | Qualified Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-127727593 | S1Jobs | Graduate Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/qualified-accountant-127727626 | WHEATLEY GROUP | Qualified Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equities-at-octavius-finance-4488376412 | Octavius Finance | Quantitative Researcher – Systematic Equities | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-sheridan-maine-accounting-audit-tax-recruitment-4487487470 | Sheridan Maine - Accounting, Audit & Tax Recruitment | Management Accountant | Greater London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-dune-group-4487487771 | The Dune Group | Management Accountant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-dpd-uk-4489496621 | DPD UK | Assistant Management Accountant | Smethwick, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-management-accountant-at-distinct-b-corp-4489440890 | Distinct | B Corp | Commercial Management Accountant | Halifax, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-malaberg-4487476241 | Malaberg | Management Accountant | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed

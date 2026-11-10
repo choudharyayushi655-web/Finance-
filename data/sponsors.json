@@ -567,6 +567,11 @@
    "register_name": null,
    "match": "none"
   },
+  "DPD UK": {
+   "licensed": true,
+   "register_name": "D.P.D. Limited",
+   "match": "exact"
+  },
   "DRW": {
    "licensed": true,
    "register_name": "DRW Investments (UK) Ltd",
@@ -1252,6 +1257,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Malaberg": {
+   "licensed": true,
+   "register_name": "Malaberg Ltd",
+   "match": "exact"
+  },
   "Man Group": {
    "licensed": true,
    "register_name": "MAN CORPORATION LIMITED",
@@ -1521,6 +1531,11 @@
    "licensed": true,
    "register_name": "OakNorth Bank Plc",
    "match": "alias"
+  },
+  "Octavius Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Octopus Energy": {
    "licensed": true,
@@ -1922,6 +1937,11 @@
    "register_name": "Shell and Beyond Projects Ltd",
    "match": "alias"
   },
+  "Sheridan Maine - Accounting, Audit & Tax Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Signet Resources": {
    "licensed": false,
    "register_name": null,
@@ -2091,6 +2111,11 @@
    "licensed": true,
    "register_name": "The Consultancy Group",
    "match": "exact"
+  },
+  "The Dune Group": {
+   "licensed": true,
+   "register_name": "Dune Advisors Limited",
+   "match": "prefix"
   },
   "The Noble Restaurant Group": {
    "licensed": true,
