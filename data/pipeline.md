@@ -699,4 +699,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/accountant/57551619 | Zachary Daniels | Accountant | Oxford, Oxfordshire | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/company-accountant/ | via ScotJobsNet | Company Accountant | Lanarkshire, Scotland | posted: 2026-11-10 | note: via ScotJobsNet
 
+- [ ] https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London---Gracechurch-Street/Technical-Trainer---Mortgages---Financial-Planning_R0020042 | Howden (Hyperion) | Technical Trainer - Mortgages & Financial Planning | London - Gracechurch Street · Home - UK- England | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/associate-credit-risk-consultant-at-harnham-4488300888 | Harnham | Associate Credit Risk Consultant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-richard-james-recruitment-specialists-ltd-4489449041 | Richard James Recruitment Specialists Ltd | Market Risk Analyst (Analytics) | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468 | Alignerr | Investment Strategy Analyst | United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-ai-researcher-at-alignerr-4489189865 | Alignerr | Financial Analyst AI Researcher | United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-corporate-finance-analyst-at-graphite-partners-4489433772 | Graphite Partners | Graduate Corporate Finance Analyst | Birmingham, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/associate-credit-risk-consultant/57551993 | Harnham - Data & Analytics Recruitment | Associate Credit Risk Consultant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57552080 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/business-services-accountant-127727584 | Ashurst Perkins Coie | Business Services Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+
 ## Processed

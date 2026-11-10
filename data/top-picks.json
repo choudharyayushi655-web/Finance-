@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T09:01:32.202Z",
+ "generated_at": "2026-11-10T10:04:57.687Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 94,
+   "matching": 96,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2383,6 +2383,46 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London---Gracechurch-Street/Technical-Trainer---Mortgages---Financial-Planning_R0020042": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/associate-credit-risk-consultant-at-harnham-4488300888": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-richard-james-recruitment-specialists-ltd-4489449041": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-ai-researcher-at-alignerr-4489189865": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/graduate-corporate-finance-analyst-at-graphite-partners-4489433772": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/associate-credit-risk-consultant/57551993": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.s1jobs.com/job/business-services-accountant-127727584": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }
