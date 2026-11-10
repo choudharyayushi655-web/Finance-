@@ -709,4 +709,42 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57552080 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/business-services-accountant-127727584 | Ashurst Perkins Coie | Business Services Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
 
+- [ ] https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modeling-Risk-Analyst---Model-Development_JR2604272 | AIG | Capital Modeling Risk Analyst - Model Development | London | posted: 2026-11-10
+- [ ] https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003 | Phoenix Group | Investment Operations Technical Analyst | Edinburgh, Scotland, United Kingdom · Hybrid | posted: 2026-11-10
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Single-Stock-Trader_261009084-1 | Citi | Single Stock Trader | London United Kingdom | posted: 2026-11-10
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210616021 | JPMorgan Chase | Investment Banking - EMEA Real Estate - Analyst / Associate - London | LONDON, LONDON, United Kingdom | posted: 2026-11-10
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808268 | JPMorgan Chase | Investment Banking – EMEA Healthcare Associate – London | LONDON, LONDON, United Kingdom | posted: 2026-11-10
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808312 | JPMorgan Chase | Investment Banking – EMEA Financial Institutions Group (Insurance) – Analyst – London | LONDON, LONDON, United Kingdom | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-gleeson-recruitment-group-4489454826 | Gleeson Recruitment Group | FP&A Analyst | West Midlands, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462 | The Consultancy Group (London) | Commercial Finance Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-walker-hamill-4468597583 | Walker Hamill | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-elevation-recruitment-group-4487467872 | Elevation Recruitment Group | Management Accountant | Bradford, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-william-grant-sons-4480239637 | William Grant & Sons | FP&A Analyst | Richmond Upon Thames, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-anderson-knight-4489458447 | Anderson Knight | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/information-security-risk-analyst-at-client-server-4489464424 | Client Server | Information Security Risk Analyst | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/prudential-risk-associate-icaap-ilaap-liquidity-risk-banking-at-jj-search-limited-4488367698 | JJ SEARCH LIMITED | Prudential Risk Associate , ICAAP , ILAAP , Liquidity Risk , Banking | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995 | Alexander Chapman | Research Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-debt-purchasing-collection-%C2%A370-000-%2B-bonus-at-salt-4487483932 | Salt | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815 | Goldman Sachs | Global Banking & Markets, Investment Banking, Classic, Technology, Media, and Telecommunications, London, Analyst | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-associate-biotech-at-brock-decker-4489496335 | Brock & Decker | Corporate Finance Associate - Biotech | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-private-equity-aca-at-93-mgmt-4489460113 | 93 MGMT | Fund Accountant | Private Equity | ACA | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652 | Hays | Fund Accountant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996 | Inventum Group | Investment Portfolio Analyst – Finance (Qualified Accountant) | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200 | VodafoneThree | VodafoneThree Graduate Finance Programme - Core Finance | Newbury, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57555040 | Arcade Food Halls | Financial Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/treasury-analyst/57553478 | Distinct Recruitment | Treasury analyst | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/treasury-analyst-edinburgh/57552369 | Meraki Talent Limited | Treasury Analyst - Edinburgh | Edinburgh, Midlothian | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/investment-analyst/57554180 | eFinancialCareers | Investment Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/treasury-analyst/57552700 | Robert Walters | Treasury Analyst - | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207 | IPS Group | Syndicate Research Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fund-accountant/57553811 | Hays Specialist Recruitment Limited | Fund Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57554865 | Blood Cancer UK | Finance Business Partner | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57552383 | Headstar | Management Accountant | York, North Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/trading-assistant-confectionery/57555171 | ASDA | Trading Assistant - Confectionery | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-security-cleared-127727650 | Peace Recruitment | Quantity Surveyor Pqs Security Cleared | City of Edinburgh, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-accountant-127727625 | S1Jobs | Assistant Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/qualified-accountant-127727627 | S1Jobs | Qualified Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-127727593 | S1Jobs | Graduate Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/qualified-accountant-127727626 | WHEATLEY GROUP | Qualified Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+
 ## Processed

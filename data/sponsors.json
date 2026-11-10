@@ -27,6 +27,11 @@
    "register_name": null,
    "match": "none"
   },
+  "ASDA": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ASSA ABLOY Group": {
    "licensed": true,
    "register_name": "ASSA ABLOY Ltd",
@@ -117,12 +122,22 @@
    "register_name": "Ambition Europe Limited",
    "match": "exact"
   },
+  "Anderson Knight": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aon": {
    "licensed": true,
    "register_name": "Aon UK  Limited",
    "match": "exact"
   },
   "Appcastenterprise": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Arcade Food Halls": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -327,6 +342,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Blood Cancer UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Bloom Money": {
    "licensed": false,
    "register_name": null,
@@ -492,6 +512,11 @@
    "register_name": "Cleo AI Ltd",
    "match": "exact"
   },
+  "Client Server": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Cobalt": {
    "licensed": true,
    "register_name": "Cobalt Labs UK Limited",
@@ -628,6 +653,11 @@
    "match": "none"
   },
   "Edward Mann": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Elevation Recruitment Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -892,6 +922,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Headstar": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "HelloFresh": {
    "licensed": false,
    "register_name": null,
@@ -955,6 +990,11 @@
   "ING": {
    "licensed": true,
    "register_name": "ING Services Limited",
+   "match": "exact"
+  },
+  "IPS Group": {
+   "licensed": true,
+   "register_name": "IPS (Aberdeen) Ltd",
    "match": "exact"
   },
   "IQ-EQ": {
@@ -1282,6 +1322,11 @@
    "register_name": "Mears Group PLC",
    "match": "exact"
   },
+  "Meraki Talent Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Mercuria": {
    "licensed": true,
    "register_name": "MERCURIA UK LLP",
@@ -1582,6 +1627,11 @@
    "register_name": "PAYONEER (UK) LIMITED",
    "match": "exact"
   },
+  "Peace Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Pearse Partners": {
    "licensed": true,
    "register_name": "Pearse Partners Ltd",
@@ -1821,6 +1871,11 @@
    "licensed": true,
    "register_name": "Salary Finance Limited",
    "match": "alias"
+  },
+  "Salt": {
+   "licensed": true,
+   "register_name": "SALT Group Limited",
+   "match": "exact"
   },
   "Santander": {
    "licensed": true,
@@ -2172,10 +2227,20 @@
    "register_name": "Vodafone Group Services Limited",
    "match": "exact"
   },
+  "VodafoneThree": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Vonage": {
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "WHEATLEY GROUP": {
+   "licensed": true,
+   "register_name": "Wheatley Software Solutions Limited",
+   "match": "prefix"
   },
   "WPP": {
    "licensed": true,
@@ -2186,6 +2251,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Walker Hamill": {
+   "licensed": true,
+   "register_name": "Walker Hamill Limited",
+   "match": "exact"
   },
   "Wayflyer": {
    "licensed": true,
@@ -2205,6 +2275,11 @@
   "William Blair": {
    "licensed": true,
    "register_name": "William Blair International Limited",
+   "match": "exact"
+  },
+  "William Grant & Sons": {
+   "licensed": true,
+   "register_name": "William Grant & Sons Ltd",
    "match": "exact"
   },
   "Wintermute": {

@@ -1,13 +1,14 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 458 firms checked, 303 matched, 155 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 473 firms checked, 308 matched, 165 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (155)
+## Not found (165)
 
 - 93 MGMT
 - ASC Connections Ltd
+- ASDA
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
 - Accountable Recruitment
@@ -18,13 +19,16 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alexander Chapman
 - Alignerr
 - Altum Consulting
+- Anderson Knight
 - Appcastenterprise
+- Arcade Food Halls
 - Aria Partners
 - Armstrong Watson
 - Aster Group
 - Atom Bank
 - B&Q
 - Blockchain.com
+- Blood Cancer UK
 - Bloom Money
 - Brock & Decker
 - CMC Consulting Ltd
@@ -36,6 +40,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Checkout.com
 - City Recruitment Associates
 - ClearScore
+- Client Server
 - Cobalt Recruitment
 - Coinbase
 - Connect Recruitment Consultants Ltd.
@@ -50,6 +55,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Dojo
 - Echo
 - Edward Mann
+- Elevation Recruitment Group
 - Equifind
 - Ernest Gordon Recruitment Limited
 - Everet Marsh
@@ -73,6 +79,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Harper May Ltd
 - Hawke Search
 - Hays Specialist Recruitment Limited
+- Headstar
 - HelloFresh
 - Hoop Recruitment
 - IAG Transform
@@ -101,6 +108,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Marlin Selection Recruitment
 - Matched Group
 - McGinnis Loy Associates Ltd
+- Meraki Talent Limited
 - Metis Search
 - Michael Page Finance
 - Mollie
@@ -118,6 +126,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pave Bank
 - Pavilion Recruitment Solutions
 - Payhawk
+- Peace Recruitment
 - Randstad Finance
 - Reckitt
 - Reed
@@ -152,6 +161,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ventula Consulting
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
+- VodafoneThree
 - Vonage
 - Walker Dendle Financial Recruitment
 - WorldQuant
@@ -162,7 +172,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (27)
+## Matched automatically by close name; worth a glance (28)
 
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
@@ -190,4 +200,5 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)
 - SumUp → SumUp Payments Limited (prefix)
+- WHEATLEY GROUP → Wheatley Software Solutions Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)
