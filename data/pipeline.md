@@ -694,4 +694,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536 | Trainline | Management Accountant | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/group-management-accountant/57544816 | Robert Half | Group Management Accountant | Leeds, West Yorkshire | posted: 2026-11-09 | note: via Reed
 
+- [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77687 | Next | Finance Business Partner | Leicester, Leicestershire, United Kingdom | posted: 2026-11-10
+- [ ] https://www.reed.co.uk/jobs/corporate-finance-analyst/57551845 | McGinnis Loy Associates Ltd | Corporate Finance Analyst | Northampton, Northamptonshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/accountant/57551619 | Zachary Daniels | Accountant | Oxford, Oxfordshire | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/company-accountant/ | via ScotJobsNet | Company Accountant | Lanarkshire, Scotland | posted: 2026-11-10 | note: via ScotJobsNet
+
 ## Processed
