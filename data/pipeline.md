@@ -802,4 +802,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant-insurance/57558777 | Hays Specialist Recruitment Limited | Assistant Accountant (Insurance) | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/financial-controller-127692768 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
 
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--FP-A-Tech---Ops_R266687-1 | BlackRock | Associate, FP&A Tech & Ops | Edinburgh, Scotland | posted: 2026-11-11
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Financial-Planning---Analysis---Private-Markets_R267090 | BlackRock | Associate, Financial Planning & Analysis - Private Markets | Edinburgh, Scotland | posted: 2026-11-11
+- [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77540 | Next | Credit Risk Analyst - 12 month FTC | Leicester, Leicestershire, United Kingdom | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cumberland-farms-uk-4488240143 | Cumberland Farms UK | Credit Risk Analyst | Horwich, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-fitch-ratings-4489005926 | Fitch Ratings | Financial Analyst | Glasgow, Scotland, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/infosec-risk-analyst-at-kdr-talent-solutions-4489966249 | KDR Talent Solutions | InfoSec Risk Analyst | United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/real-estate-investment-analyst-european-investor-london-at-edgworth-partners-4487243131 | Edgworth Partners | Real Estate Investment Analyst, European Investor, London | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-credit-investment-operations-at-macquarie-group-4488253089 | Macquarie Group | Private Credit Investment Operations | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-stanford-real-estate-partners-4488218129 | Stanford Real Estate Partners | Management Accountant | Manchester Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-management-accountant-at-forge-talent-4489955790 | Forge Talent | Group Management Accountant | Warrington, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-px-group-4488238248 | px Group | Management Accountant | Stockton-On-Tees, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-one-stop-healthcare-4488237542 | One Stop Healthcare | Management Accountant | Hemel Hempstead, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-forge-talent-4489954832 | Forge Talent | Management Accountant | Warrington, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894 | Kier Group | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57559727 | Cedar | Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/service-charge-accountant-property/57559835 | NC Associates | Service Charge Accountant (Property) | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.s1jobs.com/job/financial-controller-127733037 | Oliver Smith Recruitment | Financial Controller | Glasgow Area, Scotland | posted: 2026-11-11 | note: via S1Jobs
+
 ## Processed

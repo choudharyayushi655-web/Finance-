@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 500 firms checked, 319 matched, 181 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 511 firms checked, 323 matched, 188 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (181)
+## Not found (188)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -51,6 +51,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cooper Parry Finance Recruitment
 - Core3
 - Cornell Search
+- Cumberland Farms UK
 - Dana Incorporated
 - Deutsche Asset Management
 - Deutsche Bank
@@ -68,6 +69,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Financial Divisions
 - Fletcher George Recruitment Ltd
 - Flex
+- Forge Talent
 - GSR Markets
 - Gemini
 - Gleeson Recruitment Group
@@ -100,6 +102,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Joblet-AI
 - KBRA
 - KBS Corporate
+- KDR Talent Solutions
 - Kennedy Pearce Consulting
 - Kenneth Brian Associates Limited
 - Klarna
@@ -111,6 +114,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lorien
 - Lottie
 - Mackie Myers
+- Macquarie Group
 - Marks Sattin
 - Marlin Selection Recruitment
 - Matched Group
@@ -121,6 +125,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Mollie
 - Monmouthshire Building Society
 - Motorway
+- NC Associates
 - New Avenues
 - No1 Legal and Professional
 - Nucleus Commercial Finance
@@ -128,6 +133,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - OJK Business Management
 - Octavius Finance
 - Octopus Money
+- Oliver Smith Recruitment
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
 - PRATAP PARTNERSHIP LTD
@@ -159,6 +165,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Signet Resources
 - Sowena Group
 - Standard Life plc
+- Stanford Real Estate Partners
 - Swoop Funding
 - TCR
 - TCS

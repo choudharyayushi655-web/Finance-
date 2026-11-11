@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T15:26:54.258Z",
+ "generated_at": "2026-11-11T18:16:49.961Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 109,
+   "matching": 116,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 28,
+   "matching": 27,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 43,
+   "matching": 44,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 21,
+   "matching": 20,
    "picks": [
     {
      "title": "Investment Banking - EMEA Real Estate - Analyst / Associate - London",
@@ -1993,11 +1993,6 @@
    "cv": "Equity CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/investment-analyst-at-perch-group-4488862218": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 15
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-advocate-group-4487911489": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2733,11 +2728,6 @@
    "cv": "Equity CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/investment-risk-analyst-at-qh4-consulting-4489626151": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/investment-banking-emea-financial-institutions-group-insurance-analyst-london-at-jpmorganchase-4489936348": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -2822,6 +2812,91 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--FP-A-Tech---Ops_R266687-1": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Financial-Planning---Analysis---Private-Markets_R267090": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77540": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 25
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cumberland-farms-uk-4488240143": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-fitch-ratings-4489005926": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/infosec-risk-analyst-at-kdr-talent-solutions-4489966249": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/real-estate-investment-analyst-european-investor-london-at-edgworth-partners-4487243131": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/private-credit-investment-operations-at-macquarie-group-4488253089": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-stanford-real-estate-partners-4488218129": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/group-management-accountant-at-forge-talent-4489955790": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-px-group-4488238248": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-one-stop-healthcare-4488237542": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-forge-talent-4489954832": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57559727": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/service-charge-accountant-property/57559835": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 10
+  },
+  "https://www.s1jobs.com/job/financial-controller-127733037": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

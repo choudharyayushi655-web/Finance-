@@ -592,6 +592,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Cumberland Farms UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "DPD UK": {
    "licensed": true,
    "register_name": "D.P.D. Limited",
@@ -762,6 +767,11 @@
    "register_name": "The Financial Times Ltd",
    "match": "alias"
   },
+  "Fitch Ratings": {
+   "licensed": true,
+   "register_name": "Fitch Ratings Limited",
+   "match": "exact"
+  },
   "Flagstone": {
    "licensed": true,
    "register_name": "Flagstone Group Limited",
@@ -786,6 +796,11 @@
    "licensed": true,
    "register_name": "Flow Traders UK Services Ltd",
    "match": "alias"
+  },
+  "Forge Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Form3": {
    "licensed": true,
@@ -1152,6 +1167,11 @@
    "register_name": null,
    "match": "none"
   },
+  "KDR Talent Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Kennedy Pearce Consulting": {
    "licensed": false,
    "register_name": null,
@@ -1161,6 +1181,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Kier Group": {
+   "licensed": true,
+   "register_name": "Kier Group plc",
+   "match": "exact"
   },
   "Klarna": {
    "licensed": false,
@@ -1313,6 +1338,11 @@
    "match": "alias"
   },
   "Mackie Myers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Macquarie Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1517,6 +1547,11 @@
    "register_name": "Multiverse Group Limited",
    "match": "exact"
   },
+  "NC Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nasdaq": {
    "licensed": true,
    "register_name": "Nasdaq Limited",
@@ -1626,6 +1661,16 @@
    "licensed": true,
    "register_name": "Ohme Operations UK Limited",
    "match": "prefix"
+  },
+  "Oliver Smith Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "One Stop Healthcare": {
+   "licensed": true,
+   "register_name": "One Stop Healthcare",
+   "match": "exact"
   },
   "Ophelos": {
    "licensed": true,
@@ -2107,6 +2152,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Stanford Real Estate Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Starling Bank": {
    "licensed": true,
    "register_name": "Starling Bank Limited",
@@ -2491,6 +2541,11 @@
    "licensed": true,
    "register_name": "iCapital UK International Limited",
    "match": "alias"
+  },
+  "px Group": {
+   "licensed": true,
+   "register_name": "px Limited",
+   "match": "exact"
   },
   "targetjobs UK": {
    "licensed": false,
