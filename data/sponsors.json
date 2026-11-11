@@ -392,6 +392,11 @@
    "register_name": "Brown & Brown (Europe) Limited",
    "match": "exact"
   },
+  "Bruntwood SciTech": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CGI": {
    "licensed": true,
    "register_name": "Logica Ltd t/a CGI",

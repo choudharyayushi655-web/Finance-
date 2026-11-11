@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 486 firms checked, 314 matched, 172 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 487 firms checked, 314 matched, 173 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (172)
+## Not found (173)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -32,6 +32,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blood Cancer UK
 - Bloom Money
 - Brock & Decker
+- Bruntwood SciTech
 - CMC Consulting Ltd
 - CVC Marathon
 - Calastone

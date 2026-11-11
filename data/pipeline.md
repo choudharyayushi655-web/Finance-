@@ -766,4 +766,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965 | Standard Life plc | Investment Operations Technical Analyst | Edinburgh, Scotland, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/ | via ScotJobsNet | Newly Qualified Accountant | Lanarkshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 
+- [ ] https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London---Baker-Street/Quantitative-Solutions-Executive_R20990 | BDO UK | Quantitative Solutions Executive | London - Baker Street | posted: 2026-11-11
+- [ ] https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2006 | Schroders | Credit Analyst | London, United Kingdom | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-graduates-welcome-at-bruntwood-scitech-4487893897 | Bruntwood SciTech | M&A Analyst (Graduates welcome) | Manchester, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/top-tier-investment-banking-associate-at-everet-marsh-4470908615 | Everet Marsh | Top-Tier Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199 | targetjobs UK | 2027 Macquarie Asset Management Graduate Programme - Client Solutions Group | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57556830 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
+
 ## Processed
