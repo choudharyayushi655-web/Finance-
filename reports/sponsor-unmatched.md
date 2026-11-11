@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 487 firms checked, 314 matched, 173 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 500 firms checked, 319 matched, 181 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (173)
+## Not found (181)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -32,6 +32,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blood Cancer UK
 - Bloom Money
 - Brock & Decker
+- Bruin
 - Bruntwood SciTech
 - CMC Consulting Ltd
 - CVC Marathon
@@ -95,7 +96,9 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Inventum Group
 - JJ SEARCH LIMITED
 - JPMorganChase
+- JasperRose
 - Joblet-AI
+- KBRA
 - KBS Corporate
 - Kennedy Pearce Consulting
 - Kenneth Brian Associates Limited
@@ -133,6 +136,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pavilion Recruitment Solutions
 - Payhawk
 - Peace Recruitment
+- Qh4 Consulting
 - Randstad Finance
 - Reckitt
 - Reed
@@ -141,6 +145,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Rushlift GSE
 - S1Jobs
 - SD Business Management
+- SF Partners
 - SOCOTEC UK & Ireland
 - SRM RECRUITMENT LIMITED
 - STEP Fusion
@@ -155,7 +160,9 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sowena Group
 - Standard Life plc
 - Swoop Funding
+- TCR
 - TCS
+- TUI
 - Talan
 - Talentedge
 - ThinkMarkets
@@ -172,6 +179,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - VodafoneThree
 - Vonage
 - Walker Dendle Financial Recruitment
+- Watson-Marlow Fluid Technology Solutions
 - WorldQuant
 - Yolk Recruitment Ltd
 - Zachary Daniels
@@ -180,7 +188,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (29)
+## Matched automatically by close name; worth a glance (30)
 
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
@@ -191,6 +199,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Griffin → Griffin Bank Ltd (prefix)
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)
 - ICF → ICF Consulting Services Limited (prefix)
+- Ikarus Capital → Ikarus Capital Advisory (prefix)
 - Janus Henderson → JANUS HENDERSON ADMINISTRATION UK LIMITED (prefix)
 - Kroll → Kroll Advisory Ltd (prefix)
 - Kroo → Kroo Bank Ltd (prefix)

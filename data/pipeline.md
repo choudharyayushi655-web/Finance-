@@ -773,4 +773,33 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199 | targetjobs UK | 2027 Macquarie Asset Management Graduate Programme - Client Solutions Group | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57556830 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
 
+- [ ] https://job-boards.greenhouse.io/liberis/jobs/8378630 | Liberis | Financial Controller | London | posted: 2026-11-11
+- [ ] https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/GB-Remote-Office-GB99/Project-Finance-Analyst_R2603045 | ICF | Project Finance Analyst | GB Remote Office (GB99) · Leeds, UK (GB84) | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-reporting-at-tui-4489935324 | TUI | Finance Analyst - Reporting | Luton, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-tcr-4468916513 | TCR | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emea-finance-analyst-at-watson-marlow-fluid-technology-solutions-4488699091 | Watson-Marlow Fluid Technology Solutions | EMEA Finance Analyst | Cheltenham, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-sf-partners-4488232340 | SF Partners | FP&A Analyst | Birmingham, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-financial-analyst-at-lucanet-4481570626 | Lucanet | Commercial Financial Analyst | United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-safran-4488699806 | Safran | Finance Analyst | West Midlands, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-funds-associate-associate-director-london-at-kbra-4473724603 | KBRA | Corporate Credit Funds - Associate / Associate Director (London) | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-french-speaker-at-bruin-4488673919 | Bruin | Investment Analyst - French speaker | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-risk-analyst-at-qh4-consulting-4489626151 | Qh4 Consulting | Investment Risk Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-financial-institutions-group-insurance-analyst-london-at-jpmorganchase-4489936348 | JPMorganChase | Investment Banking - EMEA Financial Institutions Group (Insurance) - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-m-a-and-financing-advisory-at-ikarus-capital-4489945919 | Ikarus Capital | Associate – M&A and Financing Advisory | Richmond Upon Thames, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702 | Randstad | Management Accountant | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-sf-partners-4487804567 | SF Partners | Management Accountant | Derby, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-jasperrose-4487524025 | JasperRose | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-finance-graduate-programme-january-2027-at-tui-4489941298 | TUI | 2027 Finance Graduate Programme - January 2027 | Luton, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountancy-and-finance-graduate-at-targetjobs-uk-4488692935 | targetjobs UK | Accountancy and Finance Graduate | Saltcoats, Scotland, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-colgate-palmolive-4488699009 | Colgate-Palmolive | Commercial Finance Graduate | Surrey, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57558031 | Morgan McKinley | Financial Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57557800 | Accountable Recruitment | FP&A Analyst | Chester, Cheshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/valuations-pricing-analyst-12-contract/57558128 | Marks Sattin | Valuations / Pricing Analyst - 12 Contract | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/credit-officer-citi/57558979 | eFinancialCareers | Credit Officer - Citi | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/valuations-pricing-analyst-12-contract-marks-sattin-fs/57558996 | eFinancialCareers | Valuations / Pricing Analyst - 12 Contract - Marks Sattin FS | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/cd-credit-risk-management-associate-smbc/57558988 | eFinancialCareers | CD - Credit Risk Management - Associate - SMBC | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/single-stock-trader-citi/57559003 | eFinancialCareers | Single Stock Trader - Citi | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant-insurance/57558777 | Hays Specialist Recruitment Limited | Assistant Accountant (Insurance) | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/financial-controller-127692768 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
+
 ## Processed

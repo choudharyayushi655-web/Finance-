@@ -392,6 +392,11 @@
    "register_name": "Brown & Brown (Europe) Limited",
    "match": "exact"
   },
+  "Bruin": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Bruntwood SciTech": {
    "licensed": false,
    "register_name": null,
@@ -551,6 +556,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Colgate-Palmolive": {
+   "licensed": true,
+   "register_name": "Colgate-Palmolive (UK) Ltd",
+   "match": "exact"
   },
   "Coller Capital": {
    "licensed": true,
@@ -1042,6 +1052,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Ikarus Capital": {
+   "licensed": true,
+   "register_name": "Ikarus Capital Advisory",
+   "match": "prefix"
+  },
   "In2 Consult": {
    "licensed": false,
    "register_name": null,
@@ -1107,6 +1122,11 @@
    "register_name": "JANUS HENDERSON ADMINISTRATION UK LIMITED",
    "match": "prefix"
   },
+  "JasperRose": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Joblet-AI": {
    "licensed": false,
    "register_name": null,
@@ -1121,6 +1141,11 @@
    "licensed": true,
    "register_name": "Jump Trading International Limited",
    "match": "alias"
+  },
+  "KBRA": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "KBS Corporate": {
    "licensed": false,
@@ -1256,6 +1281,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Lucanet": {
+   "licensed": true,
+   "register_name": "LucaNet (UK) Limited",
+   "match": "exact"
   },
   "M&G": {
    "licensed": true,
@@ -1762,6 +1792,11 @@
    "register_name": "QBE Management Services (UK) Limited",
    "match": "alias"
   },
+  "Qh4 Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Quadrature Capital": {
    "licensed": true,
    "register_name": "Quadrature Capital Limited",
@@ -1785,6 +1820,11 @@
   "RBC": {
    "licensed": true,
    "register_name": "RBC Group",
+   "match": "exact"
+  },
+  "Randstad": {
+   "licensed": true,
+   "register_name": "Randstad UK Holding Ltd",
    "match": "exact"
   },
   "Randstad Finance": {
@@ -1887,6 +1927,11 @@
    "register_name": null,
    "match": "none"
   },
+  "SF Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "SMBC": {
    "licensed": true,
    "register_name": "SMBC Bank International plc",
@@ -1916,6 +1961,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Safran": {
+   "licensed": true,
+   "register_name": "Safran UK Ltd",
+   "match": "exact"
   },
   "Sainsbury's": {
    "licensed": true,
@@ -2107,7 +2157,17 @@
    "register_name": "T Rowe Price  International Ltd",
    "match": "alias"
   },
+  "TCR": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TCS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "TUI": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2326,6 +2386,11 @@
    "licensed": true,
    "register_name": "Walker Hamill Limited",
    "match": "exact"
+  },
+  "Watson-Marlow Fluid Technology Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Wayflyer": {
    "licensed": true,
