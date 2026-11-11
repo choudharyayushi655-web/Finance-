@@ -763,5 +763,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/assistant-accountant-127727854 | Bield Housing Association | Assistant Accountant | City of Edinburgh, Scotland | posted: 2026-11-10 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/treasury-ap-127727833 | S1Jobs | Treasury Ap | Scotland | note: via S1Jobs
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209 | Monmouthshire Building Society | Treasury Analyst | Cardiff, Wales, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965 | Standard Life plc | Investment Operations Technical Analyst | Edinburgh, Scotland, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/ | via ScotJobsNet | Newly Qualified Accountant | Lanarkshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 
 ## Processed

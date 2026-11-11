@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:26:37.774Z",
+ "generated_at": "2026-11-11T06:41:31.760Z",
  "order": [
   "finance",
   "credit",
@@ -2657,6 +2657,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
+  },
+  "https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
