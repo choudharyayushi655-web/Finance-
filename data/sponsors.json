@@ -407,6 +407,16 @@
    "register_name": "Logica Ltd t/a CGI",
    "match": "trading name"
   },
+  "CIBC": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "CLARC Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CMC Consulting Ltd": {
    "licensed": false,
    "register_name": null,
@@ -987,6 +997,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Heitman": {
+   "licensed": true,
+   "register_name": "Heitman Financial UK LLC",
+   "match": "prefix"
+  },
   "HelloFresh": {
    "licensed": false,
    "register_name": null,
@@ -1507,6 +1522,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Montpellier Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Monzo": {
    "licensed": true,
    "register_name": "Monzo Bank Ltd",
@@ -1573,6 +1593,11 @@
    "match": "exact"
   },
   "New Avenues": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Newlon Housing Trust": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1826,6 +1851,11 @@
    "licensed": true,
    "register_name": "Propel Holdings Limited",
    "match": "exact"
+  },
+  "Puma Capital Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "PwC": {
    "licensed": true,
@@ -2358,6 +2388,11 @@
    "match": "alias"
   },
   "VIA MATCH LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Valeo Foods UK": {
    "licensed": false,
    "register_name": null,
    "match": "none"

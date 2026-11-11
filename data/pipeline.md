@@ -819,5 +819,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57559727 | Cedar | Management Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/service-charge-accountant-property/57559835 | NC Associates | Service Charge Accountant (Property) | Liverpool, Merseyside | note: via Reed
 - [ ] https://www.s1jobs.com/job/financial-controller-127733037 | Oliver Smith Recruitment | Financial Controller | Glasgow Area, Scotland | posted: 2026-11-11 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/performance-reporting-finance-analyst-commerical-at-valeo-foods-uk-4480768684 | Valeo Foods UK | Performance & Reporting Finance Analyst (Commerical) | Leeds, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-commercial-real-estate-at-montpellier-resourcing-4488242581 | Montpellier Resourcing | Credit Analyst (Commercial Real Estate) | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-portfolio-management-corporate-banking-at-cibc-4489985498 | CIBC | Analyst, Portfolio Management - Corporate Banking | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-risk-analyst-at-clarc-recruitment-4484285316 | CLARC Recruitment | Portfolio Risk Analyst | Greater London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522 | Heitman | Analyst, Portfolio Management | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477 | Puma Capital Group | Graduate Analyst - Puma Property Finance | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-assistant-at-newlon-housing-trust-4489993409 | Newlon Housing Trust | Graduate Finance Assistant | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/market-liquidity-risk-analyst-12-month-ftc/57560021 | eFinancialCareers | Market & Liquidity Risk Analyst - 12 month FTC | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127733045 | Peace Recruitment | Quantity Surveyor | North Lanarkshire, Scotland | posted: 2026-11-11 | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/part-qualified-qualified-by-experience-accountant/ | via ScotJobsNet | Part Qualified / Qualified by Experience Accountant | Roxburghshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/interim-project-accountant-erp-month-end-in-glasgow/ | via ScotJobsNet | Interim Project Accountant: ERP & Month-End in Glasgow | Glasgow, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/oil-gas-accountant-intercompany-reporting/ | via ScotJobsNet | Oil & Gas Accountant – Intercompany & Reporting | Aberdeenshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 
 ## Processed

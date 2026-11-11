@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T18:16:49.961Z",
+ "generated_at": "2026-11-11T22:53:16.891Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 116,
+   "matching": 115,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 19,
+   "matching": 18,
    "picks": [
     {
      "title": "Investment Operations Technical Analyst",
@@ -618,11 +618,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 17
-  },
   "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -632,11 +627,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://job-boards.greenhouse.io/liberis/jobs/8349151": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 18
   },
   "https://job-boards.greenhouse.io/liberis/jobs/8349067": {
    "id": "credit",
@@ -2894,6 +2884,66 @@
    "score": 10
   },
   "https://www.s1jobs.com/job/financial-controller-127733037": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/performance-reporting-finance-analyst-commerical-at-valeo-foods-uk-4480768684": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-commercial-real-estate-at-montpellier-resourcing-4488242581": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/analyst-portfolio-management-corporate-banking-at-cibc-4489985498": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/portfolio-risk-analyst-at-clarc-recruitment-4484285316": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-assistant-at-newlon-housing-trust-4489993409": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/market-liquidity-risk-analyst-12-month-ftc/57560021": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127733045": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://scotjobsnet.co.uk/job/part-qualified-qualified-by-experience-accountant/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://scotjobsnet.co.uk/job/interim-project-accountant-erp-month-end-in-glasgow/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://scotjobsnet.co.uk/job/oil-gas-accountant-intercompany-reporting/": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
