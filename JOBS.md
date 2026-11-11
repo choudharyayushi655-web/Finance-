@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 23:34** (UK time) · **483 open roles** at 271 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 02:26** (UK time) · **482 open roles** at 271 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,24 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 23:32** · hourly scan · checked 200 boards · **1 new role**
+**Wed 11 Nov, 02:24** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209) | Monmouthshire Building Society | Cardiff, Wales, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Tue 10 Nov, 23:32** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (104 matching)
+**Finance (FP&A) CV** (102 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-investigo-4488848869) · Investigo · London Area, United Kingdom · posted 2026-11-09 · ✅
 
-**Credit CV** (44 matching)
+**Credit CV** (43 matching)
 
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884) · LSEG · London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -37,17 +33,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) · Bloomberg · London, England, United Kingdom · posted 2026-11-10 · ✅
 
-**Investment (IB / PE) CV** (46 matching)
+**Investment (IB / PE) CV** (43 matching)
 
 1. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
 2. [Associate - Corporate Finance (Business Services M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635) · Houlihan Lokey · London, UK · posted 2026-10-21 · ✅
 
-**Consulting CV** (16 matching)
+**Consulting CV** (15 matching)
 
 1. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
 2. [Credit Strategy Analyst](https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e) · Funding Circle · London · United Kingdom · posted 2026-11-06 · ✅
 
-**Real Estate CV** (22 matching)
+**Real Estate CV** (21 matching)
 
 1. [Investment Banking - EMEA Real Estate - Analyst / Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210616021) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-10 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
@@ -60,6 +56,10 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Wednesday 11 November
+
+<sub>Nothing new at: 02:24</sub>
 
 ### Tuesday 10 November
 
@@ -1293,9 +1293,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>101 new</b> → Finance 26 · Credit 18 · Equity 8 · Investment 17 · Consulting 10 · Real Estate 3 · Fund 3 · Other 16</summary>
+<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>100 new</b> → Finance 25 · Credit 18 · Equity 8 · Investment 17 · Consulting 10 · Real Estate 3 · Fund 3 · Other 16</summary>
 
-#### Finance (FP&A) CV: 26
+#### Finance (FP&A) CV: 25
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1317,7 +1317,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-10-27 | [Management Accountant](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Management-Accountant_JR_10041548) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-29 | [Commercial Analyst](https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101) | Ebury | London | ✅ |
 | — | [Financial Analyst (2) - Corporate Finance (Business Services)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst--2----Corporate-Finance--Business-Services-_R3634) | Houlihan Lokey | London, UK | ✅ |
-| — | [Experienced Financial Analyst, Financial and Valuation Advisory - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Financial-and-Valuation-Advisory---London_R3576) | Houlihan Lokey | London, UK | ✅ |
 | — | [Experienced Financial Analyst, Portfolio Valuation and Fund Advisory (Structured Products) - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3225) | Houlihan Lokey | London, UK | ✅ |
 | — | [Reinsurance Pricing Analyst](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Reinsurance-Pricing-Analyst_RQ14184) | MS Amlin | London | ✅ |
 | — | [Assistant Accountant (12 month FTC)](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Assistant-Accountant--12-month-FTC-_RQ14025) | MS Amlin | London | ✅ |
@@ -1436,15 +1435,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Finance - Shell Graduate Programme 2027 - United Kingdom](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London---Shell-Centre/Finance---Shell-Graduate-Programme-2027---United-Kingdom_R210018) | Shell | London - Shell Centre | ✅ |
 | 2026-10-26 | [Quantum Computational Science Specialist](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby/Quantum-Computational-Science-Specialist_JR6155409-1) | Rolls-Royce | Derby | ✅ |
 
-<sub>243 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>244 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (246)](#finance-fpa-cv-246) · [Credit (54)](#credit-cv-54) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (15)](#consulting-cv-15) · [Real Estate (7)](#real-estate-cv-7) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (75)](#other-fits-no-cv-closely-may-still-be-worth-a-look-75)
+Everything matched so far, newest first within each CV: [Finance (245)](#finance-fpa-cv-245) · [Credit (54)](#credit-cv-54) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (15)](#consulting-cv-15) · [Real Estate (7)](#real-estate-cv-7) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (75)](#other-fits-no-cv-closely-may-still-be-worth-a-look-75)
 
-### Finance (FP&A) CV: 246
+### Finance (FP&A) CV: 245
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1665,7 +1664,6 @@ Everything matched so far, newest first within each CV: [Finance (246)](#finance
 | 2026-11-05 | [Commercial Analyst](https://umusic.wd5.myworkdayjobs.com/umguk/job/Kings-Cross-London/Commercial-Analyst_UMG-27761) | Universal Music UK | Kings Cross, London | ✅ |
 | — | [Management Accountant](https://umusic.wd5.myworkdayjobs.com/umguk/job/Kings-Cross-London/Management-Accountant_UMG-26262) | Universal Music UK | Kings Cross, London | ✅ |
 | — | [Financial Analyst (2) - Corporate Finance (Business Services)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst--2----Corporate-Finance--Business-Services-_R3634) | Houlihan Lokey | London, UK | ✅ |
-| — | [Experienced Financial Analyst, Financial and Valuation Advisory - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Financial-and-Valuation-Advisory---London_R3576) | Houlihan Lokey | London, UK | ✅ |
 | — | [Experienced Financial Analyst, Portfolio Valuation and Fund Advisory (Structured Products) - London](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3225) | Houlihan Lokey | London, UK | ✅ |
 | — | [Reinsurance Pricing Analyst](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Reinsurance-Pricing-Analyst_RQ14184) | MS Amlin | London | ✅ |
 | — | [Assistant Accountant (12 month FTC)](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Assistant-Accountant--12-month-FTC-_RQ14025) | MS Amlin | London | ✅ |
@@ -1970,10 +1968,11 @@ Everything matched so far, newest first within each CV: [Finance (246)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>25 roles taken off the list because the firm closed the posting</summary>
+<summary>26 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 11 Nov, 02:26 | Experienced Financial Analyst, Financial and Valuation Advisory - London | Houlihan Lokey |
 | Tue 10 Nov, 22:42 | Credit Risk Analyst | Ventula Consulting |
 | Tue 10 Nov, 18:02 | Corporate Finance Associate / Healthcare | Brock & Decker |
 | Tue 10 Nov, 17:28 | Junior Treasury Analyst | Tandem Bank |
