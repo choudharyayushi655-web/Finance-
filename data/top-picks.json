@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T01:13:35.668Z",
+ "generated_at": "2026-11-12T03:59:44.146Z",
  "order": [
   "finance",
   "credit",
@@ -302,11 +302,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 9
   },
-  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Venture---Growth-Debt---Analyst---London_R261163": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://invesco.wd1.myworkdayjobs.com/ivz/job/London-London/Associate--Private-Credit_R-13259": {
    "id": "credit",
    "cv": "Credit CV",
@@ -323,11 +318,6 @@
    "score": 28
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
@@ -2946,6 +2936,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 29
   }
  }
 }
