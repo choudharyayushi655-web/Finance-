@@ -22,6 +22,11 @@
    "register_name": "American International Group UK Limited",
    "match": "alias"
   },
+  "AJ Bell": {
+   "licensed": true,
+   "register_name": "AJ Bell Plc",
+   "match": "exact"
+  },
   "ASC Connections Ltd": {
    "licensed": false,
    "register_name": null,
@@ -96,6 +101,16 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Alexander Daniels Finance Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Alfa AI": {
+   "licensed": true,
+   "register_name": "Alfa Energy Limited",
+   "match": "prefix"
   },
   "Alignerr": {
    "licensed": false,
@@ -432,6 +447,11 @@
    "register_name": "CME Congresses Limited",
    "match": "alias"
   },
+  "CMS UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CVC Marathon": {
    "licensed": false,
    "register_name": null,
@@ -441,6 +461,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Cameron Kennedy": {
+   "licensed": true,
+   "register_name": "CKR CONSULTANTS LTD T/A CAMERON KENNEDY",
+   "match": "trading name"
   },
   "Capgemini": {
    "licensed": true,
@@ -717,6 +742,11 @@
    "register_name": "Eleven Labs Ltd",
    "match": "exact"
   },
+  "Eni": {
+   "licensed": true,
+   "register_name": "ENI UK Limited",
+   "match": "exact"
+  },
   "Equifind": {
    "licensed": false,
    "register_name": null,
@@ -776,6 +806,11 @@
    "licensed": true,
    "register_name": "The Financial Times Ltd",
    "match": "alias"
+  },
+  "Finatal": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Fitch Ratings": {
    "licensed": true,
@@ -1557,6 +1592,11 @@
    "register_name": "Morgan Stanley UK Limited",
    "match": "alias"
   },
+  "Morrisons": {
+   "licensed": true,
+   "register_name": "Bharat Ventures Limited T/A Morrisons",
+   "match": "trading name"
+  },
   "Moss": {
    "licensed": true,
    "register_name": "Moss Europe Limited",
@@ -1576,6 +1616,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "NET-A-PORTER": {
+   "licensed": true,
+   "register_name": "NET-A-PORTER GROUP Ltd",
+   "match": "exact"
   },
   "Nasdaq": {
    "licensed": true,
@@ -1636,6 +1681,11 @@
    "licensed": true,
    "register_name": "Northern Trust Management Services Limited",
    "match": "alias"
+  },
+  "Novuna": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Nucleus Commercial Finance": {
    "licensed": false,
@@ -1706,6 +1756,11 @@
    "licensed": true,
    "register_name": "Ophelos Ltd",
    "match": "exact"
+  },
+  "Orla Rose Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "PA Consulting": {
    "licensed": false,
@@ -2022,6 +2077,11 @@
    "register_name": null,
    "match": "none"
   },
+  "SRG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "SRM RECRUITMENT LIMITED": {
    "licensed": false,
    "register_name": null,
@@ -2207,6 +2267,11 @@
    "register_name": "Stifel Nicolaus Europe Limited",
    "match": "alias"
   },
+  "Strand Hill": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Stripe": {
    "licensed": true,
    "register_name": "STRIPE CONSULTING LIMITED",
@@ -2251,6 +2316,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "TP ICAP": {
+   "licensed": true,
+   "register_name": "TP ICAP GROUP SERVICES LIMITED",
+   "match": "exact"
   },
   "TUI": {
    "licensed": false,

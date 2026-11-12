@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 519 firms checked, 324 matched, 195 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 533 firms checked, 331 matched, 202 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (195)
+## Not found (202)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -17,6 +17,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Adyen
 - Agility
 - Alexander Chapman
+- Alexander Daniels Finance Recruitment
 - Alignerr
 - Altum Consulting
 - Anderson Knight
@@ -37,6 +38,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CIBC
 - CLARC Recruitment
 - CMC Consulting Ltd
+- CMS UK
 - CVC Marathon
 - Calastone
 - Capital Outsourcing Group Ltd
@@ -69,6 +71,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Executive Talent Solutions
 - FT Recruitment Group
 - Financial Divisions
+- Finatal
 - Fletcher George Recruitment Ltd
 - Flex
 - Forge Talent
@@ -133,12 +136,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - New Avenues
 - Newlon Housing Trust
 - No1 Legal and Professional
+- Novuna
 - Nucleus Commercial Finance
 - OAK LIFE SCIENCE LTD
 - OJK Business Management
 - Octavius Finance
 - Octopus Money
 - Oliver Smith Recruitment
+- Orla Rose Associates
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
 - PRATAP PARTNERSHIP LTD
@@ -159,6 +164,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - SD Business Management
 - SF Partners
 - SOCOTEC UK & Ireland
+- SRG
 - SRM RECRUITMENT LIMITED
 - STEP Fusion
 - STONEMONT PARTNERS LIMITED
@@ -172,6 +178,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sowena Group
 - Standard Life plc
 - Stanford Real Estate Partners
+- Strand Hill
 - Swoop Funding
 - TCR
 - TCS
@@ -202,8 +209,9 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (31)
+## Matched automatically by close name; worth a glance (32)
 
+- Alfa AI → Alfa Energy Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)

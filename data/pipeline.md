@@ -834,4 +834,38 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-global-accounting-network-4487899718 | Global Accounting Network | Management Accountant | Hampshire, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355 | targetjobs UK | Finance Graduate Programme: Commercial Finance & FP&A | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695 | Rothschild & Co | Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory | London | posted: 2026-11-12
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Specialist-Investment-Operations_JR-0000096434 | Barclays | Specialist Investment Operations | Glasgow Campus | posted: 2026-11-12
+- [ ] https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/M-A-Consultant---Commercial-Due-Diligence---Life-Sciences_R21618 | BDO UK | M&A Consultant - Commercial Due Diligence - Life Sciences | London | posted: 2026-11-12
+- [ ] https://www.teneo.com/careers/open-positions/8197497003?gh_jid=8197497003 | Teneo | Financial Advisory Graduate Programme | Manchester, United Kingdom | posted: 2026-11-12
+- [ ] https://www.teneo.com/careers/open-positions/8197494003?gh_jid=8197494003 | Teneo | Financial Advisory Graduate Programme | Leeds, United Kingdom | posted: 2026-11-12
+- [ ] https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Durham-Blackwell-Street/Commercial-Finance-Partner_451127-1 | GSK | Commercial Finance Partner | Durham Blackwell Street | posted: 2026-11-12
+- [ ] https://jobs.janushenderson.com/job/London-Corporate-Graduate-ETF-Capital-Markets-&-Product-EC2M-3AE/1450120000/ | Janus Henderson | Corporate Graduate - ETF Capital Markets & Product | London
+- [ ] https://careers.ey.com/ey/job/London-Next-Frontier-Quantum-Associate-SE1-2AF/1456792933/ | EY | Next Frontier Quantum Associate | London
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-novuna-4481120231 | Novuna | Financial Analyst | Newbury, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-net-a-porter-4490321645 | NET-A-PORTER | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-cms-uk-4482137543 | CMS UK | Finance Analyst | Greater London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alfa-ai-4489096950 | Alfa AI | Management Accountant | Leicester, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/international-credit-analysis-reporting-at-cameron-kennedy-4485820654 | Cameron Kennedy | International Credit Analysis & Reporting | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-at-montpellier-resourcing-4488242581 | Montpellier Resourcing | Corporate Credit Analyst | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-scottishpower-4490329855 | ScottishPower | Risk Analyst | Blantyre, Scotland, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-associate-non-financial-risk-management-at-tp-icap-4479437724 | TP ICAP | Risk Associate, Non-Financial Risk Management | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-eni-4470928662 | Eni | Market Risk Analyst (Analytics) | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-aj-bell-4488524219 | AJ Bell | Investment Analyst | Manchester, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-finatal-4489954639 | Finatal | Investment Associate | Oxford, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-real-estate-analyst-associate-london-at-jpmorganchase-4480569191 | JPMorganChase | Investment Banking - EMEA Real Estate - Analyst / Associate - London | Greater London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-strand-hill-4489207033 | Strand Hill | Fund Accountant | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-orla-rose-associates-4490315608 | Orla Rose Associates | Management Accountant | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alexander-daniels-finance-recruitment-4490312589 | Alexander Daniels Finance Recruitment | Management Accountant | Cannock, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493 | Morrisons | Accountant - Convenience - Ambient | Bradford, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57561021 | Ambition Europe Limited | Finance Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/credit-risk-analyst/57561028 | SRG | Credit Risk Analyst | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/technical-accountant-127741216 | Harvey Nash | Technical Accountant | Glasgow Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127738727 | S1Jobs | Trainee Finance Assistant Graduate | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127738667 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/reporting-accountant-127738623 | S1Jobs | Reporting Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127738556 | S1Jobs | Management Accountant 1 Year Contract Part Time | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127738411 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/finance-business-partner-scotland-rail/ | via ScotJobsNet | Finance Business Partner – Scotland Rail | Glasgow, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
+
 ## Processed
