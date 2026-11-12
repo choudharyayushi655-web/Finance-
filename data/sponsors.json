@@ -17,6 +17,11 @@
    "register_name": "9fin Limited",
    "match": "exact"
   },
+  "ACL Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "AIG": {
    "licensed": true,
    "register_name": "American International Group UK Limited",
@@ -152,6 +157,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Apple": {
+   "licensed": true,
+   "register_name": "Apple Europe Limited",
+   "match": "exact"
+  },
   "Arcade Food Halls": {
    "licensed": false,
    "register_name": null,
@@ -226,6 +236,11 @@
    "licensed": true,
    "register_name": "AVIVA DENTISTRY LIMITED",
    "match": "alias"
+  },
+  "Avove Utilities": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Ayvens": {
    "licensed": true,
@@ -493,6 +508,11 @@
    "match": "trading name"
   },
   "Card Factory": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Carousel Consultancy Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -852,6 +872,11 @@
    "register_name": "Form3 Technology Limited",
    "match": "prefix"
   },
+  "Fox's Burton's Companies (FBC) UK": {
+   "licensed": true,
+   "register_name": "Fox's Burton's Companies (FBC) UK Limited",
+   "match": "exact"
+  },
   "Franklin Templeton": {
    "licensed": true,
    "register_name": "Franklin Templeton Global Investors Limited",
@@ -886,6 +911,11 @@
    "licensed": true,
    "register_name": "GKN Aerospace Services",
    "match": "exact"
+  },
+  "GP Fund Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "GSA Capital": {
    "licensed": true,
@@ -991,6 +1021,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Harmonic Finance™": {
+   "licensed": true,
+   "register_name": "Harmonic Finance & Operations",
+   "match": "prefix"
   },
   "Harmonic Group Ltd": {
    "licensed": true,
@@ -1192,6 +1227,11 @@
    "register_name": "JANUS HENDERSON ADMINISTRATION UK LIMITED",
    "match": "prefix"
   },
+  "Janus Henderson Investors": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "JasperRose": {
    "licensed": false,
    "register_name": null,
@@ -1327,6 +1367,11 @@
    "register_name": "Lightfoot Advisors",
    "match": "prefix"
   },
+  "Lightsource bp": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lloyd's of London": {
    "licensed": true,
    "register_name": "LLOYD'S OF LONDON",
@@ -1411,6 +1456,11 @@
    "licensed": true,
    "register_name": "MAN CORPORATION LIMITED",
    "match": "alias"
+  },
+  "ManpowerGroup Talent Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Marex": {
    "licensed": true,
@@ -1521,6 +1571,11 @@
    "licensed": true,
    "register_name": "Miryco Consultants Ltd",
    "match": "exact"
+  },
+  "Mitchell Adam": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Mizuho": {
    "licensed": true,
@@ -1957,6 +2012,11 @@
    "register_name": "RBC Group",
    "match": "exact"
   },
+  "Radius": {
+   "licensed": true,
+   "register_name": "Radius Systems Limited",
+   "match": "prefix"
+  },
   "Randstad": {
    "licensed": true,
    "register_name": "Randstad UK Holding Ltd",
@@ -2031,6 +2091,11 @@
    "licensed": true,
    "register_name": "Rothschild & Co Global Markets Solutions Limited",
    "match": "alias"
+  },
+  "Rothstein Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Royal London": {
    "licensed": true,
@@ -2507,6 +2572,11 @@
    "register_name": "VISA EUROPE LIMITED",
    "match": "alias"
   },
+  "Vistry Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Vitesse": {
    "licensed": true,
    "register_name": "Vitesse PSP",
@@ -2546,6 +2616,11 @@
    "licensed": true,
    "register_name": "Walker Hamill Limited",
    "match": "exact"
+  },
+  "Warner Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Watson-Marlow Fluid Technology Solutions": {
    "licensed": false,

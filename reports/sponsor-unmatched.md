@@ -1,12 +1,13 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 533 firms checked, 331 matched, 202 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 548 firms checked, 335 matched, 213 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (202)
+## Not found (213)
 
 - 93 MGMT
+- ACL Partners
 - ASC Connections Ltd
 - ASDA
 - Abound
@@ -27,6 +28,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Armstrong Watson
 - Aster Group
 - Atom Bank
+- Avove Utilities
 - B&Q
 - Bield Housing Association
 - Blockchain.com
@@ -43,6 +45,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Calastone
 - Capital Outsourcing Group Ltd
 - Card Factory
+- Carousel Consultancy Ltd
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates
@@ -75,6 +78,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Fletcher George Recruitment Ltd
 - Flex
 - Forge Talent
+- GP Fund Solutions
 - GSR Markets
 - Gemini
 - Gleeson Recruitment Group
@@ -104,6 +108,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Inventum Group
 - JJ SEARCH LIMITED
 - JPMorganChase
+- Janus Henderson Investors
 - JasperRose
 - Joblet-AI
 - KBRA
@@ -115,12 +120,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Landbay
 - Language Matters
 - Lemonade
+- Lightsource bp
 - Lookers Motor Group Limited
 - Lord Accounting & Finance
 - Lorien
 - Lottie
 - Mackie Myers
 - Macquarie Group
+- ManpowerGroup Talent Solutions
 - Marks Sattin
 - Marlin Selection Recruitment
 - Matched Group
@@ -128,6 +135,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Meraki Talent Limited
 - Metis Search
 - Michael Page Finance
+- Mitchell Adam
 - Mollie
 - Monmouthshire Building Society
 - Montpellier Resourcing
@@ -159,6 +167,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Reed
 - Rendall & Rittner
 - Richard James Recruitment Specialists Ltd
+- Rothstein Recruitment
 - Rushlift GSE
 - S1Jobs
 - SD Business Management
@@ -197,9 +206,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ventula Consulting
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
+- Vistry Group
 - VodafoneThree
 - Vonage
 - Walker Dendle Financial Recruitment
+- Warner Recruitment Limited
 - Watson-Marlow Fluid Technology Solutions
 - WorldQuant
 - Yolk Recruitment Ltd
@@ -209,7 +220,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (32)
+## Matched automatically by close name; worth a glance (34)
 
 - Alfa AI → Alfa Energy Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
@@ -219,6 +230,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Duco → Duco Technology Limited (prefix)
 - Form3 → Form3 Technology Limited (prefix)
 - Griffin → Griffin Bank Ltd (prefix)
+- Harmonic Finance™ → Harmonic Finance & Operations (prefix)
 - Heitman → Heitman Financial UK LLC (prefix)
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)
 - ICF → ICF Consulting Services Limited (prefix)
@@ -236,6 +248,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Paxos → Paxos Technology Limited (prefix)
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
+- Radius → Radius Systems Limited (prefix)
 - SMBC → SMBC Bank International plc (prefix)
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)

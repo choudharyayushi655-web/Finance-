@@ -868,4 +868,36 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/accountant-127738411 | S1Jobs | Accountant | Scotland | note: via S1Jobs
 - [ ] https://scotjobsnet.co.uk/job/finance-business-partner-scotland-rail/ | via ScotJobsNet | Finance Business Partner – Scotland Rail | Glasgow, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
 
+- [ ] https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Edinburgh/Associate---Non-Core---Loan-Servicing--CIB-Debt-Products_165877-2 | Lloyds Banking Group | Associate - Non-Core & Loan Servicing, CIB Debt Products | Edinburgh | posted: 2026-11-12
+- [ ] https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Equity-Capital-Markets--Analyst_10079971-WD-1 | MUFG | Equity Capital Markets, Analyst | London | posted: 2026-11-12
+- [ ] https://marex.breezy.hr/p/a67cebffd88801-market-risk-analyst-fx | Marex | Market Risk Analyst - FX | London, GB, United Kingdom, Remote | posted: 2026-11-12
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210767645 | JPMorgan Chase | Commercial & Investment Bank GF&BM – Global Commodities Group – Product Control – Associate – London | LONDON, United Kingdom | posted: 2026-11-12
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Operations-Intermediate-Analyst---Cash-Management-Treasury-Operations_26988317 | Citi | Operations Intermediate Analyst - Cash Management Treasury Operations | Belfast United Kingdom | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-avove-utilities-4490360628 | Avove Utilities | Commercial Finance Analyst | Chorley, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-vistry-group-4488299963 | Vistry Group | Finance Analyst | West Sussex, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/vodafonethree-commercial-finance-analyst-at-vodafonethree-4488528588 | VodafoneThree | VodafoneThree - Commercial Finance Analyst | Newbury, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-michael-page-4489996111 | Michael Page | Finance Business Partner | Warrington, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emeia-credit-analyst-at-apple-4489264414 | Apple | EMEIA Credit Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-real-estate-corporate-banking-at-rothstein-recruitment-4490364588 | Rothstein Recruitment | Credit Analyst - Real Estate - Corporate Banking | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-radius-4490370202 | Radius | Graduate Credit Risk Analyst | Crewe, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-assurance-analyst-at-macquarie-group-4480018912 | Macquarie Group | Credit Assurance Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-acl-partners-4490355171 | ACL Partners | Investment Associate | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-tech-services-at-baird-4445401702 | Baird | Investment Banking Analyst - Tech & Services | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-structured-finance-at-lightsource-bp-4489252061 | Lightsource bp | Associate, Structured Finance | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-gp-fund-solutions-4481196846 | GP Fund Solutions | Fund Accountant | Brighton, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-manpowergroup-talent-solutions-4489246878 | ManpowerGroup Talent Solutions | Management Accountant | Coupar Angus, Scotland, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-michael-page-4490348626 | Michael Page | Management Accountant | Altrincham, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-fox-s-burton-s-companies-fbc-uk-4454765293 | Fox's Burton's Companies (FBC) UK | Management Accountant | Blackpool, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-rapid-growth-consumer-brand-central-london-4-days-in-office-up-to-%C2%A360k-at-harmonic-finance%E2%84%A2-certified-b-corp-4489248758 | Harmonic Finance™ | Certified B Corp | Management Accountant | Rapid Growth Consumer Brand | Central London (4 days in office) | Up to £60k | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-graduate-etf-capital-markets-product-at-janus-henderson-investors-4488511884 | Janus Henderson Investors | Corporate Graduate - ETF Capital Markets & Product | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-accountant-investment-startup-at-carousel-consultancy-ltd-4489091999 | Carousel Consultancy Ltd | Graduate Finance Accountant - Investment Startup | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57563061 | eFinancialCareers | Financial Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57564013 | Mitchell Adam | Commercial Finance Analyst | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/private-credit-operations-associate/57563640 | Robert Walters | Private Credit - Operations Associate | South West London, London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-analyst-market-risk-models-london-inside-ir35-hybrid-3-days-office/57563067 | eFinancialCareers | Quantitative Analyst - Market Risk Models - London - Inside IR35 - Hybrid 3 Days Office | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fx-options-trader-citi/57563020 | eFinancialCareers | FX Options Trader - Citi | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57563919 | Warner Recruitment Limited | Assistant Accountant | Northampton, Northamptonshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/financial-accountant-127742525 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127742512 | S1Jobs | Assistant Quantity Surveyor | Scotland | note: via S1Jobs
+
 ## Processed
