@@ -831,5 +831,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/part-qualified-qualified-by-experience-accountant/ | via ScotJobsNet | Part Qualified / Qualified by Experience Accountant | Roxburghshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/interim-project-accountant-erp-month-end-in-glasgow/ | via ScotJobsNet | Interim Project Accountant: ERP & Month-End in Glasgow | Glasgow, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/oil-gas-accountant-intercompany-reporting/ | via ScotJobsNet | Oil & Gas Accountant – Intercompany & Reporting | Aberdeenshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-global-accounting-network-4487899718 | Global Accounting Network | Management Accountant | Hampshire, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed

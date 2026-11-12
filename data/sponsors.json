@@ -877,6 +877,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Global Accounting Network": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "GoCardless": {
    "licensed": true,
    "register_name": "GoCardless Limited",

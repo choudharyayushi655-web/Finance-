@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 518 firms checked, 324 matched, 194 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 519 firms checked, 324 matched, 195 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (194)
+## Not found (195)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -75,6 +75,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - GSR Markets
 - Gemini
 - Gleeson Recruitment Group
+- Global Accounting Network
 - Graphite Partners
 - Greencore
 - Greenhill
