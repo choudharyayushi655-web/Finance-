@@ -417,6 +417,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Broster Buchanan": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brown & Brown": {
    "licensed": true,
    "register_name": "Brown & Brown (Europe) Limited",
@@ -485,6 +490,11 @@
   "Capgemini": {
    "licensed": true,
    "register_name": "Capgemini UK PLC",
+   "match": "exact"
+  },
+  "Capital One": {
+   "licensed": true,
+   "register_name": "CAPITAL ONE (EUROPE) PLC",
    "match": "exact"
   },
   "Capital One UK": {
@@ -663,6 +673,11 @@
    "match": "alias"
   },
   "Dana Incorporated": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Datalink Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1012,6 +1027,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Hargreaves Land": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hargreaves Lansdown": {
    "licensed": true,
    "register_name": "Hargreaves Lansdown Limited",
@@ -1286,6 +1306,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Kobalt Music": {
+   "licensed": true,
+   "register_name": "Kobalt Music Group Limited",
+   "match": "exact"
   },
   "Kroll": {
    "licensed": true,
@@ -1636,6 +1661,11 @@
    "licensed": true,
    "register_name": "MoonPay (UK) Limited",
    "match": "exact"
+  },
+  "Morgan Hunt Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Morgan McKinley": {
    "licensed": true,

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 548 firms checked, 335 matched, 213 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 554 firms checked, 337 matched, 217 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (213)
+## Not found (217)
 
 - 93 MGMT
 - ACL Partners
@@ -35,6 +35,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blood Cancer UK
 - Bloom Money
 - Brock & Decker
+- Broster Buchanan
 - Bruin
 - Bruntwood SciTech
 - CIBC
@@ -60,6 +61,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cornell Search
 - Cumberland Farms UK
 - Dana Incorporated
+- Datalink Recruitment
 - Deutsche Asset Management
 - Deutsche Bank
 - Distinct Recruitment
@@ -90,6 +92,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HSBC Innovation Banking
 - Halliday Marx
 - Handpicked Recruitment Limited
+- Hargreaves Land
 - Harley-Davidson Motor Company
 - Harnham
 - Harnham - Data & Analytics Recruitment
@@ -139,6 +142,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Mollie
 - Monmouthshire Building Society
 - Montpellier Resourcing
+- Morgan Hunt Recruitment
 - Motorway
 - NC Associates
 - New Avenues
