@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 12 Nov, 03:59** (UK time) · **539 open roles** at 306 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 12 Nov, 09:02** (UK time) · **537 open roles** at 305 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 12 Nov, 03:58** · hourly scan · checked 200 boards · **1 new role**
+**Thu 12 Nov, 08:59** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Finance Graduate Programme: Commercial Finance & FP&A](https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355) | targetjobs UK | London, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Thu 12 Nov, 03:58** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -32,7 +28,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884) · LSEG · London, England, United Kingdom · posted 2026-11-09 · ✅
 
-**Equity CV** (26 matching)
+**Equity CV** (25 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) · Bloomberg · London, England, United Kingdom · posted 2026-11-10 · ✅
@@ -47,7 +43,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
 2. [Credit Strategy Analyst](https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e) · Funding Circle · London · United Kingdom · posted 2026-11-06 · ✅
 
-**Real Estate CV** (20 matching)
+**Real Estate CV** (19 matching)
 
 1. [Investment Banking - EMEA Real Estate - Analyst / Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210616021) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-10 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<sub>Nothing new at: 08:59</sub>
 
 <details>
 <summary><b>03:58</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -347,7 +345,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>17:26</b> · hourly scan · <b>36 new</b> → Finance 16 · Credit 4 · Equity 3 · Investment 5 · Fund 3 · Other 5</summary>
+<summary><b>17:26</b> · hourly scan · <b>35 new</b> → Finance 16 · Credit 4 · Equity 2 · Investment 5 · Fund 3 · Other 5</summary>
 
 #### Finance (FP&A) CV: 16
 
@@ -379,11 +377,10 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-10 | [Prudential Risk Associate , ICAAP , ILAAP , Liquidity Risk , Banking](https://www.linkedin.com/jobs/view/prudential-risk-associate-icaap-ilaap-liquidity-risk-banking-at-jj-search-limited-4488367698) | JJ SEARCH LIMITED | London Area, United Kingdom | ❔ |
 | 2026-11-10 | [Information Security Risk Analyst](https://www.linkedin.com/jobs/view/information-security-risk-analyst-at-client-server-4489464424) | Client Server | London, England, United Kingdom | ❔ |
 
-#### Equity CV: 3
+#### Equity CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-10 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995) | Alexander Chapman | London Area, United Kingdom | ❔ |
 | — | [Syndicate Research Analyst](https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207) | IPS Group | London | ✅ |
 | — | [Investment Analyst](https://www.reed.co.uk/jobs/investment-analyst/57554180) | eFinancialCareers | London | ✅ |
 
@@ -415,7 +412,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-10 | [Quantity Surveyor Pqs Security Cleared](https://www.s1jobs.com/job/quantity-surveyor-pqs-security-cleared-127727650) | Peace Recruitment | City of Edinburgh, Scotland | ❔ |
 | — | [Graduate Quantity Surveyor](https://www.s1jobs.com/job/graduate-quantity-surveyor-127727593) | S1Jobs | Scotland | ❔ |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -608,7 +605,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>14:38</b> · hourly scan · <b>39 new</b> → Finance 28 · Credit 3 · Equity 2 · Investment 2 · Consulting 1 · Fund 1 · Other 2</summary>
+<summary><b>14:38</b> · hourly scan · <b>38 new</b> → Finance 28 · Credit 3 · Equity 1 · Investment 2 · Consulting 1 · Fund 1 · Other 2</summary>
 
 #### Finance (FP&A) CV: 28
 
@@ -651,12 +648,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-09 | [Investment Analyst, Private Credit](https://www.linkedin.com/jobs/view/investment-analyst-private-credit-at-pearse-partners-4487919299) | Pearse Partners | London Area, United Kingdom | ✅ |
 | 2026-11-09 | [Fund Controller - Private Credit - Central London - TC up to £140k](https://www.linkedin.com/jobs/view/fund-controller-private-credit-central-london-tc-up-to-%C2%A3140k-at-mondrian-alpha-4487144523) | Mondrian Alpha | London Area, United Kingdom | ✅ |
 
-#### Equity CV: 2
+#### Equity CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-09 | [Investment Analyst, Quantitative Solutions](https://www.linkedin.com/jobs/view/investment-analyst-quantitative-solutions-at-lcm-partners-4488851537) | LCM Partners | London Area, United Kingdom | ✅ |
-| 2026-11-09 | [Graduate Investment Analyst](https://www.linkedin.com/jobs/view/graduate-investment-analyst-at-perch-group-4488863148) | Perch Group | Manchester Area, United Kingdom | ✅ |
 
 #### Investment (IB / PE) CV: 2
 
@@ -684,7 +680,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-09 | [Accounting & Finance Graduate, Warwick](https://www.linkedin.com/jobs/view/accounting-finance-graduate-warwick-at-national-grid-4487154539) | National Grid | Warwick, England, United Kingdom | ✅ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127720787) | S1Jobs | Scotland | ❔ |
 
-<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>3 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -1650,7 +1646,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (279)](#finance-fpa-cv-279) · [Credit (63)](#credit-cv-63) · [Equity (29)](#equity-cv-29) · [Investment (49)](#investment-ib--pe-cv-49) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (81)](#other-fits-no-cv-closely-may-still-be-worth-a-look-81)
+Everything matched so far, newest first within each CV: [Finance (279)](#finance-fpa-cv-279) · [Credit (63)](#credit-cv-63) · [Equity (27)](#equity-cv-27) · [Investment (49)](#investment-ib--pe-cv-49) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (81)](#other-fits-no-cv-closely-may-still-be-worth-a-look-81)
 
 ### Finance (FP&A) CV: 279
 
@@ -2004,18 +2000,16 @@ Everything matched so far, newest first within each CV: [Finance (279)](#finance
 | 2026-10-20 | [Market Risk (Product) Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/London-UK/Market-Risk--Product--Analyst_329916) | S&P Global | London, UK | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 29
+### Equity CV: 27
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-11 | [Investment Analyst - French speaker](https://www.linkedin.com/jobs/view/investment-analyst-french-speaker-at-bruin-4488673919) | Bruin | London, England, United Kingdom | ❔ |
-| 2026-11-10 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995) | Alexander Chapman | London Area, United Kingdom | ❔ |
 | — | [Syndicate Research Analyst](https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207) | IPS Group | London | ✅ |
 | 2026-11-10 | [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) | Bloomberg | London, England, United Kingdom | ✅ |
 | — | [Investment Analyst](https://www.reed.co.uk/jobs/investment-analyst/57554180) | eFinancialCareers | London | ✅ |
 | 2026-11-10 | [Quantitative Researcher – Systematic Equities](https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equities-at-octavius-finance-4488376412) | Octavius Finance | London Area, United Kingdom | ❔ |
 | 2026-11-09 | [Investment Analyst, Quantitative Solutions](https://www.linkedin.com/jobs/view/investment-analyst-quantitative-solutions-at-lcm-partners-4488851537) | LCM Partners | London Area, United Kingdom | ✅ |
-| 2026-11-09 | [Graduate Investment Analyst](https://www.linkedin.com/jobs/view/graduate-investment-analyst-at-perch-group-4488863148) | Perch Group | Manchester Area, United Kingdom | ✅ |
 | 2026-11-09 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-ucea-family-office-group-4489102870) | UCEA - Family Office Group | London Area, United Kingdom | ❔ |
 | — | [Growth Equity - Investment Associate - eFinancialCareers](https://www.reed.co.uk/jobs/growth-equity-investment-associate-efinancialcareers/57546014) | eFinancialCareers | London | ✅ |
 | 2026-11-08 | [Buy side investment analyst](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
@@ -2234,10 +2228,12 @@ Everything matched so far, newest first within each CV: [Finance (279)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>35 roles taken off the list because the firm closed the posting</summary>
+<summary>37 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 12 Nov, 09:02 | Research Analyst | Alexander Chapman |
+| Thu 12 Nov, 09:00 | Graduate Investment Analyst | Perch Group |
 | Thu 12 Nov, 03:58 | 2027 Quantitative Analytics Associate Graduate Programme Glasgow | Barclays |
 | Thu 12 Nov, 03:58 | Venture & Growth Debt - Analyst - London | BlackRock |
 | Thu 12 Nov, 01:13 | Financial Planning Specialist | NatWest Group |
