@@ -912,5 +912,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/remote-ccab-finance-analyst-public-sector-risk-2/ | via ScotJobsNet | Remote CCAB Finance Analyst – Public Sector Risk | Scotland, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/technical-accountant/ | via ScotJobsNet | Technical Accountant | Glasgow, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/remote-associate-accountant-healthcare-growth-2/ | via ScotJobsNet | Remote Associate Accountant – Healthcare & Growth | Midlothian, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-analyst-at-malvern-panalytical-4489510214 | Malvern Panalytical | Finance Business Partner Analyst | Great Malvern, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-graduate-programme-2027-%E2%80%93-etf-capital-markets-product-at-targetjobs-uk-4489524244 | targetjobs UK | Corporate Graduate Programme 2027 – ETF Capital Markets & Product | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst/57562782 | Keeler Recruitment | Commercial Analyst | Norwich, Norfolk | posted: 2026-11-12 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977 | eFinancialCareers | Junior Investment Analyst- Python | London | posted: 2026-11-12 | note: via Reed
 
 ## Processed

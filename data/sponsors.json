@@ -1287,6 +1287,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Keeler Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Kennedy Pearce Consulting": {
    "licensed": false,
    "register_name": null,
@@ -1475,6 +1480,11 @@
   "Malaberg": {
    "licensed": true,
    "register_name": "Malaberg Ltd",
+   "match": "exact"
+  },
+  "Malvern Panalytical": {
+   "licensed": true,
+   "register_name": "Malvern Panalytical Limited",
    "match": "exact"
   },
   "Man Group": {
