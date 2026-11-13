@@ -222,6 +222,11 @@
    "register_name": "AstraZeneca UK Limited",
    "match": "alias"
   },
+  "Atkinson Moss": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Atom Bank": {
    "licensed": false,
    "register_name": null,
@@ -1307,6 +1312,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Keepmoat": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Kennedy Pearce Consulting": {
    "licensed": false,
    "register_name": null,
@@ -1730,6 +1740,11 @@
   "Multiverse": {
    "licensed": true,
    "register_name": "Multiverse Group Limited",
+   "match": "exact"
+  },
+  "NBCUniversal": {
+   "licensed": true,
+   "register_name": "NBCUniversal International Limited",
    "match": "exact"
   },
   "NC Associates": {
@@ -2791,6 +2806,11 @@
    "licensed": true,
    "register_name": "iCapital UK International Limited",
    "match": "alias"
+  },
+  "ivee": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "px Group": {
    "licensed": true,

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 561 firms checked, 340 matched, 221 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 565 firms checked, 341 matched, 224 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (221)
+## Not found (224)
 
 - 93 MGMT
 - ACL Partners
@@ -27,6 +27,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Aria Partners
 - Armstrong Watson
 - Aster Group
+- Atkinson Moss
 - Atom Bank
 - Avove Utilities
 - B&Q
@@ -119,6 +120,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - KBS Corporate
 - KDR Talent Solutions
 - Keeler Recruitment
+- Keepmoat
 - Kennedy Pearce Consulting
 - Kenneth Brian Associates Limited
 - Klarna
@@ -225,6 +227,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Zachary Daniels
 - Zego
 - abrdn
+- ivee
 - targetjobs UK
 - via ScotJobsNet
 

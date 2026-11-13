@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:49:05.844Z",
+ "generated_at": "2026-11-13T11:48:45.128Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 119,
+   "matching": 120,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 55,
+   "matching": 54,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -356,11 +356,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate--Global-Credit_R-0000190883-2": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 15
   },
   "https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/London/Quantitative-Analyst_CMC5585": {
    "id": "other",
@@ -1412,11 +1407,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://jobs.ashbyhq.com/flock/7014d3d3-63e4-40ea-a450-508e1cddff61": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://job-boards.greenhouse.io/deliveroo/jobs/8337684": {
    "id": "real_estate",
    "cv": "Real Estate CV",
@@ -1531,11 +1521,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
-  },
-  "https://www.linkedin.com/jobs/view/commercial-strategy-analyst-at-lottie-4485870822": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 17
   },
   "https://www.linkedin.com/jobs/view/reinsurance-protection-assistant-accountant-at-standard-life-plc-4488408328": {
    "id": "finance",
@@ -3296,6 +3281,36 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Leeds/Finance-Analyst_165558-3": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-ivee-4488913568": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/project-financial-analyst-at-nbcuniversal-4490597374": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-keepmoat-4489548992": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/interim-fp-a-analyst/57565056": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst/57565536": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
