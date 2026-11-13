@@ -917,4 +917,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/commercial-analyst/57562782 | Keeler Recruitment | Commercial Analyst | Norwich, Norfolk | posted: 2026-11-12 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977 | eFinancialCareers | Junior Investment Analyst- Python | London | posted: 2026-11-12 | note: via Reed
 
+- [ ] https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/ | EY | Consultor/a Asesoramiento Financiero - Corporate Treasury
+- [ ] https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/ | EY | Finance Transformation - Associate/Senior Associate, Business Consulting - Finance
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304 | DJH | FP&A Analyst | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824 | Mint Velvet | Commercial Finance Analyst | High Wycombe, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353 | targetjobs UK | Allianz Finance Graduate Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+
 ## Processed

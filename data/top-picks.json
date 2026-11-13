@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T02:01:25.422Z",
+ "generated_at": "2026-11-13T03:48:58.430Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 118,
+   "matching": 119,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 17,
+   "matching": 18,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -616,11 +616,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Accounts-Assistant_JR_10040466-1": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1": {
    "id": "credit",
@@ -3251,6 +3246,31 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 16
+  },
+  "https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 7
+  },
+  "https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
