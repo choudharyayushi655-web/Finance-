@@ -1,13 +1,90 @@
 {
-  "finished_at": "2026-11-13T18:59:56.948Z",
+  "finished_at": "2026-11-13T23:47:43.040Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 35623,
-  "filtered_out": 35577,
-  "new_matches": 6,
-  "boards_failed": 0,
-  "failed": []
+  "postings_seen": 32027,
+  "filtered_out": 31988,
+  "new_matches": 3,
+  "boards_failed": 19,
+  "failed": [
+    {
+      "company": "Vanguard",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "T. Rowe Price",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Franklin Templeton",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Wellington Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Wellington Management (Campus)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Dimensional Fund Advisors",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "S&P Global",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Simply Business",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Visa",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Worldpay",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "GSK",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Universal Music UK",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Citi",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Berkeley Research Group",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Royal London",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "BT Group",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Reckitt",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "ICF",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "EY",
+      "error": "HTTP 404 Not Found"
+    }
+  ]
 }

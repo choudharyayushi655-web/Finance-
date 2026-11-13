@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:59:55.975Z",
+ "generated_at": "2026-11-13T23:47:42.221Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 133,
+   "matching": 134,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2053,11 +2053,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/investment-associate-healthcare-life-sciences-at-brock-decker-4487729523": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/portfolio-operations-finance-associate-at-inventum-group-4487172523": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3502,6 +3497,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-at-brit-insurance-4488977853": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-hologic-inc-4481381921": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

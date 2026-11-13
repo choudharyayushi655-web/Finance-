@@ -432,6 +432,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "Brit Insurance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brock & Decker": {
    "licensed": false,
    "register_name": null,
@@ -1156,6 +1161,16 @@
    "licensed": true,
    "register_name": "Holland & Barrett Retail Limited",
    "match": "prefix"
+  },
+  "Hologic, Inc.": {
+   "licensed": true,
+   "register_name": "Hologic Ltd",
+   "match": "exact"
+  },
+  "Hometree": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Hoop Recruitment": {
    "licensed": false,
