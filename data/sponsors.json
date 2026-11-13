@@ -97,6 +97,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Agora Talent": {
+   "licensed": true,
+   "register_name": "Agora Talent Limited",
+   "match": "exact"
+  },
   "Airwallex": {
    "licensed": true,
    "register_name": "Airwallex (UK) Limited",
@@ -416,6 +421,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Brook Green Supply": {
+   "licensed": true,
+   "register_name": "Brook Green Supply Limited",
+   "match": "exact"
   },
   "Broster Buchanan": {
    "licensed": false,
@@ -1403,6 +1413,11 @@
    "match": "prefix"
   },
   "Lightsource bp": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lightspeed Commerce": {
    "licensed": false,
    "register_name": null,
    "match": "none"

@@ -922,5 +922,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304 | DJH | FP&A Analyst | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824 | Mint Velvet | Commercial Finance Analyst | High Wycombe, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353 | targetjobs UK | Allianz Finance Graduate Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817 | Brook Green Supply | Credit Risk Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/payments-risk-analyst-at-lightspeed-commerce-4480043713 | Lightspeed Commerce | Payments Risk Analyst | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-agora-talent-4488576608 | Agora Talent | Investment Banking Analyst | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-management-accountant-at-kennedy-pearce-consulting-4488907790 | Kennedy Pearce Consulting | Group Management Accountant | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/temporary-assistant-accountant-2/ | via ScotJobsNet | Temporary Assistant Accountant | West Lothian, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 
 ## Processed
