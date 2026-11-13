@@ -2582,6 +2582,11 @@
    "register_name": "Teya Europe Ltd",
    "match": "exact"
   },
+  "The Citco Group Limited": {
+   "licensed": true,
+   "register_name": "Citco London Ltd",
+   "match": "exact"
+  },
   "The Consultancy Group": {
    "licensed": true,
    "register_name": "The Consultancy Group",
@@ -2646,6 +2651,11 @@
    "licensed": true,
    "register_name": "Trading 212 UK Ltd",
    "match": "alias"
+  },
+  "Trafigura": {
+   "licensed": true,
+   "register_name": "Trafigura",
+   "match": "exact"
   },
   "Trainline": {
    "licensed": false,
@@ -2743,6 +2753,11 @@
    "match": "none"
   },
   "Vitae Financial Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Vitae Financial Recruitment Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"

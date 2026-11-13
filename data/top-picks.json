@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:58:22.080Z",
+ "generated_at": "2026-11-13T18:59:55.975Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 131,
+   "matching": 133,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2348,11 +2348,6 @@
    "cv": "Credit CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/prudential-risk-associate-icaap-ilaap-liquidity-risk-banking-at-jj-search-limited-4488367698": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/investment-analyst-debt-purchasing-collection-%C2%A370-000-%2B-bonus-at-salt-4487483932": {
    "id": "credit",
    "cv": "Credit CV",
@@ -2362,11 +2357,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/corporate-finance-associate-biotech-at-brock-decker-4489496335": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652": {
    "id": "fund",
@@ -3479,6 +3469,36 @@
    "score": 14
   },
   "https://scotjobsnet.co.uk/job/accountant-gl-vat-intercompany-edinburgh-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/junior-financial-analyst-at-the-citco-group-limited-4488970190": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/treasury-capital-analyst-at-trafigura-4488961130": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57566333": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57567164": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://scotjobsnet.co.uk/job/risk-analyst/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://scotjobsnet.co.uk/job/interim-project-accountant-12-months/": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8

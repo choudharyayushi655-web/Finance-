@@ -971,5 +971,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/financial-accountant-month-end-vat-capital/ | via ScotJobsNet | Financial Accountant – Month-End, VAT & Capital | Dunbartonshire, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/strategic-projects-management-accountant-hybrid/ | via ScotJobsNet | Strategic Projects Management Accountant (Hybrid) | Lanarkshire, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/accountant-gl-vat-intercompany-edinburgh-2/ | via ScotJobsNet | Accountant – GL, VAT & Intercompany Edinburgh | Midlothian, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/junior-financial-analyst-at-the-citco-group-limited-4488970190 | The Citco Group Limited | Junior Financial Analyst | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-capital-analyst-at-trafigura-4488961130 | Trafigura | Treasury Capital Analyst | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57566333 | Pavilion Recruitment Solutions | Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57567164 | Vitae Financial Recruitment Limited | Management Accountant | Hemel Hempstead, Hertfordshire | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/risk-analyst/ | via ScotJobsNet | Risk Analyst | Glasgow, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/interim-project-accountant-12-months/ | via ScotJobsNet | Interim Project Accountant (12 months) | Glasgow, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 
 ## Processed
