@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T14:21:28.227Z",
+ "generated_at": "2026-11-14T14:43:02.434Z",
  "order": [
   "finance",
   "credit",
@@ -3218,11 +3218,6 @@
    "cv": "Consulting CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3587,6 +3582,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
   }
  }
 }

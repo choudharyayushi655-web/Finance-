@@ -1,25 +1,25 @@
 {
-  "finished_at": "2026-11-14T14:21:29.085Z",
+  "finished_at": "2026-11-14T14:43:03.038Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 31503,
-  "filtered_out": 31475,
-  "new_matches": 8,
-  "boards_failed": 42,
+  "postings_seen": 32119,
+  "filtered_out": 32091,
+  "new_matches": 1,
+  "boards_failed": 34,
   "failed": [
-    {
-      "company": "Moelis",
-      "error": "fetch failed"
-    },
     {
       "company": "Moelis (University)",
       "error": "fetch failed"
     },
     {
       "company": "PJT Partners",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Moelis",
       "error": "fetch failed"
     },
     {
@@ -43,31 +43,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "T. Rowe Price",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Wellington Management",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Franklin Templeton",
-      "error": "fetch failed"
-    },
-    {
       "company": "PIMCO",
-      "error": "fetch failed"
-    },
-    {
-      "company": "MFS",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Wellington Management (Campus)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Blackstone (Campus)",
       "error": "fetch failed"
     },
     {
@@ -75,7 +51,15 @@
       "error": "fetch failed"
     },
     {
+      "company": "MFS",
+      "error": "fetch failed"
+    },
+    {
       "company": "Ares Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone (Campus)",
       "error": "fetch failed"
     },
     {
@@ -87,11 +71,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "CME Group",
+      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
+      "company": "CME Group",
       "error": "fetch failed"
     },
     {
@@ -99,15 +83,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "AIG",
-      "error": "fetch failed"
-    },
-    {
       "company": "Simply Business",
       "error": "fetch failed"
     },
     {
-      "company": "Marsh McLennan",
+      "company": "AIG",
       "error": "fetch failed"
     },
     {
@@ -115,7 +95,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "PayPal",
+      "company": "Marsh McLennan",
       "error": "fetch failed"
     },
     {
@@ -124,6 +104,10 @@
     },
     {
       "company": "Worldpay",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PayPal",
       "error": "fetch failed"
     },
     {
@@ -136,10 +120,6 @@
     },
     {
       "company": "Houlihan Lokey (Lateral)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Universal Music UK",
       "error": "fetch failed"
     },
     {
@@ -163,20 +143,8 @@
       "error": "fetch failed"
     },
     {
-      "company": "Berkeley Research Group",
-      "error": "fetch failed"
-    },
-    {
       "company": "Calastone",
       "error": "fetch failed"
-    },
-    {
-      "company": "ICF",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Reckitt",
-      "error": "This operation was aborted"
     }
   ]
 }

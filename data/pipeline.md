@@ -997,5 +997,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951 | James D Bilsland Ltd | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231 | TVF Media | Business and Finance Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57568505 | Sheridan Maine | Management Accountant | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647 | Apollo Global Management, Inc. | Associate - IG Credit (Financials) | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed
