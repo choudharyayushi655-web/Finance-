@@ -1,17 +1,45 @@
 {
-  "finished_at": "2026-11-14T00:40:36.520Z",
+  "finished_at": "2026-11-14T06:41:18.672Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32530,
-  "filtered_out": 32494,
-  "new_matches": 6,
-  "boards_failed": 19,
+  "postings_seen": 31496,
+  "filtered_out": 31469,
+  "new_matches": 3,
+  "boards_failed": 43,
   "failed": [
     {
-      "company": "Wellington Management",
+      "company": "Moelis (University)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Moelis",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "BlackRock",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "PJT Partners",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Invesco",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Invesco (Early Careers)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Aviva Investors",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -23,11 +51,27 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Wellington Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Wellington Management (Campus)",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Vanguard",
+      "company": "PIMCO",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "MFS",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Blackstone",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Blackstone (Campus)",
       "error": "HTTP 521 <none>"
     },
     {
@@ -35,11 +79,47 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Ares Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Bain Capital",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "S&P Global",
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Nasdaq",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "CME Group",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Aviva",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "AIG",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Simply Business",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Marsh McLennan",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Mastercard",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "PayPal",
       "error": "HTTP 521 <none>"
     },
     {
@@ -55,6 +135,14 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Houlihan Lokey (Campus)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Houlihan Lokey (Lateral)",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Universal Music UK",
       "error": "HTTP 521 <none>"
     },
@@ -63,28 +151,36 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "State Street",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Mizuho",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Northern Trust",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Berkeley Research Group",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Royal London",
+      "company": "Nomura",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "BT Group",
+      "company": "SMBC",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Janus Henderson",
       "error": "HTTP 404 Not Found"
     },
     {
       "company": "ICF",
       "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Reckitt",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "EY",
-      "error": "HTTP 404 Not Found"
     }
   ]
 }
