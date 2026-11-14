@@ -1010,5 +1010,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-lego-digital-play-4491028985 | LEGO Digital Play | Finance Business Partner | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-targetjobs-uk-4489897501 | targetjobs UK | Allianz UK Graduate Finance Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commodities-trading-analyst-programme-rolling-application-for-0-3-years-experience-at-castleton-commodities-international-4488996040 | Castleton Commodities International | Commodities Trading Analyst Programme [Rolling Application for 0-3 Years Experience] | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-accountant-at-samworth-brothers-4482461883 | Samworth Brothers | Commercial Accountant | Leicester, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/client-accountant-at-tpg-ltd-4472547979 | TPG Ltd | Client Accountant | Reading, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-genius-sports-4473375202 | Genius Sports | Financial Accountant | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/portfolio-analyst/57563120 | eFinancialCareers | Portfolio Analyst | London | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/part-qualified-management-accountant-3/ | via ScotJobsNet | Part-Qualified Management Accountant | Lanarkshire, Scotland | posted: 2026-11-14 | note: via ScotJobsNet
 
 ## Processed

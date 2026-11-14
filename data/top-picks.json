@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:40:06.503Z",
+ "generated_at": "2026-11-14T23:10:07.023Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 139,
+   "matching": 141,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -3637,6 +3637,31 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/commercial-accountant-at-samworth-brothers-4482461883": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/client-accountant-at-tpg-ltd-4472547979": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-genius-sports-4473375202": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/portfolio-analyst/57563120": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://scotjobsnet.co.uk/job/part-qualified-management-accountant-3/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
