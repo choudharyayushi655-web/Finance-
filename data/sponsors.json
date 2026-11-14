@@ -617,6 +617,11 @@
    "register_name": "Cinven Limited",
    "match": "alias"
   },
+  "Circana": {
+   "licensed": true,
+   "register_name": "Circana (UK) Ltd",
+   "match": "exact"
+  },
   "Circle": {
    "licensed": true,
    "register_name": "Circle",
