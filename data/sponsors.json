@@ -567,6 +567,11 @@
    "register_name": "carwow Ltd.",
    "match": "exact"
   },
+  "Catalyst": {
+   "licensed": true,
+   "register_name": "Catalyst Corporation Ltd",
+   "match": "exact"
+  },
   "Cedar": {
    "licensed": true,
    "register_name": "Cedar Capital Partners Ltd",
@@ -773,6 +778,11 @@
    "match": "none"
   },
   "Dojo": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Doncaster Racecourse and Exhibition Centre": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1303,6 +1313,11 @@
    "match": "alias"
   },
   "JPMorganChase": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "James D Bilsland Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2392,6 +2407,11 @@
    "register_name": "Shell and Beyond Projects Ltd",
    "match": "alias"
   },
+  "Sheridan Maine": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Sheridan Maine - Accounting, Audit & Tax Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -2558,6 +2578,11 @@
    "match": "exact"
   },
   "TUI": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "TVF Media": {
    "licensed": false,
    "register_name": null,
    "match": "none"

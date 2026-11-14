@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 589 firms checked, 355 matched, 234 not found.
+Register: downloaded 2026-11-08 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 594 firms checked, 356 matched, 238 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (234)
+## Not found (238)
 
 - 93 MGMT
 - ACL Partners
@@ -71,6 +71,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Deutsche Bank
 - Distinct Recruitment
 - Dojo
+- Doncaster Racecourse and Exhibition Centre
 - Echo
 - Edgworth Partners
 - Edward Mann
@@ -117,6 +118,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Inventum Group
 - JJ SEARCH LIMITED
 - JPMorganChase
+- James D Bilsland Ltd
 - Janus Henderson Investors
 - JasperRose
 - Joblet-AI
@@ -199,6 +201,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Scout Global
 - Seccl
 - Selby Jennings
+- Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
 - Sowena Group
@@ -209,6 +212,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TCR
 - TCS
 - TUI
+- TVF Media
 - Talan
 - Talentedge
 - ThinkMarkets

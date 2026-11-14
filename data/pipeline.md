@@ -989,5 +989,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-2-5-years-special-situations-at-mondrian-alpha-4488941043 | Mondrian Alpha | Investment Analyst (2-5 Years) - Special Situations | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-diversified-industries-analyst-london-at-jpmorganchase-4491053037 | JPMorganChase | Investment Banking - EMEA Diversified Industries - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-solutions-analyst-graduate-at-targetjobs-uk-4489850773 | targetjobs UK | Financial Solutions Analyst Graduate | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-catalyst-4489309896 | Catalyst | FP&A Analyst | Gateshead, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emea-equity-research-real-estate-analyst-or-associate-at-jpmorganchase-4483189885 | JPMorganChase | EMEA Equity Research - Real Estate - Analyst or Associate | Greater London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-central-eastern-europe-coverage-analyst-london-at-jpmorganchase-4483309056 | JPMorganChase | Investment Banking - Central & Eastern Europe Coverage - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-doncaster-racecourse-and-exhibition-centre-4488940724 | Doncaster Racecourse and Exhibition Centre | Assistant Management Accountant | Doncaster, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-djh-4488991960 | DJH | Management Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951 | James D Bilsland Ltd | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231 | TVF Media | Business and Finance Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57568505 | Sheridan Maine | Management Accountant | London | note: via Reed
 
 ## Processed
