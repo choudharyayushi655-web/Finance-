@@ -567,6 +567,11 @@
    "register_name": "carwow Ltd.",
    "match": "exact"
   },
+  "Castleton Commodities International": {
+   "licensed": true,
+   "register_name": "Castleton Commodities UK Limited",
+   "match": "exact"
+  },
   "Catalyst": {
    "licensed": true,
    "register_name": "Catalyst Corporation Ltd",
@@ -611,6 +616,11 @@
    "licensed": true,
    "register_name": "Cinven Limited",
    "match": "alias"
+  },
+  "Circle": {
+   "licensed": true,
+   "register_name": "Circle",
+   "match": "exact"
   },
   "Citi": {
    "licensed": true,
@@ -703,6 +713,11 @@
    "match": "none"
   },
   "Cornell Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Crossing Hurdles": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1067,6 +1082,11 @@
    "register_name": "Griffin Bank Ltd",
    "match": "prefix"
   },
+  "Guggenheim Securities": {
+   "licensed": true,
+   "register_name": "Guggenheim Securities International Ltd",
+   "match": "exact"
+  },
   "HSBC Innovation Banking": {
    "licensed": false,
    "register_name": null,
@@ -1420,6 +1440,11 @@
   "LCM Partners": {
    "licensed": true,
    "register_name": "LCM Partners Limited",
+   "match": "exact"
+  },
+  "LEGO Digital Play": {
+   "licensed": true,
+   "register_name": "Lego Digital Play Limited",
    "match": "exact"
   },
   "LGPS Central": {
@@ -2512,6 +2537,11 @@
    "register_name": "STEPSTONE GROUP EUROPE LLP",
    "match": "exact"
   },
+  "Stephens": {
+   "licensed": true,
+   "register_name": "Stephens Europe Limited",
+   "match": "exact"
+  },
   "Stifel": {
    "licensed": true,
    "register_name": "Stifel Nicolaus Europe Limited",
@@ -2911,6 +2941,11 @@
    "licensed": true,
    "register_name": "XTX Research LLP",
    "match": "alias"
+  },
+  "Xeinadin": {
+   "licensed": true,
+   "register_name": "Xeinadin Group Limited",
+   "match": "exact"
   },
   "Yolk Recruitment Ltd": {
    "licensed": false,

@@ -998,5 +998,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231 | TVF Media | Business and Finance Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57568505 | Sheridan Maine | Management Accountant | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647 | Apollo Global Management, Inc. | Associate - IG Credit (Financials) | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-halliday-marx-4488961524 | Halliday Marx | Finance Business Partner | United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-private-debt-investments-at-stepstone-group-4481924081 | StepStone Group | Analyst, Private Debt Investments | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-remote-at-crossing-hurdles-4489857996 | Crossing Hurdles | Financial Analyst | Remote | United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-executive-at-xeinadin-4463967912 | Xeinadin | Corporate Finance Executive | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-specialty-finance-at-stephens-4447063358 | Stephens | M&A Associate - Specialty Finance | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-associate-%E2%80%93-investment-banking-technology-services-london-at-guggenheim-securities-4447093008 | Guggenheim Securities | Experienced Associate – Investment Banking, Technology & Services (London) | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-circle-4463907834 | Circle | Accountant | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507 | Octopus Energy | Capital Markets Operations Analyst | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-dairy-meal-solutions-at-morrisons-4488987860 | Morrisons | Accountant - Dairy & Meal Solutions | Bradford, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-lego-digital-play-4491028985 | LEGO Digital Play | Finance Business Partner | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-targetjobs-uk-4489897501 | targetjobs UK | Allianz UK Graduate Finance Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commodities-trading-analyst-programme-rolling-application-for-0-3-years-experience-at-castleton-commodities-international-4488996040 | Castleton Commodities International | Commodities Trading Analyst Programme [Rolling Application for 0-3 Years Experience] | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed
