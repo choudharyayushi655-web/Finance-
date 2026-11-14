@@ -1,21 +1,17 @@
 {
-  "finished_at": "2026-11-13T23:47:43.040Z",
+  "finished_at": "2026-11-14T00:40:36.520Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32027,
-  "filtered_out": 31988,
-  "new_matches": 3,
+  "postings_seen": 32530,
+  "filtered_out": 32494,
+  "new_matches": 6,
   "boards_failed": 19,
   "failed": [
     {
-      "company": "Vanguard",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "T. Rowe Price",
+      "company": "Wellington Management",
       "error": "HTTP 521 <none>"
     },
     {
@@ -23,11 +19,15 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management",
+      "company": "T. Rowe Price",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "Wellington Management (Campus)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -75,12 +75,12 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Reckitt",
-      "error": "HTTP 404 Not Found"
-    },
-    {
       "company": "ICF",
       "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Reckitt",
+      "error": "HTTP 404 Not Found"
     },
     {
       "company": "EY",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T23:47:42.221Z",
+ "generated_at": "2026-11-14T00:40:35.686Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 134,
+   "matching": 135,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 59,
+   "matching": 61,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -106,14 +106,14 @@
      "sponsor": true
     },
     {
-     "title": "EMEA Equity Research - Real Estate - Analyst or Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-10-23",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518",
+     "title": "Quantitative Research Analyst, Mortgages",
+     "company": "PIMCO",
+     "location": "London, GBR",
+     "posted": null,
+     "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106492",
      "score": 18,
      "why": [
-      "Equity Research"
+      "Research Analyst"
      ],
      "sponsor": true
     }
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 53,
+   "matching": 52,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -218,8 +218,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 21,
+   "matching": 22,
    "picks": [
+    {
+     "title": "Interim Investment Operations Analyst 9 month FTC",
+     "company": "eFinancialCareers",
+     "location": "London",
+     "posted": "2026-11-13",
+     "url": "https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078",
+     "score": 22,
+     "why": [
+      "Investment Operations"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Fund Accounting Analyst",
      "company": "Adecco",
@@ -229,18 +241,6 @@
      "score": 20,
      "why": [
       "Fund Accounting"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Investment Operations Technical Analyst",
-     "company": "Phoenix Group",
-     "location": "Edinburgh, Scotland, United Kingdom · Hybrid",
-     "posted": "2026-11-10",
-     "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003",
-     "score": 19,
-     "why": [
-      "Investment Operations"
      ],
      "sponsor": true
     }
@@ -832,11 +832,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/gas-power-market-risk-analyst-at-marlin-selection-recruitment-4488166725": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 15
   },
   "https://www.linkedin.com/jobs/view/l-s-investment-analyst-at-alexander-chapman-4488161713": {
    "id": "equity",
@@ -3033,11 +3028,6 @@
    "cv": "Credit CV",
    "score": 22
   },
-  "https://www.linkedin.com/jobs/view/credit-analyst-real-estate-corporate-banking-at-rothstein-recruitment-4490364588": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 23
-  },
   "https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-radius-4490370202": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3512,6 +3502,36 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
+  },
+  "https://www.reed.co.uk/jobs/commercial-analyst/57566232": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/investment-analyst-debt-emerging-markets-french-speaking-michael-page/57566936": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 22
+  },
+  "https://www.reed.co.uk/jobs/junior-trading-risk-analyst-systems-data-cbcx-group-ltd/57567920": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/operations-intermediate-analyst-cash-management-treasury-operations-citi/57566966": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/property-client-accountant/57566034": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 14
   }
  }
 }
