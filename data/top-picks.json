@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T23:01:42.473Z",
+ "generated_at": "2026-11-15T23:19:39.829Z",
  "order": [
   "finance",
   "credit",
@@ -842,11 +842,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-european-real-estate-global-bank-at-greenwich-partners-4488192274": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 25
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-perigus-energy-4479390755": {
    "id": "finance",

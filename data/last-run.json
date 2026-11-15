@@ -1,13 +1,34 @@
 {
-  "finished_at": "2026-11-15T23:01:43.195Z",
+  "finished_at": "2026-11-15T23:19:40.644Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32984,
-  "filtered_out": 32957,
-  "new_matches": 4,
-  "boards_failed": 0,
-  "failed": []
+  "postings_seen": 32070,
+  "filtered_out": 32043,
+  "new_matches": 0,
+  "boards_failed": 5,
+  "failed": [
+    {
+      "company": "Ardian",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Accenture",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Capital One UK",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Aztec Group",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "IG Group",
+      "error": "HTTP 429 Too Many Requests"
+    }
+  ]
 }

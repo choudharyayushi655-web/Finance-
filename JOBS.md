@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 23:01** (UK time) · **705 open roles** at 391 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 23:19** (UK time) · **704 open roles** at 391 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,21 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 22:58** · hourly scan · checked 200 boards · **4 new roles**
+**Sun 15 Nov, 23:15** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
-| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
-| 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Financial Controller - Private Credit](https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482) | Aria Partners | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 22:58** (4: Finance 3 · Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -70,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 23:15</sub>
 
 <details>
 <summary><b>22:58</b> · hourly scan · <b>4 new</b> → Finance 3 · Credit 1</summary>
@@ -1404,7 +1394,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (372)](#finance-fpa-cv-372) · [Credit (87)](#credit-cv-87) · [Equity (37)](#equity-cv-37) · [Investment (74)](#investment-ib--pe-cv-74) · [Consulting (14)](#consulting-cv-14) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
+Everything matched so far, newest first within each CV: [Finance (372)](#finance-fpa-cv-372) · [Credit (87)](#credit-cv-87) · [Equity (36)](#equity-cv-36) · [Investment (74)](#investment-ib--pe-cv-74) · [Consulting (14)](#consulting-cv-14) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
 
 ### Finance (FP&A) CV: 372
 
@@ -1875,7 +1865,7 @@ Everything matched so far, newest first within each CV: [Finance (372)](#finance
 | 2026-10-20 | [Market Risk (Product) Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/London-UK/Market-Risk--Product--Analyst_329916) | S&P Global | London, UK | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 37
+### Equity CV: 36
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1904,7 +1894,6 @@ Everything matched so far, newest first within each CV: [Finance (372)](#finance
 | — | [Quantitative Researcher - Systematic Equities](https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equities/57527870) | eFinancialCareers | London | ✅ |
 | — | [Quantitative Researcher - Equity Strategies Mid to High Frequency](https://www.reed.co.uk/jobs/quantitative-researcher-equity-strategies-mid-to-high-frequency/57527928) | eFinancialCareers | London | ✅ |
 | 2026-11-07 | [Quantitative Researcher Equities](https://www.linkedin.com/jobs/view/quantitative-researcher-equities-at-drw-4408269115) | DRW | London, England, United Kingdom | ✅ |
-| 2026-11-06 | [Equity Research Analyst, European Real Estate, Global Bank](https://www.linkedin.com/jobs/view/equity-research-analyst-european-real-estate-global-bank-at-greenwich-partners-4488192274) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-06 | [L/S Investment Analyst](https://www.linkedin.com/jobs/view/l-s-investment-analyst-at-alexander-chapman-4488161713) | Alexander Chapman | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-scout-global-4485826581) | Scout Global | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Investment Analyst](https://www.reed.co.uk/jobs/investment-analyst/57538040) | Reed | Coventry, West Midlands (County) | ❔ |
@@ -2154,10 +2143,11 @@ Everything matched so far, newest first within each CV: [Finance (372)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>53 roles taken off the list because the firm closed the posting</summary>
+<summary>54 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 15 Nov, 23:17 | Equity Research Analyst, European Real Estate, Global Bank | Greenwich Partners |
 | Sun 15 Nov, 17:55 | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | Salt |
 | Sun 15 Nov, 11:10 | Portfolio Risk Analyst , Investment Monitoring , Wealth Management | JJ SEARCH LIMITED |
 | Sat 14 Nov, 19:20 | Graduate Finance Broker Programme - March 2027 | Vecta |
