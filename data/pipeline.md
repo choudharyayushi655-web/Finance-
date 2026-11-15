@@ -1019,5 +1019,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-september-2027-at-vecta-4491057785 | Vecta | Graduate Finance Broker Programme - September 2027 | Northampton, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/local-financial-controller-junior-at-dfds-4482872824 | DFDS | Local Financial Controller (Junior) | Peterborough, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/market-risk-product-analyst/57562979 | eFinancialCareers | Market Risk Product Analyst | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/global-research-credit-research-analyst-retail-consumer-analyst-or-associate-at-jpmorganchase-4456174490 | JPMorganChase | Global Research - Credit Research Analyst, Retail & Consumer - Analyst or Associate | Greater London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-integrity360-4481691915 | Integrity360 | Financial Accountant | Chester, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-ocs-4491099863 | OCS | Assistant Finance Business Partner | Ipswich, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/quantitative-analyst/57568736 | eFinancialCareers | Quantitative Analyst | London | posted: 2026-11-14 | note: via Reed
 
 ## Processed
