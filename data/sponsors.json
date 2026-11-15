@@ -207,6 +207,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Arm": {
+   "licensed": true,
+   "register_name": "Arm Limited",
+   "match": "exact"
+  },
   "Armstrong Watson": {
    "licensed": false,
    "register_name": null,
@@ -961,6 +966,11 @@
    "licensed": true,
    "register_name": "Flow Traders UK Services Ltd",
    "match": "alias"
+  },
+  "Foodbuy Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Forge Talent": {
    "licensed": false,
@@ -2617,6 +2627,11 @@
    "register_name": "T Rowe Price  International Ltd",
    "match": "alias"
   },
+  "TALA": {
+   "licensed": true,
+   "register_name": "Tala Energy Ltd",
+   "match": "prefix"
+  },
   "TCR": {
    "licensed": false,
    "register_name": null,
@@ -2658,6 +2673,11 @@
    "match": "none"
   },
   "Talentedge": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Talk Staff": {
    "licensed": false,
    "register_name": null,
    "match": "none"

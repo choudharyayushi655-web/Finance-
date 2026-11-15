@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 608 firms checked, 367 matched, 241 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 612 firms checked, 369 matched, 243 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (241)
+## Not found (243)
 
 - 93 MGMT
 - ACL Partners
@@ -87,6 +87,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Finatal
 - Fletcher George Recruitment Ltd
 - Flex
+- Foodbuy Group
 - Forge Talent
 - GP Fund Solutions
 - GSR Markets
@@ -218,6 +219,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TVF Media
 - Talan
 - Talentedge
+- Talk Staff
 - ThinkMarkets
 - Thrive Childcare and Education
 - Thunes
@@ -248,7 +250,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (37)
+## Matched automatically by close name; worth a glance (38)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
@@ -284,6 +286,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)
 - SumUp → SumUp Payments Limited (prefix)
+- TALA → Tala Energy Ltd (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
 - WHEATLEY GROUP → Wheatley Software Solutions Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)
