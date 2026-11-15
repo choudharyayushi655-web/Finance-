@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 17:55** (UK time) · **701 open roles** at 388 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 18:09** (UK time) · **701 open roles** at 388 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,39 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 17:52** · hourly scan · checked 200 boards · **12 new roles**
+**Sun 15 Nov, 18:06** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-tala-4489392620) | TALA | London, England, United Kingdom | ✅ |
-| 2026-11-15 | [Pricing Analyst (Loan Portfolio's) - SQL & Python - £70,000](https://www.linkedin.com/jobs/view/pricing-analyst-loan-portfolio-s-sql-python-%C2%A370-000-at-salt-4489700326) | Salt | London Area, United Kingdom | ✅ |
-| 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414) | Arm | Cambridge, England, United Kingdom | ✅ |
-| 2026-11-15 | [Finance Business Partner - Foodbuy Group](https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378) | Foodbuy Group | London, England, United Kingdom | ❔ |
-| 2026-11-15 | [Project Cost Accountant - Project Controls - Energy Projects](https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549) | Turner & Townsend | Lancing, England, United Kingdom | ✅ |
-| — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57565652) | Talk Staff | Derby, Derbyshire | ❔ |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Commodities Market Risk Analyst - LNG, Power & Emissions](https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918) | Morgan McKinley | London Area, United Kingdom | ✅ |
-
-### Equity CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Equity Research Associate, Technology coverage, Global Investment Bank - Central London](https://www.linkedin.com/jobs/view/equity-research-associate-technology-coverage-global-investment-bank-central-london-at-greenwich-partners-4491237792) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
-| — | [Quantitative Research Analyst - PIMCO](https://www.reed.co.uk/jobs/quantitative-research-analyst-pimco/57569658) | eFinancialCareers | London | ✅ |
-
-### Investment (IB / PE) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Investment Analyst - Global Private Equity Secondaries Fund](https://www.linkedin.com/jobs/view/investment-analyst-global-private-equity-secondaries-fund-at-greenwich-partners-4491240635) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
-| 2026-11-15 | [Investment Banking Division - FIG Benelux - Associate -](https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989) | Morgan Stanley | London, England, United Kingdom | ✅ |
-| 2026-11-15 | [M&A/ Corporate Development Associate, Oil and Gas, Global Firm](https://www.linkedin.com/jobs/view/m-a-corporate-development-associate-oil-and-gas-global-firm-at-greenwich-partners-4491244463) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 17:52** (12: Finance 6 · Credit 1 · Equity 2 · Investment 3); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -88,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 18:06</sub>
 
 <details>
 <summary><b>17:52</b> · hourly scan · <b>12 new</b> → Finance 6 · Credit 1 · Equity 2 · Investment 3</summary>
@@ -1409,19 +1381,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-08 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048) | SOCOTEC UK & Ireland | Burton Upon Trent, England, United Kingdom | ❔ |
-
-</details>
-
-<details>
-<summary><b>18:07</b> · hourly scan · <b>1 new</b> → Other 1</summary>
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantitative Researcher](https://www.reed.co.uk/jobs/quantitative-researcher/57539406) | eFinancialCareers | London | ✅ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
