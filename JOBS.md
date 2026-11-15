@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 18:09** (UK time) · **701 open roles** at 388 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 23:01** (UK time) · **705 open roles** at 391 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,21 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 18:06** · hourly scan · checked 200 boards · **0 new roles**
+**Sun 15 Nov, 22:58** · hourly scan · checked 200 boards · **4 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 15 Nov, 17:52** (12: Finance 6 · Credit 1 · Equity 2 · Investment 3); open it in the scan log below.
+### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
+| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
+| 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Financial Controller - Private Credit](https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482) | Aria Partners | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +70,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>22:58</b> · hourly scan · <b>4 new</b> → Finance 3 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
+| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
+| 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Financial Controller - Private Credit](https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482) | Aria Partners | London Area, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 18:06</sub>
 
@@ -1371,24 +1402,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 21:25, 20:24</sub>
-
-<details>
-<summary><b>19:08</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-08 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048) | SOCOTEC UK & Ireland | Burton Upon Trent, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (369)](#finance-fpa-cv-369) · [Credit (86)](#credit-cv-86) · [Equity (37)](#equity-cv-37) · [Investment (74)](#investment-ib--pe-cv-74) · [Consulting (14)](#consulting-cv-14) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
+Everything matched so far, newest first within each CV: [Finance (372)](#finance-fpa-cv-372) · [Credit (87)](#credit-cv-87) · [Equity (37)](#equity-cv-37) · [Investment (74)](#investment-ib--pe-cv-74) · [Consulting (14)](#consulting-cv-14) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
 
-### Finance (FP&A) CV: 369
+### Finance (FP&A) CV: 372
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1397,6 +1415,9 @@ Everything matched so far, newest first within each CV: [Finance (369)](#finance
 | 2026-11-15 | [Pricing Analyst (Loan Portfolio's) - SQL & Python - £70,000](https://www.linkedin.com/jobs/view/pricing-analyst-loan-portfolio-s-sql-python-%C2%A370-000-at-salt-4489700326) | Salt | London Area, United Kingdom | ✅ |
 | 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414) | Arm | Cambridge, England, United Kingdom | ✅ |
 | 2026-11-15 | [Finance Business Partner - Foodbuy Group](https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378) | Foodbuy Group | London, England, United Kingdom | ❔ |
+| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
+| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
+| 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
 | 2026-11-15 | [Project Cost Accountant - Project Controls - Energy Projects](https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549) | Turner & Townsend | Lancing, England, United Kingdom | ✅ |
 | — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57565652) | Talk Staff | Derby, Derbyshire | ❔ |
 | 2026-11-14 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-catalyst-4489309896) | Catalyst | Gateshead, England, United Kingdom | ✅ |
@@ -1762,12 +1783,13 @@ Everything matched so far, newest first within each CV: [Finance (369)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 86
+### Credit CV: 87
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-15 | [Commodities Market Risk Analyst - LNG, Power & Emissions](https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918) | Morgan McKinley | London Area, United Kingdom | ✅ |
 | 2026-11-15 | [Global Research - Credit Research Analyst, Retail & Consumer - Analyst or Associate](https://www.linkedin.com/jobs/view/global-research-credit-research-analyst-retail-consumer-analyst-or-associate-at-jpmorganchase-4456174490) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-15 | [Financial Controller - Private Credit](https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482) | Aria Partners | London Area, United Kingdom | ❔ |
 | — | [Market Risk Product Analyst](https://www.reed.co.uk/jobs/market-risk-product-analyst/57562979) | eFinancialCareers | London | ✅ |
 | 2026-11-14 | [Analyst, Private Debt Investments](https://www.linkedin.com/jobs/view/analyst-private-debt-investments-at-stepstone-group-4481924081) | StepStone Group | London Area, United Kingdom | ✅ |
 | 2026-11-14 | [Associate - IG Credit (Financials)](https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647) | Apollo Global Management, Inc. | London, England, United Kingdom | ❔ |

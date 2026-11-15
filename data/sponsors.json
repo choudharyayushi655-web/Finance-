@@ -242,6 +242,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Atlassian Williams F1 Team": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Atom Bank": {
    "licensed": false,
    "register_name": null,
@@ -2277,6 +2282,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Retirement Villages Group Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Revolut": {
    "licensed": true,
    "register_name": "Revolut Ltd",
@@ -2821,6 +2831,11 @@
    "licensed": true,
    "register_name": "Unilever UK Limited",
    "match": "alias"
+  },
+  "Univar Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Universal Music UK": {
    "licensed": true,
