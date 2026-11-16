@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 635 firms checked, 374 matched, 261 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 661 firms checked, 382 matched, 279 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (261)
+## Not found (279)
 
 - 93 MGMT
 - ACL Partners
@@ -26,19 +26,24 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Apollo Global Management, Inc.
 - Appcastenterprise
 - Arcade Food Halls
+- Aria Finance
 - Aria Partners
 - Armstrong Watson
+- Arup
 - Aster Group
 - Atkinson Moss
 - Atlassian Williams F1 Team
 - Atom Bank
 - Avove Utilities
+- Axon Moore Group Ltd
 - B&Q
+- Better Placed
 - Bield Housing Association
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
 - Brit Insurance
+- Broadstone Resourcing
 - Brock & Decker
 - Broster Buchanan
 - Bruin
@@ -49,6 +54,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CMS UK
 - CVC Marathon
 - Calastone
+- Candidate Source - TEAM
 - Capital Outsourcing Group Ltd
 - Card Factory
 - Carousel Consultancy Ltd
@@ -66,6 +72,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Core3
 - Cornell Search
 - Crossing Hurdles
+- Culina
 - Cumberland Farms UK
 - DFDS
 - DJH
@@ -91,6 +98,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Flex
 - Foodbuy Group
 - Forge Talent
+- Frontier Agriculture
 - GP Fund Solutions
 - GSR Markets
 - Gemini
@@ -114,6 +122,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Hays Specialist Recruitment Limited
 - Headstar
 - HelloFresh
+- High Finance (UK) Limited T/A HFG
 - Hometree
 - Hoop Recruitment
 - IAG Transform
@@ -136,6 +145,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Keepmoat
 - Kennedy Pearce Consulting
 - Kenneth Brian Associates Limited
+- Kenton Black Finance
 - Klarna
 - Landbay
 - Language Matters
@@ -147,7 +157,9 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lorien
 - Lottie
 - MDM Resourcing
+- MFS Investment Management
 - MacGregor Black
+- Maceo Search Limited
 - Mackie Myers
 - Macquarie Group
 - ManpowerGroup Talent Solutions
@@ -167,10 +179,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Monmouthshire Building Society
 - Montpellier Resourcing
 - Morgan Hunt Recruitment
+- Morgan Law
 - Motorway
+- Murphy
 - NC Associates
 - New Avenues
 - Newlon Housing Trust
+- Nick Buick Associates
 - No1 Legal and Professional
 - Novuna
 - Nucleus Commercial Finance
@@ -190,6 +205,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Peace Recruitment
 - Point One - Hedge Fund Talent
 - Puma Capital Group
+- Pure Search
 - Qh4 Consulting
 - Randstad Finance
 - Reckitt
@@ -250,6 +266,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
 - Vermelo RPO
+- Vertex Associates - Accountancy and Finance Recruitment
 - Vistry Group
 - Vitae Financial Recruitment
 - Vitae Financial Recruitment Limited
@@ -259,6 +276,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Warner Recruitment Limited
 - Watson-Marlow Fluid Technology Solutions
 - WorldQuant
+- XPS Group
 - Yolk Recruitment Ltd
 - Zachary Daniels
 - Zego
@@ -268,15 +286,18 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (39)
+## Matched automatically by close name; worth a glance (42)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
+- Allianz UK → Allianz Insurance plc (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
+- Brookfield → Brookfield Global Asset Management Limited (prefix)
 - Carter Jonas → Carter Jonas Service Company (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
 - Duco → Duco Technology Limited (prefix)
+- Element Materials Technology → ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED (prefix)
 - Form3 → Form3 Technology Limited (prefix)
 - Griffin → Griffin Bank Ltd (prefix)
 - Harmonic Finance™ → Harmonic Finance & Operations (prefix)

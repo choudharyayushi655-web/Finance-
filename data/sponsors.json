@@ -137,6 +137,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Allianz UK": {
+   "licensed": true,
+   "register_name": "Allianz Insurance plc",
+   "match": "prefix"
+  },
   "Allica Bank": {
    "licensed": true,
    "register_name": "Allica Bank",
@@ -207,6 +212,11 @@
    "register_name": "Ares Management Limited",
    "match": "alias"
   },
+  "Aria Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aria Partners": {
    "licensed": false,
    "register_name": null,
@@ -226,6 +236,11 @@
    "licensed": true,
    "register_name": "Artemis Investment Management LLP",
    "match": "alias"
+  },
+  "Arup": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Ashurst Perkins Coie": {
    "licensed": true,
@@ -273,6 +288,11 @@
    "match": "alias"
   },
   "Avove Utilities": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Axon Moore Group Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -382,6 +402,11 @@
    "register_name": "Berkeley Research Group (UK) Limited",
    "match": "alias"
   },
+  "Better Placed": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Bield Housing Association": {
    "licensed": false,
    "register_name": null,
@@ -452,6 +477,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Broadstone Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brock & Decker": {
    "licensed": false,
    "register_name": null,
@@ -461,6 +491,11 @@
    "licensed": true,
    "register_name": "Brook Green Supply Limited",
    "match": "exact"
+  },
+  "Brookfield": {
+   "licensed": true,
+   "register_name": "Brookfield Global Asset Management Limited",
+   "match": "prefix"
   },
   "Broster Buchanan": {
    "licensed": false,
@@ -481,6 +516,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "CFP Energy": {
+   "licensed": true,
+   "register_name": "CFP Energy (UK) Limited",
+   "match": "exact"
   },
   "CGI": {
    "licensed": true,
@@ -531,6 +571,11 @@
    "licensed": true,
    "register_name": "CKR CONSULTANTS LTD T/A CAMERON KENNEDY",
    "match": "trading name"
+  },
+  "Candidate Source - TEAM": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Capgemini": {
    "licensed": true,
@@ -742,6 +787,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Culina": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Cumberland Farms UK": {
    "licensed": false,
    "register_name": null,
@@ -872,6 +922,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Element Materials Technology": {
+   "licensed": true,
+   "register_name": "ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED",
+   "match": "prefix"
+  },
   "Elevation Recruitment Group": {
    "licensed": false,
    "register_name": null,
@@ -885,6 +940,11 @@
   "Eni": {
    "licensed": true,
    "register_name": "ENI UK Limited",
+   "match": "exact"
+  },
+  "Enra Specialist Finance": {
+   "licensed": true,
+   "register_name": "Enra Specialist Finance Ltd",
    "match": "exact"
   },
   "Equifind": {
@@ -1017,6 +1077,11 @@
    "register_name": "Freetrade Limited",
    "match": "alias"
   },
+  "Frontier Agriculture": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "FundApps": {
    "licensed": true,
    "register_name": "FundApps Ltd",
@@ -1121,6 +1186,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Greystar": {
+   "licensed": true,
+   "register_name": "Greystar Europe Holdings Ltd",
+   "match": "exact"
   },
   "Griffin": {
    "licensed": true,
@@ -1228,6 +1298,11 @@
    "match": "prefix"
   },
   "HelloFresh": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "High Finance (UK) Limited T/A HFG": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1467,6 +1542,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Kenton Black Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Kier Group": {
    "licensed": true,
    "register_name": "Kier Group plc",
@@ -1582,6 +1662,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Lincoln International": {
+   "licensed": true,
+   "register_name": "Lincoln International LLP",
+   "match": "exact"
+  },
   "Lloyd's of London": {
    "licensed": true,
    "register_name": "LLOYD'S OF LONDON",
@@ -1637,6 +1722,11 @@
    "register_name": "MFS International (UK) Ltd",
    "match": "alias"
   },
+  "MFS Investment Management": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MS Amlin": {
    "licensed": true,
    "register_name": "MS Amlin Corporate Services Limited",
@@ -1653,6 +1743,11 @@
    "match": "alias"
   },
   "MacGregor Black": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Maceo Search Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1887,6 +1982,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Morgan Law": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Morgan McKinley": {
    "licensed": true,
    "register_name": "Morgan McKinley",
@@ -1916,6 +2016,11 @@
    "licensed": true,
    "register_name": "Multiverse Group Limited",
    "match": "exact"
+  },
+  "Murphy": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "NBCUniversal": {
    "licensed": true,
@@ -1971,6 +2076,11 @@
    "licensed": true,
    "register_name": "Next Retail Ltd",
    "match": "alias"
+  },
+  "Nick Buick Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Nium": {
    "licensed": true,
@@ -2258,6 +2368,11 @@
    "match": "exact"
   },
   "Puma Capital Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Pure Search": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2937,6 +3052,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Vallum Associates": {
+   "licensed": true,
+   "register_name": "Vallum Associates Limited",
+   "match": "exact"
+  },
   "Vanguard": {
    "licensed": true,
    "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
@@ -2968,6 +3088,11 @@
    "match": "none"
   },
   "Vermelo RPO": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Vertex Associates - Accountancy and Finance Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3101,6 +3226,11 @@
    "licensed": true,
    "register_name": "WorldPay (UK) Ltd",
    "match": "alias"
+  },
+  "XPS Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "XTX Markets": {
    "licensed": true,
