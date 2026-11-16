@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 620 firms checked, 370 matched, 250 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 632 firms checked, 374 matched, 258 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (250)
+## Not found (258)
 
 - 93 MGMT
 - ACL Partners
@@ -102,6 +102,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Greenwich Partners
 - HSBC Innovation Banking
 - Halliday Marx
+- Handpicked Recruitment
 - Handpicked Recruitment Limited
 - Hargreaves Land
 - Harley-Davidson Motor Company
@@ -144,6 +145,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lord Accounting & Finance
 - Lorien
 - Lottie
+- MDM Resourcing
+- MacGregor Black
 - Mackie Myers
 - Macquarie Group
 - ManpowerGroup Talent Solutions
@@ -152,6 +155,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Martis Search
 - Matched Group
 - McGinnis Loy Associates Ltd
+- Meraki Talent
 - Meraki Talent Limited
 - Metis Search
 - Michael Page Finance
@@ -210,6 +214,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Scout Global
 - Seccl
 - Selby Jennings
+- Select Tech
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
@@ -223,8 +228,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TUI
 - TVF Media
 - Talan
+- Talent Guardian
 - Talentedge
 - Talk Staff
+- The Scottish National Investment Bank
 - ThinkMarkets
 - Thrive Childcare and Education
 - Thunes
@@ -255,9 +262,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - abrdn
 - ivee
 - targetjobs UK
+- twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (38)
+## Matched automatically by close name; worth a glance (39)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
@@ -284,6 +292,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - OCS → OCS Consulting plc (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)
+- Orbit Group → Orbit Partners Limited (prefix)
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
 - Pliant → Pliant Payments Limited (prefix)

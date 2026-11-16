@@ -832,6 +832,11 @@
    "register_name": "Duco Technology Limited",
    "match": "prefix"
   },
+  "Dyer Baade & Company": {
+   "licensed": true,
+   "register_name": "Dyer Baade & Company Limited",
+   "match": "exact"
+  },
   "EQT": {
    "licensed": true,
    "register_name": "EQT Partners Limited",
@@ -1136,6 +1141,11 @@
    "licensed": true,
    "register_name": "Handle Recruitment",
    "match": "exact"
+  },
+  "Handpicked Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Handpicked Recruitment Limited": {
    "licensed": false,
@@ -1492,6 +1502,11 @@
    "register_name": "LGPS Central Limited",
    "match": "exact"
   },
+  "LHH Recruitment Solutions": {
+   "licensed": true,
+   "register_name": "Badenoch and Clark Limited T/A LHH Recruitment Solutions",
+   "match": "trading name"
+  },
   "LSEG": {
    "licensed": true,
    "register_name": "London Stock Exchange Group plc",
@@ -1607,6 +1622,11 @@
    "register_name": "M & G PlC",
    "match": "alias"
   },
+  "MDM Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MFS": {
    "licensed": true,
    "register_name": "MFS International (UK) Ltd",
@@ -1626,6 +1646,11 @@
    "licensed": true,
    "register_name": "MUFG Bank, Ltd.",
    "match": "alias"
+  },
+  "MacGregor Black": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Mackie Myers": {
    "licensed": false,
@@ -1726,6 +1751,11 @@
    "licensed": true,
    "register_name": "Mears Group PLC",
    "match": "exact"
+  },
+  "Meraki Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Meraki Talent Limited": {
    "licensed": false,
@@ -2041,6 +2071,11 @@
    "licensed": true,
    "register_name": "Ophelos Ltd",
    "match": "exact"
+  },
+  "Orbit Group": {
+   "licensed": true,
+   "register_name": "Orbit Partners Limited",
+   "match": "prefix"
   },
   "Orla Rose Associates": {
    "licensed": false,
@@ -2387,6 +2422,11 @@
    "register_name": null,
    "match": "none"
   },
+  "SEFE Marketing & Trading Ltd": {
+   "licensed": true,
+   "register_name": "SEFE Marketing & Trading Limited",
+   "match": "exact"
+  },
   "SF Partners": {
    "licensed": false,
    "register_name": null,
@@ -2488,6 +2528,11 @@
    "match": "none"
   },
   "Selby Jennings": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Select Tech": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2702,6 +2747,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Talent Guardian": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Talentedge": {
    "licensed": false,
    "register_name": null,
@@ -2756,6 +2806,11 @@
    "licensed": true,
    "register_name": "Noble Restaurant Group Limited",
    "match": "exact"
+  },
+  "The Scottish National Investment Bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "The University of Manchester": {
    "licensed": true,
@@ -3093,6 +3148,11 @@
    "match": "exact"
   },
   "targetjobs UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "twentyAI": {
    "licensed": false,
    "register_name": null,
    "match": "none"

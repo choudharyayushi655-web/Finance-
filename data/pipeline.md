@@ -1049,4 +1049,28 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/2027-graduate-programme-investment-banking-analyst-at-targetjobs-uk-4490249818 | targetjobs UK | 2027 Graduate Programme - Investment Banking Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-targetjobs-uk-4490265104 | targetjobs UK | Finance Graduate | Hemel Hempstead, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210807232 | JPMorgan Chase | Quantitative Trading & Research - London - 2027 ReEntry Program | LONDON, LONDON, United Kingdom | posted: 2026-11-16
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808905 | JPMorgan Chase | Investment Banking - London - 2027 ReEntry Program | LONDON, LONDON, United Kingdom | posted: 2026-11-16
+- [ ] https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/ | EY | Enterprise Risk Associate/Senior Associate, Risk Consulting
+- [ ] https://www.linkedin.com/jobs/view/fp-a-and-adaptive-planning-analyst-at-select-tech-4491507238 | Select Tech | FP&A and Adaptive Planning Analyst | United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-graduate-at-targetjobs-uk-4490254367 | targetjobs UK | FP&A Graduate | Oxted, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-macgregor-black-4489734559 | MacGregor Black | Management Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-12-month-ftc-at-hays-4490290182 | Hays | Management Accountant (12-Month FTC) | Milton Keynes, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-risk-at-sefe-marketing-trading-ltd-4489723861 | SEFE Marketing & Trading Ltd | Graduate - Risk | Manchester, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-quantitative-analytics-associate-graduate-programme-at-targetjobs-uk-4490247886 | targetjobs UK | 2027 Quantitative Analytics Associate Graduate Programme | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-financial-services-m-a-at-dyer-baade-company-4491298802 | Dyer Baade & Company | Research Analyst - Financial Services & M&A | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/mergers-and-acquisitions-analyst-at-mdm-resourcing-4488505883 | MDM Resourcing | Mergers and Acquisitions Analyst | Manchester Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-the-scottish-national-investment-bank-4489732714 | The Scottish National Investment Bank | Finance Analyst | Edinburgh, Scotland, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-finance-analyst-twe47728-at-twentyai-4491294702 | twentyAI | Portfolio Finance Analyst (TWE47728) | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-statutory-at-orbit-group-4489728751 | Orbit Group | Financial Accountant - Statutory | Coventry, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-investigo-4490294395 | Investigo | Assistant Accountant | Hertfordshire, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/costing-accountant-falkirk-%C2%A360k-%C2%A375k-at-meraki-talent-4490280325 | Meraki Talent | Costing Accountant | Falkirk | £60k - £75k | West Lothian, Scotland, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/shipping-accountant-at-handpicked-recruitment-4490762222 | Handpicked Recruitment | Shipping Accountant | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/shipping-accountant-at-richard-james-recruitment-specialists-ltd-4491293805 | Richard James Recruitment Specialists Ltd | Shipping Accountant | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-macgregor-black-4489722710 | MacGregor Black | Finance Graduate | Grimsby, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57571523 | Michael Page Finance | Finance Analyst | Leicester, Leicestershire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst-12-month-fixed-term-contract/57571492 | LHH Recruitment Solutions | Finance Analyst (12-month Fixed Term Contract) | Edinburgh, Midlothian | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57571031 | Talent Guardian | Management Accountant | Guildford, Surrey | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/accountant/57570816 | Warner Recruitment Limited | Accountant | Northampton, Northamptonshire | note: via Reed
+
 ## Processed
