@@ -1039,5 +1039,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482 | Aria Partners | Financial Controller - Private Credit | London Area, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409 | Retirement Villages Group Ltd | Management Accountant | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230 | Univar Solutions | Assistant Financial Accountant | Bradford, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002 | Robertson Wright | Investment Banking Associate - Technology | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312 | AEJ Consulting Ltd | Junior Trader | London Area, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/trading-risk-analyst-execution-monitoring/57567924 | eFinancialCareers | Trading Risk Analyst Execution & Monitoring | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57567575 | Vermelo RPO | Finance Business Partner | Salford, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57569259 | Priory | Management Accountant | Durham, County Durham | posted: 2026-11-15 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57568104 | Milton Keynes City Council | Management Accountant | Milton Keynes, Buckinghamshire | posted: 2026-11-15 | note: via Reed
 
 ## Processed

@@ -27,6 +27,11 @@
    "register_name": null,
    "match": "none"
   },
+  "AEJ Consulting Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "AIG": {
    "licensed": true,
    "register_name": "American International Group UK Limited",
@@ -1762,6 +1767,11 @@
    "register_name": "Millennium Capital Management Limited",
    "match": "alias"
   },
+  "Milton Keynes City Council": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Mint Velvet": {
    "licensed": false,
    "register_name": null,
@@ -2197,6 +2207,11 @@
    "register_name": "Primer API Limited",
    "match": "alias"
   },
+  "Priory": {
+   "licensed": true,
+   "register_name": "Priory Group",
+   "match": "exact"
+  },
   "Propel Holdings": {
    "licensed": true,
    "register_name": "Propel Holdings Limited",
@@ -2316,6 +2331,11 @@
    "licensed": true,
    "register_name": "Robert Walters PLC",
    "match": "exact"
+  },
+  "Robertson Wright": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Rolls-Royce": {
    "licensed": true,
@@ -2873,6 +2893,11 @@
    "match": "none"
   },
   "Veracious Talent Partners Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Vermelo RPO": {
    "licensed": false,
    "register_name": null,
    "match": "none"
