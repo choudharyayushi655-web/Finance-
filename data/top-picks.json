@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:13:04.797Z",
+ "generated_at": "2026-11-16T16:30:26.487Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 59,
+   "matching": 60,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -3937,6 +3937,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210790747": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
   }
  }
 }

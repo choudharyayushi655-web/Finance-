@@ -1078,4 +1078,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127761902 | LHH Recruitment Solutions | Finance Analyst 12 Month Fixed Term Contract | City of Edinburgh, Scotland | posted: 2026-11-16 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127761895 | Gibson Recruitment Limited | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-16 | note: via S1Jobs
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210790747 | JPMorgan Chase | Investment Banking - EMEA Strategic Investors Group (SIG) – Analyst / Associate – London | LONDON, LONDON, United Kingdom | posted: 2026-11-16
+
 ## Processed
