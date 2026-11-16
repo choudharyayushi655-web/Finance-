@@ -1045,5 +1045,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57567575 | Vermelo RPO | Finance Business Partner | Salford, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57569259 | Priory | Management Accountant | Durham, County Durham | posted: 2026-11-15 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57568104 | Milton Keynes City Council | Management Accountant | Milton Keynes, Buckinghamshire | posted: 2026-11-15 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019 | targetjobs UK | Graduate Analyst - Puma Property Finance | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-graduate-programme-investment-banking-analyst-at-targetjobs-uk-4490249818 | targetjobs UK | 2027 Graduate Programme - Investment Banking Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-targetjobs-uk-4490265104 | targetjobs UK | Finance Graduate | Hemel Hempstead, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T02:52:19.414Z",
+ "generated_at": "2026-11-16T03:21:10.469Z",
  "order": [
   "finance",
   "credit",
@@ -3797,6 +3797,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/2027-graduate-programme-investment-banking-analyst-at-targetjobs-uk-4490249818": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/finance-graduate-at-targetjobs-uk-4490265104": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
