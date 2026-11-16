@@ -1067,6 +1067,11 @@
    "register_name": "Genius Sports UK Ltd",
    "match": "exact"
   },
+  "Gibson Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Gleeson Recruitment Group": {
    "licensed": false,
    "register_name": null,
@@ -2902,6 +2907,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Undisclosed": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Unilever": {
    "licensed": true,
    "register_name": "Unilever UK Limited",
@@ -2938,6 +2948,11 @@
    "match": "none"
   },
   "Ventula Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Venture Recruitment Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"

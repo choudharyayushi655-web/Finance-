@@ -1072,5 +1072,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-analyst-12-month-fixed-term-contract/57571492 | LHH Recruitment Solutions | Finance Analyst (12-month Fixed Term Contract) | Edinburgh, Midlothian | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57571031 | Talent Guardian | Management Accountant | Guildford, Surrey | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/accountant/57570816 | Warner Recruitment Limited | Accountant | Northampton, Northamptonshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-forge-talent-4490295605 | Forge Talent | Financial Planning Analyst | Wythenshawe, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-analyst-at-undisclosed-4489736705 | Undisclosed | Quantitative Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-venture-recruitment-partners-4489727981 | Venture Recruitment Partners | Management Accountant | Farnborough, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127761902 | LHH Recruitment Solutions | Finance Analyst 12 Month Fixed Term Contract | City of Edinburgh, Scotland | posted: 2026-11-16 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127761895 | Gibson Recruitment Limited | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-16 | note: via S1Jobs
 
 ## Processed

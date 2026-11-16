@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 632 firms checked, 374 matched, 258 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 635 firms checked, 374 matched, 261 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (258)
+## Not found (261)
 
 - 93 MGMT
 - ACL Partners
@@ -94,6 +94,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - GP Fund Solutions
 - GSR Markets
 - Gemini
+- Gibson Recruitment Limited
 - Gleeson Recruitment Group
 - Global Accounting Network
 - Graphite Partners
@@ -239,11 +240,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Trainline
 - TransUnion
 - UCEA - Family Office Group
+- Undisclosed
 - Univar Solutions
 - VIA MATCH LIMITED
 - Valeo Foods UK
 - Vecta
 - Ventula Consulting
+- Venture Recruitment Partners
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
 - Vermelo RPO
