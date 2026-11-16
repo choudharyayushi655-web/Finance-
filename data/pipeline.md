@@ -1146,5 +1146,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/non-financial-risk-analyst-11-month-ftc/ | via ScotJobsNet | Non-Financial Risk Analyst (11 month FTC) | Midlothian, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/management-accountant-finance-b6/ | via ScotJobsNet | Management Accountant Finance B6 | Glasgow, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/assistant-accountant-3/ | via ScotJobsNet | Assistant Accountant | Glasgow, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
+- [ ] https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816 | eFinancialCareers | Futures Macro Quant Researcher/ London / Base Bonus | London | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/ | via ScotJobsNet | Associate Accountant – Healthcare – Edinburgh, UK | Midlothian, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:17:55.809Z",
+ "generated_at": "2026-11-16T22:50:59.546Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 164,
+   "matching": 163,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -892,11 +892,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-trinity-house-group-4484382193": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-echo-4487345742": {
    "id": "finance",
@@ -4262,6 +4257,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }
