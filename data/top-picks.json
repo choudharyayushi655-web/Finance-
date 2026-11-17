@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T04:38:16.018Z",
+ "generated_at": "2026-11-17T04:54:52.570Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 66,
+   "matching": 65,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -407,11 +407,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 15
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804850": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210778053": {
    "id": "other",
@@ -1802,11 +1797,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 19
-  },
-  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-talentedge-4487159515": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 27
   },
   "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-halliday-marx-4487138535": {
    "id": "finance",
@@ -3248,11 +3238,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809195": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 20
-  },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003": {
    "id": "consulting",
    "cv": "Consulting CV",
@@ -3737,11 +3722,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 16
-  },
-  "https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.reed.co.uk/jobs/trading-risk-analyst-execution-monitoring/57567924": {
    "id": "credit",
