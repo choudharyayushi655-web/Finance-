@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:50:59.546Z",
+ "generated_at": "2026-11-17T04:38:16.018Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 163,
+   "matching": 165,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 79,
+   "matching": 81,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 41,
+   "matching": 40,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 67,
+   "matching": 66,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -387,11 +387,6 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 19
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 25
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210771123": {
    "id": "investment",
@@ -1392,11 +1387,6 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 12
-  },
-  "https://jobs.ashbyhq.com/ElevenLabs/f1427164-3037-47d1-a768-11cfb87953ae": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/private-bank-endowments-foundations-portfolio-management-team-program-analyst-at-jpmorganchase-4488706602": {
    "id": "other",
@@ -2507,11 +2497,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/m-a-analyst-graduates-welcome-at-bruntwood-scitech-4487893897": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/top-tier-investment-banking-associate-at-everet-marsh-4470908615": {
    "id": "investment",
@@ -4267,6 +4252,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/consumer-credit-underwriter-at-market-harborough-building-society-4490654663": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/graduate-accountant-at-targetjobs-uk-4490169813": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.reed.co.uk/jobs/quant-risk-analyst-ccr-contract-inside-ir35-london-investigo/57575365": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/risk-analyst-insurance-g-mass-consulting/57575720": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/financial-accountant/57572548": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/group-management-accountant/57579996": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/interim-management-accountant/57576001": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/analyst-associate-private-credit-french-speaker-efinancialcareers/57574595": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 20
+  },
+  "https://www.reed.co.uk/jobs/financial-analyst-educate2trade-ltd/57574460": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.reed.co.uk/jobs/discretionary-trader/57573877": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

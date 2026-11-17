@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 661 firms checked, 382 matched, 279 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 662 firms checked, 382 matched, 280 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (279)
+## Not found (280)
 
 - 93 MGMT
 - ACL Partners
@@ -163,6 +163,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Mackie Myers
 - Macquarie Group
 - ManpowerGroup Talent Solutions
+- Market Harborough Building Society
 - Marks Sattin
 - Marlin Selection Recruitment
 - Martis Search

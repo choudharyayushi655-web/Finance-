@@ -1792,6 +1792,11 @@
    "register_name": "Markel International Services Limited",
    "match": "alias"
   },
+  "Market Harborough Building Society": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MarketAxess": {
    "licensed": true,
    "register_name": "MarketAxess Europe Ltd",
