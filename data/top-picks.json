@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:37:04.991Z",
+ "generated_at": "2026-11-17T15:03:26.539Z",
  "order": [
   "finance",
   "credit",
@@ -3483,11 +3483,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3734,11 +3729,6 @@
    "score": 8
   },
   "https://www.linkedin.com/jobs/view/fp-a-and-adaptive-planning-analyst-at-select-tech-4491507238": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/fp-a-graduate-at-targetjobs-uk-4490254367": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
@@ -4387,6 +4377,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://scotjobsnet.co.uk/job/junior-finance-transformation-analyst-cigna-healthcare-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

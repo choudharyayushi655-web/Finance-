@@ -1190,5 +1190,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-controller/57581792 | SENSIBAL RECRUITMENT LTD | Financial Controller | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57581779 | AD Finance | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57583084 | Platinum Recruitment Group | Management Accountant | Salford, Lancashire | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/junior-finance-transformation-analyst-cigna-healthcare-2/ | via ScotJobsNet | Junior Finance Transformation Analyst – Cigna Healthcare | Glasgow, Scotland | posted: 2026-11-17 | note: via ScotJobsNet
 
 ## Processed
