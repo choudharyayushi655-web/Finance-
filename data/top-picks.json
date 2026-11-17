@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T23:02:09.304Z",
+ "generated_at": "2026-11-17T23:19:20.035Z",
  "order": [
   "finance",
   "credit",
@@ -155,26 +155,26 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 21,
+   "matching": 22,
    "picks": [
+    {
+     "title": "Commercial Strategy Associate",
+     "company": "IG Group",
+     "location": "City of London - United Kingdom",
+     "posted": "2026-11-17",
+     "url": "https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859",
+     "score": 19,
+     "why": [
+      "Strategy Associate"
+     ],
+     "sponsor": true
+    },
     {
      "title": "VAIB Strategy Analyst",
      "company": "Monzo",
      "location": "Cardiff, London or Remote (UK)",
      "posted": "2026-11-09",
      "url": "https://job-boards.greenhouse.io/monzo/jobs/8359155",
-     "score": 18,
-     "why": [
-      "Strategy Analyst"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Credit Strategy Analyst",
-     "company": "Funding Circle UK",
-     "location": "London, England, United Kingdom",
-     "posted": "2026-11-06",
-     "url": "https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686",
      "score": 18,
      "why": [
       "Strategy Analyst"
@@ -2913,11 +2913,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-avove-utilities-4490360628": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 26
-  },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-vistry-group-4488299963": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4517,6 +4512,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 4
+  },
+  "https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 19
   }
  }
 }

@@ -1225,4 +1225,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/financial-accountant-127766440 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127766439 | S1Jobs | Corporate Finance Specialist | Scotland | note: via S1Jobs
 
+- [ ] https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859 | IG Group | Commercial Strategy Associate | City of London - United Kingdom | posted: 2026-11-17
+
 ## Processed
