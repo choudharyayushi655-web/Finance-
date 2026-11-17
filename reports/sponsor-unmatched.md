@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 682 firms checked, 390 matched, 292 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 700 firms checked, 392 matched, 308 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (292)
+## Not found (308)
 
 - 93 MGMT
 - AAA Global
@@ -20,6 +20,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Addington Ball Recruitment Ltd
 - Adyen
 - Agility
+- Alan Mitchell
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
 - Alignerr
@@ -39,17 +40,20 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Avove Utilities
 - Axon Moore Group Ltd
 - B&Q
+- Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
 - Brit Insurance
+- Broaden
 - Broadstone Resourcing
 - Brock & Decker
 - Broster Buchanan
 - Bruin
 - Bruntwood SciTech
+- CAMMACH BRYANT LIMITED
 - CIBC
 - CLARC Recruitment
 - CMC Consulting Ltd
@@ -61,6 +65,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Card Factory
 - Carousel Consultancy Ltd
 - Carr Lyons Search & Selection
+- Centalion
+- Chalk Hill Group
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates
@@ -86,6 +92,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Distinct Recruitment
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
+- Eaton Syalon Ltd
 - Echo
 - Edgworth Partners
 - Edward Mann
@@ -105,6 +112,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - GP Fund Solutions
 - GSR Markets
 - Gemini
+- Gen II Fund Services
 - Gibson Recruitment Limited
 - Gleeson Recruitment Group
 - Global Accounting Network
@@ -127,6 +135,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Headstar
 - HelloFresh
 - High Finance (UK) Limited T/A HFG
+- HireForce
 - Hometree
 - Hoop Recruitment
 - IAG Transform
@@ -142,9 +151,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Janus Henderson Investors
 - JasperRose
 - Joblet-AI
+- Johnsons Workwear
 - KBRA
 - KBS Corporate
 - KDR Talent Solutions
+- KOS International Talent Group
 - Keeler Recruitment
 - Keepmoat
 - Kennedy Pearce Consulting
@@ -217,6 +228,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Puma Capital Group
 - Pure Search
 - Qh4 Consulting
+- RG Consultancy Ltd
 - Randstad Finance
 - Reckitt
 - Reed
@@ -243,6 +255,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Seccl
 - Selby Jennings
 - Select Tech
+- Sellick Partnership
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
@@ -273,6 +286,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Univar Solutions
 - VIA MATCH LIMITED
 - Valeo Foods UK
+- Valuations
 - Vecta
 - Ventula Consulting
 - Venture Recruitment Partners
@@ -288,12 +302,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Walker Dendle Financial Recruitment
 - Warner Recruitment Limited
 - Watson-Marlow Fluid Technology Solutions
+- Wilkinson and Associates
 - WorldQuant
 - XPS Group
 - Yolk Recruitment Ltd
 - Zachary Daniels
 - Zego
 - abrdn
+- deverellsmith
 - ivee
 - targetjobs UK
 - twentyAI

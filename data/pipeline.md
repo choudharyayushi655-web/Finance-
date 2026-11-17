@@ -1192,4 +1192,37 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57583084 | Platinum Recruitment Group | Management Accountant | Salford, Lancashire | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/junior-finance-transformation-analyst-cigna-healthcare-2/ | via ScotJobsNet | Junior Finance Transformation Analyst – Cigna Healthcare | Glasgow, Scotland | posted: 2026-11-17 | note: via ScotJobsNet
 
+- [ ] https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Risk-Analyst--Private-Markets_R0074255 | abrdn | Risk Analyst, Private Markets | Edinburgh | posted: 2026-11-17
+- [ ] https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107014 | PIMCO | Quantitative Research Analyst | London, GBR | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/sodastream-fp-a-analyst-at-pepsico-4490473888 | PepsiCo | SodaStream: FP&A Analyst | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-chalk-hill-group-4491559945 | Chalk Hill Group | Financial Planning Analyst | Wareham, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-centalion-4484018952 | Centalion | Credit Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-underwriting-analyst-at-broaden-4490460264 | Broaden | Portfolio Underwriting Analyst | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-real-estate-private-equity-at-belmont-search-ltd-4491177792 | Belmont Search Ltd | Investment Analyst - Real Estate Private Equity | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-portfolio-valuations-4491179811 | Valuations | Analyst, Portfolio Valuations | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-fig-at-alan-mitchell-4480787999 | Alan Mitchell | M&A Analyst - FIG | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232 | KOS International Talent Group | Mergers and Acquisitions Associate | United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192 | JPMorganChase | Investment Banking - EMEA Strategic Investors Group (SIG) - Analyst / Associate - London | Greater London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911 | Gen II Fund Services | Fund Accountant, Private Equity | Southampton, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-deverellsmith-4490462516 | deverellsmith | Fund Accountant | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-private-equity-alternative-investments-at-hireforce-4490471172 | HireForce | Financial Accountant (Private Equity & Alternative Investments) | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-johnsons-workwear-4490462963 | Johnsons Workwear | Management Accountant | Fulwood, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-eaton-syalon-ltd-4491565629 | Eaton Syalon Ltd | Management Accountant | Derby, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-itsu-4491574598 | itsu | Assistant Management Accountant | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-equity-research-associate-global-investment-bank-london-at-greenwich-partners-4491582257 | Greenwich Partners | Trainee Equity Research Associate - Global Investment Bank - London | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/interim-finance-analyst/57583753 | Michael Page Finance | Interim Finance Analyst | Bournemouth, Dorset | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-financial-planning-analysis/57583885 | Sellick Partnership | Interim Financial Planning & Analysis | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/credit-analyst-data-reporting-cer-financial/57584124 | eFinancialCareers | Credit Analyst / Data Reporting - CER Financial | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/risk-analyst-lorien/57584116 | eFinancialCareers | Risk Analyst - Lorien | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/analyst-portfolio-valuation-goodman-masson/57585022 | eFinancialCareers | Analyst, Portfolio Valuation - Goodman Masson | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57584814 | Mitchell Adam | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57584184 | RG Consultancy Ltd | Management Accountant | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57584419 | Reed | Graduate Finance Assistant | Cambridge, Cambridgeshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/financial-accountant-127766618 | CAMMACH BRYANT LIMITED | Financial Accountant | Aberdeen Area, Scotland | posted: 2026-11-17 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-analyst-127766612 | Wilkinson and Associates | Finance Analyst | Moray, Scotland | posted: 2026-11-17 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-xero-127766454 | S1Jobs | Accountant Xero | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-controller-127766449 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-accountant-127766440 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127766439 | S1Jobs | Corporate Finance Specialist | Scotland | note: via S1Jobs
+
 ## Processed
