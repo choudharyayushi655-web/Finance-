@@ -1158,5 +1158,37 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/analyst-associate-private-credit-french-speaker-efinancialcareers/57574595 | eFinancialCareers | Analyst / Associate - Private Credit - French speaker - eFinancialCareers | London | posted: 2026-11-16 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/financial-analyst-educate2trade-ltd/57574460 | eFinancialCareers | Financial Analyst - Educate2trade Ltd | London | posted: 2026-11-16 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/discretionary-trader/57573877 | eFinancialCareers | Discretionary Trader | London | posted: 2026-11-16 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-europe-at-univers-4490195978 | Univers | FP&A Analyst, Europe | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239 | HB Partners Limited | Financial Analyst | Portsmouth, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-revenue-cogs-at-mediakind-4479984422 | MediaKind | FP&A Analyst (Revenue & COGS) | United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-finatal-4490454182 | Finatal | Financial Planning Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-summit-energy-europe-4490409871 | Summit Energy Europe | Credit Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-carr-lyons-search-selection-4490428536 | Carr Lyons Search & Selection | Leveraged Finance Credit Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-credit-risk-2lod-at-michael-page-4491565380 | Michael Page | Leveraged Finance Credit Risk (2LoD) | City Of London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614 | AAA Global | Quantitative Risk Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-growth-equity-at-acl-partners-4491160558 | ACL Partners | Investment Analyst | Growth Equity | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-european-media-global-bank-at-greenwich-partners-4490435554 | Greenwich Partners | Equity Research Analyst, European Media, Global Bank | Greater London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163 | Dartmouth Partners | Investment Banking Associate (FIG M&A) Advisory | Greater London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-analyst-multi-asset-funds-investor-london-uk-at-per-4483622299 | PER | Investment Operations Analyst, Multi Asset Funds Investor, London, UK | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-model-portfolio-service-mps-at-cameron-kennedy-4480650397 | Cameron Kennedy | Investment Operations Associate – Model Portfolio Service (MPS) | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-analyst-mmh261117-4-at-momentum-4491142796 | Momentum | Portfolio Analyst MMH261117-4 | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-accountant-nged-at-national-grid-4490457206 | National Grid | Investment Accountant - NGED | Warwick, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-galliford-try-4483635189 | Galliford Try | Management Accountant | Coventry, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-quantum-4491167409 | Quantum | Management Accountant | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-united-infrastructure-ltd-4490439656 | United Infrastructure Ltd | Management Accountant | Rochdale, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-founder-led-beauty-brand-central-london-up-to-%C2%A365k-at-harmonic-finance%E2%84%A2-certified-b-corp-4490686775 | Harmonic Finance™ | Certified B Corp | Management Accountant | Founder-Led Beauty Brand | Central London | Up to £65k | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-harbour-energy-4491136603 | Harbour Energy | Finance Graduate | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57582463 | Keeler Recruitment | Financial Analyst | Norwich, Norfolk | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst--property/57583097 | Hays Specialist Recruitment Limited | FP&A Analyst | Property | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57581424 | Trial Balance Consulting | Management Accountant | Plymouth, Devon | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-financial-accountant/57582939 | Gleeson Recruitment Group | Interim Financial Accountant | Leicester, Leicestershire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/investment-associate-debt-emerging-markets-french-speaking/57582704 | Michael Page Banking | Investment Associate, Debt / Emerging Markets - French speaking | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934 | Michael Page Banking | Leveraged Finance Credit Risk (2LoD) | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/junior-investment-associate/57581186 | PGS LTD | Junior Investment Associate | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/business-development-specialist-private-equity/57581398 | Larbey Evans | Business Development Specialist (Private Equity) | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant/57571430 | Sheridan Maine | Financial Accountant | Poole, Dorset | posted: 2026-11-16 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-controller/57581792 | SENSIBAL RECRUITMENT LTD | Financial Controller | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57581779 | AD Finance | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57583084 | Platinum Recruitment Group | Management Accountant | Salford, Lancashire | note: via Reed
 
 ## Processed

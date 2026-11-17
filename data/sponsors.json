@@ -22,7 +22,17 @@
    "register_name": "9fin Limited",
    "match": "exact"
   },
+  "AAA Global": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ACL Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "AD Finance": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -617,6 +627,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Carr Lyons Search & Selection": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Carter Jonas": {
    "licensed": true,
    "register_name": "Carter Jonas Service Company",
@@ -821,6 +836,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Dartmouth Partners": {
+   "licensed": true,
+   "register_name": "Dartmouth Partners Limited",
+   "match": "exact"
   },
   "Datalink Recruitment": {
    "licensed": false,
@@ -1122,6 +1142,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Galliford Try": {
+   "licensed": true,
+   "register_name": "Galliford Try Plc",
+   "match": "exact"
+  },
   "Gemini": {
    "licensed": false,
    "register_name": null,
@@ -1202,6 +1227,11 @@
    "register_name": "Guggenheim Securities International Ltd",
    "match": "exact"
   },
+  "HB Partners Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "HSBC Innovation Banking": {
    "licensed": false,
    "register_name": null,
@@ -1226,6 +1256,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Harbour Energy": {
+   "licensed": true,
+   "register_name": "Harbour Energy Plc",
+   "match": "exact"
   },
   "Hargreaves Land": {
    "licensed": false,
@@ -1612,6 +1647,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Larbey Evans": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lazard": {
    "licensed": true,
    "register_name": "Lazard & Co., Services Limited",
@@ -1857,6 +1897,11 @@
    "register_name": "Mears Group PLC",
    "match": "exact"
   },
+  "MediaKind": {
+   "licensed": true,
+   "register_name": "MediaKind Systems UK Limited",
+   "match": "prefix"
+  },
   "Meraki Talent": {
    "licensed": false,
    "register_name": null,
@@ -1891,6 +1936,11 @@
    "licensed": true,
    "register_name": "Michael Page International Recruitment Ltd",
    "match": "prefix"
+  },
+  "Michael Page Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Michael Page Finance": {
    "licensed": false,
@@ -1941,6 +1991,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Momentum": {
+   "licensed": true,
+   "register_name": "MOMENTUM AI LIMITED",
+   "match": "exact"
   },
   "Mondrian Alpha": {
    "licensed": true,
@@ -2212,6 +2267,16 @@
    "register_name": null,
    "match": "none"
   },
+  "PER": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "PGS LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "PIMCO": {
    "licensed": true,
    "register_name": "PIMCO Europe Ltd",
@@ -2327,6 +2392,11 @@
    "register_name": "Phoenix Group Management Services Limited",
    "match": "alias"
   },
+  "Platinum Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Pleo": {
    "licensed": true,
    "register_name": "Pleo Technologies Limited",
@@ -2406,6 +2476,11 @@
    "licensed": true,
    "register_name": "Quantexa Ltd",
    "match": "exact"
+  },
+  "Quantum": {
+   "licensed": true,
+   "register_name": "Quantum Services Management Ltd",
+   "match": "prefix"
   },
   "Qube Research & Technologies": {
    "licensed": true,
@@ -2551,6 +2626,11 @@
    "licensed": true,
    "register_name": "SEFE Marketing & Trading Limited",
    "match": "exact"
+  },
+  "SENSIBAL RECRUITMENT LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "SF Partners": {
    "licensed": false,
@@ -2802,6 +2882,11 @@
    "register_name": "SumUp Payments Limited",
    "match": "prefix"
   },
+  "Summit Energy Europe": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Super Payments": {
    "licensed": true,
    "register_name": "Super Payments Ltd",
@@ -3002,6 +3087,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Trial Balance Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Trident": {
    "licensed": true,
    "register_name": "TRIDENT EUROPE LIMITED",
@@ -3037,10 +3127,20 @@
    "register_name": "Unilever UK Limited",
    "match": "alias"
   },
+  "United Infrastructure Ltd": {
+   "licensed": true,
+   "register_name": "United Infrastructure Management Limited",
+   "match": "prefix"
+  },
   "Univar Solutions": {
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Univers": {
+   "licensed": true,
+   "register_name": "Univers U.K. LTD",
+   "match": "exact"
   },
   "Universal Music UK": {
    "licensed": true,

@@ -1,13 +1,15 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 662 firms checked, 382 matched, 280 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 682 firms checked, 390 matched, 292 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (280)
+## Not found (292)
 
 - 93 MGMT
+- AAA Global
 - ACL Partners
+- AD Finance
 - AEJ Consulting Ltd
 - ASC Connections Ltd
 - ASDA
@@ -58,6 +60,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Capital Outsourcing Group Ltd
 - Card Factory
 - Carousel Consultancy Ltd
+- Carr Lyons Search & Selection
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates
@@ -109,6 +112,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Greencore
 - Greenhill
 - Greenwich Partners
+- HB Partners Limited
 - HSBC Innovation Banking
 - Halliday Marx
 - Handpicked Recruitment
@@ -149,6 +153,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Klarna
 - Landbay
 - Language Matters
+- Larbey Evans
 - Lemonade
 - Lightsource bp
 - Lightspeed Commerce
@@ -172,6 +177,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Meraki Talent
 - Meraki Talent Limited
 - Metis Search
+- Michael Page Banking
 - Michael Page Finance
 - Milton Keynes City Council
 - Mint Velvet
@@ -198,12 +204,15 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Orla Rose Associates
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
+- PER
+- PGS LTD
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
 - Pave Bank
 - Pavilion Recruitment Solutions
 - Payhawk
 - Peace Recruitment
+- Platinum Recruitment Group
 - Point One - Hedge Fund Talent
 - Puma Capital Group
 - Pure Search
@@ -219,6 +228,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Rushlift GSE
 - S1Jobs
 - SD Business Management
+- SENSIBAL RECRUITMENT LTD
 - SF Partners
 - SOCOTEC UK & Ireland
 - SRG
@@ -240,6 +250,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Standard Life plc
 - Stanford Real Estate Partners
 - Strand Hill
+- Summit Energy Europe
 - Swoop Funding
 - TCR
 - TCS
@@ -256,6 +267,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Tower Transit Group
 - Trainline
 - TransUnion
+- Trial Balance Consulting
 - UCEA - Family Office Group
 - Undisclosed
 - Univar Solutions
@@ -287,7 +299,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (42)
+## Matched automatically by close name; worth a glance (45)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
@@ -311,6 +323,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kroo → Kroo Bank Ltd (prefix)
 - Ledger → Ledger Technologies UK LTD (prefix)
 - Lightfoot → Lightfoot Advisors (prefix)
+- MediaKind → MediaKind Systems UK Limited (prefix)
 - Michael Page → Michael Page International Recruitment Ltd (prefix)
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)
@@ -322,6 +335,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Paxos → Paxos Technology Limited (prefix)
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
+- Quantum → Quantum Services Management Ltd (prefix)
 - Radius → Radius Systems Limited (prefix)
 - SMBC → SMBC Bank International plc (prefix)
 - Silverfin → Silverfin Software Ltd (prefix)
@@ -329,5 +343,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - SumUp → SumUp Payments Limited (prefix)
 - TALA → Tala Energy Ltd (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
+- United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
 - WHEATLEY GROUP → Wheatley Software Solutions Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)
