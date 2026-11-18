@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 718 firms checked, 396 matched, 322 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 728 firms checked, 401 matched, 327 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (322)
+## Not found (327)
 
 - 93 MGMT
 - AAA Global
@@ -42,6 +42,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Avove Utilities
 - Axon Moore Group Ltd
 - B&Q
+- BAT
 - Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
@@ -248,8 +249,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Rendall & Rittner
 - Retirement Villages Group Ltd
 - Richard James Recruitment Specialists Ltd
+- Robertson Bell
 - Robertson Wright
 - Rothstein Recruitment
+- Royal Caribbean Group
 - Rushlift GSE
 - S1Jobs
 - SD Business Management
@@ -269,6 +272,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Selby Jennings
 - Select Tech
 - Sellick Partnership
+- Sharp Consultancy
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
@@ -294,6 +298,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Trainline
 - TransUnion
 - Trial Balance Consulting
+- UBS
 - UCEA - Family Office Group
 - Undisclosed
 - Univar Solutions
@@ -329,7 +334,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (45)
+## Matched automatically by close name; worth a glance (47)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
@@ -360,6 +365,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - OCS → OCS Consulting plc (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)
+- Oliver James → Oliver James Homes Ltd (prefix)
 - Orbit Group → Orbit Partners Limited (prefix)
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
@@ -367,6 +373,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Plum → Plum Fintech (prefix)
 - Quantum → Quantum Services Management Ltd (prefix)
 - Radius → Radius Systems Limited (prefix)
+- SEI → SEI Investments (Europe) Ltd (prefix)
 - SMBC → SMBC Bank International plc (prefix)
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)

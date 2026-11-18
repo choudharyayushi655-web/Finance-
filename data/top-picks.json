@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:13:04.004Z",
+ "generated_at": "2026-11-18T21:44:44.959Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 170,
+   "matching": 178,
    "picks": [
+    {
+     "title": "Commercial Finance Analyst",
+     "company": "Tandem Bank",
+     "location": "Cardiff, United Kingdom",
+     "posted": "2026-11-18",
+     "url": "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002",
+     "score": 31,
+     "why": [
+      "Finance Analyst",
+      "Commercial Finance"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Finance Analyst (FP&A)",
      "company": "Element Materials Technology",
@@ -38,26 +51,13 @@
       "Finance Analyst"
      ],
      "sponsor": true
-    },
-    {
-     "title": "Commercial Finance Analyst",
-     "company": "The Consultancy Group",
-     "location": "London Area, United Kingdom",
-     "posted": "2026-11-10",
-     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462",
-     "score": 28,
-     "why": [
-      "Finance Analyst",
-      "Commercial Finance"
-     ],
-     "sponsor": true
     }
    ]
   },
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 86,
+   "matching": 89,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -90,8 +90,21 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 44,
+   "matching": 46,
    "picks": [
+    {
+     "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
+     "company": "Rothschild & Co",
+     "location": "London Area, United Kingdom",
+     "posted": "2026-11-18",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-graduate-or-1-years-experience-buy-sell-side-at-rothschild-co-4492056400",
+     "score": 32,
+     "why": [
+      "Equity Research",
+      "Research Analyst"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Equity Research Analyst",
      "company": "MFS",
@@ -104,25 +117,13 @@
       "Research Analyst"
      ],
      "sponsor": true
-    },
-    {
-     "title": "Quantitative Research Analyst",
-     "company": "PIMCO",
-     "location": "London, GBR",
-     "posted": "2026-11-17",
-     "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107014",
-     "score": 22,
-     "why": [
-      "Research Analyst"
-     ],
-     "sponsor": true
     }
    ]
   },
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 72,
+   "matching": 74,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -186,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 27,
+   "matching": 26,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -2778,11 +2779,6 @@
    "cv": "Credit CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/investment-analyst-at-aj-bell-4488524219": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/investment-associate-at-finatal-4489954639": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -4672,6 +4668,176 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 31
+  },
+  "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21358": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810033": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-4355-at-wade-macdonald-4491306252": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-bnp-paribas-4492041787": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-ivee-4491308184": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/analyst-financial-planning-and-analysis-at-royal-caribbean-group-4492062197": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-investigo-4492065051": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/project-finance-credit-analyst-at-carr-lyons-search-selection-4490899676": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-financial-services-private-debt-at-brock-decker-4492041479": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-credit-investments-group-at-ubs-4491870349": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/group-risk-associate-analyst-at-arrow-global-group-4492036651": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/global-risk-analyst-at-smartestenergy-uk-4467067906": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%93-japanese-equities-at-ubs-4483679254": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 33
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-graduate-or-1-years-experience-buy-sell-side-at-rothschild-co-4492056400": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 32
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-equity-researcher-at-sei-4411772308": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equity-long-short-at-octavius-finance-4491862063": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-baird-4491887050": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-the-curve-group-4492042127": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/global-graduate-programme-2027-finance-at-bat-4483851925": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/fp-a-analyst-temp-to-perm/57590059": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/revenue-finance-analyst/57588529": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/junior-finance-analyst-immediate-start-entry-level-role/57589951": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/risk-analyst/57589616": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equity-long-short/57589315": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/group-financial-accountant-media/57589464": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57589916": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57589405": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57589654": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/finance-graduate/57587897": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57589240": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/financial-controller-127773943": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/accountant-127773759": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://scotjobsnet.co.uk/job/contract-finance-analyst-financial-services-experience/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

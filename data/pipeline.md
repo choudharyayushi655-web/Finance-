@@ -1268,4 +1268,39 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/strategy-analyst/ | via ScotJobsNet | Strategy Analyst | Ayrshire, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/european-accountant-6-month-ftc/ | via ScotJobsNet | European Accountant – 6 Month FTC | Scotland, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
 
+- [ ] https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002 | Tandem Bank | Commercial Finance Analyst | Cardiff, United Kingdom | posted: 2026-11-18
+- [ ] https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21358 | Phoenix Group | Accountant | Birmingham, England, United Kingdom · Hybrid | posted: 2026-11-18
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810033 | JPMorgan Chase | Commercial and Investment Banking - Treasury analyst (MENA) | LONDON, LONDON, United Kingdom | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-4355-at-wade-macdonald-4491306252 | Wade Macdonald | FP&A Analyst (4355) | Shoreditch, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-bnp-paribas-4492041787 | BNP Paribas | FP&A Analyst | Solihull, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-ivee-4491308184 | ivee | Financial Planning Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-financial-planning-and-analysis-at-royal-caribbean-group-4492062197 | Royal Caribbean Group | Analyst, Financial Planning and Analysis | Weybridge, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-investigo-4492065051 | Investigo | Financial Analyst | Central Bedfordshire, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-finance-credit-analyst-at-carr-lyons-search-selection-4490899676 | Carr Lyons Search & Selection | Project Finance Credit Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-financial-services-private-debt-at-brock-decker-4492041479 | Brock & Decker | Investment Analyst - Financial Services & Private Debt | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-credit-investments-group-at-ubs-4491870349 | UBS | Research Analyst - Credit Investments Group | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-risk-associate-analyst-at-arrow-global-group-4492036651 | Arrow Global Group | Group Risk Associate / Analyst | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-risk-analyst-at-smartestenergy-uk-4467067906 | SmartestEnergy UK | Global Risk Analyst | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%93-japanese-equities-at-ubs-4483679254 | UBS | Equity Research Analyst – Japanese Equities | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-graduate-or-1-years-experience-buy-sell-side-at-rothschild-co-4492056400 | Rothschild & Co | Equity Research Analyst (Graduate or 1 years' experience buy/sell side) | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-equity-researcher-at-sei-4411772308 | SEI | Quantitative Equity Researcher | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equity-long-short-at-octavius-finance-4491862063 | Octavius Finance | Quantitative Researcher – Systematic Equity Long/Short | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-baird-4491887050 | Baird | Investment Banking Associate - Healthcare | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-curve-group-4492042127 | The Curve Group | Management Accountant | Warrington, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-graduate-programme-2027-finance-at-bat-4483851925 | BAT | Global Graduate Programme 2027: Finance | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst-temp-to-perm/57590059 | Morgan McKinley | FP&A Analyst, Temp to Perm | Bristol, Avon | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/revenue-finance-analyst/57588529 | Hays Specialist Recruitment Limited | Revenue Finance Analyst | Berkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/junior-finance-analyst-immediate-start-entry-level-role/57589951 | Mitchell Adam | Junior Finance Analyst - Immediate Start Entry Level Role | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/risk-analyst/57589616 | Oliver James | Risk Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equity-long-short/57589315 | eFinancialCareers | Quantitative Researcher - Systematic Equity Long/Short | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/group-financial-accountant-media/57589464 | Handle Recruitment | Group Financial Accountant - Media | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57589916 | Robertson Bell | Finance Business Partner | Greater Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57589405 | Chalk Hill Group | Assistant Management Accountant | Southampton, Hampshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57589654 | Sharp Consultancy | Management Accountant | Sheffield, South Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-graduate/57587897 | Marks Sattin | Finance Graduate | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57589240 | Warner Recruitment Limited | Assistant Management Accountant | Northampton, Northamptonshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/financial-controller-127773943 | Cooper Parry Finance Recruitment | Financial Controller | Fife, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127773759 | CAMMACH BRYANT LIMITED | Accountant | Aberdeenshire, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/contract-finance-analyst-financial-services-experience/ | via ScotJobsNet | Contract Finance Analyst (Financial Services experience) | Midlothian, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
+
 ## Processed
