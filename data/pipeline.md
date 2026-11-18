@@ -1302,5 +1302,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/financial-controller-127773943 | Cooper Parry Finance Recruitment | Financial Controller | Fife, Scotland | posted: 2026-11-18 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/accountant-127773759 | CAMMACH BRYANT LIMITED | Accountant | Aberdeenshire, Scotland | posted: 2026-11-18 | note: via S1Jobs
 - [ ] https://scotjobsnet.co.uk/job/contract-finance-analyst-financial-services-experience/ | via ScotJobsNet | Contract Finance Analyst (Financial Services experience) | Midlothian, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-lending-at-jss-4490868979 | JSS | Financial Accountant - Lending | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-operations-leading-asset-management-firm-up-to-80k-base-%2B-wfh%21-at-mondrian-alpha-4490889696 | Mondrian Alpha | Finance / Operations - Leading Asset Management Firm - Up to 80k base + WFH! | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 
 ## Processed
