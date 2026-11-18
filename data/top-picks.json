@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T23:19:20.035Z",
+ "generated_at": "2026-11-18T04:34:13.973Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 171,
+   "matching": 167,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 84,
+   "matching": 83,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 68,
+   "matching": 70,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Investment Operations Analyst",
@@ -1217,11 +1217,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-royal-united-hospitals-bath-nhs-foundation-trust-4487368140": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127697560": {
    "id": "other",
@@ -2468,11 +2463,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 11
-  },
   "https://job-boards.greenhouse.io/liberis/jobs/8378630": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3472,11 +3462,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/finance-business-partner-at-halliday-marx-4488961524": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://www.linkedin.com/jobs/view/analyst-private-debt-investments-at-stepstone-group-4481924081": {
    "id": "credit",
@@ -4517,6 +4502,26 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 19
+  },
+  "https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-private-markets-at-aberdeen-4491776243": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/graduate-associate-debt-advisory-at-targetjobs-uk-4491490163": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   }
  }
 }

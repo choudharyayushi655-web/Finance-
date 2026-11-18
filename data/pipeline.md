@@ -1227,4 +1227,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859 | IG Group | Commercial Strategy Associate | City of London - United Kingdom | posted: 2026-11-17
 
+- [ ] https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/ | EY | Associate, Real Estate Valuation, Other Assurance
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-private-markets-at-aberdeen-4491776243 | Aberdeen | Risk Analyst, Private Markets | Edinburgh, Scotland, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647 | targetjobs UK | Financial Planning Graduate Trainee - September 2027 | Milton Keynes, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-associate-debt-advisory-at-targetjobs-uk-4491490163 | targetjobs UK | Graduate Associate, Debt Advisory | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+
 ## Processed
