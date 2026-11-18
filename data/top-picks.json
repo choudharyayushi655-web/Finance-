@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:34:13.973Z",
+ "generated_at": "2026-11-18T04:50:41.212Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 167,
+   "matching": 168,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -218,8 +218,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 31,
+   "matching": 32,
    "picks": [
+    {
+     "title": "Trainee Fund Accountant",
+     "company": "Aztec Group",
+     "location": "Southampton",
+     "posted": "2026-11-17",
+     "url": "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071",
+     "score": 21,
+     "why": [
+      "Fund Accountant"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Investment Operations Analyst",
      "company": "Barclays",
@@ -227,18 +239,6 @@
      "posted": "2026-11-16",
      "url": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1",
      "score": 21,
-     "why": [
-      "Investment Operations"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Interim Investment Operations Analyst 9 month FTC",
-     "company": "eFinancialCareers",
-     "location": "London",
-     "posted": "2026-11-13",
-     "url": "https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078",
-     "score": 20,
      "why": [
       "Investment Operations"
      ],
@@ -1807,11 +1807,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 24
-  },
-  "https://www.linkedin.com/jobs/view/finance-analyst-business-partnering-at-walker-dendle-financial-recruitment-4485686834": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/credit-analyst-german-speaking-at-wayflyer-4488854354": {
    "id": "credit",
@@ -4522,6 +4517,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 13
+  },
+  "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 21
   }
  }
 }
