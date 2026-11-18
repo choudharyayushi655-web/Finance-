@@ -1,16 +1,17 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 701 firms checked, 393 matched, 308 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 718 firms checked, 396 matched, 322 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (308)
+## Not found (322)
 
 - 93 MGMT
 - AAA Global
 - ACL Partners
 - AD Finance
 - AEJ Consulting Ltd
+- ALF Recruit
 - ASC Connections Ltd
 - ASDA
 - Abound
@@ -34,6 +35,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Armstrong Watson
 - Arup
 - Aster Group
+- Aster Group UK
 - Atkinson Moss
 - Atlassian Williams F1 Team
 - Atom Bank
@@ -46,6 +48,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
+- Brewer Morris
 - Brit Insurance
 - Broaden
 - Broadstone Resourcing
@@ -58,6 +61,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CLARC Recruitment
 - CMC Consulting Ltd
 - CMS UK
+- CONTRACT SCOTLAND LIMITED
+- COREcruitment Ltd
 - CVC Marathon
 - Calastone
 - Candidate Source - TEAM
@@ -70,6 +75,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates
+- Clarkson Owens Recruitment Limited
 - ClearScore
 - Client Server
 - Cobalt Recruitment
@@ -94,6 +100,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Doncaster Racecourse and Exhibition Centre
 - Eaton Syalon Ltd
 - Echo
+- Eden Scott
 - Edgworth Partners
 - Edward Mann
 - Elevation Recruitment Group
@@ -109,6 +116,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Foodbuy Group
 - Forge Talent
 - Frontier Agriculture
+- GIC
 - GP Fund Solutions
 - GSR Markets
 - Gemini
@@ -133,6 +141,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Hawke Search
 - Hays Specialist Recruitment Limited
 - Headstar
+- Heap & Co
+- Heap & Co - Accountancy & Finance Recruitment Specialists
 - HelloFresh
 - High Finance (UK) Limited T/A HFG
 - HireForce
@@ -147,6 +157,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Inventum Group
 - JJ SEARCH LIMITED
 - JPMorganChase
+- JSS
 - James D Bilsland Ltd
 - Janus Henderson Investors
 - JasperRose
@@ -211,6 +222,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - OJK Business Management
 - Octavius Finance
 - Octopus Money
+- Office Angels Limited
 - Oliver Smith Recruitment
 - Orla Rose Associates
 - PA Consulting
@@ -219,6 +231,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PGS LTD
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
+- Palatine Talent
 - Pave Bank
 - Pavilion Recruitment Solutions
 - Payhawk
@@ -299,6 +312,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vitae Financial Recruitment Limited
 - VodafoneThree
 - Vonage
+- Wade Macdonald
 - Walker Dendle Financial Recruitment
 - Warner Recruitment Limited
 - Watson-Marlow Fluid Technology Solutions

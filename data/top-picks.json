@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:50:41.212Z",
+ "generated_at": "2026-11-18T13:36:31.026Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 168,
+   "matching": 170,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -45,7 +45,7 @@
      "location": "London Area, United Kingdom",
      "posted": "2026-11-10",
      "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462",
-     "score": 30,
+     "score": 28,
      "why": [
       "Finance Analyst",
       "Commercial Finance"
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 83,
+   "matching": 86,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 42,
+   "matching": 44,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 70,
+   "matching": 72,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 26,
+   "matching": 27,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -1858,11 +1858,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-veracious-talent-partners-4488865220": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2156,7 +2151,7 @@
   "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77687": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.reed.co.uk/jobs/corporate-finance-analyst/57551845": {
    "id": "finance",
@@ -2171,37 +2166,37 @@
   "https://scotjobsnet.co.uk/job/company-accountant/": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 6
+   "score": 4
   },
   "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London---Gracechurch-Street/Technical-Trainer---Mortgages---Financial-Planning_R0020042": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/associate-credit-risk-consultant-at-harnham-4488300888": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 14
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-richard-james-recruitment-specialists-ltd-4489449041": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468": {
    "id": "consulting",
    "cv": "Consulting CV",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-ai-researcher-at-alignerr-4489189865": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/graduate-corporate-finance-analyst-at-graphite-partners-4489433772": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 16
+   "score": 14
   },
   "https://www.reed.co.uk/jobs/associate-credit-risk-consultant/57551993": {
    "id": "credit",
@@ -2211,17 +2206,17 @@
   "https://www.s1jobs.com/job/business-services-accountant-127727584": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 9
+   "score": 7
   },
   "https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modeling-Risk-Analyst---Model-Development_JR2604272": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 14
+   "score": 12
   },
   "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 19
+   "score": 17
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Single-Stock-Trader_261009084-1": {
    "id": "other",
@@ -2231,57 +2226,57 @@
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210616021": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 20
+   "score": 18
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808268": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 17
+   "score": 15
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808312": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 20
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-at-gleeson-recruitment-group-4489454826": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 30
+   "score": 28
   },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-at-walker-hamill-4468597583": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 20
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-elevation-recruitment-group-4487467872": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 12
+   "score": 10
   },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-at-william-grant-sons-4480239637": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 19
+   "score": 17
   },
   "https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 20
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 11
+   "score": 9
   },
   "https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200": {
    "id": "other",
@@ -2361,67 +2356,67 @@
   "https://www.s1jobs.com/job/qualified-accountant-127727626": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 9
+   "score": 7
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-sheridan-maine-accounting-audit-tax-recruitment-4487487470": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 13
+   "score": 11
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-the-dune-group-4487487771": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-dpd-uk-4489496621": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 19
+   "score": 17
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-the-university-of-manchester-4488392694": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/leveraged-finance-specialist-at-kennedy-pearce-consulting-4487499010": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 7
+   "score": 5
   },
   "https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112": {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "score": 21
+   "score": 19
   },
   "https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859": {
    "id": "equity",
    "cv": "Equity CV",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 19
+   "score": 17
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-rushlift-gse-4481217005": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 13
+   "score": 11
   },
   "https://www.s1jobs.com/job/financial-controller-127727844": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 6
+   "score": 4
   },
   "https://www.s1jobs.com/job/accountant-xero-127727840": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 6
+   "score": 4
   },
   "https://www.s1jobs.com/job/assistant-accountant-127727854": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 10
+   "score": 8
   },
   "https://www.s1jobs.com/job/treasury-ap-127727833": {
    "id": "finance",
@@ -2431,12 +2426,12 @@
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 10
+   "score": 8
   },
   "https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 16
+   "score": 14
   },
   "https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/": {
    "id": "finance",
@@ -2521,7 +2516,7 @@
   "https://www.linkedin.com/jobs/view/management-accountant-at-sf-partners-4487804567": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 12
+   "score": 10
   },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-jasperrose-4487524025": {
    "id": "finance",
@@ -3551,7 +3546,7 @@
   "https://www.linkedin.com/jobs/view/global-research-credit-research-analyst-retail-consumer-analyst-or-associate-at-jpmorganchase-4456174490": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 19
+   "score": 17
   },
   "https://www.linkedin.com/jobs/view/financial-accountant-at-integrity360-4481691915": {
    "id": "finance",
@@ -3561,7 +3556,7 @@
   "https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-ocs-4491099863": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 21
+   "score": 19
   },
   "https://www.reed.co.uk/jobs/quantitative-analyst/57568736": {
    "id": "other",
@@ -3571,32 +3566,32 @@
   "https://www.linkedin.com/jobs/view/pricing-analyst-loan-portfolio-s-sql-python-%C2%A370-000-at-salt-4489700326": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 20
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 19
+   "score": 17
   },
   "https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 11
+   "score": 9
   },
   "https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.reed.co.uk/jobs/quantitative-research-analyst-pimco/57569658": {
    "id": "equity",
@@ -3611,22 +3606,22 @@
   "https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 14
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 13
+   "score": 11
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 12
+   "score": 10
   },
   "https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002": {
    "id": "investment",
@@ -3646,12 +3641,12 @@
   "https://www.reed.co.uk/jobs/management-accountant/57569259": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 17
+   "score": 15
   },
   "https://www.reed.co.uk/jobs/management-accountant/57568104": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 14
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019": {
    "id": "real_estate",
@@ -4522,6 +4517,171 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 21
+  },
+  "https://job-boards.greenhouse.io/drweng/jobs/8392316": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/M-A-Partner_RQ116396-2": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 17
+  },
+  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-aster-group-uk-4490884603": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-jss-4490889361": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-culina-4492009624": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/analyst-associate-real-estate-debt-at-gic-4481890972": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-octus-4474602560": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-4491797731": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-fixed-income-at-lgps-central-4491831487": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-alexander-chapman-4492041100": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-associate-industrials-coverage-global-bank-at-greenwich-partners-4492014153": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-eden-scott-4490445768": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-%E2%80%93-event-driven-special-sits-at-undisclosed-4491580103": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-corecruitment-ltd-4492002854": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-heap-co-accountancy-finance-recruitment-specialists-4490882748": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-4354-at-wade-macdonald-4490873310": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-palatine-talent-4491823625": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-4492034173": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-verlume-4491564767": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57586989": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/graduate-junior-practice-accountant/57587350": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/assistant-quantity-surveyor-127773738": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127773737": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/regional-financial-controller-127773735": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127773727": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127771457": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/financial-accountant-127770917": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
+  },
+  "https://scotjobsnet.co.uk/job/strategy-analyst/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 18
+  },
+  "https://scotjobsnet.co.uk/job/european-accountant-6-month-ftc/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

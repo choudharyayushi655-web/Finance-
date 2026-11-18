@@ -52,6 +52,11 @@
    "register_name": "AJ Bell Plc",
    "match": "exact"
   },
+  "ALF Recruit": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ASC Connections Ltd": {
    "licensed": false,
    "register_name": null,
@@ -272,6 +277,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Aster Group UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "AstraZeneca": {
    "licensed": true,
    "register_name": "AstraZeneca UK Limited",
@@ -356,6 +366,11 @@
    "licensed": true,
    "register_name": "Bank Of Montreal",
    "match": "alias"
+  },
+  "BNP Paribas": {
+   "licensed": true,
+   "register_name": "BNP Paribas London Branch",
+   "match": "exact"
   },
   "BNY": {
    "licensed": true,
@@ -497,6 +512,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "Brewer Morris": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brit Insurance": {
    "licensed": false,
    "register_name": null,
@@ -588,6 +608,16 @@
    "match": "alias"
   },
   "CMS UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "CONTRACT SCOTLAND LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "COREcruitment Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -743,6 +773,11 @@
    "match": "exact"
   },
   "City Recruitment Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Clarkson Owens Recruitment Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -972,6 +1007,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Eden Scott": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Edgworth Partners": {
    "licensed": false,
    "register_name": null,
@@ -1156,6 +1196,11 @@
    "licensed": true,
    "register_name": "FUNDING CIRCLE LTD",
    "match": "exact"
+  },
+  "GIC": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "GKN Aerospace": {
    "licensed": true,
@@ -1372,6 +1417,16 @@
    "register_name": null,
    "match": "none"
   },
+  "Heap & Co": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Heap & Co - Accountancy & Finance Recruitment Specialists": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Heitman": {
    "licensed": true,
    "register_name": "Heitman Financial UK LLC",
@@ -1548,6 +1603,11 @@
    "match": "alias"
   },
   "JPMorganChase": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "JSS": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2287,6 +2347,11 @@
    "register_name": "Octus Intelligence Limited",
    "match": "alias"
   },
+  "Office Angels Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ohme": {
    "licensed": true,
    "register_name": "Ohme Operations UK Limited",
@@ -2361,6 +2426,11 @@
    "licensed": false,
    "register_name": null,
    "match": "alias not on current register (paddle com market limited)"
+  },
+  "Palatine Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Panmure Liberum": {
    "licensed": true,
@@ -3127,6 +3197,11 @@
    "register_name": "Tide Platform Ltd",
    "match": "alias"
   },
+  "Together": {
+   "licensed": true,
+   "register_name": "Together Group Holdings Limited",
+   "match": "exact"
+  },
   "Tower Research Capital": {
    "licensed": true,
    "register_name": "Tower Research Capital Europe Limited",
@@ -3272,6 +3347,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Verlume": {
+   "licensed": true,
+   "register_name": "Verlume Ltd",
+   "match": "exact"
+  },
   "Vermelo RPO": {
    "licensed": false,
    "register_name": null,
@@ -3336,6 +3416,11 @@
    "licensed": true,
    "register_name": "WPP 2005 Limited",
    "match": "alias"
+  },
+  "Wade Macdonald": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Walker Dendle Financial Recruitment": {
    "licensed": false,

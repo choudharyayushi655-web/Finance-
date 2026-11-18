@@ -1234,4 +1234,38 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071 | Aztec Group | Trainee Fund Accountant | Southampton | posted: 2026-11-17
 
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8392316 | DRW | Equity Index Options Trader | London | posted: 2026-11-18
+- [ ] https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/M-A-Partner_RQ116396-2 | BP | M&A Partner | United Kingdom - Sunbury | posted: 2026-11-18
+- [ ] https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174 | Sainsbury's | Finance Analyst - Supplier Planning (12M FTC) | London, London, United Kingdom | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-aster-group-uk-4490884603 | Aster Group UK | Financial Planning & Analysis Analyst | Dorset, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jss-4490889361 | JSS | Financial Analyst | Central Bedfordshire, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-culina-4492009624 | Culina | Financial Analyst | Warrington, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-associate-real-estate-debt-at-gic-4481890972 | GIC | Analyst/Associate, Real Estate Debt | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-octus-4474602560 | Octus | Credit Analyst | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-4491797731 | BNP Paribas | Corporate Risk Analyst | Solihull, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-fixed-income-at-lgps-central-4491831487 | LGPS Central | Investment Analyst - Fixed Income | Wolverhampton, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-alexander-chapman-4492041100 | Alexander Chapman | Investment Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-industrials-coverage-global-bank-at-greenwich-partners-4492014153 | Greenwich Partners | Equity Research Associate, Industrials coverage, Global Bank | Greater London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-eden-scott-4490445768 | Eden Scott | Corporate Finance Specialist | Edinburgh, Scotland, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-%E2%80%93-event-driven-special-sits-at-undisclosed-4491580103 | Undisclosed | Investment Analyst – Event-Driven / Special Sits | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635 | PER | Fund Accountant, Leading Private Credit Investor, London, UK | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-corecruitment-ltd-4492002854 | COREcruitment Ltd | Management Accountant | Watford, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-heap-co-accountancy-finance-recruitment-specialists-4490882748 | Heap & Co - Accountancy & Finance Recruitment Specialists | Management Accountant | Royston, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-4354-at-wade-macdonald-4490873310 | Wade Macdonald | Management Accountant (4354) | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-palatine-talent-4491823625 | Palatine Talent | Management Accountant | Wilmslow, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790 | ALF Recruit | Management Accountant | Rochdale, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-4492034173 | Together | Debt Capital Markets Analyst | Cheadle, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737 | Brewer Morris | Front Office Treasury Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-verlume-4491564767 | Verlume | Assistant Accountant | Inverurie, Scotland, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57586989 | Heap & Co | Management Accountant | Royston, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/graduate-junior-practice-accountant/57587350 | Mitchell Adam | Graduate / Junior Practice Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127773738 | Clarkson Owens Recruitment Limited | Assistant Quantity Surveyor | South Lanarkshire, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127773737 | Clarkson Owens Recruitment Limited | Graduate Quantity Surveyor Assistant Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/regional-financial-controller-127773735 | Office Angels Limited | Regional Financial Controller | West Lothian, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127773727 | CONTRACT SCOTLAND LIMITED | Quantity Surveyor | Highland, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127771457 | S1Jobs | Finance Analyst 12 Month Fixed Term Contract | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-accountant-127770917 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/strategy-analyst/ | via ScotJobsNet | Strategy Analyst | Ayrshire, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/european-accountant-6-month-ftc/ | via ScotJobsNet | European Accountant – 6 Month FTC | Scotland, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
+
 ## Processed
