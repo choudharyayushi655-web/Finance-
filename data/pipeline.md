@@ -1331,5 +1331,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/finance-transformation-partner/ | via ScotJobsNet | Finance Transformation Partner | Stirlingshire Stirling Falkirk Job, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/finance-business-partner-sga-and-tech-ftc-12-months/ | via ScotJobsNet | Finance Business Partner – Sg&A And Tech (Ftc 12 Months) | Glasgow, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/risk-analyst-operations/ | via ScotJobsNet | Risk Analyst, Operations | Midlothian, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355 | Greenwich Partners | Equity Research Associate, Internet Coverage, Global | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-partner-level-at-spectacled-bear-ai-4492430144 | Spectacled Bear AI | Equity Research Analyst - Partner level | England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-and-investment-banking-treasury-analyst-mena-at-jpmorganchase-4492419368 | JPMorganChase | Commercial and Investment Banking - Treasury analyst (MENA) | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-alexander-daniels-finance-recruitment-4492432414 | Alexander Daniels Finance Recruitment | Assistant Management Accountant | Willenhall, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
