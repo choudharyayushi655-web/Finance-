@@ -167,6 +167,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Allianz Commercial": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Allianz UK": {
    "licensed": true,
    "register_name": "Allianz Insurance plc",
@@ -251,6 +256,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Aries Global": {
+   "licensed": true,
+   "register_name": "ARIES GLOBAL SOFTWARE HOLDING LIMITED",
+   "match": "prefix"
   },
   "Arm": {
    "licensed": true,
@@ -400,6 +410,11 @@
   "BT Group": {
    "licensed": true,
    "register_name": "BT Group",
+   "match": "exact"
+  },
+  "Babcock International Group": {
+   "licensed": true,
+   "register_name": "Babcock International Limited",
    "match": "exact"
   },
   "Baillie Gifford": {
@@ -977,6 +992,11 @@
    "register_name": "Diageo plc",
    "match": "alias"
   },
+  "Dignity Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Dimensional Fund Advisors": {
    "licensed": true,
    "register_name": "Dimensional Fund Advisors Ltd",
@@ -1127,6 +1147,11 @@
    "register_name": "Fauna & Flora International",
    "match": "exact"
   },
+  "Fera Science Ltd.": {
+   "licensed": true,
+   "register_name": "Fera Science Ltd",
+   "match": "exact"
+  },
   "Fidelity International": {
    "licensed": true,
    "register_name": "FIL Investment Management Limited",
@@ -1232,6 +1257,11 @@
    "register_name": "FUNDING CIRCLE LTD",
    "match": "exact"
   },
+  "Futures": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "GIC": {
    "licensed": false,
    "register_name": null,
@@ -1323,6 +1353,11 @@
    "match": "alias"
   },
   "Graphite Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Great Places Housing Association": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1483,6 +1518,11 @@
    "match": "none"
   },
   "High Finance (UK) Limited T/A HFG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Higher Capital Consulting": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1917,6 +1957,11 @@
    "register_name": "LucaNet (UK) Limited",
    "match": "exact"
   },
+  "Lucy Developments": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "M&G": {
    "licensed": true,
    "register_name": "M & G PlC",
@@ -2031,6 +2076,11 @@
    "licensed": true,
    "register_name": "Marsh & Partners Ltd",
    "match": "alias"
+  },
+  "Marshall & Machado Recruitment Services Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Marshmallow": {
    "licensed": true,
@@ -2302,6 +2352,11 @@
    "register_name": null,
    "match": "none"
   },
+  "News UK": {
+   "licensed": true,
+   "register_name": "GB News Limited",
+   "match": "exact"
+  },
   "Next": {
    "licensed": true,
    "register_name": "Next Retail Ltd",
@@ -2453,6 +2508,11 @@
    "match": "none"
   },
   "PGS LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "PHMG": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2917,15 +2977,30 @@
    "register_name": null,
    "match": "none"
   },
+  "Sanctuary Graduates & Apprentices": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Santander": {
    "licensed": true,
    "register_name": "Santander UK PLC",
    "match": "alias"
   },
+  "Sapiens": {
+   "licensed": true,
+   "register_name": "Sapiens (UK) Limited",
+   "match": "exact"
+  },
   "Satispay": {
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Scania (Great Britain) Limited": {
+   "licensed": true,
+   "register_name": "Scania (Great Britain) Limited",
+   "match": "exact"
   },
   "Schroders": {
    "licensed": true,
@@ -3041,6 +3116,11 @@
    "licensed": true,
    "register_name": "Sopra Steria Limited",
    "match": "exact"
+  },
+  "South West Water": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Sowena Group": {
    "licensed": false,
@@ -3661,6 +3741,11 @@
    "licensed": true,
    "register_name": "eFinancialCareers Ltd",
    "match": "exact"
+  },
+  "hireful.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "iCapital": {
    "licensed": true,

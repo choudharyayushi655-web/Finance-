@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 739 firms checked, 403 matched, 336 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 756 firms checked, 409 matched, 347 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (336)
+## Not found (347)
 
 - 93 MGMT
 - AAA Global
@@ -26,6 +26,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
 - Alignerr
+- Allianz Commercial
 - Altum Consulting
 - Anderson Knight
 - Apollo Global Management, Inc.
@@ -100,6 +101,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Datalink Recruitment
 - Deutsche Asset Management
 - Deutsche Bank
+- Dignity Group
 - Distinct Recruitment
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
@@ -121,6 +123,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Foodbuy Group
 - Forge Talent
 - Frontier Agriculture
+- Futures
 - GIC
 - GP Fund Solutions
 - GSR Markets
@@ -130,6 +133,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Gleeson Recruitment Group
 - Global Accounting Network
 - Graphite Partners
+- Great Places Housing Association
 - Greencore
 - Greenhill
 - Greenwich Partners
@@ -151,6 +155,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Heap & Co - Accountancy & Finance Recruitment Specialists
 - HelloFresh
 - High Finance (UK) Limited T/A HFG
+- Higher Capital Consulting
 - HireForce
 - Hometree
 - Hoop Recruitment
@@ -190,6 +195,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lord Accounting & Finance
 - Lorien
 - Lottie
+- Lucy Developments
 - MDM Resourcing
 - MFS Investment Management
 - MacGregor Black
@@ -200,6 +206,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Market Harborough Building Society
 - Marks Sattin
 - Marlin Selection Recruitment
+- Marshall & Machado Recruitment Services Ltd
 - Martis Search
 - Matched Group
 - McGinnis Loy Associates Ltd
@@ -236,6 +243,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PARALLEL RECRUITMENT LTD
 - PER
 - PGS LTD
+- PHMG
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
 - Palatine Talent
@@ -273,6 +281,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - STONEMONT PARTNERS LIMITED
 - STORMX RECRUITMENT LIMITED
 - Samworth Brothers
+- Sanctuary Graduates & Apprentices
 - Satispay
 - Scottish public sector
 - Scout Global
@@ -284,6 +293,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
+- South West Water
 - Sowena Group
 - Spectacled Bear AI
 - Standard Life plc
@@ -338,15 +348,17 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Zego
 - abrdn
 - deverellsmith
+- hireful.
 - ivee
 - targetjobs UK
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (47)
+## Matched automatically by close name; worth a glance (48)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
+- Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
