@@ -1309,4 +1309,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-quanex-4492257080 | Quanex | Management Accountant | Wolverhampton, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/interim-finance-business-partner/ | via ScotJobsNet | Interim Finance Business Partner | Midlothian, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
 
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Securities-Lending-Trader--Specialist_183958-2 | Vanguard | Securities Lending Trader, Specialist | London, United Kingdom | posted: 2026-11-19
+- [ ] https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/Bermuda/Portfolio-Analyst--HCP-Investment-Team-_R0020554 | Hiscox | Portfolio Analyst (HCP Investment Team) | Bermuda · London - 22 Bishopsgate | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-acca-careers-4492411897 | ACCA Careers | FP&A Analyst | Leicester, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-murphy-4492422425 | Murphy | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-boots-uk-4492411933 | Boots UK | Finance Analyst | Nottingham, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-associate-at-quantum-search-group-4492133811 | Quantum Search Group | Corporate Credit Associate | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-online-gaming-tier-one-investment-bank-at-greenwich-partners-4492403912 | Greenwich Partners | Equity Research Analyst, OnLine Gaming, Tier One Investment Bank | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-associate-gp-stakes-fund-launches-at-edgworth-partners-4492047212 | Edgworth Partners | Investment Analyst / Associate - GP Stakes & Fund Launches | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-at-hfg-insurance-recruitment-4492131977 | HFG Insurance Recruitment | M&A Analyst | City Of London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390 | Goodman Masson | Commercial Finance Analyst | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405 | Finatal | Fund Accountant | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-equities-financial-reporting-analysis-control-associate-at-jpmorganchase-4372709633 | JPMorganChase | Global Equities - Financial Reporting, Analysis & Control - Associate | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/capital-investment-accountant-at-ivy-rock-partners-4492023368 | Ivy Rock Partners | Capital & Investment Accountant | Enfield, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-welsh-desirable-at-acca-careers-4492149548 | ACCA Careers | Management Accountant - Welsh Desirable | Cardiff, Wales, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561 | Burman Recruitment | Management Accountant | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57591514 | CMC Consulting Limited | Commercial Finance Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57591276 | Robert Walters | Commercial Finance Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/m-a-analyst/57591863 | High Finance (UK) Limited T/A HFG | M&A Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/application-configuration-specialist-efront-private-markets/57591822 | Hays Specialist Recruitment Limited | Application Configuration Specialist (eFront/Private Markets) | Southampton, Hampshire | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/finance-transformation-partner/ | via ScotJobsNet | Finance Transformation Partner | Stirlingshire Stirling Falkirk Job, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/finance-business-partner-sga-and-tech-ftc-12-months/ | via ScotJobsNet | Finance Business Partner – Sg&A And Tech (Ftc 12 Months) | Glasgow, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/risk-analyst-operations/ | via ScotJobsNet | Risk Analyst, Operations | Midlothian, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+
 ## Processed

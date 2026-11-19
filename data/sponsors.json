@@ -27,6 +27,11 @@
    "register_name": null,
    "match": "none"
   },
+  "ACCA Careers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ACL Partners": {
    "licensed": false,
    "register_name": null,
@@ -507,6 +512,11 @@
    "register_name": "BlueCrest Capital Management (UK) LLP",
    "match": "prefix"
   },
+  "Boots UK": {
+   "licensed": true,
+   "register_name": "The Boots Group Services Limited",
+   "match": "exact"
+  },
   "Boston Consulting Group": {
    "licensed": true,
    "register_name": "The Boston Consulting Group UK LLP",
@@ -577,6 +587,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Burman Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CAMMACH BRYANT LIMITED": {
    "licensed": false,
    "register_name": null,
@@ -598,6 +613,11 @@
    "match": "none"
   },
   "CLARC Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "CMC Consulting Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1342,6 +1362,11 @@
    "register_name": null,
    "match": "none"
   },
+  "HFG Insurance Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "HSBC Innovation Banking": {
    "licensed": false,
    "register_name": null,
@@ -1606,6 +1631,11 @@
    "licensed": true,
    "register_name": "Investigo Limited",
    "match": "exact"
+  },
+  "Ivy Rock Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "JAC Recruitment": {
    "licensed": true,
@@ -2646,6 +2676,11 @@
    "licensed": true,
    "register_name": "Quantum Services Management Ltd",
    "match": "prefix"
+  },
+  "Quantum Search Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Qube Research & Technologies": {
    "licensed": true,
