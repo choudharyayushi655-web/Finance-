@@ -1371,5 +1371,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634 | eFinancialCareers | Graduate Finance Assistant | Oxford, Oxfordshire | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-civils-127778372 | Peace Recruitment | Quantity Surveyor Civils | Glasgow Area, Scotland | posted: 2026-11-19 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127778373 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/fund-cfo-associate-private-equity-at-deutsche-asset-management-4470176874 | Deutsche Asset Management | Fund CFO Associate - Private Equity | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/alternatives-fund-accounting-associate-at-blackrock-4492463005 | BlackRock | Alternatives Fund Accounting, Associate | Edinburgh, Scotland, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
