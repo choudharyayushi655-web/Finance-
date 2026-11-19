@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:58:30.107Z",
+ "generated_at": "2026-11-19T03:40:40.930Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 85,
+   "matching": 84,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -74,11 +74,11 @@
     },
     {
      "title": "Credit Risk Analyst",
-     "company": "Brook Green Supply",
-     "location": "London Area, United Kingdom",
+     "company": "Premier Foods",
+     "location": "Manchester, England, United Kingdom",
      "posted": "2026-11-13",
-     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817",
-     "score": 24,
+     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-premier-foods-4472770244",
+     "score": 23,
      "why": [
       "Credit Risk",
       "Risk Analyst"
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 73,
+   "matching": 72,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -2979,11 +2979,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 24
-  },
   "https://www.linkedin.com/jobs/view/commercial-planning-forecasting-accountant-at-hargreaves-land-4489283547": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3083,11 +3078,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 24
   },
   "https://www.linkedin.com/jobs/view/payments-risk-analyst-at-lightspeed-commerce-4480043713": {
    "id": "credit",
