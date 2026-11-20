@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 769 firms checked, 414 matched, 355 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 780 firms checked, 419 matched, 361 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (355)
+## Not found (361)
 
 - 93 MGMT
 - AAA Global
@@ -13,6 +13,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - AD Finance
 - AEJ Consulting Ltd
 - ALF Recruit
+- AMS Public Sector Resourcing
 - ASC Connections Ltd
 - ASDA
 - Abound
@@ -142,6 +143,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HB Partners Limited
 - HFG Insurance Recruitment
 - HSBC Innovation Banking
+- Haas F1 Team
 - Halliday Marx
 - Handpicked Recruitment
 - Handpicked Recruitment Limited
@@ -162,6 +164,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HireIQ
 - Hometree
 - Hoop Recruitment
+- Howden, A Chart Industries Company
 - IAG Transform
 - IMC Trading
 - IVC Evidensia
@@ -210,6 +213,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - ManpowerGroup Talent Solutions
 - Market Harborough Building Society
 - Marks Sattin
+- Marktlink
 - Marlin Selection Recruitment
 - Marshall & Machado Recruitment Services Ltd
 - Martis Search
@@ -259,11 +263,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
 - Puma Capital Group
+- Pure Resourcing Solutions
 - Pure Search
 - Qh4 Consulting
 - Quanex
 - Quantum Search Group
 - RG Consultancy Ltd
+- Ramsey Portia
 - Randstad Finance
 - Reckitt
 - Reed

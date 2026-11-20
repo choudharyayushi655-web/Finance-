@@ -62,6 +62,11 @@
    "register_name": null,
    "match": "none"
   },
+  "AMS Public Sector Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ASC Connections Ltd": {
    "licensed": false,
    "register_name": null,
@@ -476,6 +481,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Benchmark International": {
+   "licensed": true,
+   "register_name": "Benchmark Group Limited",
+   "match": "exact"
   },
   "Berenberg": {
    "licensed": true,
@@ -1047,6 +1057,11 @@
    "register_name": "Dyer Baade & Company Limited",
    "match": "exact"
   },
+  "E.L.F. BEAUTY": {
+   "licensed": true,
+   "register_name": "e.l.f. Beauty UK Limited",
+   "match": "exact"
+  },
   "EFG Private Banking": {
    "licensed": false,
    "register_name": null,
@@ -1141,6 +1156,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Evergreen Garden Care": {
+   "licensed": true,
+   "register_name": "Evergreen Garden Care (UK) Ltd",
+   "match": "exact"
   },
   "Executive Talent Solutions": {
    "licensed": false,
@@ -1417,12 +1437,22 @@
    "register_name": null,
    "match": "none"
   },
+  "HDI Global SE": {
+   "licensed": true,
+   "register_name": "HDI GLOBAL SE - UK BRANCH",
+   "match": "exact"
+  },
   "HFG Insurance Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
   },
   "HSBC Innovation Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Haas F1 Team": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1591,6 +1621,11 @@
    "licensed": true,
    "register_name": "Howden Group Holdings Limited",
    "match": "alias"
+  },
+  "Howden, A Chart Industries Company": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Hunter Bond": {
    "licensed": true,
@@ -2103,6 +2138,11 @@
    "match": "alias"
   },
   "Marks Sattin": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Marktlink": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2742,6 +2782,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Pure Resourcing Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Pure Search": {
    "licensed": false,
    "register_name": null,
@@ -2811,6 +2856,11 @@
    "licensed": true,
    "register_name": "Radius Systems Limited",
    "match": "prefix"
+  },
+  "Ramsey Portia": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Randstad": {
    "licensed": true,
@@ -3146,6 +3196,11 @@
    "licensed": true,
    "register_name": "Smarkets Limited",
    "match": "alias"
+  },
+  "SmartestEnergy": {
+   "licensed": true,
+   "register_name": "SmartestEnergy Limited",
+   "match": "exact"
   },
   "SmartestEnergy UK": {
    "licensed": true,

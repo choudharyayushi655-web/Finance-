@@ -1401,4 +1401,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/transfer-pricing-analyst/57594265 | Robert Half | Transfer Pricing Analyst | Stevenage, Hertfordshire | posted: 2026-11-19 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57583774 | TMR Group Ltd | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
 
+- [ ] https://job-boards.eu.greenhouse.io/eqtpartners/jobs/5042646101 | EQT | Credit Associate | London Park House | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-e-l-f-beauty-4466533411 | E.L.F. BEAUTY | Analyst, Financial Planning & Analysis | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-hdi-global-se-4491921583 | HDI Global SE | Financial Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-we-do-group-4492919522 | We Do Group | Financial Analyst | Surrey, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-private-credit-london-at-selby-jennings-4492919498 | Selby Jennings | Analyst | Private Credit | London | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-reporting-analyst-at-jpmorganchase-4492906543 | JPMorganChase | Wholesale Credit Risk Reporting - Analyst | Bournemouth, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/product-control-analyst-at-smartestenergy-4492915975 | SmartestEnergy | Product Control Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-risk-analyst-%E2%80%93-power-gas-at-summit-energy-europe-4491902976 | Summit Energy Europe | Quantitative Risk Analyst -– Power & Gas | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-gp-and-lp-led-global-private-equity-secondaries-fund-at-greenwich-partners-4492904692 | Greenwich Partners | Investment Analyst - GP and LP led Global Private Equity Secondaries Fund | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-european-leisure-companies-at-greenwich-partners-4492912581 | Greenwich Partners | Equity Research Analyst, European Leisure Companies | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-at-marktlink-4492918810 | Marktlink | M&A Analyst | Manchester, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-%E2%80%93-transactions-at-benchmark-international-4492921491 | Benchmark International | M&A Analyst – Transactions | Oxford, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-gen-ii-fund-services-4492910899 | Gen II Fund Services | Fund Accountant | Whiteley, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475 | Ramsey Portia | Fund Accounting Product Change Specialist | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-operations-at-evergreen-garden-care-4492459069 | Evergreen Garden Care | Management Accountant - Operations | Doncaster, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-howden-a-chart-industries-company-4483412862 | Howden, A Chart Industries Company | Management Accountant | Renfrew, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-haas-f1-team-4492566897 | Haas F1 Team | Junior Finance Business Partner | Banbury, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/investment-associate/57596246 | AMS Public Sector Resourcing (PSR) | Investment Associate | Aberdeen, Aberdeenshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57596416 | Pure Resourcing Solutions | Management Accountant | Chelmsford, Essex | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/logistics-finance-business-partner/ | via ScotJobsNet | Logistics Finance Business Partner | Glasgow, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/risk-analyst-private-markets/ | via ScotJobsNet | Risk Analyst, Private Markets | Midlothian, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/costing-accountant-west-lothian-50k-75k/ | via ScotJobsNet | Costing Accountant West Lothian &50k – &75k | Scotland, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
+
 ## Processed
