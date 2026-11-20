@@ -1373,5 +1373,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127778373 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.linkedin.com/jobs/view/fund-cfo-associate-private-equity-at-deutsche-asset-management-4470176874 | Deutsche Asset Management | Fund CFO Associate - Private Equity | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/alternatives-fund-accounting-associate-at-blackrock-4492463005 | BlackRock | Alternatives Fund Accounting, Associate | Edinburgh, Scotland, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-tiptopjob-4492754676 | TipTopJob | Financial Planning and Analysis Analyst | Ferndown, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-research-analyst-at-efg-private-banking-4492747249 | EFG Private Banking | Credit Research Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/model-risk-analyst-divisional-at-pacific-life-re-4492529361 | Pacific Life Re | Model Risk Analyst, Divisional | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-financial-analyst-i-ii-uk-serbia-at-worldwide-clinical-trials-4484149684 | Worldwide Clinical Trials | Project Financial Analyst I/II (UK/Serbia) | England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/change-ba-market-risk-ccr-frtb-python-crisil/57590182 | eFinancialCareers | Change BA - Market Risk / CCR FRTB, Python - CRISIL | London | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/systematic-credit-trader-citi/57593624 | eFinancialCareers | Systematic Credit Trader - Citi | London | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025 | eFinancialCareers | Valuations Associate - Universities Superannuation Scheme Limited | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/restructuring-analyst-to-associate-investment-bank/57590178 | eFinancialCareers | Restructuring Analyst to Associate Investment bank | London | posted: 2026-11-19 | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/uk-statutory-reporting-accountant-5/ | via ScotJobsNet | UK Statutory Reporting Accountant | Aberdeenshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/part-qualified-accountant-2/ | via ScotJobsNet | Part Qualified Accountant | Midlothian, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/group-accountant-2/ | via ScotJobsNet | Group Accountant | Lanarkshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/accountant-part-qualified/ | via ScotJobsNet | Accountant Part Qualified | Lanarkshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
 
 ## Processed

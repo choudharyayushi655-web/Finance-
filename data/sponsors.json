@@ -1032,6 +1032,11 @@
    "register_name": "Dyer Baade & Company Limited",
    "match": "exact"
   },
+  "EFG Private Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "EQT": {
    "licensed": true,
    "register_name": "EQT Partners Limited",
@@ -2537,6 +2542,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Pacific Life Re": {
+   "licensed": true,
+   "register_name": "Pacific Life Re Services Limited",
+   "match": "exact"
+  },
   "Paddle": {
    "licensed": false,
    "register_name": null,
@@ -3377,6 +3387,11 @@
    "register_name": "Tide Platform Ltd",
    "match": "alias"
   },
+  "TipTopJob": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Together": {
    "licensed": true,
    "register_name": "Together Group Holdings Limited",
@@ -3686,6 +3701,11 @@
    "licensed": true,
    "register_name": "WorldPay (UK) Ltd",
    "match": "alias"
+  },
+  "Worldwide Clinical Trials": {
+   "licensed": true,
+   "register_name": "WorldWide Clinical Trials",
+   "match": "exact"
   },
   "XPS Group": {
    "licensed": false,
