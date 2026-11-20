@@ -752,6 +752,11 @@
    "register_name": "Capital Com (UK) Limited T/A Capital.Com",
    "match": "trading name"
   },
+  "Caravel": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Card Factory": {
    "licensed": false,
    "register_name": null,
@@ -1303,6 +1308,11 @@
    "match": "alias"
   },
   "Frontier Agriculture": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "FryerMiles": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2967,6 +2977,11 @@
    "register_name": "Robert Walters PLC",
    "match": "exact"
   },
+  "Roberts Bakery 1887": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Robertson Bell": {
    "licensed": false,
    "register_name": null,
@@ -3707,6 +3722,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Vertu Motors plc": {
+   "licensed": true,
+   "register_name": "Vertu Motors plc",
+   "match": "exact"
+  },
   "Virgin Media O2": {
    "licensed": true,
    "register_name": "Virgin Media Limited",
@@ -3921,6 +3941,11 @@
    "licensed": true,
    "register_name": "iCapital UK International Limited",
    "match": "alias"
+  },
+  "iMultiply": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "itsu": {
    "licensed": true,

@@ -1444,5 +1444,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-analyst/57597959 | Cobb & Jones Recruitment Limited | Finance Analyst | Gillingham, Kent, Kent | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant-grants/57598235 | Hays Specialist Recruitment Limited | Management Accountant - Grants | Harpenden, Hertfordshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57598288 | Reed | Assistant Accountant | Oxford, Oxfordshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-giacom-4492802795 | Giacom | Commercial Finance Analyst | Nelson, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-m-a-skillset-wanted-for-real-estate-pe-fund-at-caravel-4491945947 | Caravel | Investment Analyst - M&A skillset wanted for Real Estate PE fund | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-at-octavius-finance-4492807013 | Octavius Finance | Equity Research Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-imultiply-4483435628 | iMultiply | Management Accountant | Larbert, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-junior-financial-controller-at-cooper-parry-finance-recruitment-4492950018 | Cooper Parry Finance Recruitment | Management Accountant / Junior Financial Controller | Nottingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-roberts-bakery-1887-4492806751 | Roberts Bakery 1887 | Assistant Management Accountant | Rudheath, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-vertu-motors-plc-4492819352 | Vertu Motors plc | Management Accountant | Banbury, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst-12m-ftc/57598538 | Axon Moore Group Ltd | Commercial Finance Analyst - 12m FTC | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57586637 | FryerMiles | Management Accountant | Theale, Reading, Berkshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/revenue-accountant-127783406 | CAMMACH BRYANT LIMITED | Revenue Accountant | Aberdeen Area, Scotland | posted: 2026-11-20 | note: via S1Jobs
 
 ## Processed
