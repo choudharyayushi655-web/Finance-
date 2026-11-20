@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:05:28.777Z",
+ "generated_at": "2026-11-20T18:59:02.068Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 192,
+   "matching": 193,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -40,11 +40,11 @@
      "sponsor": true
     },
     {
-     "title": "Commercial Finance Analyst",
-     "company": "Tandem Bank",
-     "location": "Cardiff, United Kingdom",
-     "posted": "2026-11-18",
-     "url": "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002",
+     "title": "Commercial Finance Analyst - Southampton",
+     "company": "Giacom",
+     "location": "Southampton, England, United Kingdom",
+     "posted": "2026-11-20",
+     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492813489",
      "score": 31,
      "why": [
       "Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 91,
+   "matching": 94,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 49,
+   "matching": 50,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 75,
+   "matching": 76,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -187,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 27,
+   "matching": 28,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -1803,11 +1803,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-advocate-group-4487911489": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-cobalt-recruitment-4487139838": {
    "id": "fund",
@@ -4774,11 +4769,6 @@
    "cv": "Credit CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-online-gaming-tier-one-investment-bank-at-greenwich-partners-4492403912": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 29
-  },
   "https://www.linkedin.com/jobs/view/investment-analyst-associate-gp-stakes-fund-launches-at-edgworth-partners-4492047212": {
    "id": "equity",
    "cv": "Equity CV",
@@ -5270,6 +5260,106 @@
    "score": 12
   },
   "https://scotjobsnet.co.uk/job/costing-accountant-west-lothian-50k-75k/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://jobs.smartrecruiters.com/shawbrook/744000162784683-analyst-credit-distribution": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492813489": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 31
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-in2-consult-4491921812": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-underwriter-at-portman-finance-group-4492806026": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/operational-risk-analyst-at-simmons-simmons-4492808499": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/fraud-risk-analyst-at-zeller-4477423051": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-or-associate-at-m-g-4491948041": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/experienced-analysts-investment-banking-at-financial-technology-partners-ft-partners-4457289463": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/m-a-finance-analyst-at-arcadis-4491942338": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/emea-fp-a-analyst-at-f5-4477408814": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fund-controller-private-credit-hybrid-working-at-marks-sattin-4492812502": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-targetjobs-uk-4492802140": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/graduate-commercial-analyst-at-bioticnrg-4491919905": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-at-balfour-beatty-plc-4491954388": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/financial-advisory-graduate-programme-at-targetjobs-uk-4492802186": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/commercial-finance-analyst/57598009": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 24
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57598233": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst/57597959": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/management-accountant-grants/57598235": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/assistant-accountant/57598288": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8

@@ -1424,4 +1424,25 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/risk-analyst-private-markets/ | via ScotJobsNet | Risk Analyst, Private Markets | Midlothian, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/costing-accountant-west-lothian-50k-75k/ | via ScotJobsNet | Costing Accountant West Lothian &50k – &75k | Scotland, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
 
+- [ ] https://jobs.smartrecruiters.com/shawbrook/744000162784683-analyst-credit-distribution | Shawbrook | Analyst, Credit Distribution | London, England, United Kingdom
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492813489 | Giacom | Commercial Finance Analyst - Southampton | Southampton, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-in2-consult-4491921812 | IN2 Consult | Financial Planning Analyst | Southampton, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-underwriter-at-portman-finance-group-4492806026 | Portman Finance Group | Credit Underwriter | Northampton, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operational-risk-analyst-at-simmons-simmons-4492808499 | Simmons & Simmons | Operational Risk Analyst | Bristol, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fraud-risk-analyst-at-zeller-4477423051 | Zeller | Fraud Risk Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-or-associate-at-m-g-4491948041 | M&G | Investment Analyst or Associate | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-analysts-investment-banking-at-financial-technology-partners-ft-partners-4457289463 | Financial Technology Partners / FT Partners | Experienced Analysts, Investment Banking | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-finance-analyst-at-arcadis-4491942338 | Arcadis | M&A Finance Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emea-fp-a-analyst-at-f5-4477408814 | F5 | EMEA FP&A Analyst | Addlestone, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-credit-hybrid-working-at-marks-sattin-4492812502 | Marks Sattin | Fund Controller - Private Credit (Hybrid Working) | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-targetjobs-uk-4492802140 | targetjobs UK | VodafoneThree Graduate Finance Programme - Core Finance | Newbury, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-commercial-analyst-at-bioticnrg-4491919905 | BioticNRG | Graduate Commercial Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-at-balfour-beatty-plc-4491954388 | Balfour Beatty plc | Graduate - Finance | Birmingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-advisory-graduate-programme-at-targetjobs-uk-4492802186 | targetjobs UK | Financial Advisory Graduate Programme | Leeds, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57598009 | Hays Specialist Recruitment Limited | Commercial Finance Analyst | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57598233 | The Niche Partnership | Finance Business Partner | Overton, Basingstoke, Hampshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57597959 | Cobb & Jones Recruitment Limited | Finance Analyst | Gillingham, Kent, Kent | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant-grants/57598235 | Hays Specialist Recruitment Limited | Management Accountant - Grants | Harpenden, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57598288 | Reed | Assistant Accountant | Oxford, Oxfordshire | note: via Reed
+
 ## Processed

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 780 firms checked, 419 matched, 361 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 790 firms checked, 422 matched, 368 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (361)
+## Not found (368)
 
 - 93 MGMT
 - AAA Global
@@ -50,6 +50,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
+- BioticNRG
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
@@ -87,6 +88,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - ClearScore
 - Client Server
 - Cobalt Recruitment
+- Cobb & Jones Recruitment Limited
 - Coinbase
 - Connect Recruitment Consultants Ltd.
 - Conrad Consulting
@@ -118,8 +120,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ernest Gordon Recruitment Limited
 - Everet Marsh
 - Executive Talent Solutions
+- F5
 - FT Recruitment Group
 - Financial Divisions
+- Financial Technology Partners / FT Partners
 - Finatal
 - Fletcher George Recruitment Ltd
 - Flex
@@ -167,6 +171,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Howden, A Chart Industries Company
 - IAG Transform
 - IMC Trading
+- IN2 Consult
 - IVC Evidensia
 - In2 Consult
 - Insight Recruitment Solutions Limited
@@ -262,6 +267,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Peace Recruitment
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
+- Portman Finance Group
 - Puma Capital Group
 - Pure Resourcing Solutions
 - Pure Search
@@ -322,6 +328,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Talent Guardian
 - Talentedge
 - Talk Staff
+- The Niche Partnership
 - The Scottish National Investment Bank
 - ThinkMarkets
 - Thrive Childcare and Education
@@ -368,11 +375,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (48)
+## Matched automatically by close name; worth a glance (49)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
 - Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)
+- Balfour Beatty plc → Balfour Beatty Group Employment Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
