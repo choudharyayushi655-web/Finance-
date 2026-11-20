@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:50:37.919Z",
+ "generated_at": "2026-11-20T03:31:29.644Z",
  "order": [
   "finance",
   "credit",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 48,
+   "matching": 49,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -5118,6 +5118,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }

@@ -1386,4 +1386,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/group-accountant-2/ | via ScotJobsNet | Group Accountant | Lanarkshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/accountant-part-qualified/ | via ScotJobsNet | Accountant Part Qualified | Lanarkshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1 | Citi | Front Office Quantitative Analyst - Equity Derivatives | London United Kingdom | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576 | TRP Recruitment ltd | Management Accountant - Fashion company | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+
 ## Processed

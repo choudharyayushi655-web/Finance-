@@ -3272,6 +3272,11 @@
    "register_name": "TPG EUROPE, LLP",
    "match": "exact"
   },
+  "TRP Recruitment ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TUI": {
    "licensed": false,
    "register_name": null,

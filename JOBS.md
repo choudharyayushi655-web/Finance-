@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 20 Nov, 02:50** (UK time) · **974 open roles** at 510 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 03:31** (UK time) · **976 open roles** at 511 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,39 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 20 Nov, 02:47** · hourly scan · checked 201 boards · **12 new roles**
+**Fri 20 Nov, 03:27** · hourly scan · checked 201 boards · **2 new roles**
 
-### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Project Financial Analyst I/II (UK/Serbia)](https://www.linkedin.com/jobs/view/project-financial-analyst-i-ii-uk-serbia-at-worldwide-clinical-trials-4484149684) | Worldwide Clinical Trials | England, United Kingdom | ✅ |
-| 2026-11-20 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-tiptopjob-4492754676) | TipTopJob | Ferndown, England, United Kingdom | ❔ |
-| 2026-11-19 | [UK Statutory Reporting Accountant](https://scotjobsnet.co.uk/job/uk-statutory-reporting-accountant-5/) | via ScotJobsNet | Aberdeenshire, Scotland | ❔ |
-| 2026-11-19 | [Part Qualified Accountant](https://scotjobsnet.co.uk/job/part-qualified-accountant-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
-| 2026-11-19 | [Group Accountant](https://scotjobsnet.co.uk/job/group-accountant-2/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
-| 2026-11-19 | [Accountant Part Qualified](https://scotjobsnet.co.uk/job/accountant-part-qualified/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
-
-### Credit CV: 4
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-20 | [Model Risk Analyst, Divisional](https://www.linkedin.com/jobs/view/model-risk-analyst-divisional-at-pacific-life-re-4492529361) | Pacific Life Re | London, England, United Kingdom | ✅ |
-| 2026-11-20 | [Credit Research Analyst](https://www.linkedin.com/jobs/view/credit-research-analyst-at-efg-private-banking-4492747249) | EFG Private Banking | London, England, United Kingdom | ❔ |
-| 2026-11-19 | [Change BA - Market Risk / CCR FRTB, Python - CRISIL](https://www.reed.co.uk/jobs/change-ba-market-risk-ccr-frtb-python-crisil/57590182) | eFinancialCareers | London | ✅ |
-| 2026-11-19 | [Systematic Credit Trader - Citi](https://www.reed.co.uk/jobs/systematic-credit-trader-citi/57593624) | eFinancialCareers | London | ✅ |
+| 2026-11-19 | [Management Accountant - Fashion company](https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576) | TRP Recruitment ltd | London, England, United Kingdom | ❔ |
 
-### Investment (IB / PE) CV: 1
+### Equity CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-19 | [Restructuring Analyst to Associate Investment bank](https://www.reed.co.uk/jobs/restructuring-analyst-to-associate-investment-bank/57590178) | eFinancialCareers | London | ✅ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
+| 2026-11-20 | [Front Office Quantitative Analyst - Equity Derivatives](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1) | Citi | London United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -58,7 +38,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
 
-**Equity CV** (48 matching)
+**Equity CV** (49 matching)
 
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://www.linkedin.com/jobs/view/equity-research-analyst-graduate-or-1-years-experience-buy-sell-side-at-rothschild-co-4492056400) · Rothschild & Co · London Area, United Kingdom · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
@@ -88,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 20 November
+
+<details>
+<summary><b>03:27</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Management Accountant - Fashion company](https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576) | TRP Recruitment ltd | London, England, United Kingdom | ❔ |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Front Office Quantitative Analyst - Equity Derivatives](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1) | Citi | London United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>02:47</b> · hourly scan · <b>12 new</b> → Finance 6 · Credit 4 · Investment 1 · Other 1</summary>
@@ -1409,9 +1406,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (506)](#finance-fpa-cv-506) · [Credit (131)](#credit-cv-131) · [Equity (61)](#equity-cv-61) · [Investment (101)](#investment-ib--pe-cv-101) · [Consulting (16)](#consulting-cv-16) · [Real Estate (18)](#real-estate-cv-18) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
+Everything matched so far, newest first within each CV: [Finance (507)](#finance-fpa-cv-507) · [Credit (131)](#credit-cv-131) · [Equity (62)](#equity-cv-62) · [Investment (101)](#investment-ib--pe-cv-101) · [Consulting (16)](#consulting-cv-16) · [Real Estate (18)](#real-estate-cv-18) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
 
-### Finance (FP&A) CV: 506
+### Finance (FP&A) CV: 507
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1433,6 +1430,7 @@ Everything matched so far, newest first within each CV: [Finance (506)](#finance
 | 2026-11-19 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-south-west-water-4492186621) | South West Water | Exeter, England, United Kingdom | ❔ |
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57592774) | Scania (Great Britain) Limited | Milton Keynes, Buckinghamshire | ✅ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561) | Burman Recruitment | London Area, United Kingdom | ❔ |
+| 2026-11-19 | [Management Accountant - Fashion company](https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576) | TRP Recruitment ltd | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-quanex-4492257080) | Quanex | Wolverhampton, England, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant - Welsh Desirable](https://www.linkedin.com/jobs/view/management-accountant-welsh-desirable-at-acca-careers-4492149548) | ACCA Careers | Cardiff, Wales, United Kingdom | ❔ |
 | 2026-11-19 | [Finance Business Partner – Sg&A And Tech (Ftc 12 Months)](https://scotjobsnet.co.uk/job/finance-business-partner-sga-and-tech-ftc-12-months/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
@@ -2058,10 +2056,11 @@ Everything matched so far, newest first within each CV: [Finance (506)](#finance
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 61
+### Equity CV: 62
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-20 | [Front Office Quantitative Analyst - Equity Derivatives](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1) | Citi | London United Kingdom | ✅ |
 | 2026-11-19 | [Equity Research Analyst, OnLine Gaming, Tier One Investment Bank](https://www.linkedin.com/jobs/view/equity-research-analyst-online-gaming-tier-one-investment-bank-at-greenwich-partners-4492403912) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Equity Research Analyst - Partner level](https://www.linkedin.com/jobs/view/equity-research-analyst-partner-level-at-spectacled-bear-ai-4492430144) | Spectacled Bear AI | England, United Kingdom | ❔ |
 | 2026-11-19 | [Equity Research Associate, Internet Coverage, Global](https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
