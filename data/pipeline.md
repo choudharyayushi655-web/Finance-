@@ -1388,5 +1388,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1 | Citi | Front Office Quantitative Analyst - Equity Derivatives | London United Kingdom | posted: 2026-11-20
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576 | TRP Recruitment ltd | Management Accountant - Fashion company | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-itrs-4491698786 | ITRS | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-barbara-houghton-associates-limited-4492903269 | Barbara Houghton Associates Limited | Credit Analyst | City Of London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-hireiq-4492792946 | HireIQ | Investment Banking Associate | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-amey-4484950367 | Amey | Management Accountant | Birmingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-accu-4492188086 | Accu | Assistant Management Accountant | Honley, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-ivee-4491610089 | ivee | Management Accountant | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-johnson-controls-4483404082 | Johnson Controls | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053 | targetjobs UK | Graduate Finance Programme | Burton Upon Trent, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57595881 | Klipboard | FP&A Analyst | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-finance-analyst/57595642 | Morgan McKinley | Interim Finance Analyst | Northampton, Northamptonshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/transfer-pricing-analyst/57594265 | Robert Half | Transfer Pricing Analyst | Stevenage, Hertfordshire | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57583774 | TMR Group Ltd | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
 
 ## Processed

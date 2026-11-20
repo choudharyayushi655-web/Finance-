@@ -107,6 +107,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Accu": {
+   "licensed": true,
+   "register_name": "Accu Limited",
+   "match": "exact"
+  },
   "Addington Ball Recruitment Ltd": {
    "licensed": false,
    "register_name": null,
@@ -195,6 +200,11 @@
   "Ambition Europe Limited": {
    "licensed": true,
    "register_name": "Ambition Europe Limited",
+   "match": "exact"
+  },
+  "Amey": {
+   "licensed": true,
+   "register_name": "Amey Services Limited",
    "match": "exact"
   },
   "Anderson Knight": {
@@ -441,6 +451,11 @@
    "licensed": true,
    "register_name": "Bank of America, N.A.",
    "match": "prefix"
+  },
+  "Barbara Houghton Associates Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Barclays": {
    "licensed": true,
@@ -1537,6 +1552,11 @@
    "register_name": null,
    "match": "none"
   },
+  "HireIQ": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hiscox": {
    "licensed": true,
    "register_name": "HISCOX UNDERWRITING GROUP SERVICES LIMITED",
@@ -1620,6 +1640,11 @@
   "IQ-EQ": {
    "licensed": true,
    "register_name": "IQ EQ (UK) Services Limited",
+   "match": "exact"
+  },
+  "ITRS": {
+   "licensed": true,
+   "register_name": "ITRS Group Ltd",
    "match": "exact"
   },
   "IVC Evidensia": {
@@ -1737,6 +1762,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Johnson Controls": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Johnsons Workwear": {
    "licensed": false,
    "register_name": null,
@@ -1803,6 +1833,11 @@
    "match": "exact"
   },
   "Klarna": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Klipboard": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3261,6 +3296,11 @@
    "licensed": true,
    "register_name": "THG PLC",
    "match": "exact"
+  },
+  "TMR Group Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "TP ICAP": {
    "licensed": true,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:31:29.644Z",
+ "generated_at": "2026-11-20T10:42:12.668Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 184,
+   "matching": 189,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -5128,6 +5128,66 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-itrs-4491698786": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-barbara-houghton-associates-limited-4492903269": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-hireiq-4492792946": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-amey-4484950367": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-accu-4492188086": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-ivee-4491610089": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-johnson-controls-4483404082": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/fp-a-analyst/57595881": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/interim-finance-analyst/57595642": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/transfer-pricing-analyst/57594265": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57583774": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

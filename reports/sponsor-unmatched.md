@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 761 firms checked, 411 matched, 350 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 769 firms checked, 414 matched, 355 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (350)
+## Not found (355)
 
 - 93 MGMT
 - AAA Global
@@ -45,6 +45,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Axon Moore Group Ltd
 - B&Q
 - BAT
+- Barbara Houghton Associates Limited
 - Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
@@ -158,6 +159,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - High Finance (UK) Limited T/A HFG
 - Higher Capital Consulting
 - HireForce
+- HireIQ
 - Hometree
 - Hoop Recruitment
 - IAG Transform
@@ -175,6 +177,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Janus Henderson Investors
 - JasperRose
 - Joblet-AI
+- Johnson Controls
 - Johnsons Workwear
 - KBRA
 - KBS Corporate
@@ -186,6 +189,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kenneth Brian Associates Limited
 - Kenton Black Finance
 - Klarna
+- Klipboard
 - Landbay
 - Language Matters
 - Larbey Evans
@@ -304,6 +308,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Swoop Funding
 - TCR
 - TCS
+- TMR Group Ltd
 - TRP Recruitment ltd
 - TUI
 - TVF Media
