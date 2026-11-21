@@ -1077,6 +1077,11 @@
    "register_name": "Dyer Baade & Company Limited",
    "match": "exact"
   },
+  "Dŵr Cymru Welsh Water": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "E.L.F. BEAUTY": {
    "licensed": true,
    "register_name": "e.l.f. Beauty UK Limited",
@@ -1931,6 +1936,11 @@
    "licensed": true,
    "register_name": "Kobalt Music Group Limited",
    "match": "exact"
+  },
+  "Kraft Heinz": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Kroll": {
    "licensed": true,

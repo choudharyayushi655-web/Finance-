@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:57:10.001Z",
+ "generated_at": "2026-11-21T11:19:36.046Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 194,
+   "matching": 195,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2101,11 +2101,6 @@
    "score": 11
   },
   "https://www.reed.co.uk/jobs/group-management-accountant/57544816": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
-  "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77687": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
@@ -4245,11 +4240,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/financial-accountant-private-equity-alternative-investments-at-hireforce-4490471172": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-johnsons-workwear-4490462963": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4264,11 +4254,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/trainee-equity-research-associate-global-investment-bank-london-at-greenwich-partners-4491582257": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 21
   },
   "https://www.reed.co.uk/jobs/interim-finance-analyst/57583753": {
    "id": "finance",
@@ -5409,6 +5394,31 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 16
+  },
+  "https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Solvency-Reporting-Accountant_R5345": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-central-fulfilment-centre-stock-at-morrisons-4483407255": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/finance-graduate-at-d%C5%B5r-cymru-welsh-water-4493268172": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-kraft-heinz-4475979220": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

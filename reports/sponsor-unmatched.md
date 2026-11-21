@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 799 firms checked, 426 matched, 373 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 801 firms checked, 426 matched, 375 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (373)
+## Not found (375)
 
 - 93 MGMT
 - AAA Global
@@ -110,6 +110,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Distinct Recruitment
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
+- Dŵr Cymru Welsh Water
 - EFG Private Banking
 - Eaton Syalon Ltd
 - Echo
@@ -200,6 +201,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kenton Black Finance
 - Klarna
 - Klipboard
+- Kraft Heinz
 - Landbay
 - Language Matters
 - Larbey Evans

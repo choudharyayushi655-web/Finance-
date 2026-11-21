@@ -1463,4 +1463,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803 | MAGMAS | Group & International FP&A Analyst | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083 | JJ SEARCH LIMITED | Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Solvency-Reporting-Accountant_R5345 | Lloyd's of London | Solvency Reporting Accountant | Lloyd's UK: London | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-central-fulfilment-centre-stock-at-morrisons-4483407255 | Morrisons | Finance Business Partner - Central Fulfilment Centre & Stock | Bradford, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597 | targetjobs UK | Graduate - Finance (m/f/d) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-d%C5%B5r-cymru-welsh-water-4493268172 | Dŵr Cymru Welsh Water | Finance Graduate | Coedkernew, Wales, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-kraft-heinz-4475979220 | Kraft Heinz | Finance Analyst | Greater Manchester, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+
 ## Processed
