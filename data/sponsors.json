@@ -302,6 +302,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Ascot Group": {
+   "licensed": true,
+   "register_name": "ASCOT INTERNATIONAL (1996) LIMITED",
+   "match": "exact"
+  },
   "Ashurst Perkins Coie": {
    "licensed": true,
    "register_name": "Ashurst Perkins Coie (International) LLP",
@@ -1456,6 +1461,11 @@
    "licensed": true,
    "register_name": "Graham Capital LLP",
    "match": "alias"
+  },
+  "Grant Thornton UK": {
+   "licensed": true,
+   "register_name": "Grant Thornton (NI) LLP",
+   "match": "exact"
   },
   "Graphite Partners": {
    "licensed": false,

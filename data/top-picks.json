@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:05:01.961Z",
+ "generated_at": "2026-11-21T18:06:57.015Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 197,
+   "matching": 198,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 94,
+   "matching": 95,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -187,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 29,
+   "matching": 28,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -381,11 +381,6 @@
    "score": 22
   },
   "https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management_R7935-1": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 19
-  },
-  "https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113": {
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 19
@@ -2369,11 +2364,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
-  },
-  "https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965": {
    "id": "fund",
@@ -5449,6 +5439,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-at-ascot-group-4475238459": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }

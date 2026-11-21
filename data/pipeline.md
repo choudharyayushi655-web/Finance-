@@ -1474,5 +1474,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729 | UKPHARM LIMITED | Assistant Accountant | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/research-analyst-uk/57598506 | Chambers and Partners | Research Analyst UK | London | posted: 2026-11-20 | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/project-accountant/ | via ScotJobsNet | Project Accountant | Midlothian, Scotland | posted: 2026-11-21 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-ascot-group-4475238459 | Ascot Group | Risk Analyst | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156 | Grant Thornton UK | Interim Accountant - Local Government | Edinburgh, Scotland, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
