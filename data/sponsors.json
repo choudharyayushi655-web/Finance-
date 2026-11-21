@@ -492,6 +492,11 @@
    "register_name": "Beamery Ltd",
    "match": "exact"
   },
+  "Believ": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Belmont Search Ltd": {
    "licensed": false,
    "register_name": null,
@@ -1011,6 +1016,11 @@
    "licensed": true,
    "register_name": "DRW Investments (UK) Ltd",
    "match": "alias"
+  },
+  "DS Smith": {
+   "licensed": true,
+   "register_name": "DS Smith Business Services Limited",
+   "match": "prefix"
   },
   "Dana Incorporated": {
    "licensed": false,
@@ -2912,6 +2922,11 @@
    "register_name": "QBE Management Services (UK) Limited",
    "match": "alias"
   },
+  "QS Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Qh4 Consulting": {
    "licensed": false,
    "register_name": null,
@@ -3326,6 +3341,11 @@
    "licensed": true,
    "register_name": "Societe Generale Equipment Finance Ltd",
    "match": "alias"
+  },
+  "Societe Generale Corporate and Investment Banking - SGCIB": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Sopra Steria": {
    "licensed": true,
