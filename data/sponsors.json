@@ -417,6 +417,11 @@
    "register_name": "Bank of New York Mellon",
    "match": "alias"
   },
+  "BOLDSCIENCE": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BP": {
    "licensed": true,
    "register_name": "BP plc",
@@ -813,6 +818,11 @@
    "match": "alias"
   },
   "Chalk Hill Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Chambers and Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1216,6 +1226,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Fairbanks Environmental": {
+   "licensed": true,
+   "register_name": "Fairbanks Environmental Limited",
+   "match": "exact"
   },
   "Fauna & Flora": {
    "licensed": true,
@@ -2116,6 +2131,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "MDPI": {
+   "licensed": true,
+   "register_name": "MDPI UK LIMITED",
+   "match": "exact"
   },
   "MFS": {
    "licensed": true,
@@ -3653,6 +3673,11 @@
    "match": "none"
   },
   "UCEA - Family Office Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "UKPHARM LIMITED": {
    "licensed": false,
    "register_name": null,
    "match": "none"

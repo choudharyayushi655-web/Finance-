@@ -1468,5 +1468,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597 | targetjobs UK | Graduate - Finance (m/f/d) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-d%C5%B5r-cymru-welsh-water-4493268172 | Dŵr Cymru Welsh Water | Finance Graduate | Coedkernew, Wales, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-kraft-heinz-4475979220 | Kraft Heinz | Finance Analyst | Greater Manchester, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-mdpi-4485223207 | MDPI | FP&A Analyst | Manchester, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-fairbanks-environmental-4475265128 | Fairbanks Environmental | Management Accountant | Skelmersdale, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-finance-project-accountant-at-boldscience-4492970691 | BOLDSCIENCE | Associate Finance Project Accountant | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729 | UKPHARM LIMITED | Assistant Accountant | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/research-analyst-uk/57598506 | Chambers and Partners | Research Analyst UK | London | posted: 2026-11-20 | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/project-accountant/ | via ScotJobsNet | Project Accountant | Midlothian, Scotland | posted: 2026-11-21 | note: via ScotJobsNet
 
 ## Processed

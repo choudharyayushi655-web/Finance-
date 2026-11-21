@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 801 firms checked, 426 matched, 375 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 806 firms checked, 428 matched, 378 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (375)
+## Not found (378)
 
 - 93 MGMT
 - AAA Global
@@ -46,6 +46,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Axon Moore Group Ltd
 - B&Q
 - BAT
+- BOLDSCIENCE
 - Barbara Houghton Associates Limited
 - Belmont Search Ltd
 - Better Placed
@@ -82,6 +83,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Carr Lyons Search & Selection
 - Centalion
 - Chalk Hill Group
+- Chambers and Partners
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates
@@ -346,6 +348,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Trial Balance Consulting
 - UBS
 - UCEA - Family Office Group
+- UKPHARM LIMITED
 - Undisclosed
 - Univar Solutions
 - VIA MATCH LIMITED
