@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 812 firms checked, 431 matched, 381 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 814 firms checked, 431 matched, 383 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (381)
+## Not found (383)
 
 - 93 MGMT
 - AAA Global
@@ -94,6 +94,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cobalt Recruitment
 - Cobb & Jones Recruitment Limited
 - Coinbase
+- Collins Aerospace
 - Connect Recruitment Consultants Ltd.
 - Conrad Consulting
 - Consumer Additions and Consumer Exec
@@ -145,6 +146,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Gibson Recruitment Limited
 - Gleeson Recruitment Group
 - Global Accounting Network
+- Goodlord
 - Graphite Partners
 - Great Places Housing Association
 - Greencore

@@ -319,15 +319,17 @@
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Primary-Capital-Advisory_R3421-1": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:36Z"
+  "checked_at": "2026-11-21T23:27:04Z"
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Financial-Restructuring_R3583-1": {
-  "status": "live",
-  "checked_at": "2026-11-20T21:15:39Z"
+  "status": "closed",
+  "checked_at": "2026-11-21T23:27:08Z",
+  "closed_at": "2026-11-21T23:27:08Z",
+  "reason": "Workday CXS answers 403 S22 — posting withdrawn"
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:43Z"
+  "checked_at": "2026-11-21T23:27:12Z"
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Healthcare-_R3638": {
   "status": "closed",
@@ -337,11 +339,11 @@
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst--2----Corporate-Finance--Business-Services-_R3634": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:07Z"
+  "checked_at": "2026-11-21T23:27:36Z"
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst---Corporate-Finance--Healthcare-_R3620": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:07Z"
+  "checked_at": "2026-11-21T23:27:36Z"
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Senior-Associate---Corporate-Finance--Technology-M-A-_R3381": {
   "status": "closed",
@@ -369,23 +371,23 @@
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3216": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:07Z"
+  "checked_at": "2026-11-21T23:27:37Z"
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3225": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:07Z"
+  "checked_at": "2026-11-21T23:27:37Z"
  },
  "https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Delegated-Underwriting-Analyst_RQ14442": {
   "status": "live",
-  "checked_at": "2026-11-21T01:07:11Z"
+  "checked_at": "2026-11-21T23:29:53Z"
  },
  "https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Reinsurance-Pricing-Analyst_RQ14184": {
   "status": "live",
-  "checked_at": "2026-11-21T01:07:11Z"
+  "checked_at": "2026-11-21T23:29:53Z"
  },
  "https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Assistant-Accountant--12-month-FTC-_RQ14025": {
   "status": "live",
-  "checked_at": "2026-11-21T01:07:14Z"
+  "checked_at": "2026-11-21T23:29:54Z"
  },
  "https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Investment-Analyst_RQ13445": {
   "status": "live",
@@ -1275,47 +1277,47 @@
  },
  "https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modeling-Risk-Analyst---Model-Development_JR2604272": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:43Z"
+  "checked_at": "2026-11-21T23:27:12Z"
  },
  "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:54Z"
+  "checked_at": "2026-11-21T23:27:26Z"
  },
  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Single-Stock-Trader_261009084-1": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:54Z"
+  "checked_at": "2026-11-21T23:27:26Z"
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210616021": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:57Z"
+  "checked_at": "2026-11-21T23:27:26Z"
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808268": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:57Z"
+  "checked_at": "2026-11-21T23:27:26Z"
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808312": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:57Z"
+  "checked_at": "2026-11-21T23:27:26Z"
  },
  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-gleeson-recruitment-group-4489454826": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:00Z"
+  "checked_at": "2026-11-21T23:27:32Z"
  },
  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:04Z"
+  "checked_at": "2026-11-21T23:27:36Z"
  },
  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-walker-hamill-4468597583": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:07Z"
+  "checked_at": "2026-11-21T23:27:39Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-elevation-recruitment-group-4487467872": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:11Z"
+  "checked_at": "2026-11-21T23:27:43Z"
  },
  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-william-grant-sons-4480239637": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:14Z"
+  "checked_at": "2026-11-21T23:27:46Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-anderson-knight-4489458447": {
   "status": "closed",
@@ -1349,7 +1351,7 @@
  },
  "https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:18Z"
+  "checked_at": "2026-11-21T23:27:50Z"
  },
  "https://www.linkedin.com/jobs/view/corporate-finance-associate-biotech-at-brock-decker-4489496335": {
   "status": "closed",
@@ -1359,15 +1361,15 @@
  },
  "https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:21Z"
+  "checked_at": "2026-11-21T23:27:53Z"
  },
  "https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996": {
   "status": "live",
-  "checked_at": "2026-11-21T01:07:14Z"
+  "checked_at": "2026-11-21T23:29:56Z"
  },
  "https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200": {
   "status": "live",
-  "checked_at": "2026-11-21T01:07:17Z"
+  "checked_at": "2026-11-21T23:29:59Z"
  },
  "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equities-at-octavius-finance-4488376412": {
   "status": "closed",
@@ -1961,15 +1963,15 @@
  },
  "https://www.linkedin.com/jobs/view/commercial-analyst-supply-chain-risk-at-network-rail-4490745454": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:11Z"
+  "checked_at": "2026-11-21T23:26:47Z"
  },
  "https://www.linkedin.com/jobs/view/analyst-private-equity-secondaries-at-stepstone-group-4464100654": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:15Z"
+  "checked_at": "2026-11-21T23:26:50Z"
  },
  "https://www.linkedin.com/jobs/view/equities-quantitative-researcher-at-point-one-hedge-fund-talent-4467720194": {
   "status": "unknown",
-  "checked_at": "2026-11-20T21:15:25Z"
+  "checked_at": "2026-11-21T23:27:01Z"
  },
  "https://www.linkedin.com/jobs/view/investment-banking-m-a-fig-analyst-entry-level-at-selby-jennings-4490734348": {
   "status": "closed",
@@ -1985,35 +1987,35 @@
  },
  "https://www.linkedin.com/jobs/view/fund-accountant-at-apollo-global-management-inc-4427775237": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:32Z"
+  "checked_at": "2026-11-21T23:27:04Z"
  },
  "https://www.linkedin.com/jobs/view/financial-reporting-associate-fund-services-glasgow-at-morgan-stanley-4472594244": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:36Z"
+  "checked_at": "2026-11-21T23:27:08Z"
  },
  "https://www.linkedin.com/jobs/view/asset-management-%E2%80%93-investment-operations-middle-office-fund-administration-fund-accounting-associate-%E2%80%93-12-month-ftc-cash-equities-private-equity-strong-possibility-to-permanent-at-martis-search-4482484116": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:39Z"
+  "checked_at": "2026-11-21T23:27:11Z"
  },
  "https://www.linkedin.com/jobs/view/portfolio-accountant-at-carter-jonas-4477094233": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:43Z"
+  "checked_at": "2026-11-21T23:27:15Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-2-sisters-food-group-4489580102": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:46Z"
+  "checked_at": "2026-11-21T23:27:18Z"
  },
  "https://www.linkedin.com/jobs/view/divisional-accountant-at-charles-hurst-group-ltd-4463037501": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:50Z"
+  "checked_at": "2026-11-21T23:27:22Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-vitae-financial-recruitment-4488945632": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:53Z"
+  "checked_at": "2026-11-21T23:27:25Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-tower-transit-group-4490591514": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:57Z"
+  "checked_at": "2026-11-21T23:27:29Z"
  },
  "https://www.linkedin.com/jobs/view/junior-financial-analyst-at-the-citco-group-limited-4488970190": {
   "status": "live",
@@ -2171,15 +2173,15 @@
  },
  "https://www.linkedin.com/jobs/view/pricing-analyst-loan-portfolio-s-sql-python-%C2%A370-000-at-salt-4489700326": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:25Z"
+  "checked_at": "2026-11-21T23:27:57Z"
  },
  "https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918": {
   "status": "unknown",
-  "checked_at": "2026-11-20T21:16:28Z"
+  "checked_at": "2026-11-21T23:28:00Z"
  },
  "https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:32Z"
+  "checked_at": "2026-11-21T23:28:04Z"
  },
  "https://www.linkedin.com/jobs/view/investment-analyst-global-private-equity-secondaries-fund-at-greenwich-partners-4491240635": {
   "status": "closed",
@@ -2201,11 +2203,11 @@
  },
  "https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:35Z"
+  "checked_at": "2026-11-21T23:28:07Z"
  },
  "https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:39Z"
+  "checked_at": "2026-11-21T23:28:11Z"
  },
  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-tala-4489392620": {
   "status": "closed",
@@ -2215,7 +2217,7 @@
  },
  "https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:42Z"
+  "checked_at": "2026-11-21T23:28:14Z"
  },
  "https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142": {
   "status": "live",
@@ -2245,7 +2247,7 @@
  },
  "https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:18Z"
+  "checked_at": "2026-11-21T23:26:54Z"
  },
  "https://www.linkedin.com/jobs/view/2027-graduate-programme-investment-banking-analyst-at-targetjobs-uk-4490249818": {
   "status": "closed",
@@ -2255,7 +2257,7 @@
  },
  "https://www.linkedin.com/jobs/view/finance-graduate-at-targetjobs-uk-4490265104": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:22Z"
+  "checked_at": "2026-11-21T23:26:57Z"
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210807232": {
   "status": "live",
@@ -2651,43 +2653,43 @@
  },
  "https://job-boards.greenhouse.io/drweng/jobs/8392316": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:42Z"
+  "checked_at": "2026-11-21T23:28:14Z"
  },
  "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/M-A-Partner_RQ116396-2": {
   "status": "unknown",
-  "checked_at": "2026-11-20T21:16:43Z"
+  "checked_at": "2026-11-21T23:28:15Z"
  },
  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:57Z"
+  "checked_at": "2026-11-21T23:28:26Z"
  },
  "https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-aster-group-uk-4490884603": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:00Z"
+  "checked_at": "2026-11-21T23:28:28Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-at-jss-4490889361": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:03Z"
+  "checked_at": "2026-11-21T23:28:32Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-at-culina-4492009624": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:07Z"
+  "checked_at": "2026-11-21T23:28:35Z"
  },
  "https://www.linkedin.com/jobs/view/analyst-associate-real-estate-debt-at-gic-4481890972": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:10Z"
+  "checked_at": "2026-11-21T23:28:39Z"
  },
  "https://www.linkedin.com/jobs/view/credit-analyst-at-octus-4474602560": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:14Z"
+  "checked_at": "2026-11-21T23:28:42Z"
  },
  "https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-4491797731": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:17Z"
+  "checked_at": "2026-11-21T23:28:46Z"
  },
  "https://www.linkedin.com/jobs/view/investment-analyst-fixed-income-at-lgps-central-4491831487": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:21Z"
+  "checked_at": "2026-11-21T23:28:49Z"
  },
  "https://www.linkedin.com/jobs/view/investment-analyst-at-alexander-chapman-4492041100": {
   "status": "closed",
@@ -2703,47 +2705,47 @@
  },
  "https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-eden-scott-4490445768": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:28Z"
+  "checked_at": "2026-11-21T23:28:53Z"
  },
  "https://www.linkedin.com/jobs/view/investment-analyst-%E2%80%93-event-driven-special-sits-at-undisclosed-4491580103": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:31Z"
+  "checked_at": "2026-11-21T23:28:56Z"
  },
  "https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:35Z"
+  "checked_at": "2026-11-21T23:29:00Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-corecruitment-ltd-4492002854": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:38Z"
+  "checked_at": "2026-11-21T23:29:03Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-heap-co-accountancy-finance-recruitment-specialists-4490882748": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:42Z"
+  "checked_at": "2026-11-21T23:29:07Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-4354-at-wade-macdonald-4490873310": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:45Z"
+  "checked_at": "2026-11-21T23:29:10Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-palatine-talent-4491823625": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:49Z"
+  "checked_at": "2026-11-21T23:29:14Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:52Z"
+  "checked_at": "2026-11-21T23:29:18Z"
  },
  "https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-4492034173": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:56Z"
+  "checked_at": "2026-11-21T23:29:21Z"
  },
  "https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737": {
   "status": "live",
-  "checked_at": "2026-11-20T21:17:59Z"
+  "checked_at": "2026-11-21T23:29:24Z"
  },
  "https://www.linkedin.com/jobs/view/assistant-accountant-at-verlume-4491564767": {
   "status": "live",
-  "checked_at": "2026-11-21T01:07:10Z"
+  "checked_at": "2026-11-21T23:29:52Z"
  },
  "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002": {
   "status": "closed",
@@ -2923,15 +2925,15 @@
  },
  "https://www.linkedin.com/jobs/view/equity-research-analyst-partner-level-at-spectacled-bear-ai-4492430144": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:49Z"
+  "checked_at": "2026-11-21T23:28:18Z"
  },
  "https://www.linkedin.com/jobs/view/commercial-and-investment-banking-treasury-analyst-mena-at-jpmorganchase-4492419368": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:53Z"
+  "checked_at": "2026-11-21T23:28:21Z"
  },
  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-alexander-daniels-finance-recruitment-4492432414": {
   "status": "live",
-  "checked_at": "2026-11-20T21:16:56Z"
+  "checked_at": "2026-11-21T23:28:25Z"
  },
  "https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642": {
   "status": "unknown",
@@ -3221,35 +3223,35 @@
  },
  "https://www.linkedin.com/jobs/view/financial-advisory-graduate-programme-at-targetjobs-uk-4492802186": {
   "status": "live",
-  "checked_at": "2026-11-20T21:15:08Z"
+  "checked_at": "2026-11-21T23:26:43Z"
  },
  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-giacom-4492802795": {
   "status": "live",
-  "checked_at": "2026-11-21T01:06:46Z"
+  "checked_at": "2026-11-21T23:29:28Z"
  },
  "https://www.linkedin.com/jobs/view/investment-analyst-m-a-skillset-wanted-for-real-estate-pe-fund-at-caravel-4491945947": {
-  "status": "unknown",
-  "checked_at": "2026-11-21T01:06:49Z"
+  "status": "live",
+  "checked_at": "2026-11-21T23:29:31Z"
  },
  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-octavius-finance-4492807013": {
   "status": "live",
-  "checked_at": "2026-11-21T01:06:53Z"
+  "checked_at": "2026-11-21T23:29:35Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-imultiply-4483435628": {
   "status": "unknown",
-  "checked_at": "2026-11-21T01:06:56Z"
+  "checked_at": "2026-11-21T23:29:38Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-junior-financial-controller-at-cooper-parry-finance-recruitment-4492950018": {
   "status": "live",
-  "checked_at": "2026-11-21T01:07:00Z"
+  "checked_at": "2026-11-21T23:29:42Z"
  },
  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-roberts-bakery-1887-4492806751": {
   "status": "unknown",
-  "checked_at": "2026-11-21T01:07:03Z"
+  "checked_at": "2026-11-21T23:29:45Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-vertu-motors-plc-4492819352": {
   "status": "live",
-  "checked_at": "2026-11-21T01:07:07Z"
+  "checked_at": "2026-11-21T23:29:49Z"
  },
  "https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-pret-a-manger-4492839726": {
   "status": "live",
@@ -3322,5 +3324,21 @@
  "https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156": {
   "status": "unknown",
   "checked_at": "2026-11-21T22:30:54Z"
+ },
+ "https://www.linkedin.com/jobs/view/trainee-quantitative-research-analyst-at-societe-generale-corporate-and-investment-banking-sgcib-4493249830": {
+  "status": "unknown",
+  "checked_at": "2026-11-21T23:26:29Z"
+ },
+ "https://www.linkedin.com/jobs/view/accountant-at-ds-smith-4439892855": {
+  "status": "live",
+  "checked_at": "2026-11-21T23:26:33Z"
+ },
+ "https://www.linkedin.com/jobs/view/financial-controller-at-qs-recruitment-4488841953": {
+  "status": "live",
+  "checked_at": "2026-11-21T23:26:36Z"
+ },
+ "https://www.linkedin.com/jobs/view/finance-business-partner-at-believ-4474895893": {
+  "status": "live",
+  "checked_at": "2026-11-21T23:26:40Z"
  }
 }

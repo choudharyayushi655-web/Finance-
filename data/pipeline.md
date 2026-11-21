@@ -1481,4 +1481,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-at-qs-recruitment-4488841953 | QS Recruitment | Financial Controller | Great Malvern, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-believ-4474895893 | Believ | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
+- [ ] https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Analyst---Leasing--Retail-_R0003893 | Landsec | Finance Analyst – Leasing (Retail) | London | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/operations-risk-analyst-at-goodlord-4492848742 | Goodlord | Operations & Risk Analyst | England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763 | Collins Aerospace | Assistant Accountant | Plymouth, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+
 ## Processed

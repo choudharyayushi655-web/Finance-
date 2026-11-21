@@ -952,6 +952,11 @@
    "register_name": "Coller Capital Ltd",
    "match": "alias"
   },
+  "Collins Aerospace": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Connect Recruitment Consultants Ltd.": {
    "licensed": false,
    "register_name": null,
@@ -1461,6 +1466,11 @@
    "licensed": true,
    "register_name": "Goldman Sachs International",
    "match": "exact"
+  },
+  "Goodlord": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Goodman Masson": {
    "licensed": true,
