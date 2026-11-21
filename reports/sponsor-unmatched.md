@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 795 firms checked, 423 matched, 372 not found.
+Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 798 firms checked, 426 matched, 372 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -379,7 +379,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (49)
+## Matched automatically by close name; worth a glance (50)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
@@ -392,6 +392,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
 - Duco → Duco Technology Limited (prefix)
+- EQT Group → EQT Partners Limited (prefix)
 - Element Materials Technology → ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED (prefix)
 - Form3 → Form3 Technology Limited (prefix)
 - Griffin → Griffin Bank Ltd (prefix)

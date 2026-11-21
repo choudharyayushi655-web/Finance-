@@ -1092,6 +1092,11 @@
    "register_name": "EQT Partners Limited",
    "match": "alias"
   },
+  "EQT Group": {
+   "licensed": true,
+   "register_name": "EQT Partners Limited",
+   "match": "prefix"
+  },
   "EY": {
    "licensed": true,
    "register_name": "Ernst & Young",
@@ -2052,6 +2057,11 @@
    "register_name": "LOMBARD ODIER ASSET MANAGEMENT (EUROPE) LIMITED",
    "match": "alias"
   },
+  "London LGPS CIV Limited": {
+   "licensed": true,
+   "register_name": "London LGPS CIV",
+   "match": "exact"
+  },
   "Lookers Motor Group Limited": {
    "licensed": false,
    "register_name": null,
@@ -2810,6 +2820,11 @@
   "Premier Foods": {
    "licensed": true,
    "register_name": "Premier Foods",
+   "match": "exact"
+  },
+  "Pret A Manger": {
+   "licensed": true,
+   "register_name": "Pret a Manger (Europe) Limited",
    "match": "exact"
   },
   "Primer": {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:17:59.921Z",
+ "generated_at": "2026-11-21T01:10:16.572Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 195,
+   "matching": 196,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 94,
+   "matching": 95,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 50,
+   "matching": 51,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -187,8 +187,21 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 28,
+   "matching": 29,
    "picks": [
+    {
+     "title": "Investment Analyst - Real Estate",
+     "company": "London LGPS CIV Limited",
+     "location": "London, England, United Kingdom",
+     "posted": "2026-11-20",
+     "url": "https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878",
+     "score": 26,
+     "why": [
+      "Real Estate",
+      "Investment Analyst"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Analyst, Real Estate Asset Management",
      "company": "Ares Management",
@@ -199,18 +212,6 @@
      "why": [
       "Real Estate",
       "Asset Management"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
-     "company": "Rothschild & Co",
-     "location": "London",
-     "posted": "2026-11-12",
-     "url": "https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695",
-     "score": 18,
-     "why": [
-      "Real Estate"
      ],
      "sponsor": true
     }
@@ -4089,11 +4090,6 @@
    "cv": "Credit CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-european-media-global-bank-at-greenwich-partners-4490435554": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 27
-  },
   "https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -4919,11 +4915,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/investment-analyst-early-stage-investments-venture-capital-private-family-office-at-greenwich-partners-4492175259": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/investment-associate-at-aries-global-4486385283": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -5398,6 +5389,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-pret-a-manger-4492839726": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/credit-associate-at-eqt-group-4492813584": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 26
+  },
+  "https://scotjobsnet.co.uk/job/fund-accountant/": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }

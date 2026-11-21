@@ -1454,5 +1454,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst-12m-ftc/57598538 | Axon Moore Group Ltd | Commercial Finance Analyst - 12m FTC | Manchester, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57586637 | FryerMiles | Management Accountant | Theale, Reading, Berkshire | note: via Reed
 - [ ] https://www.s1jobs.com/job/revenue-accountant-127783406 | CAMMACH BRYANT LIMITED | Revenue Accountant | Aberdeen Area, Scotland | posted: 2026-11-20 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-pret-a-manger-4492839726 | Pret A Manger | Group & International FP&A Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-associate-at-eqt-group-4492813584 | EQT Group | Credit Associate | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878 | London LGPS CIV Limited | Investment Analyst - Real Estate | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/fund-accountant/ | via ScotJobsNet | Fund Accountant | Glasgow, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
 
 ## Processed
