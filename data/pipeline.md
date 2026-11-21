@@ -1460,5 +1460,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/fund-accountant/ | via ScotJobsNet | Fund Accountant | Glasgow, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
 - [ ] https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670 | targetjobs UK | Graduate - Risk (m/f/d) - London | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108 | targetjobs UK | Graduate - Analyst, Technology Risk & Assurance (m/f/d) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803 | MAGMAS | Group & International FP&A Analyst | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083 | JJ SEARCH LIMITED | Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

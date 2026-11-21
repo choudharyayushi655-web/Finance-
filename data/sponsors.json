@@ -2097,6 +2097,11 @@
    "register_name": "M & G PlC",
    "match": "alias"
   },
+  "MAGMAS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MDM Resourcing": {
    "licensed": false,
    "register_name": null,

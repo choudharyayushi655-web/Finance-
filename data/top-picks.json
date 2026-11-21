@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:28:59.589Z",
+ "generated_at": "2026-11-21T08:57:10.001Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 196,
+   "matching": 194,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 95,
+   "matching": 94,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -690,11 +690,6 @@
    "cv": "Credit CV",
    "score": 9
   },
-  "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 21
-  },
   "https://morganstanley.eightfold.ai/careers?pid=549800996444&domain=morganstanley.com": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -714,11 +709,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 25
-  },
-  "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21298": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829": {
    "id": "other",
@@ -4535,11 +4525,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 31
-  },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-4355-at-wade-macdonald-4491306252": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5414,6 +5399,16 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 16
   }
  }
 }
