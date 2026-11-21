@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T01:10:16.572Z",
+ "generated_at": "2026-11-21T02:28:59.589Z",
  "order": [
   "finance",
   "credit",
@@ -3350,11 +3350,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
-  },
   "https://www.reed.co.uk/jobs/management-accountant/57568505": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5409,6 +5404,16 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

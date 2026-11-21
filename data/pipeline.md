@@ -1458,5 +1458,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-associate-at-eqt-group-4492813584 | EQT Group | Credit Associate | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878 | London LGPS CIV Limited | Investment Analyst - Real Estate | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/fund-accountant/ | via ScotJobsNet | Fund Accountant | Glasgow, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670 | targetjobs UK | Graduate - Risk (m/f/d) - London | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108 | targetjobs UK | Graduate - Analyst, Technology Risk & Assurance (m/f/d) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
