@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:47:58.060Z",
+ "generated_at": "2026-11-22T07:07:29.708Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 95,
+   "matching": 96,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -220,7 +220,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 34,
+   "matching": 35,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -5504,6 +5504,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492881560": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
   }
  }
 }

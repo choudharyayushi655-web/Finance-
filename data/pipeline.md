@@ -1491,5 +1491,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180 | targetjobs UK | Commercial Finance Graduate | Surrey, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/quant-analyst-insurance-capital-solutions-macquarie-group/57599035 | eFinancialCareers | Quant Analyst, Insurance Capital Solutions - Macquarie Group | London | posted: 2026-11-21 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57596622 | Integris | Management Accountant | Hertfordshire | posted: 2026-11-21 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492881560 | Joblet-AI | Financial Research Analyst (Remote) | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600 | eFinancialCareers | Fund Controller - Private Credit Hybrid Working | London | posted: 2026-11-21 | note: via Reed
 
 ## Processed
