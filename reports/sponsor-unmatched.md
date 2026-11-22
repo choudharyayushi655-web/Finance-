@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 818 firms checked, 433 matched, 385 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 822 firms checked, 437 matched, 385 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -392,7 +392,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (51)
+## Matched automatically by close name; worth a glance (53)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
@@ -401,6 +401,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
+- CSC → CSC MANAGEMENT SERVICES (UK) LIMITED (prefix)
 - Carter Jonas → Carter Jonas Service Company (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
@@ -443,5 +444,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TALA → Tala Energy Ltd (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
+- Universal Music Group UK → Universal Music Operations Ltd (prefix)
 - WHEATLEY GROUP → Wheatley Software Solutions Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)

@@ -1498,5 +1498,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/interim-syndicate-accountant-at-grant-thornton-uk-4476814846 | Grant Thornton UK | Interim Syndicate Accountant | Birmingham, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-systems-implementation-accountant-aca-at-police-federation-of-england-and-wales-4483508475 | Police Federation of England and Wales | Finance Systems Implementation Accountant (ACA) | Leatherhead, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/treasury-accountant/57599594 | Goodman Masson | Treasury Accountant | Redhill, Surrey | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-ingram-micro-4475443932 | Ingram Micro | FP&A Analyst | Northwich, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-data-centres-and-industrials-at-octopus-energy-4469173058 | Octopus Energy | Commercial Analyst (Data Centres and Industrials) | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-ftse-250-multi-role-campaign-at-jss-4492359398 | JSS | Finance Business Partner (FTSE 250- multi role campaign) | Hertfordshire, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415 | Harvey | Forward Deployed Investment Professional, Private Credit | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-structured-quant-m-f-d-at-targetjobs-uk-4493114574 | targetjobs UK | Graduate - Structured Quant (m/f/d) | Manchester, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/client-accountant-at-csc-4466692857 | CSC | Client Accountant | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627 | Universal Music Group UK | Management Accountant | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/investment-analyst-or-associate-m-g-plc/57599661 | eFinancialCareers | Investment Analyst or Associate - M&G plc. | London | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/ | via ScotJobsNet | Finance Business Partner – FP&A – 12-month fixed term contract | Midlothian, Scotland | posted: 2026-11-22 | note: via ScotJobsNet
 
 ## Processed

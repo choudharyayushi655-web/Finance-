@@ -722,6 +722,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CSC": {
+   "licensed": true,
+   "register_name": "CSC MANAGEMENT SERVICES (UK) LIMITED",
+   "match": "prefix"
+  },
   "CVC Marathon": {
    "licensed": false,
    "register_name": null,
@@ -1627,6 +1632,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Harvey": {
+   "licensed": true,
+   "register_name": "Harvey AI UK Ltd",
+   "match": "exact"
+  },
   "Harvey Nash": {
    "licensed": true,
    "register_name": "Harvey Nash Limited",
@@ -1811,6 +1821,11 @@
    "licensed": true,
    "register_name": "Informa UK Limited",
    "match": "alias"
+  },
+  "Ingram Micro": {
+   "licensed": true,
+   "register_name": "Ingram Micro (UK) Ltd",
+   "match": "exact"
   },
   "Insight Recruitment Solutions Limited": {
    "licensed": false,
@@ -3766,6 +3781,11 @@
    "licensed": true,
    "register_name": "Univers U.K. LTD",
    "match": "exact"
+  },
+  "Universal Music Group UK": {
+   "licensed": true,
+   "register_name": "Universal Music Operations Ltd",
+   "match": "prefix"
   },
   "Universal Music UK": {
    "licensed": true,
