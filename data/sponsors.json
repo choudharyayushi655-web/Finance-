@@ -687,6 +687,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CMA Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CMC Consulting Limited": {
    "licensed": false,
    "register_name": null,
@@ -1692,6 +1697,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Hill Dickinson LLP": {
+   "licensed": true,
+   "register_name": "Hill Dickinson Business Services Limited",
+   "match": "prefix"
+  },
   "HireForce": {
    "licensed": false,
    "register_name": null,
@@ -2136,6 +2146,11 @@
    "licensed": true,
    "register_name": "Lloyds Bank plc",
    "match": "alias"
+  },
+  "Lockheed Martin": {
+   "licensed": true,
+   "register_name": "Lockheed Martin UK Ltd",
+   "match": "exact"
   },
   "Lombard Odier": {
    "licensed": true,

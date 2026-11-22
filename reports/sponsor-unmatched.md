@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 822 firms checked, 437 matched, 385 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 825 firms checked, 439 matched, 386 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (385)
+## Not found (386)
 
 - 93 MGMT
 - AAA Global
@@ -69,6 +69,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CAMMACH BRYANT LIMITED
 - CIBC
 - CLARC Recruitment
+- CMA Recruitment Group
 - CMC Consulting Limited
 - CMC Consulting Ltd
 - CMS UK
@@ -392,7 +393,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (53)
+## Matched automatically by close name; worth a glance (54)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
@@ -413,6 +414,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Griffin → Griffin Bank Ltd (prefix)
 - Harmonic Finance™ → Harmonic Finance & Operations (prefix)
 - Heitman → Heitman Financial UK LLC (prefix)
+- Hill Dickinson LLP → Hill Dickinson Business Services Limited (prefix)
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)
 - ICF → ICF Consulting Services Limited (prefix)
 - Ikarus Capital → Ikarus Capital Advisory (prefix)

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:31:20.018Z",
+ "generated_at": "2026-11-22T18:11:01.841Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 207,
+   "matching": 209,
    "picks": [
     {
      "title": "Commercial Finance Analyst - Southampton",
@@ -5574,6 +5574,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 24
+  },
+  "https://www.linkedin.com/jobs/view/project-accountant-at-lockheed-martin-4492367034": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-family-office-at-aria-partners-4490314348": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/treasury-controller-at-hill-dickinson-llp-4485391409": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/divison-assistant-accountant-at-lookers-motor-group-limited-4448444862": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst/57599743": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

@@ -1507,5 +1507,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627 | Universal Music Group UK | Management Accountant | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/investment-analyst-or-associate-m-g-plc/57599661 | eFinancialCareers | Investment Analyst or Associate - M&G plc. | London | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/ | via ScotJobsNet | Finance Business Partner – FP&A – 12-month fixed term contract | Midlothian, Scotland | posted: 2026-11-22 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/project-accountant-at-lockheed-martin-4492367034 | Lockheed Martin | Project Accountant | Helensburgh, Scotland, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-family-office-at-aria-partners-4490314348 | Aria Partners | Management Accountant - Family Office | London Area, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-controller-at-hill-dickinson-llp-4485391409 | Hill Dickinson LLP | Treasury Controller | Liverpool, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/divison-assistant-accountant-at-lookers-motor-group-limited-4448444862 | Lookers Motor Group Limited | Divison Assistant Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57599743 | CMA Recruitment Group | Finance Analyst | Bournemouth, Dorset | note: via Reed
 
 ## Processed
