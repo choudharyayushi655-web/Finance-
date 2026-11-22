@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 814 firms checked, 431 matched, 383 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 817 firms checked, 432 matched, 385 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (383)
+## Not found (385)
 
 - 93 MGMT
 - AAA Global
@@ -29,6 +29,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alignerr
 - Allianz Commercial
 - Altum Consulting
+- Ampa - Legal & Professional Services
 - Anderson Knight
 - Apollo Global Management, Inc.
 - Appcastenterprise
@@ -183,6 +184,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - IVC Evidensia
 - In2 Consult
 - Insight Recruitment Solutions Limited
+- Integris
 - Interactive Investor (alias not on current register (interactive investor services ltd))
 - Inventum Group
 - Ivy Rock Partners

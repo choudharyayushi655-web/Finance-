@@ -1,5 +1,5 @@
 {
- "source": "UK Home Office register of licensed sponsors (Skilled Worker), downloaded 2026-11-15 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv",
+ "source": "UK Home Office register of licensed sponsors (Skilled Worker), downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv",
  "note": "A licence does not mean a given role will sponsor; check the advert.",
  "firms": {
   "10x Banking": {
@@ -211,6 +211,11 @@
    "licensed": true,
    "register_name": "Amey Services Limited",
    "match": "exact"
+  },
+  "Ampa - Legal & Professional Services": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Anderson Knight": {
    "licensed": false,
@@ -1006,6 +1011,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "DHL Express": {
+   "licensed": true,
+   "register_name": "DHL Express UK LTD",
+   "match": "exact"
   },
   "DJH": {
    "licensed": false,
@@ -1803,6 +1813,11 @@
    "match": "alias"
   },
   "Insight Recruitment Solutions Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Integris": {
    "licensed": false,
    "register_name": null,
    "match": "none"

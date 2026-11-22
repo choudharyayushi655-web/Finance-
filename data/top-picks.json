@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:30:00.045Z",
+ "generated_at": "2026-11-22T02:47:58.060Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 76,
+   "matching": 77,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 21,
+   "matching": 22,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -4020,11 +4020,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/fp-a-analyst-europe-at-univers-4490195978": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 20
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4805,11 +4800,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 12
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780687": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
-  },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986": {
    "id": "credit",
    "cv": "Credit CV",
@@ -5479,6 +5469,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-role-at-dhl-express-4492032269": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-manchester-at-targetjobs-uk-4493119686": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-debt-advisory-at-baird-4476857727": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/partnership-accountant-at-ampa-legal-professional-services-4484876306": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/quant-analyst-insurance-capital-solutions-macquarie-group/57599035": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57596622": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

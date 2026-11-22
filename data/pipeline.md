@@ -1484,5 +1484,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Analyst---Leasing--Retail-_R0003893 | Landsec | Finance Analyst – Leasing (Retail) | London | posted: 2026-11-20
 - [ ] https://www.linkedin.com/jobs/view/operations-risk-analyst-at-goodlord-4492848742 | Goodlord | Operations & Risk Analyst | England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763 | Collins Aerospace | Assistant Accountant | Plymouth, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-role-at-dhl-express-4492032269 | DHL Express | Commercial Analyst Role | Colnbrook, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-manchester-at-targetjobs-uk-4493119686 | targetjobs UK | Graduate - Risk (m/f/d) - Manchester | Manchester, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-debt-advisory-at-baird-4476857727 | Baird | Investment Banking Associate - Debt Advisory | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/partnership-accountant-at-ampa-legal-professional-services-4484876306 | Ampa - Legal & Professional Services | Partnership Accountant | England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180 | targetjobs UK | Commercial Finance Graduate | Surrey, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/quant-analyst-insurance-capital-solutions-macquarie-group/57599035 | eFinancialCareers | Quant Analyst, Insurance Capital Solutions - Macquarie Group | London | posted: 2026-11-21 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57596622 | Integris | Management Accountant | Hertfordshire | posted: 2026-11-21 | note: via Reed
 
 ## Processed
