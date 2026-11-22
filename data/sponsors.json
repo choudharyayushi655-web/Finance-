@@ -2037,6 +2037,11 @@
    "register_name": "Kroo Bank Ltd",
    "match": "prefix"
   },
+  "L3Harris Technologies": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "LCM Partners": {
    "licensed": true,
    "register_name": "LCM Partners Limited",
@@ -2496,6 +2501,11 @@
    "licensed": true,
    "register_name": "Moody's Analytics UK Ltd",
    "match": "alias"
+  },
+  "Moody's Corporation": {
+   "licensed": true,
+   "register_name": "Moody's Analytics UK Ltd",
+   "match": "prefix"
   },
   "MoonPay": {
    "licensed": true,

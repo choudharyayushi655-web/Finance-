@@ -1512,5 +1512,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-controller-at-hill-dickinson-llp-4485391409 | Hill Dickinson LLP | Treasury Controller | Liverpool, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/divison-assistant-accountant-at-lookers-motor-group-limited-4448444862 | Lookers Motor Group Limited | Divison Assistant Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/finance-analyst/57599743 | CMA Recruitment Group | Finance Analyst | Bournemouth, Dorset | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908 | L3Harris Technologies | Project Accountant | Brighton, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830 | Moody's Corporation | Modeling & Quant Analytics - AI & Agentic Model Validation | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508 | Goldman Sachs | Global Banking & Markets, Structured Credit Strats, London | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813 | Lookers Motor Group Limited | Division Assistant Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701 | DRW | Quantitative Trading Analyst | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

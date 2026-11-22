@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 825 firms checked, 439 matched, 386 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 827 firms checked, 440 matched, 387 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (386)
+## Not found (387)
 
 - 93 MGMT
 - AAA Global
@@ -210,6 +210,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Klarna
 - Klipboard
 - Kraft Heinz
+- L3Harris Technologies
 - Landbay
 - Language Matters
 - Larbey Evans
@@ -393,7 +394,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (54)
+## Matched automatically by close name; worth a glance (55)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
@@ -425,6 +426,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lightfoot → Lightfoot Advisors (prefix)
 - MediaKind → MediaKind Systems UK Limited (prefix)
 - Michael Page → Michael Page International Recruitment Ltd (prefix)
+- Moody's Corporation → Moody's Analytics UK Ltd (prefix)
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)
 - OCS → OCS Consulting plc (prefix)

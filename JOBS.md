@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 18:11** (UK time) · **1070 open roles** at 570 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 21:56** (UK time) · **1075 open roles** at 572 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,17 +10,27 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 18:07** · hourly scan · checked 201 boards · **5 new roles**
+**Sun 22 Nov, 21:53** · hourly scan · checked 201 boards · **5 new roles**
 
-### Finance (FP&A) CV: 5
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-22 | [Management Accountant - Family Office](https://www.linkedin.com/jobs/view/management-accountant-family-office-at-aria-partners-4490314348) | Aria Partners | London Area, United Kingdom | ❔ |
-| — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57599743) | CMA Recruitment Group | Bournemouth, Dorset | ❔ |
-| 2026-11-22 | [Divison Assistant Accountant](https://www.linkedin.com/jobs/view/divison-assistant-accountant-at-lookers-motor-group-limited-4448444862) | Lookers Motor Group Limited | Newcastle Upon Tyne, England, United Kingdom | ❔ |
-| 2026-11-22 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-lockheed-martin-4492367034) | Lockheed Martin | Helensburgh, Scotland, United Kingdom | ✅ |
-| 2026-11-21 | [Treasury Controller](https://www.linkedin.com/jobs/view/treasury-controller-at-hill-dickinson-llp-4485391409) | Hill Dickinson LLP | Liverpool, England, United Kingdom | ✅ |
+| 2026-11-22 | [Division Assistant Accountant](https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813) | Lookers Motor Group Limited | Stoke-On-Trent, England, United Kingdom | ❔ |
+| 2026-11-22 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908) | L3Harris Technologies | Brighton, England, United Kingdom | ❔ |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Global Banking & Markets, Structured Credit Strats, London](https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508) | Goldman Sachs | London, England, United Kingdom | ✅ |
+
+### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830) | Moody's Corporation | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -31,7 +41,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst - Southampton](https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492813489) · Giacom · Southampton, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 
-**Credit CV** (97 matching)
+**Credit CV** (98 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -66,6 +76,31 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>21:53</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 1 · Other 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Division Assistant Accountant](https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813) | Lookers Motor Group Limited | Stoke-On-Trent, England, United Kingdom | ❔ |
+| 2026-11-22 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908) | L3Harris Technologies | Brighton, England, United Kingdom | ❔ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Global Banking & Markets, Structured Credit Strats, London](https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508) | Goldman Sachs | London, England, United Kingdom | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830) | Moody's Corporation | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>18:07</b> · hourly scan · <b>5 new</b> → Finance 5</summary>
@@ -1393,9 +1428,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (567)](#finance-fpa-cv-567) · [Credit (145)](#credit-cv-145) · [Equity (62)](#equity-cv-62) · [Investment (106)](#investment-ib--pe-cv-106) · [Consulting (16)](#consulting-cv-16) · [Real Estate (19)](#real-estate-cv-19) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (123)](#other-fits-no-cv-closely-may-still-be-worth-a-look-123)
+Everything matched so far, newest first within each CV: [Finance (569)](#finance-fpa-cv-569) · [Credit (146)](#credit-cv-146) · [Equity (62)](#equity-cv-62) · [Investment (106)](#investment-ib--pe-cv-106) · [Consulting (16)](#consulting-cv-16) · [Real Estate (19)](#real-estate-cv-19) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (125)](#other-fits-no-cv-closely-may-still-be-worth-a-look-125)
 
-### Finance (FP&A) CV: 567
+### Finance (FP&A) CV: 569
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1409,10 +1444,12 @@ Everything matched so far, newest first within each CV: [Finance (567)](#finance
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57599743) | CMA Recruitment Group | Bournemouth, Dorset | ❔ |
 | 2026-11-22 | [Client Accountant](https://www.linkedin.com/jobs/view/client-accountant-at-csc-4466692857) | CSC | London, England, United Kingdom | ✅ |
 | 2026-11-22 | [Divison Assistant Accountant](https://www.linkedin.com/jobs/view/divison-assistant-accountant-at-lookers-motor-group-limited-4448444862) | Lookers Motor Group Limited | Newcastle Upon Tyne, England, United Kingdom | ❔ |
+| 2026-11-22 | [Division Assistant Accountant](https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813) | Lookers Motor Group Limited | Stoke-On-Trent, England, United Kingdom | ❔ |
 | 2026-11-22 | [Interim Syndicate Accountant](https://www.linkedin.com/jobs/view/interim-syndicate-accountant-at-grant-thornton-uk-4476814846) | Grant Thornton UK | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-22 | [Finance Systems Implementation Accountant (ACA)](https://www.linkedin.com/jobs/view/finance-systems-implementation-accountant-aca-at-police-federation-of-england-and-wales-4483508475) | Police Federation of England and Wales | Leatherhead, England, United Kingdom | ✅ |
 | — | [Treasury Accountant](https://www.reed.co.uk/jobs/treasury-accountant/57599594) | Goodman Masson | Redhill, Surrey | ✅ |
 | 2026-11-22 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-lockheed-martin-4492367034) | Lockheed Martin | Helensburgh, Scotland, United Kingdom | ✅ |
+| 2026-11-22 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908) | L3Harris Technologies | Brighton, England, United Kingdom | ❔ |
 | 2026-11-21 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803) | MAGMAS | London, England, United Kingdom | ❔ |
 | 2026-11-21 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-kraft-heinz-4475979220) | Kraft Heinz | Greater Manchester, England, United Kingdom | ❔ |
 | 2026-11-21 | [Commercial Finance Graduate](https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180) | targetjobs UK | Surrey, England, United Kingdom | ❔ |
@@ -1967,11 +2004,12 @@ Everything matched so far, newest first within each CV: [Finance (567)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 145
+### Credit CV: 146
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-22 | [Credit Portfolio Group - XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://www.linkedin.com/jobs/view/credit-portfolio-group-xva-pricing-capital-solutions-emea-analyst-or-associate-at-jpmorganchase-4477860979) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-22 | [Global Banking & Markets, Structured Credit Strats, London](https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508) | Goldman Sachs | London, England, United Kingdom | ✅ |
 | 2026-11-21 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-ascot-group-4475238459) | Ascot Group | London, England, United Kingdom | ✅ |
 | 2026-11-21 | [Fund Controller - Private Credit Hybrid Working](https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600) | eFinancialCareers | London | ✅ |
 | 2026-11-21 | [Forward Deployed Investment Professional, Private Credit](https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415) | Harvey | London Area, United Kingdom | ✅ |
@@ -2377,12 +2415,14 @@ Everything matched so far, newest first within each CV: [Finance (567)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 123
+### Other (fits no CV closely, may still be worth a look): 125
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-22 | [Graduate - Risk (m/f/d) - Manchester](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-manchester-at-targetjobs-uk-4493119686) | targetjobs UK | Manchester, England, United Kingdom | ❔ |
 | 2026-11-22 | [Graduate - Structured Quant (m/f/d)](https://www.linkedin.com/jobs/view/graduate-structured-quant-m-f-d-at-targetjobs-uk-4493114574) | targetjobs UK | Manchester, England, United Kingdom | ❔ |
+| 2026-11-22 | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830) | Moody's Corporation | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
 | 2026-11-21 | [Graduate - Risk (m/f/d) - London](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Analyst, Technology Risk & Assurance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Finance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597) | targetjobs UK | London Area, United Kingdom | ❔ |

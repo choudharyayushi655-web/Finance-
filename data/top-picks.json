@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:11:01.841Z",
+ "generated_at": "2026-11-22T21:56:54.080Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 97,
+   "matching": 98,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -5599,6 +5599,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
