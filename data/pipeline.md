@@ -1493,5 +1493,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57596622 | Integris | Management Accountant | Hertfordshire | posted: 2026-11-21 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492881560 | Joblet-AI | Financial Research Analyst (Remote) | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600 | eFinancialCareers | Fund Controller - Private Credit Hybrid Working | London | posted: 2026-11-21 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4493177703 | Joblet-AI | FP&A Analyst (Remote) | United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-portfolio-group-xva-pricing-capital-solutions-emea-analyst-or-associate-at-jpmorganchase-4477860979 | JPMorganChase | Credit Portfolio Group - XVA Pricing & Capital Solutions EMEA - Analyst or Associate | Greater London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-syndicate-accountant-at-grant-thornton-uk-4476814846 | Grant Thornton UK | Interim Syndicate Accountant | Birmingham, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-systems-implementation-accountant-aca-at-police-federation-of-england-and-wales-4483508475 | Police Federation of England and Wales | Finance Systems Implementation Accountant (ACA) | Leatherhead, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/treasury-accountant/57599594 | Goodman Masson | Treasury Accountant | Redhill, Surrey | note: via Reed
 
 ## Processed
