@@ -1561,4 +1561,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57600828 | Mackie Myers | Management Accountant | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/assistant-management-accountant-127793459 | Pertemps Scotland | Assistant Management Accountant | Glasgow Area, Scotland | posted: 2026-11-23 | note: via S1Jobs
 
+- [ ] https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2521 | Schroders | 2027 Finance (within Wealth Management) Graduate Programme | London, London, United Kingdom | posted: 2026-11-23
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811189 | JPMorgan Chase | 2027 Asset Management Investments - Equities - Analyst Training Program - London | LONDON, LONDON, United Kingdom | posted: 2026-11-23
+
 ## Processed
