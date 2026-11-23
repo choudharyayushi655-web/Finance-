@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 832 firms checked, 441 matched, 391 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 835 firms checked, 443 matched, 392 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (391)
+## Not found (392)
 
 - 93 MGMT
 - AAA Global
@@ -176,6 +176,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HelloFresh
 - High Finance (UK) Limited T/A HFG
 - Higher Capital Consulting
+- Hire Rightt - Executive Search & HR Advisory
 - HireForce
 - HireIQ
 - Hometree

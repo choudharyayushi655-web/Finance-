@@ -1717,6 +1717,11 @@
    "register_name": "Hill Dickinson Business Services Limited",
    "match": "prefix"
   },
+  "Hire Rightt - Executive Search & HR Advisory": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "HireForce": {
    "licensed": false,
    "register_name": null,
@@ -2672,6 +2677,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Nucleus Financial": {
+   "licensed": true,
+   "register_name": "Nucleus Financial Group Limited",
+   "match": "exact"
+  },
   "OAK LIFE SCIENCE LTD": {
    "licensed": false,
    "register_name": null,
@@ -3111,6 +3121,11 @@
    "licensed": true,
    "register_name": "Revolut Ltd",
    "match": "alias"
+  },
+  "Rexel UK Ltd": {
+   "licensed": true,
+   "register_name": "REXEL SERVICES LIMITED",
+   "match": "exact"
   },
   "Richard James Recruitment Specialists Ltd": {
    "licensed": false,

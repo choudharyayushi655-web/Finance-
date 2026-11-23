@@ -1525,5 +1525,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant-ftc/57599741 | Reed | Management Accountant FTC | Bristol, Avon | posted: 2026-11-22 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant-9m-ftc/57596203 | Butler Rose | Management Accountant (9m FTC) | Plymouth, Devon | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57597515 | Ashdown Group | Part Time Management Accountant | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-rexel-uk-ltd-4493606924 | Rexel UK Ltd | Finance Business Partner | Solihull, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970 | Nucleus Financial | Investment Analyst | Salisbury, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hire-rightt-executive-search-hr-advisory-4488587892 | Hire Rightt - Executive Search & HR Advisory | Management Accountant | England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed
