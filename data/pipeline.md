@@ -1517,5 +1517,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508 | Goldman Sachs | Global Banking & Markets, Structured Credit Strats, London | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813 | Lookers Motor Group Limited | Division Assistant Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701 | DRW | Quantitative Trading Analyst | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095 | Aramco Trading Limited (ATL) | Credit Risk Analyst | London Area, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203 | Cameron Kennedy | Finance Business Partner | Walsall, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/operations-specialist-credit-and-loan-products/57596938 | Michael Page Banking | Operations Specialist - Credit and Loan Products | London | note: via Reed
 
 ## Processed

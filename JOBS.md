@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 21:56** (UK time) · **1075 open roles** at 572 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 00:00** (UK time) · **1078 open roles** at 573 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,41 +10,34 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 21:53** · hourly scan · checked 201 boards · **5 new roles**
+**Sun 22 Nov, 23:57** · hourly scan · checked 201 boards · **3 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-22 | [Division Assistant Accountant](https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813) | Lookers Motor Group Limited | Stoke-On-Trent, England, United Kingdom | ❔ |
-| 2026-11-22 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908) | L3Harris Technologies | Brighton, England, United Kingdom | ❔ |
-
-### Credit CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-22 | [Global Banking & Markets, Structured Credit Strats, London](https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508) | Goldman Sachs | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203) | Cameron Kennedy | Walsall, England, United Kingdom | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 2
+### Credit CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-22 | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830) | Moody's Corporation | London, England, United Kingdom | ✅ |
-| 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) | Aramco Trading Limited | London Area, United Kingdom | ✅ |
+| — | [Operations Specialist - Credit and Loan Products](https://www.reed.co.uk/jobs/operations-specialist-credit-and-loan-products/57596938) | Michael Page Banking | London | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (209 matching)
+**Finance (FP&A) CV** (210 matching)
 
 1. [Commercial Finance Analyst - Southampton](https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492813489) · Giacom · Southampton, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 
-**Credit CV** (98 matching)
+**Credit CV** (99 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
-2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
+2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) · Aramco Trading Limited · London Area, United Kingdom · posted 2026-11-22 · ✅
 
 **Equity CV** (52 matching)
 
@@ -76,6 +69,24 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>23:57</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 2</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203) | Cameron Kennedy | Walsall, England, United Kingdom | ✅ |
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) | Aramco Trading Limited | London Area, United Kingdom | ✅ |
+| — | [Operations Specialist - Credit and Loan Products](https://www.reed.co.uk/jobs/operations-specialist-credit-and-loan-products/57596938) | Michael Page Banking | London | ❔ |
+
+</details>
 
 <details>
 <summary><b>21:53</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 1 · Other 2</summary>
@@ -1403,34 +1414,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-### Sunday 15 November
-
-<sub>Nothing new at: 23:15</sub>
-
-<details>
-<summary><b>22:58</b> · hourly scan · <b>4 new</b> → Finance 3 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
-| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
-| 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Financial Controller - Private Credit](https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482) | Aria Partners | London Area, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (569)](#finance-fpa-cv-569) · [Credit (146)](#credit-cv-146) · [Equity (62)](#equity-cv-62) · [Investment (106)](#investment-ib--pe-cv-106) · [Consulting (16)](#consulting-cv-16) · [Real Estate (19)](#real-estate-cv-19) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (125)](#other-fits-no-cv-closely-may-still-be-worth-a-look-125)
+Everything matched so far, newest first within each CV: [Finance (570)](#finance-fpa-cv-570) · [Credit (148)](#credit-cv-148) · [Equity (62)](#equity-cv-62) · [Investment (106)](#investment-ib--pe-cv-106) · [Consulting (16)](#consulting-cv-16) · [Real Estate (19)](#real-estate-cv-19) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (125)](#other-fits-no-cv-closely-may-still-be-worth-a-look-125)
 
-### Finance (FP&A) CV: 569
+### Finance (FP&A) CV: 570
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1438,6 +1426,7 @@ Everything matched so far, newest first within each CV: [Finance (569)](#finance
 | 2026-11-22 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-ingram-micro-4475443932) | Ingram Micro | Northwich, England, United Kingdom | ✅ |
 | 2026-11-22 | [FP&A Analyst (Remote)](https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4493177703) | Joblet-AI | United Kingdom | ❔ |
 | 2026-11-22 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627) | Universal Music Group UK | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203) | Cameron Kennedy | Walsall, England, United Kingdom | ✅ |
 | 2026-11-22 | [Commercial Analyst (Data Centres and Industrials)](https://www.linkedin.com/jobs/view/commercial-analyst-data-centres-and-industrials-at-octopus-energy-4469173058) | Octopus Energy | London, England, United Kingdom | ✅ |
 | 2026-11-22 | [Management Accountant - Family Office](https://www.linkedin.com/jobs/view/management-accountant-family-office-at-aria-partners-4490314348) | Aria Partners | London Area, United Kingdom | ❔ |
 | 2026-11-22 | [Finance Business Partner (FTSE 250- multi role campaign)](https://www.linkedin.com/jobs/view/finance-business-partner-ftse-250-multi-role-campaign-at-jss-4492359398) | JSS | Hertfordshire, England, United Kingdom | ❔ |
@@ -2004,12 +1993,14 @@ Everything matched so far, newest first within each CV: [Finance (569)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 146
+### Credit CV: 148
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-22 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) | Aramco Trading Limited | London Area, United Kingdom | ✅ |
 | 2026-11-22 | [Credit Portfolio Group - XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://www.linkedin.com/jobs/view/credit-portfolio-group-xva-pricing-capital-solutions-emea-analyst-or-associate-at-jpmorganchase-4477860979) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-22 | [Global Banking & Markets, Structured Credit Strats, London](https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508) | Goldman Sachs | London, England, United Kingdom | ✅ |
+| — | [Operations Specialist - Credit and Loan Products](https://www.reed.co.uk/jobs/operations-specialist-credit-and-loan-products/57596938) | Michael Page Banking | London | ❔ |
 | 2026-11-21 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-ascot-group-4475238459) | Ascot Group | London, England, United Kingdom | ✅ |
 | 2026-11-21 | [Fund Controller - Private Credit Hybrid Working](https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600) | eFinancialCareers | London | ✅ |
 | 2026-11-21 | [Forward Deployed Investment Professional, Private Credit](https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415) | Harvey | London Area, United Kingdom | ✅ |
@@ -2548,7 +2539,7 @@ Everything matched so far, newest first within each CV: [Finance (569)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>84 roles taken off the list because the firm closed the posting</summary>
+<summary>83 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2635,6 +2626,5 @@ Everything matched so far, newest first within each CV: [Finance (569)](#finance
 | Mon 16 Nov, 22:15 | Credit Analyst (Commercial Real Estate) | Montpellier Resourcing |
 | Mon 16 Nov, 12:13 | Corporate Credit Analyst | Montpellier Resourcing |
 | Mon 16 Nov, 12:11 | Management Accountant (Healthcare) | Edward Mann |
-| Sun 15 Nov, 23:17 | Equity Research Analyst, European Real Estate, Global Bank | Greenwich Partners |
 
 </details>
