@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 828 firms checked, 441 matched, 387 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 832 firms checked, 441 matched, 391 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (387)
+## Not found (391)
 
 - 93 MGMT
 - AAA Global
@@ -38,6 +38,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Aria Partners
 - Armstrong Watson
 - Arup
+- Ashdown Group
 - Aster Group
 - Aster Group UK
 - Atkinson Moss
@@ -66,6 +67,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bruin
 - Bruntwood SciTech
 - Burman Recruitment
+- Butler Rose
 - CAMMACH BRYANT LIMITED
 - CIBC
 - CLARC Recruitment
@@ -345,6 +347,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Talent Guardian
 - Talentedge
 - Talk Staff
+- The Automobile Association
+- The Global Institute for Health and Human Rights
 - The Niche Partnership
 - The Scottish National Investment Bank
 - ThinkMarkets

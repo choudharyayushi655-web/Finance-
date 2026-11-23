@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:00:40.826Z",
+ "generated_at": "2026-11-23T02:57:34.961Z",
  "order": [
   "finance",
   "credit",
@@ -5639,6 +5639,31 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": -1
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-i-iii-at-the-global-institute-for-health-and-human-rights-4493603355": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/commercial-analyst-driving-school/57599453": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/management-accountant-ftc/57599741": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/management-accountant-9m-ftc/57596203": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/part-time-management-accountant/57597515": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }

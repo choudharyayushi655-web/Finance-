@@ -317,6 +317,11 @@
    "register_name": "ASCOT INTERNATIONAL (1996) LIMITED",
    "match": "exact"
   },
+  "Ashdown Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ashurst Perkins Coie": {
    "licensed": true,
    "register_name": "Ashurst Perkins Coie (International) LLP",
@@ -663,6 +668,11 @@
    "match": "none"
   },
   "Burman Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Butler Rose": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3637,6 +3647,11 @@
    "register_name": "Teya Europe Ltd",
    "match": "exact"
   },
+  "The Automobile Association": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "The Citco Group Limited": {
    "licensed": true,
    "register_name": "Citco London Ltd",
@@ -3656,6 +3671,11 @@
    "licensed": true,
    "register_name": "Dune Advisors Limited",
    "match": "prefix"
+  },
+  "The Global Institute for Health and Human Rights": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "The Niche Partnership": {
    "licensed": false,

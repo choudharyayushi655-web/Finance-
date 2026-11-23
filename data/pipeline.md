@@ -1520,5 +1520,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095 | Aramco Trading Limited (ATL) | Credit Risk Analyst | London Area, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203 | Cameron Kennedy | Finance Business Partner | Walsall, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/operations-specialist-credit-and-loan-products/57596938 | Michael Page Banking | Operations Specialist - Credit and Loan Products | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-i-iii-at-the-global-institute-for-health-and-human-rights-4493603355 | The Global Institute for Health and Human Rights | Fund Accountant I-III | Newry Mourne And Down, Northern Ireland, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst-driving-school/57599453 | The Automobile Association | Commercial Analyst - Driving School | Cardiff, South Glamorgan | posted: 2026-11-22 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant-ftc/57599741 | Reed | Management Accountant FTC | Bristol, Avon | posted: 2026-11-22 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant-9m-ftc/57596203 | Butler Rose | Management Accountant (9m FTC) | Plymouth, Devon | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57597515 | Ashdown Group | Part Time Management Accountant | London | note: via Reed
 
 ## Processed
