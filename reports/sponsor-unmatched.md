@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 854 firms checked, 448 matched, 406 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 874 firms checked, 449 matched, 425 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (406)
+## Not found (425)
 
 - 93 MGMT
 - AAA Global
@@ -20,6 +20,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Accenture (alias not on current register (accenture song brand uk limited))
 - Accountable Recruitment
 - Accountable Recruitment Limited
+- Accountancy Action
 - Addington Ball Recruitment Ltd
 - Adyen
 - Agility
@@ -32,6 +33,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ampa - Legal & Professional Services
 - Anderson Knight
 - Annonymous
+- Anonymous Company Profile
 - Apollo Global Management, Inc.
 - Appcastenterprise
 - Arcade Food Halls
@@ -73,6 +75,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Burman Recruitment
 - Butler Rose
 - CAMMACH BRYANT LIMITED
+- CFP Energy - France
 - CIBC
 - CLARC Recruitment
 - CMA Recruitment Group
@@ -83,6 +86,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - COREcruitment Ltd
 - CVC Marathon
 - Calastone
+- Camino Search
 - Candidate Source - TEAM
 - Capital Outsourcing Group Ltd
 - Caravel
@@ -96,12 +100,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates
+- CityGrad
 - Clarkson Owens Recruitment Limited
 - ClearScore
 - Clearwater People Solutions Ltd
 - Client Server
 - Cobalt Recruitment
 - Cobb & Jones Recruitment Limited
+- Cognitive Credit
 - Coinbase
 - Collins Aerospace
 - Connect Recruitment Consultants Ltd.
@@ -124,6 +130,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
 - Dŵr Cymru Welsh Water
+- EA First
 - EFG Private Banking
 - Eaton Syalon Ltd
 - Echo
@@ -134,6 +141,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Equifind
 - Ernest Gordon Recruitment Limited
 - Escape Recruitment Services
+- Essential Employment
 - Everet Marsh
 - Executive Talent Solutions
 - F5
@@ -150,6 +158,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Futures
 - GIC
 - GP Fund Solutions
+- GREENE KING BREWING & RETAILING
 - GSR Markets
 - Gemini
 - Gen II Fund Services
@@ -169,11 +178,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Halliday Marx
 - Handpicked Recruitment
 - Handpicked Recruitment Limited
+- Harcourt Matthews
 - Hargreaves Land
 - Harley-Davidson Motor Company
 - Harnham
 - Harnham - Data & Analytics Recruitment
 - Harper May Ltd
+- Hastings Direct
 - Hawke Search
 - Hays Specialist Recruitment Limited
 - Headstar
@@ -249,6 +260,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Martis Search
 - Matched Group
 - McGinnis Loy Associates Ltd
+- Medlock Partners
+- Medlock Partners Limited
 - Meraki Talent
 - Meraki Talent Limited
 - Metis Search
@@ -258,6 +271,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Mint Velvet
 - Mitchell Adam
 - Mollie
+- Mondrian Delta
 - Monmouthshire Building Society
 - Montpellier Resourcing
 - Morgan Hunt Recruitment
@@ -308,6 +322,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Reckitt
 - Reed
 - Rendall & Rittner
+- Resourcery Group
 - Retirement Villages Group Ltd
 - Richard James Recruitment Specialists Ltd
 - Roberts Bakery 1887
@@ -336,6 +351,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Select Tech
 - Sellick Partnership
 - Sharp Consultancy
+- Sharp Europe
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
@@ -387,6 +403,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
 - Vermelo RPO
+- Vero Recruitment
 - Vertex Associates - Accountancy and Finance Recruitment
 - Viatris
 - Vistry Group
@@ -398,12 +415,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Walker Dendle Financial Recruitment
 - Warner Recruitment Limited
 - Watson-Marlow Fluid Technology Solutions
+- Wesco
 - Wilkinson and Associates
 - WorldQuant
 - XPS Group
 - Yolk Recruitment Ltd
 - Zachary Daniels
 - Zego
+- Zenobē
 - abrdn
 - deverellsmith
 - hireful.
