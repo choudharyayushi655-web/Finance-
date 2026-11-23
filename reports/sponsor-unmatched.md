@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 835 firms checked, 443 matched, 392 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 854 firms checked, 448 matched, 406 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (392)
+## Not found (406)
 
 - 93 MGMT
 - AAA Global
@@ -31,6 +31,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Altum Consulting
 - Ampa - Legal & Professional Services
 - Anderson Knight
+- Annonymous
 - Apollo Global Management, Inc.
 - Appcastenterprise
 - Arcade Food Halls
@@ -48,7 +49,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Axon Moore Group Ltd
 - B&Q
 - BAT
+- BNP Paribas Personal Finance
+- BOC UK & Ireland
 - BOLDSCIENCE
+- Baker Charles
 - Barbara Houghton Associates Limited
 - Believ
 - Belmont Search Ltd
@@ -94,6 +98,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - City Recruitment Associates
 - Clarkson Owens Recruitment Limited
 - ClearScore
+- Clearwater People Solutions Ltd
 - Client Server
 - Cobalt Recruitment
 - Cobb & Jones Recruitment Limited
@@ -128,6 +133,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Elevation Recruitment Group
 - Equifind
 - Ernest Gordon Recruitment Limited
+- Escape Recruitment Services
 - Everet Marsh
 - Executive Talent Solutions
 - F5
@@ -185,9 +191,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - IAG Transform
 - IMC Trading
 - IN2 Consult
+- ISS Facility Services UK
 - IVC Evidensia
 - In2 Consult
 - Insight Recruitment Solutions Limited
+- Insite Energy
 - Integris
 - Interactive Investor (alias not on current register (interactive investor services ltd))
 - Inventum Group
@@ -282,6 +290,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pavilion Recruitment Solutions
 - Payhawk
 - Peace Recruitment
+- Pertemps Scotland
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
 - Portman Finance Group
@@ -295,6 +304,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - RG Consultancy Ltd
 - Ramsey Portia
 - Randstad Finance
+- Raymond James, Thorpe Park Leeds
 - Reckitt
 - Reed
 - Rendall & Rittner
@@ -338,6 +348,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Strand Hill
 - Summit Energy Europe
 - Swoop Funding
+- T2M Resourcing Ltd
 - TCR
 - TCS
 - TMR Group Ltd
@@ -348,6 +359,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Talent Guardian
 - Talentedge
 - Talk Staff
+- Tether.io
 - The Automobile Association
 - The Global Institute for Health and Human Rights
 - The Niche Partnership
@@ -366,6 +378,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Undisclosed
 - Univar Solutions
 - VIA MATCH LIMITED
+- VNI Finance
 - Valeo Foods UK
 - Valuations
 - Vecta
@@ -375,6 +388,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Veracious Talent Partners Ltd
 - Vermelo RPO
 - Vertex Associates - Accountancy and Finance Recruitment
+- Viatris
 - Vistry Group
 - Vitae Financial Recruitment
 - Vitae Financial Recruitment Limited

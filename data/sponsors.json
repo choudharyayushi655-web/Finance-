@@ -222,6 +222,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Annonymous": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aon": {
    "licensed": true,
    "register_name": "Aon UK  Limited",
@@ -432,10 +437,20 @@
    "register_name": "BNP Paribas London Branch",
    "match": "exact"
   },
+  "BNP Paribas Personal Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BNY": {
    "licensed": true,
    "register_name": "Bank of New York Mellon",
    "match": "alias"
+  },
+  "BOC UK & Ireland": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "BOLDSCIENCE": {
    "licensed": false,
@@ -471,6 +486,11 @@
    "licensed": true,
    "register_name": "Robert W. Baird Group Ltd",
    "match": "alias"
+  },
+  "Baker Charles": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Balfour Beatty plc": {
    "licensed": true,
@@ -757,6 +777,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Cambridgeshire and Peterborough NHS Foundation Trust": {
+   "licensed": true,
+   "register_name": "Cambridgeshire & Peterborough NHS Foundation Trust",
+   "match": "exact"
+  },
   "Cameron Kennedy": {
    "licensed": true,
    "register_name": "CKR CONSULTANTS LTD T/A CAMERON KENNEDY",
@@ -928,6 +953,11 @@
    "match": "alias"
   },
   "ClearScore": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Clearwater People Solutions Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1238,6 +1268,11 @@
    "match": "none"
   },
   "Ernest Gordon Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Escape Recruitment Services": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1827,6 +1862,11 @@
    "register_name": "IQ EQ (UK) Services Limited",
    "match": "exact"
   },
+  "ISS Facility Services UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ITRS": {
    "licensed": true,
    "register_name": "ITRS Group Ltd",
@@ -1858,6 +1898,11 @@
    "match": "exact"
   },
   "Insight Recruitment Solutions Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Insite Energy": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2247,6 +2292,11 @@
    "register_name": null,
    "match": "none"
   },
+  "MNK Group": {
+   "licensed": true,
+   "register_name": "MNK International Limited",
+   "match": "exact"
+  },
   "MS Amlin": {
    "licensed": true,
    "register_name": "MS Amlin Corporate Services Limited",
@@ -2391,6 +2441,11 @@
    "licensed": true,
    "register_name": "MediaKind Systems UK Limited",
    "match": "prefix"
+  },
+  "Medpace": {
+   "licensed": true,
+   "register_name": "Medpace UK Limited",
+   "match": "exact"
   },
   "Meraki Talent": {
    "licensed": false,
@@ -2667,6 +2722,11 @@
    "register_name": "Northern Trust Management Services Limited",
    "match": "alias"
   },
+  "Nottingham Building Society": {
+   "licensed": true,
+   "register_name": "Nottingham Building Society",
+   "match": "exact"
+  },
   "Novuna": {
    "licensed": false,
    "register_name": null,
@@ -2922,6 +2982,11 @@
    "register_name": "PERIGUS ENERGY UK LIMITED",
    "match": "exact"
   },
+  "Pertemps Scotland": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Phoenix Group": {
    "licensed": true,
    "register_name": "Phoenix Group Management Services Limited",
@@ -3088,6 +3153,11 @@
    "match": "exact"
   },
   "Randstad Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Raymond James, Thorpe Park Leeds": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3367,6 +3437,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Severn Trent": {
+   "licensed": true,
+   "register_name": "Severn Trent",
+   "match": "exact"
+  },
   "Sharp Consultancy": {
    "licensed": false,
    "register_name": null,
@@ -3567,6 +3642,11 @@
    "register_name": "T Rowe Price  International Ltd",
    "match": "alias"
   },
+  "T2M Resourcing Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TALA": {
    "licensed": true,
    "register_name": "Tala Energy Ltd",
@@ -3656,6 +3736,11 @@
    "licensed": true,
    "register_name": "Teneo Business Consulting Ltd",
    "match": "alias"
+  },
+  "Tether.io": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Teya": {
    "licensed": true,
@@ -3862,6 +3947,11 @@
    "register_name": null,
    "match": "none"
   },
+  "VNI Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Valeo Foods UK": {
    "licensed": false,
    "register_name": null,
@@ -3926,6 +4016,11 @@
    "licensed": true,
    "register_name": "Vertu Motors plc",
    "match": "exact"
+  },
+  "Viatris": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Virgin Media O2": {
    "licensed": true,
