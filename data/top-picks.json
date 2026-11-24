@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:38:20.244Z",
+ "generated_at": "2026-11-24T21:24:24.338Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 100,
+   "matching": 104,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 51,
+   "matching": 52,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -187,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 31,
+   "matching": 32,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -220,8 +220,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 33,
+   "matching": 35,
    "picks": [
+    {
+     "title": "Assistant Fund Accountant",
+     "company": "Langham Hall",
+     "location": "London Area, United Kingdom",
+     "posted": "2026-11-24",
+     "url": "https://www.linkedin.com/jobs/view/assistant-fund-accountant-at-langham-hall-4493007443",
+     "score": 22,
+     "why": [
+      "Fund Accountant"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Trainee Fund Accountant",
      "company": "Aztec Group",
@@ -231,19 +243,6 @@
      "score": 19,
      "why": [
       "Fund Accountant"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "UK Product Team – NAV & Valuation Oversight - Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-11-03",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341",
-     "score": 19,
-     "why": [
-      "NAV",
-      "Valuation Oversight"
      ],
      "sponsor": true
     }
@@ -1771,11 +1770,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/finance-analyst-pensions-at-brent-council-4488870437": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2411,22 +2405,12 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-sf-partners-4487804567": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-jasperrose-4487524025": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
   "https://www.linkedin.com/jobs/view/2027-finance-graduate-programme-january-2027-at-tui-4489941298": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/accountancy-and-finance-graduate-at-targetjobs-uk-4488692935": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
@@ -3020,11 +3004,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
-  },
-  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400096075": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   },
   "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400098226": {
    "id": "finance",
@@ -6110,6 +6089,131 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
+  },
+  "https://skipton.wd3.myworkdayjobs.com/careers-skipton/job/Skipton-England/Credit-Management-Adviser_JR4395": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 11
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799769": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-s1jobs-4494159732": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analysis-accountant-at-knights-4494390012": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-bear-consulting-uk-ltd-4493047085": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/credit-underwriter-at-allianz-trade-in-uk-ireland-4494190591": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/associate-credit-solutions-growth-middle-market-technology-emea-at-mufg-4494156528": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-intellipro-4494142849": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-at-bnp-paribas-asset-management-4494194094": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/assistant-fund-accountant-at-langham-hall-4493007443": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/fund-controller-private-credit-at-aria-partners-4494416304": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-equifind-4494121933": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-saltgate-4494131194": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-pertemps-network-group-4493020989": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/2027-graduate-talent-program-global-banking-dcm-london-at-ubs-4494183116": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/trainee-finance-assistant-graduate-at-s1jobs-4494162498": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/client-treasury-accounts-assistant-at-trafalgar-house-pensions-administration-4494387455": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/finance-graduate-2027-at-ocado-group-4486413086": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/financial-planning-analysis/57608685": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/credit-analyst-front-office/57608370": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/interim-fp-a-analyst/57608584": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57606176": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/financial-controller/57608483": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 5
+  },
+  "https://www.s1jobs.com/job/assistant-quantity-surveyor-127795811": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/management-accountant-127795807": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

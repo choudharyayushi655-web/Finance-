@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 889 firms checked, 456 matched, 433 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 903 firms checked, 461 matched, 442 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (433)
+## Not found (442)
 
 - 93 MGMT
 - AAA Global
@@ -25,11 +25,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Addington Ball Recruitment Ltd
 - Adyen
 - Agility
+- Aila Recruitment
 - Alan Mitchell
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
 - Alignerr
 - Allianz Commercial
+- Allianz Trade in UK & Ireland
 - Altum Consulting
 - Ampa - Legal & Professional Services
 - Anderson Knight
@@ -57,11 +59,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - BOLDSCIENCE
 - Baker Charles
 - Barbara Houghton Associates Limited
+- Bear Consulting (UK) Ltd
 - Believ
 - Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
 - BioticNRG
+- Bis Henderson
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
@@ -232,6 +236,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kenton Black Finance
 - Klarna
 - Klipboard
+- Knights
 - Kraft Heinz
 - L3Harris Technologies
 - Landbay
@@ -308,6 +313,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pavilion Recruitment Solutions
 - Payhawk
 - Peace Recruitment
+- Pertemps Network Group
 - Pertemps Scotland
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
@@ -386,6 +392,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Tether.io
 - The Automobile Association
 - The Global Institute for Health and Human Rights
+- The Honourable Society of the Middle Temple
 - The Niche Partnership
 - The Scottish National Investment Bank
 - ThinkMarkets
@@ -393,6 +400,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Thunes
 - TipTopJob
 - Tower Transit Group
+- Trafalgar House Pensions Administration
 - Trainline
 - TransUnion
 - Trial Balance Consulting
@@ -436,11 +444,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - hireful.
 - iMultiply
 - ivee
+- s1jobs
 - targetjobs UK
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (58)
+## Matched automatically by close name; worth a glance (59)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
@@ -477,6 +486,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)
 - OCS → OCS Consulting plc (prefix)
+- Ocado Group → Ocado Retail Limited (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)
 - Oliver James → Oliver James Homes Ltd (prefix)

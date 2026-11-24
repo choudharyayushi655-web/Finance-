@@ -1642,4 +1642,33 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/accountant-127795561 | S1Jobs | Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-664201 | Scottish public sector | Debt Recovery Officer (Non-Domestic Rates) | Scotland | posted: 2026-11-24 | note: via MyJobScotland
 
+- [ ] https://skipton.wd3.myworkdayjobs.com/careers-skipton/job/Skipton-England/Credit-Management-Adviser_JR4395 | Skipton Building Society | Credit Management Adviser | Skipton, England | posted: 2026-11-24
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799769 | JPMorgan Chase | EMEA Credit Risk Analyst - Diversified Industries | LONDON, United Kingdom | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-s1jobs-4494159732 | s1jobs | FP&A Analyst | Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-aila-recruitment-b-corp%E2%84%A2-4494162952 | Aila Recruitment | B Corp™ | Financial Analyst | Aylesbury, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-accountant-at-knights-4494390012 | Knights | Financial Planning & Analysis Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-bear-consulting-uk-ltd-4493047085 | Bear Consulting (UK) Ltd | Leveraged Finance Credit Analyst | City Of London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-underwriter-at-allianz-trade-in-uk-ireland-4494190591 | Allianz Trade in UK & Ireland | Credit Underwriter | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-credit-solutions-growth-middle-market-technology-emea-at-mufg-4494156528 | MUFG | Associate, Credit Solutions, Growth & Middle Market Technology EMEA | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-intellipro-4494142849 | IntelliPro | Investment Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-at-bnp-paribas-asset-management-4494194094 | BNP Paribas Asset Management | Quantitative Researcher | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-fund-accountant-at-langham-hall-4493007443 | Langham Hall | Assistant Fund Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-credit-at-aria-partners-4494416304 | Aria Partners | Fund Controller - Private Credit | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-equifind-4494121933 | Equifind | Assistant Accountant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-saltgate-4494131194 | Saltgate | Fund Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-trace-expert-accountancy-finance-recruitment-4493001168 | Trace | Expert Accountancy & Finance Recruitment | Fund Accountant | Greater London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-operations-accountant-at-trace-expert-accountancy-finance-recruitment-4492697244 | Trace | Expert Accountancy & Finance Recruitment | Fund Operations Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-pertemps-network-group-4493020989 | Pertemps Network Group | Management Accountant | Stirling, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-graduate-talent-program-global-banking-dcm-london-at-ubs-4494183116 | UBS | 2027 Graduate Talent Program - Global Banking DCM - London | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-finance-assistant-graduate-at-s1jobs-4494162498 | s1jobs | Trainee Finance Assistant ( Graduate ) | Aberdeen, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/client-treasury-accounts-assistant-at-trafalgar-house-pensions-administration-4494387455 | Trafalgar House Pensions Administration | Client Treasury Accounts Assistant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-2027-at-ocado-group-4486413086 | Ocado Group | Finance Graduate 2027 | Hatfield, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-planning-analysis/57608685 | Michael Page Finance | Financial Planning & Analysis | Warrington, Cheshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/credit-analyst-front-office/57608370 | Adecco | Credit Analyst - Front Office | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-fp-a-analyst/57608584 | Mitchell Adam | Interim FP&A Analyst | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57606176 | Bis Henderson | Management Accountant | Warrington, Cheshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-controller/57608483 | The Honourable Society of the Middle Temple | Financial Controller | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127795811 | Gibson Recruitment Limited | Assistant Quantity Surveyor | North Lanarkshire, Scotland | posted: 2026-11-24 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127795807 | Pertemps Scotland | Management Accountant | Stirling, Scotland | posted: 2026-11-24 | note: via S1Jobs
+
 ## Processed

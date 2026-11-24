@@ -157,6 +157,11 @@
    "register_name": "Agora Talent Limited",
    "match": "exact"
   },
+  "Aila Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Airwallex": {
    "licensed": true,
    "register_name": "Airwallex (UK) Limited",
@@ -188,6 +193,11 @@
    "match": "none"
   },
   "Allianz Commercial": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Allianz Trade in UK & Ireland": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -452,6 +462,11 @@
    "register_name": "BNP Paribas London Branch",
    "match": "exact"
   },
+  "BNP Paribas Asset Management": {
+   "licensed": true,
+   "register_name": "BNP PARIBAS ASSET MANAGEMENT SERVICES LIMITED",
+   "match": "exact"
+  },
   "BNP Paribas Personal Finance": {
    "licensed": false,
    "register_name": null,
@@ -547,6 +562,11 @@
    "register_name": "Beamery Ltd",
    "match": "exact"
   },
+  "Bear Consulting (UK) Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Believ": {
    "licensed": false,
    "register_name": null,
@@ -583,6 +603,11 @@
    "match": "none"
   },
   "BioticNRG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Bis Henderson": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1992,6 +2017,11 @@
    "register_name": "Integrity360 Limited",
    "match": "exact"
   },
+  "IntelliPro": {
+   "licensed": true,
+   "register_name": "INTELLIPRO GROUP UK LIMITED",
+   "match": "exact"
+  },
   "Interactive Investor": {
    "licensed": false,
    "register_name": null,
@@ -2162,6 +2192,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Knights": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Kobalt Music": {
    "licensed": true,
    "register_name": "Kobalt Music Group Limited",
@@ -2221,6 +2256,11 @@
    "licensed": true,
    "register_name": "Land Securities Properties Ltd",
    "match": "alias"
+  },
+  "Langham Hall": {
+   "licensed": true,
+   "register_name": "Langham Hall UK Services LLP",
+   "match": "exact"
   },
   "Language Matters": {
    "licensed": false,
@@ -2877,6 +2917,11 @@
    "register_name": "OakNorth Bank Plc",
    "match": "alias"
   },
+  "Ocado Group": {
+   "licensed": true,
+   "register_name": "Ocado Retail Limited",
+   "match": "prefix"
+  },
   "Octavius Finance": {
    "licensed": false,
    "register_name": null,
@@ -3096,6 +3141,11 @@
    "licensed": true,
    "register_name": "PERIGUS ENERGY UK LIMITED",
    "match": "exact"
+  },
+  "Pertemps Network Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Pertemps Scotland": {
    "licensed": false,
@@ -3500,6 +3550,11 @@
   "Salt": {
    "licensed": true,
    "register_name": "SALT Group Limited",
+   "match": "exact"
+  },
+  "Saltgate": {
+   "licensed": true,
+   "register_name": "Saltgate (UK) Limited",
    "match": "exact"
   },
   "Samworth Brothers": {
@@ -3937,6 +3992,11 @@
    "register_name": null,
    "match": "none"
   },
+  "The Honourable Society of the Middle Temple": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "The Niche Partnership": {
    "licensed": false,
    "register_name": null,
@@ -4011,6 +4071,11 @@
    "licensed": true,
    "register_name": "Trading 212 UK Ltd",
    "match": "alias"
+  },
+  "Trafalgar House Pensions Administration": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Trafigura": {
    "licensed": true,
@@ -4431,6 +4496,11 @@
    "licensed": true,
    "register_name": "px Limited",
    "match": "exact"
+  },
+  "s1jobs": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "targetjobs UK": {
    "licensed": false,
