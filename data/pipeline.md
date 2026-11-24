@@ -1618,4 +1618,28 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/management-accountant-127795516 | Right People Recruitment Solutions | Management Accountant | Aberdeen Area, Scotland | posted: 2026-11-24 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127795513 | Right People Recruitment Solutions | Trainee Finance Assistant ( Graduate ) | Aberdeen Area, Scotland | posted: 2026-11-24 | note: via S1Jobs
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810854 | JPMorgan Chase | Investment Banking - DACH ECM - Analyst - London | LONDON, LONDON, United Kingdom | posted: 2026-11-24
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157 | JPMorgan Chase | Wholesale Credit Risk - London - 2027 ReEntry Program | LONDON, United Kingdom | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-latus-group-4494133434 | Latus Group | Financial Planning Analyst | Kingston upon Hull, England Metropolitan Area | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-analyst-at-peak-international-group-4494384168 | PEAK International Group | Graduate Finance Analyst | Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-regulated-fintech-at-jss-4492696689 | JSS | FP&A Analyst - Regulated Fintech | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-adecco-4493009037 | Adecco | Credit Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-high-yield-at-mason-blake-4472529321 | Mason Blake | Credit Analyst, High Yield | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-walker-hamill-4482532313 | Walker Hamill | Investment Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-at-bnp-paribas-4494150826 | BNP Paribas | Quantitative Researcher | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategic-financial-analyst-at-aej-consulting-ltd-4494117688 | AEJ Consulting Ltd | Strategic Financial Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-analyst-%E2%80%93-investment-banking-power-utilities-renewables-at-guggenheim-securities-4424905541 | Guggenheim Securities | Experienced Analyst – Investment Banking, Power, Utilities & Renewables | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-services-investment-banking-associate-%E2%80%93-london-at-tandem-search-4481450688 | Tandem Search | Business Services Investment Banking Associate – London | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-livgreen-retrofit-specialists-4494156151 | LivGreen - Retrofit Specialists | FP&A Analyst | Greater Bristol Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-management-accountant-at-pilgrim-s-europe-4494384571 | Pilgrim's Europe | Management Accountant, Management Accountant | Dungannon, Northern Ireland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-t2m-resourcing-4494104752 | T2M Resourcing | Management Accountant | Kidderminster, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-tarmac-4486829067 | Tarmac | Finance Graduate | Solihull, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/interim-capital-accountant/57606350 | Morgan Law | Interim Capital Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-property-accountant/57606286 | Reed | Assistant Property Accountant | Norwich, Norfolk | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57607942 | Rutherford Briant | Management Accountant | Cambridge, Cambridgeshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57607222 | Trinity House Group | Graduate Finance Assistant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant-maternity-cover/57608282 | Centre People Appointments | Financial Accountant (Maternity Cover) | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/accountant-127795561 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-664201 | Scottish public sector | Debt Recovery Officer (Non-Domestic Rates) | Scotland | posted: 2026-11-24 | note: via MyJobScotland
+
 ## Processed

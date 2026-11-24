@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 879 firms checked, 452 matched, 427 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 889 firms checked, 456 matched, 433 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (427)
+## Not found (433)
 
 - 93 MGMT
 - AAA Global
@@ -237,9 +237,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Landbay
 - Language Matters
 - Larbey Evans
+- Latus Group
 - Lemonade
 - Lightsource bp
 - Lightspeed Commerce
+- LivGreen - Retrofit Specialists
 - Lookers Motor Group Limited
 - Lord Accounting & Finance
 - Lorien
@@ -259,6 +261,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Marlin Selection Recruitment
 - Marshall & Machado Recruitment Services Ltd
 - Martis Search
+- Mason Blake
 - Matched Group
 - McGinnis Loy Associates Ltd
 - Medlock Partners
@@ -333,6 +336,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Rothstein Recruitment
 - Royal Caribbean Group
 - Rushlift GSE
+- Rutherford Briant
 - S1Jobs
 - SD Business Management
 - SENSIBAL RECRUITMENT LTD
@@ -366,6 +370,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Strand Hill
 - Summit Energy Europe
 - Swoop Funding
+- T2M Resourcing
 - T2M Resourcing Ltd
 - TCR
 - TCS
@@ -377,6 +382,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Talent Guardian
 - Talentedge
 - Talk Staff
+- Tandem Search
 - Tether.io
 - The Automobile Association
 - The Global Institute for Health and Human Rights
@@ -434,7 +440,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (56)
+## Matched automatically by close name; worth a glance (58)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
@@ -475,6 +481,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ohme → Ohme Operations UK Limited (prefix)
 - Oliver James → Oliver James Homes Ltd (prefix)
 - Orbit Group → Orbit Partners Limited (prefix)
+- PEAK International Group → Peak Retail Ltd (prefix)
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
 - Pliant → Pliant Payments Limited (prefix)
@@ -487,6 +494,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Standard Chartered → Standard Chartered Bank (prefix)
 - SumUp → SumUp Payments Limited (prefix)
 - TALA → Tala Energy Ltd (prefix)
+- Tarmac → Tarmac Trading Limited (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
 - Universal Music Group UK → Universal Music Operations Ltd (prefix)

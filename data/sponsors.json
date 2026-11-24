@@ -907,6 +907,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Centre People Appointments": {
+   "licensed": true,
+   "register_name": "Centre People Appointments Limited",
+   "match": "exact"
+  },
   "Centrica": {
    "licensed": true,
    "register_name": "Centrica plc",
@@ -2227,6 +2232,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Latus Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lazard": {
    "licensed": true,
    "register_name": "Lazard & Co., Services Limited",
@@ -2281,6 +2291,11 @@
    "licensed": true,
    "register_name": "Lincoln International LLP",
    "match": "exact"
+  },
+  "LivGreen - Retrofit Specialists": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Lloyd's of London": {
    "licensed": true,
@@ -2483,6 +2498,11 @@
    "match": "alias"
   },
   "Martis Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Mason Blake": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2932,6 +2952,11 @@
    "register_name": null,
    "match": "none"
   },
+  "PEAK International Group": {
+   "licensed": true,
+   "register_name": "Peak Retail Ltd",
+   "match": "prefix"
+  },
   "PER": {
    "licensed": false,
    "register_name": null,
@@ -3081,6 +3106,11 @@
    "licensed": true,
    "register_name": "Phoenix Group Management Services Limited",
    "match": "alias"
+  },
+  "Pilgrim's Europe": {
+   "licensed": true,
+   "register_name": "Pilgrims Group Ltd",
+   "match": "exact"
   },
   "Platinum Recruitment Group": {
    "licensed": false,
@@ -3373,6 +3403,11 @@
    "match": "exact"
   },
   "Rushlift GSE": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Rutherford Briant": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3752,6 +3787,11 @@
    "register_name": "T Rowe Price  International Ltd",
    "match": "alias"
   },
+  "T2M Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "T2M Resourcing Ltd": {
    "licensed": false,
    "register_name": null,
@@ -3836,6 +3876,16 @@
    "licensed": true,
    "register_name": "Tandem Bank Limited",
    "match": "alias"
+  },
+  "Tandem Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Tarmac": {
+   "licensed": true,
+   "register_name": "Tarmac Trading Limited",
+   "match": "prefix"
   },
   "Tarmac Trading Limited": {
    "licensed": true,
