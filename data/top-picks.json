@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:44:25.208Z",
+ "generated_at": "2026-11-24T01:04:18.071Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 220,
+   "matching": 221,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 100,
+   "matching": 98,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 53,
+   "matching": 50,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -187,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -220,7 +220,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 35,
+   "matching": 33,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -4150,11 +4150,6 @@
    "cv": "Credit CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/portfolio-underwriting-analyst-at-broaden-4490460264": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 17
-  },
   "https://www.linkedin.com/jobs/view/investment-analyst-real-estate-private-equity-at-belmont-search-ltd-4491177792": {
    "id": "real_estate",
    "cv": "Real Estate CV",
@@ -5850,11 +5845,6 @@
    "cv": "Credit CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-france-4493699844": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 23
-  },
   "https://www.linkedin.com/jobs/view/analyst-credit-and-collections-at-wesco-4486152747": {
    "id": "credit",
    "cv": "Credit CV",
@@ -5979,6 +5969,36 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/finance-associate-nq-aca-ca-at-aria-partners-4493644917": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57602485": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/fund-accountant-fund-control-alternatives-and-or-private-credit-premier-hedge-fund-cassonx/57603395": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57602830": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127793487": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

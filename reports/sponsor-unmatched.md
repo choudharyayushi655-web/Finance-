@@ -1,16 +1,17 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 874 firms checked, 449 matched, 425 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 876 firms checked, 450 matched, 426 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (425)
+## Not found (426)
 
 - 93 MGMT
 - AAA Global
 - ACCA Careers
 - ACL Partners
 - AD Finance
+- ADAPRO TALENT PARTNERS LTD
 - AEJ Consulting Ltd
 - ALF Recruit
 - AMS Public Sector Resourcing
@@ -432,13 +433,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (55)
+## Matched automatically by close name; worth a glance (56)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
 - Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)
 - Balfour Beatty plc → Balfour Beatty Group Employment Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
+- Barclay Simpson → Barclay Simpson Solutions (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
 - CSC → CSC MANAGEMENT SERVICES (UK) LIMITED (prefix)

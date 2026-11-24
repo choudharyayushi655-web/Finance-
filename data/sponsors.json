@@ -42,6 +42,11 @@
    "register_name": null,
    "match": "none"
   },
+  "ADAPRO TALENT PARTNERS LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "AEJ Consulting Ltd": {
    "licensed": false,
    "register_name": null,
@@ -521,6 +526,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Barclay Simpson": {
+   "licensed": true,
+   "register_name": "Barclay Simpson Solutions",
+   "match": "prefix"
   },
   "Barclays": {
    "licensed": true,

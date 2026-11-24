@@ -1596,5 +1596,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-nec-127793480 | S1Jobs | Quantity Surveyor Nec | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/financial-controller-127793540 | GREENE KING BREWING & RETAILING | Financial Controller | Highland, Scotland | posted: 2026-11-23 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/accountant-xero-127793534 | GREENE KING BREWING & RETAILING | Accountant Xero | Highland, Scotland | posted: 2026-11-23 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733 | Barclay Simpson | Investment Risk Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-credit-2-4-years-pqe-at-93-mgmt-4492605937 | 93 MGMT | Fund Controller | Private Credit 2-4 Years PQE | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-nq-aca-ca-at-aria-partners-4493644917 | Aria Partners | Finance Associate - NQ ACA / CA | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57602485 | Robert Half | Finance Business Partner | London | posted: 2026-11-23 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fund-accountant-fund-control-alternatives-and-or-private-credit-premier-hedge-fund-cassonx/57603395 | eFinancialCareers | Fund Accountant / Fund Control - Alternatives and/or Private Credit - Premier Hedge Fund - CassonX | London | posted: 2026-11-23 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57602830 | ADAPRO TALENT PARTNERS LTD | Management Accountant | Leicester, Leicestershire | posted: 2026-11-23 | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127793487 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed
