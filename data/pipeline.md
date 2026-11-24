@@ -1603,5 +1603,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/fund-accountant-fund-control-alternatives-and-or-private-credit-premier-hedge-fund-cassonx/57603395 | eFinancialCareers | Fund Accountant / Fund Control - Alternatives and/or Private Credit - Premier Hedge Fund - CassonX | London | posted: 2026-11-23 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57602830 | ADAPRO TALENT PARTNERS LTD | Management Accountant | Leicester, Leicestershire | posted: 2026-11-23 | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127793487 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386 | Robertson Wright | M&A Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-controller/57604479 | eFinancialCareers | Financial Controller | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127793484 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed

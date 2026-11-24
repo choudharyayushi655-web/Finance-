@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T01:04:18.071Z",
+ "generated_at": "2026-11-24T05:08:29.953Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 221,
+   "matching": 222,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -187,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 31,
+   "matching": 30,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -814,11 +814,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 7
-  },
-  "https://www.linkedin.com/jobs/view/financial-controller-at-equifind-4488161616": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 5
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-marks-sattin-4486248562": {
    "id": "finance",
@@ -3005,11 +3000,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/group-management-accountant-at-kennedy-pearce-consulting-4488907790": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
   "https://scotjobsnet.co.uk/job/temporary-assistant-accountant-2/": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3660,11 +3650,6 @@
    "cv": "Credit CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/graduate-credit-policy-analyst-at-targetjobs-uk-4489768712": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/ratings-analyst-credit-at-brookfield-4483554191": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3679,11 +3664,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/analyst-asset-management-at-greystar-international-4489799344": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/m-a-analyst-financial-modelling-at-mdm-resourcing-4489755233": {
    "id": "investment",
@@ -5996,6 +5976,21 @@
    "score": 14
   },
   "https://www.s1jobs.com/job/quantity-surveyor-127793487": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/financial-controller/57604479": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127793484": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
