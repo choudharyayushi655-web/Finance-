@@ -1087,6 +1087,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Coventry University": {
+   "licensed": true,
+   "register_name": "Coventry University",
+   "match": "exact"
+  },
   "Crossing Hurdles": {
    "licensed": false,
    "register_name": null,
@@ -3292,6 +3297,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Right People Recruitment Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Rightmove": {
    "licensed": true,
    "register_name": "Rightmove Group Ltd",
@@ -3720,6 +3730,11 @@
   "Susquehanna": {
    "licensed": true,
    "register_name": "Susquehanna UK Limited",
+   "match": "exact"
+  },
+  "Swiss Re": {
+   "licensed": true,
+   "register_name": "Swiss Re Services Ltd",
    "match": "exact"
   },
   "Swoop Funding": {

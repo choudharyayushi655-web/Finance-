@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 876 firms checked, 450 matched, 426 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 879 firms checked, 452 matched, 427 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (426)
+## Not found (427)
 
 - 93 MGMT
 - AAA Global
@@ -326,6 +326,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Resourcery Group
 - Retirement Villages Group Ltd
 - Richard James Recruitment Specialists Ltd
+- Right People Recruitment Solutions
 - Roberts Bakery 1887
 - Robertson Bell
 - Robertson Wright

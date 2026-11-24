@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:08:29.953Z",
+ "generated_at": "2026-11-24T11:05:52.837Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 222,
+   "matching": 225,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 98,
+   "matching": 99,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -1296,11 +1296,6 @@
    "score": 8
   },
   "https://job-boards.greenhouse.io/blockchain/jobs/8359982": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://job-boards.greenhouse.io/blockchain/jobs/8289214": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
@@ -2904,11 +2899,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/credit-risk-modeller-at-datalink-recruitment-4490368527": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
   },
   "https://www.reed.co.uk/jobs/portfolio-analyst--portfolio-implementation-trade-execution--iad--wealth-management-jj-search/57564151": {
    "id": "equity",
@@ -5991,6 +5981,61 @@
    "score": 8
   },
   "https://www.s1jobs.com/job/quantity-surveyor-127793484": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-goodman-masson-4494308715": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/risk-underwriter-trade-credit-at-swiss-re-4468091960": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-associate-real-estate-debt-at-belmont-search-ltd-4494320535": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/financial-control-accountant-at-coventry-university-4492689548": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-pq-at-hays-4494311850": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-cmc-consulting-ltd-4492696214": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.s1jobs.com/job/accountant-127795530": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127795523": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/reporting-accountant-127795520": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.s1jobs.com/job/management-accountant-127795516": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127795513": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0

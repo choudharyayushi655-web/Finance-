@@ -1606,5 +1606,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386 | Robertson Wright | M&A Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-controller/57604479 | eFinancialCareers | Financial Controller | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127793484 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-goodman-masson-4494308715 | Goodman Masson | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-underwriter-trade-credit-at-swiss-re-4468091960 | Swiss Re | Risk Underwriter- Trade Credit | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-associate-real-estate-debt-at-belmont-search-ltd-4494320535 | Belmont Search Ltd | Investment Analyst/Associate - Real Estate Debt | Greater London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-control-accountant-at-coventry-university-4492689548 | Coventry University | Financial Control Accountant | Coventry, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-pq-at-hays-4494311850 | Hays | Assistant Management Accountant - PQ | Leeds, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-cmc-consulting-ltd-4492696214 | CMC Consulting Ltd | Management Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/accountant-127795530 | Right People Recruitment Solutions | Accountant | Aberdeen Area, Scotland | posted: 2026-11-24 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127795523 | Right People Recruitment Solutions | Management Accountant 1 Year Contract Part Time | Aberdeenshire, Scotland | posted: 2026-11-24 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/reporting-accountant-127795520 | Right People Recruitment Solutions | Reporting Accountant | Aberdeen Area, Scotland | posted: 2026-11-24 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127795516 | Right People Recruitment Solutions | Management Accountant | Aberdeen Area, Scotland | posted: 2026-11-24 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127795513 | Right People Recruitment Solutions | Trainee Finance Assistant ( Graduate ) | Aberdeen Area, Scotland | posted: 2026-11-24 | note: via S1Jobs
 
 ## Processed
