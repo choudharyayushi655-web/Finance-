@@ -1678,5 +1678,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Manchester-United-Kingdom/Technology-Risk-Analyst_184040-3 | Vanguard | Technology Risk Analyst | Manchester, United Kingdom | posted: 2026-11-25
 - [ ] https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1 | AIG | Capital Modelling Risk Analyst | London | posted: 2026-11-24
 - [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-sumer-4484208673 | Sumer | M&A Associate | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-aggreko-4479208285 | Aggreko | Finance Analyst | Dumbarton, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724 | JPMorganChase | EMEA Credit Risk Analyst - Diversified Industries | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/high-yield-credit-analyst-at-natixis-corporate-investment-banking-4493094849 | Natixis Corporate & Investment Banking | High Yield Credit Analyst | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-asset-management-investments-equities-analyst-training-program-london-at-jpmorganchase-4494482346 | JPMorganChase | 2027 Asset Management Investments - Equities - Analyst Training Program - London | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/credit-modeller-ii-based-in-mauritius-the-mauritius-commercial-bank-limited/57610120 | eFinancialCareers | Credit Modeller II Based in Mauritius - The Mauritius Commercial Bank Limited | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst-based-in-mauritius-the-mauritius-commercial-bank-limited/57610085 | eFinancialCareers | Finance Analyst Based in Mauritius - The Mauritius Commercial Bank Limited | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fund-accountant/57610649 | Wade Macdonald | Fund Accountant | Basingstoke, Hampshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/project-accountant/57610711 | Seymour John | Project Accountant | Telford, Shropshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/execution-trader-futures-options--private-office/57610125 | MBD Ventures | Execution Trader (Futures & Options) – Private Office | London | note: via Reed
 
 ## Processed

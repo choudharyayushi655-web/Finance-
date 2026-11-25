@@ -147,6 +147,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Aggreko": {
+   "licensed": true,
+   "register_name": "Aggreko UK Limited",
+   "match": "exact"
+  },
   "Agility": {
    "licensed": false,
    "register_name": null,
@@ -2412,6 +2417,11 @@
    "register_name": null,
    "match": "none"
   },
+  "MBD Ventures": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MDM Resourcing": {
    "licensed": false,
    "register_name": null,
@@ -2821,6 +2831,11 @@
    "licensed": true,
    "register_name": "National Grid plc",
    "match": "exact"
+  },
+  "Natixis Corporate & Investment Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Natixis Investment Managers": {
    "licensed": true,
@@ -3641,6 +3656,11 @@
    "licensed": true,
    "register_name": "Severn Trent",
    "match": "exact"
+  },
+  "Seymour John": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Sharp Consultancy": {
    "licensed": false,

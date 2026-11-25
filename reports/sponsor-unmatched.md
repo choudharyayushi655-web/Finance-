@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 906 firms checked, 462 matched, 444 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 910 firms checked, 463 matched, 447 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (444)
+## Not found (447)
 
 - 93 MGMT
 - AAA Global
@@ -255,6 +255,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lottie
 - Lucy Developments
 - MAGMAS
+- MBD Ventures
 - MDM Resourcing
 - MFS Investment Management
 - MacGregor Black
@@ -290,6 +291,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Motorway
 - Murphy
 - NC Associates
+- Natixis Corporate & Investment Banking
 - New Avenues
 - Newlon Housing Trust
 - Nick Buick Associates
@@ -364,6 +366,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Selby Jennings
 - Select Tech
 - Sellick Partnership
+- Seymour John
 - Sharp Consultancy
 - Sharp Europe
 - Sheridan Maine
