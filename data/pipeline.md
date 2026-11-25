@@ -1688,4 +1688,30 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/project-accountant/57610711 | Seymour John | Project Accountant | Telford, Shropshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/execution-trader-futures-options--private-office/57610125 | MBD Ventures | Execution Trader (Futures & Options) – Private Office | London | note: via Reed
 
+- [ ] https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London-Capital-House--Redburn/Research-Analyst--Metals---Mining_JR016472 | Rothschild & Co | Research Analyst (ACA/ACCA Qualified or Metals & Mining experience required) | London (Capital House – Redburn) | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-product-at-global-payments-inc-4487062052 | Global Payments Inc. | Financial Analyst - Product | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-reporting-and-analysis-analyst-at-gowling-wlg-4494616655 | Gowling WLG | Financial Reporting and Analysis Analyst | Birmingham, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064 | Michael Page | Commercial Finance Analyst | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-autotrader-4494905507 | Autotrader | Commercial Finance Analyst | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-kennedy-pearce-consulting-4493436081 | Kennedy Pearce Consulting | Financial Analyst | Portsmouth, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-corporate-credit-at-man-group-4494618809 | Man Group | Analyst - Corporate Credit | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-iwoca-4494618453 | iwoca | Credit Strategy Analyst | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-united-utilities-4494483556 | United Utilities | Risk Analyst | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-long-biased-equity-hedge-fund-at-edgworth-partners-4494657050 | Edgworth Partners | Investment Analyst - Long-Biased Equity Hedge Fund | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-deep-tech-financing-and-m-a-at-zaz-ventures-4494623771 | Zaz Ventures | Associate - Deep Tech Financing and M&A | United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-notemachine-uk-ltd-4493420536 | NoteMachine UK Ltd | FP&A Analyst | Crickhowell, Wales, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-fashion-scale-up-southwest-london-4-days-a-week-in-office-at-better-placed-4494617769 | Better Placed | Assistant Management Accountant | Fashion Scale-Up | Southwest London | 4 days a week in office | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-trainee%E2%80%AF-at-sanctuary-graduates-apprentices-4493417096 | Sanctuary Graduates & Apprentices | Finance Graduate Trainee | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-procure-to-pay-at-aveva-4486040689 | AVEVA | Finance Associate -Procure to Pay | Cambridge, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57611307 | Michael Page Finance | Commercial Finance Analyst | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/mandarin-speaking-credit-analyst-banking/57611586 | People First | Mandarin speaking Credit Analyst (Banking) | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57611269 | The American School in London | Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant-london/57611563 | Marks Sattin | Management Accountant - London | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57611554 | Abacus Consulting | Management Accountant | Welwyn Garden City, Hertfordshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/interim-accountant-127801617 | Rutherford Cross | Interim Accountant | City of Edinburgh, Scotland | posted: 2026-11-25 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-127801603 | GH Resourcing limited | Graduate Quantity Surveyor | East Ayrshire, Scotland | posted: 2026-11-25 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-controller-127801582 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127801241 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-sc-cleared-127801101 | S1Jobs | Quantity Surveyor Pqs Sc Cleared | Scotland | note: via S1Jobs
+
 ## Processed

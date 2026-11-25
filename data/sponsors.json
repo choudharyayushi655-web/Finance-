@@ -87,10 +87,20 @@
    "register_name": "ASSA ABLOY Ltd",
    "match": "exact"
   },
+  "AVEVA": {
+   "licensed": true,
+   "register_name": "AVEVA Solutions Ltd",
+   "match": "prefix"
+  },
   "AXA UK": {
    "licensed": true,
    "register_name": "AXA UK Plc",
    "match": "exact"
+  },
+  "Abacus Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Aberdeen": {
    "licensed": true,
@@ -396,6 +406,11 @@
    "licensed": true,
    "register_name": "Autotrader Limited",
    "match": "alias"
+  },
+  "Autotrader": {
+   "licensed": true,
+   "register_name": "Autotrader Limited",
+   "match": "exact"
   },
   "Aviva": {
    "licensed": true,
@@ -1547,6 +1562,11 @@
    "register_name": null,
    "match": "none"
   },
+  "GH Resourcing limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "GIC": {
    "licensed": false,
    "register_name": null,
@@ -1645,6 +1665,11 @@
   "Goodman Masson": {
    "licensed": true,
    "register_name": "Goodman Masson Ltd",
+   "match": "exact"
+  },
+  "Gowling WLG": {
+   "licensed": true,
+   "register_name": "Gowling WLG (UK) LLP",
    "match": "exact"
   },
   "Graham Capital": {
@@ -2897,6 +2922,11 @@
    "register_name": "Northern Trust Management Services Limited",
    "match": "alias"
   },
+  "NoteMachine UK Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nottingham Building Society": {
    "licensed": true,
    "register_name": "Nottingham Building Society",
@@ -3146,6 +3176,11 @@
    "licensed": true,
    "register_name": "Pennon Group",
    "match": "exact"
+  },
+  "People First": {
+   "licensed": true,
+   "register_name": "People First Care (Rennington) Ltd",
+   "match": "prefix"
   },
   "PepsiCo": {
    "licensed": true,
@@ -3483,6 +3518,11 @@
    "match": "none"
   },
   "Rutherford Briant": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Rutherford Cross": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3997,6 +4037,11 @@
    "register_name": "Teya Europe Ltd",
    "match": "exact"
   },
+  "The American School in London": {
+   "licensed": true,
+   "register_name": "The American School in London",
+   "match": "exact"
+  },
   "The Automobile Association": {
    "licensed": false,
    "register_name": null,
@@ -4181,6 +4226,11 @@
    "licensed": true,
    "register_name": "United Infrastructure Management Limited",
    "match": "prefix"
+  },
+  "United Utilities": {
+   "licensed": true,
+   "register_name": "United Utilities PLC",
+   "match": "exact"
   },
   "Univar Solutions": {
    "licensed": false,
@@ -4462,6 +4512,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Zaz Ventures": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Zego": {
    "licensed": false,
    "register_name": null,
@@ -4526,6 +4581,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "iwoca": {
+   "licensed": true,
+   "register_name": "iwoca Limited",
+   "match": "exact"
   },
   "px Group": {
    "licensed": true,

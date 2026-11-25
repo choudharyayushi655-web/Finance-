@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 910 firms checked, 463 matched, 447 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 922 firms checked, 470 matched, 452 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (447)
+## Not found (452)
 
 - 93 MGMT
 - AAA Global
@@ -17,6 +17,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - AMS Public Sector Resourcing
 - ASC Connections Ltd
 - ASDA
+- Abacus Consulting
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
 - Accountable Recruitment
@@ -162,6 +163,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Frontier Agriculture
 - FryerMiles
 - Futures
+- GH Resourcing limited
 - GIC
 - GP Fund Solutions
 - GREENE KING BREWING & RETAILING
@@ -296,6 +298,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Newlon Housing Trust
 - Nick Buick Associates
 - No1 Legal and Professional
+- NoteMachine UK Ltd
 - Novuna
 - Nucleus Commercial Finance
 - OAK LIFE SCIENCE LTD
@@ -347,6 +350,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Royal Caribbean Group
 - Rushlift GSE
 - Rutherford Briant
+- Rutherford Cross
 - S1Jobs
 - SD Business Management
 - SENSIBAL RECRUITMENT LTD
@@ -442,6 +446,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - XPS Group
 - Yolk Recruitment Ltd
 - Zachary Daniels
+- Zaz Ventures
 - Zego
 - Zenobē
 - abrdn
@@ -454,8 +459,9 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (59)
+## Matched automatically by close name; worth a glance (61)
 
+- AVEVA → AVEVA Solutions Ltd (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
 - Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)
@@ -499,6 +505,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PEAK International Group → Peak Retail Ltd (prefix)
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
+- People First → People First Care (Rennington) Ltd (prefix)
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
 - Quantum → Quantum Services Management Ltd (prefix)
