@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 922 firms checked, 470 matched, 452 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 929 firms checked, 475 matched, 454 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (452)
+## Not found (454)
 
 - 93 MGMT
 - AAA Global
@@ -149,6 +149,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ernest Gordon Recruitment Limited
 - Escape Recruitment Services
 - Essential Employment
+- Euro Car Parts Ltd.
 - Everet Marsh
 - Executive Talent Solutions
 - F5
@@ -316,6 +317,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
 - Palatine Talent
+- Paragon Alpha - Hedge Fund Talent Business
 - Pave Bank
 - Pavilion Recruitment Solutions
 - Payhawk

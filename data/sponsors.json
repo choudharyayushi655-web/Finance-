@@ -1367,6 +1367,11 @@
    "register_name": "Enra Specialist Finance Ltd",
    "match": "exact"
   },
+  "Epsilon": {
+   "licensed": true,
+   "register_name": "Epsilon International UK Limited",
+   "match": "exact"
+  },
   "Equifind": {
    "licensed": false,
    "register_name": null,
@@ -1383,6 +1388,11 @@
    "match": "none"
   },
   "Essential Employment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Euro Car Parts Ltd.": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1636,6 +1646,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Glencore": {
+   "licensed": true,
+   "register_name": "Glencore UK Ltd",
+   "match": "exact"
   },
   "Global Accounting Network": {
    "licensed": false,
@@ -2141,6 +2156,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Jefferies": {
+   "licensed": true,
+   "register_name": "Jefferies International Limited",
+   "match": "exact"
   },
   "Joblet-AI": {
    "licensed": false,
@@ -3117,6 +3137,11 @@
    "register_name": "Pantheon Platform UK Limited",
    "match": "prefix"
   },
+  "Paragon Alpha - Hedge Fund Talent Business": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Partners Group": {
    "licensed": true,
    "register_name": "Partners Group (UK) Ltd.",
@@ -3611,6 +3636,11 @@
    "licensed": true,
    "register_name": "Salary Finance Limited",
    "match": "alias"
+  },
+  "Salix Homes": {
+   "licensed": true,
+   "register_name": "Salix Homes Ltd",
+   "match": "exact"
   },
   "Salt": {
    "licensed": true,
@@ -4470,6 +4500,11 @@
   "Wise": {
    "licensed": true,
    "register_name": "UK Wise Group Ltd",
+   "match": "exact"
+  },
+  "Wolseley Group": {
+   "licensed": true,
+   "register_name": "WOLSELEY UK LIMITED",
    "match": "exact"
   },
   "WorldQuant": {

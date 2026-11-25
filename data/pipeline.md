@@ -1714,4 +1714,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/management-accountant-127801241 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-sc-cleared-127801101 | S1Jobs | Quantity Surveyor Pqs Sc Cleared | Scotland | note: via S1Jobs
 
+- [ ] https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362 | Nasdaq | Capital Markets Analyst | CA-Toronto-York St 24/25 | posted: 2026-11-25
+- [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77172 | Next | Finance Accountant | Leicester, Leicestershire, United Kingdom | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-euro-car-parts-ltd-4479249437 | Euro Car Parts Ltd. | Finance Analyst | Birchmoor, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-epsilon-4486303553 | Epsilon | Financial Planning and Analysis Analyst | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-bruin-4494925791 | Bruin | Credit Risk Analyst | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-paragon-alpha-hedge-fund-talent-business-4484484409 | Paragon Alpha - Hedge Fund Talent Business | Quantitative Risk Analyst | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-glencore-4494921770 | Glencore | Quantitative Risk Analyst | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-global-media-internet-at-mason-blake-4494952310 | Mason Blake | Equity Research Analyst - Global Media & Internet | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-european-real-estate-companies-global-bank-at-greenwich-partners-4494655287 | Greenwich Partners | Equity Research Associate, European Real Estate Companies, Global Bank | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/ib-m-a-analyst-associate-greek-speaking-at-jefferies-4434470484 | Jefferies | IB M&A - Analyst/Associate (Greek speaking) | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-control-accountant-at-acca-careers-4494936673 | ACCA Careers | Financial Control Accountant | Coventry, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-wolseley-group-4494681271 | Wolseley Group | Management Accountant | Milton Keynes, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-dach-ecm-analyst-london-at-jpmorganchase-4494494056 | JPMorganChase | Investment Banking - DACH ECM - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-treasury-and-financial-reporting-at-salix-homes-4494632599 | Salix Homes | Assistant Financial Accountant (Treasury and Financial Reporting) | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469 | eFinancialCareers | Analyst - Corporate Credit - Man Group plc | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equities-hedge-fund/57612791 | eFinancialCareers | Quantitative Researcher Systematic Equities Hedge Fund | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst/57613227 | Axon Moore Group Ltd | Commercial Analyst | Preston, Lancashire | note: via Reed
+
 ## Processed
