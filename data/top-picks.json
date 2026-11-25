@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:15:06.429Z",
+ "generated_at": "2026-11-25T05:01:26.783Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 101,
+   "matching": 102,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 75,
+   "matching": 76,
    "picks": [
     {
      "title": "Investment Banking Associate (Financial Sponsors M&A)",
@@ -539,11 +539,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
-  },
-  "https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041": {
    "id": "fund",
@@ -2169,11 +2164,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 9
   },
   "https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200": {
    "id": "other",
@@ -4675,11 +4665,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 29
-  },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-phmg-4491615747": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5140,11 +5125,6 @@
    "cv": "Real Estate CV",
    "score": 21
   },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-octavius-finance-4492807013": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 27
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-imultiply-4483435628": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5309,11 +5289,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/operations-risk-analyst-at-goodlord-4492848742": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 10
   },
   "https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763": {
    "id": "finance",
@@ -6209,6 +6184,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
+  },
+  "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Manchester-United-Kingdom/Technology-Risk-Analyst_184040-3": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/m-a-associate-at-sumer-4484208673": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }

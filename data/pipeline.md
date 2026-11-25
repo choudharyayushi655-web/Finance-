@@ -1675,4 +1675,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-modeller-permanent-at-collective-work-4494439722 | Collective.work | Credit Risk Modeller - Permanent | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57608780 | KFM | Management Accountant | Denmark Hill, London | posted: 2026-11-24 | note: via Reed
 
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Manchester-United-Kingdom/Technology-Risk-Analyst_184040-3 | Vanguard | Technology Risk Analyst | Manchester, United Kingdom | posted: 2026-11-25
+- [ ] https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1 | AIG | Capital Modelling Risk Analyst | London | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-sumer-4484208673 | Sumer | M&A Associate | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+
 ## Processed
