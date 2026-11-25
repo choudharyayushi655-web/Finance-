@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:24:24.338Z",
+ "generated_at": "2026-11-25T01:15:06.429Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 227,
+   "matching": 225,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 104,
+   "matching": 101,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 52,
+   "matching": 51,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 78,
+   "matching": 75,
    "picks": [
     {
      "title": "Investment Banking Associate (Financial Sponsors M&A)",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 21,
+   "matching": 19,
    "picks": [
     {
      "title": "Credit Strategy Analyst",
@@ -187,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -220,7 +220,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 35,
+   "matching": 33,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -2145,11 +2145,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-gleeson-recruitment-group-4489454826": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2174,11 +2169,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996": {
    "id": "finance",
@@ -3374,16 +3364,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/pricing-analyst-loan-portfolio-s-sql-python-%C2%A370-000-at-salt-4489700326": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414": {
    "id": "finance",
@@ -6214,6 +6194,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R266629": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-modeller-permanent-at-collective-work-4494439722": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57608780": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }

@@ -1671,4 +1671,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127795811 | Gibson Recruitment Limited | Assistant Quantity Surveyor | North Lanarkshire, Scotland | posted: 2026-11-24 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/management-accountant-127795807 | Pertemps Scotland | Management Accountant | Stirling, Scotland | posted: 2026-11-24 | note: via S1Jobs
 
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R266629 | BlackRock | Associate, Private Markets Data Management | London, Greater London | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-modeller-permanent-at-collective-work-4494439722 | Collective.work | Credit Risk Modeller - Permanent | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57608780 | KFM | Management Accountant | Denmark Hill, London | posted: 2026-11-24 | note: via Reed
+
 ## Processed

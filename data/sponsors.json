@@ -1077,6 +1077,11 @@
    "register_name": "Colgate-Palmolive (UK) Ltd",
    "match": "exact"
   },
+  "Collective.work": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Coller Capital": {
    "licensed": true,
    "register_name": "Coller Capital Ltd",
@@ -2143,6 +2148,11 @@
    "match": "none"
   },
   "KDR Talent Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "KFM": {
    "licensed": false,
    "register_name": null,
    "match": "none"
