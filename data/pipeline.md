@@ -1763,4 +1763,32 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/portfolio-finance-analyst-%E2%80%93-renewables-at-buckley-prichard-4493812295 | Buckley Prichard | Portfolio Finance Analyst – Renewables | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/management-accountant-127807568 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
 
+- [ ] https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Solution-Architect--Financial-Planning_R-00287460-2 | NatWest Group | Solution Architect, Financial Planning | London | posted: 2026-11-26
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Associate---Power--Energy-and-Commodity-Traders--UK-Natural-Resources-_26996365 | Citi | Corporate Banking Associate - Power, Energy and Commodity Traders (UK Natural Resources) | London United Kingdom | posted: 2026-11-26
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Emerging-Market-Trader--Equities_261012293 | Citi | Emerging Market Trader, Equities | London United Kingdom | posted: 2026-11-25
+- [ ] https://careers.nomura.com/Nomura/job/London-Credit-structuring%2C-asset-side-Lond-EC4R-3AB/1454017900/ | Nomura | Credit structuring, asset side | London
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-distinct-b-corp-4495299714 | Distinct | B Corp | Financial Analyst FP&A | Leicester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-inpost-uk-4495500445 | InPost UK | Financial Analyst | Edinburgh, Scotland, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-strategy-analyst-at-veolia-uk-4495042380 | Veolia | UK | Finance Strategy Analyst | City Of London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-abbvie-4495035628 | AbbVie | FP&A Analyst | Marlow, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-data-fp-a-analyst-at-succeed-recruitment-solutions-4495502119 | Succeed Recruitment Solutions | Commercial Data & FP&A Analyst | Birmingham, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-officer-at-radius-4487745097 | Radius | Credit Officer | Crewe, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aldermore-bank-4493840579 | Aldermore Bank | Credit Risk Analyst | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/pe-secondaries-investment-analyst-at-arkesden-partners-4493831129 | Arkesden Partners | PE Secondaries, Investment Analyst | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-infrassocs-4495286010 | Infrassocs | Investment Associate | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-sixth-street-4495031567 | Sixth Street | M&A Associate | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/pension-fund-accountant-at-front-row-recruitment-4493832225 | Front Row Recruitment | Pension Fund Accountant | West Berkshire, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/pension-fund-accountant-4368-at-wade-macdonald-4493840221 | Wade Macdonald | Pension Fund Accountant (4368) | Reading, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-uk-europe-financial-accountant-based-in-london-at-nuveen-a-tiaa-company-4486500562 | Nuveen, a TIAA company | Finance, UK & Europe Financial Accountant, Based in London | Greater London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operations-accountant-at-mackie-myers-4493833531 | Mackie Myers | Operations Accountant | Norfolk, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-jss-4493829313 | JSS | Management Accountant | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-thg-fulfil-at-thg-ingenuity-4476465784 | THG Ingenuity | Management Accountant - THG Fulfil | Manchester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-operations-accountant-at-hw-finance-4493810493 | HW Finance | Commercial & Operations Accountant | Doncaster, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-keplin-group-limited-4493813977 | Keplin Group Limited | Finance Graduate | Uxbridge, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-computershare-uk-4495037375 | Computershare UK | Treasury Analyst | Bristol, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57616178 | Mackie Myers | FP&A Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57616072 | Wade Macdonald | Finance Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/pension-fund-accountant/57616116 | Front Row Recruitment Ltd | Pension Fund Accountant | Berkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fund-accountant/57616180 | Reed | Fund Accountant | London | note: via Reed
+
 ## Processed

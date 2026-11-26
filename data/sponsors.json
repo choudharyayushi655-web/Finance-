@@ -102,6 +102,11 @@
    "register_name": null,
    "match": "none"
   },
+  "AbbVie": {
+   "licensed": true,
+   "register_name": "Abbvie Limited",
+   "match": "exact"
+  },
   "Aberdeen": {
    "licensed": true,
    "register_name": "Aberdeen Group Plc",
@@ -183,6 +188,11 @@
    "match": "alias"
   },
   "Alan Mitchell": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Aldermore Bank": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -331,6 +341,11 @@
    "licensed": true,
    "register_name": "ARIES GLOBAL SOFTWARE HOLDING LIMITED",
    "match": "prefix"
+  },
+  "Arkesden Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Arm": {
    "licensed": true,
@@ -1127,6 +1142,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Computershare UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Connect Recruitment Consultants Ltd.": {
    "licensed": false,
    "register_name": null,
@@ -1562,6 +1582,16 @@
    "register_name": "Freetrade Limited",
    "match": "alias"
   },
+  "Front Row Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Front Row Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Frontier Agriculture": {
    "licensed": false,
    "register_name": null,
@@ -1773,6 +1803,11 @@
    "match": "none"
   },
   "HSBC Innovation Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "HW Finance": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2062,10 +2097,20 @@
    "register_name": null,
    "match": "none"
   },
+  "InPost UK": {
+   "licensed": true,
+   "register_name": "InPost UK Limited",
+   "match": "exact"
+  },
   "Informa": {
    "licensed": true,
    "register_name": "Informa UK Limited",
    "match": "alias"
+  },
+  "Infrassocs": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Ingram Micro": {
    "licensed": true,
@@ -2261,6 +2306,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Keplin Group Limited": {
+   "licensed": true,
+   "register_name": "KEPLIN GROUP LIMITED",
+   "match": "exact"
   },
   "Kier Group": {
    "licensed": true,
@@ -3006,6 +3056,11 @@
    "licensed": true,
    "register_name": "Nucleus Financial Group Limited",
    "match": "exact"
+  },
+  "Nuveen, a TIAA company": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "OAK LIFE SCIENCE LTD": {
    "licensed": false,
@@ -3832,6 +3887,11 @@
    "register_name": "Xbridge Limited T/A Simply Business",
    "match": "alias"
   },
+  "Sixth Street": {
+   "licensed": true,
+   "register_name": "Sixth Street Europe LLP",
+   "match": "exact"
+  },
   "Skipton Building Society": {
    "licensed": true,
    "register_name": "Skipton Building Society",
@@ -3952,6 +4012,11 @@
    "register_name": "STRIPE CONSULTING LIMITED",
    "match": "alias"
   },
+  "Succeed Recruitment Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "SumUp": {
    "licensed": true,
    "register_name": "SumUp Payments Limited",
@@ -4026,6 +4091,11 @@
    "licensed": true,
    "register_name": "THG PLC",
    "match": "exact"
+  },
+  "THG Ingenuity": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "TMR Group Ltd": {
    "licensed": false,
@@ -4378,6 +4448,11 @@
    "match": "none"
   },
   "Venture Recruitment Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Veolia": {
    "licensed": false,
    "register_name": null,
    "match": "none"

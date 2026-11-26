@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 941 firms checked, 479 matched, 462 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 956 firms checked, 483 matched, 473 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (462)
+## Not found (473)
 
 - 93 MGMT
 - AAA Global
@@ -28,6 +28,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Agility
 - Aila Recruitment
 - Alan Mitchell
+- Aldermore Bank
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
 - Alignerr
@@ -43,6 +44,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Arcade Food Halls
 - Aria Finance
 - Aria Partners
+- Arkesden Partners
 - Armstrong Watson
 - Arup
 - Ashdown Group
@@ -119,6 +121,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Coinbase
 - Collective.work
 - Collins Aerospace
+- Computershare UK
 - Connect Recruitment Consultants Ltd.
 - Conrad Consulting
 - Consumer Additions and Consumer Exec
@@ -163,6 +166,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Flex
 - Foodbuy Group
 - Forge Talent
+- Front Row Recruitment
+- Front Row Recruitment Ltd
 - Frontier Agriculture
 - FryerMiles
 - Futures
@@ -185,6 +190,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HB Partners Limited
 - HFG Insurance Recruitment
 - HSBC Innovation Banking
+- HW Finance
 - Haas F1 Team
 - Halliday Marx
 - Handpicked Recruitment
@@ -216,6 +222,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - ISS Facility Services UK
 - IVC Evidensia
 - In2 Consult
+- Infrassocs
 - Insight Recruitment Solutions Limited
 - Insite Energy
 - Integris
@@ -307,6 +314,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - NoteMachine UK Ltd
 - Novuna
 - Nucleus Commercial Finance
+- Nuveen, a TIAA company
 - OAK LIFE SCIENCE LTD
 - OJK Business Management
 - Octavius Finance
@@ -392,12 +400,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Standard Life plc
 - Stanford Real Estate Partners
 - Strand Hill
+- Succeed Recruitment Solutions
 - Summit Energy Europe
 - Swoop Funding
 - T2M Resourcing
 - T2M Resourcing Ltd
 - TCR
 - TCS
+- THG Ingenuity
 - TMR Group Ltd
 - TRP Recruitment ltd
 - TUI
@@ -434,6 +444,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vecta
 - Ventula Consulting
 - Venture Recruitment Partners
+- Veolia
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
 - Vermelo RPO
