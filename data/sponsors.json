@@ -757,6 +757,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Buckley Prichard": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Burman Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -1136,6 +1141,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Control Risks": {
+   "licensed": true,
+   "register_name": "Control Risks Group Limited",
+   "match": "exact"
   },
   "Cooper Parry Finance Recruitment": {
    "licensed": false,
@@ -2042,6 +2052,11 @@
    "register_name": "Ikarus Capital Advisory",
    "match": "prefix"
   },
+  "Impax Asset Management": {
+   "licensed": true,
+   "register_name": "Impax Asset Management Group plc",
+   "match": "exact"
+  },
   "In2 Consult": {
    "licensed": false,
    "register_name": null,
@@ -2762,6 +2777,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Molson Coors Beverage Company": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Momentum": {
    "licensed": true,
    "register_name": "MOMENTUM AI LIMITED",
@@ -2816,6 +2836,11 @@
    "licensed": true,
    "register_name": "MoonPay (UK) Limited",
    "match": "exact"
+  },
+  "Moore Walker Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Morgan Hunt Recruitment": {
    "licensed": false,
@@ -4493,6 +4518,11 @@
    "match": "alias"
   },
   "Wesco": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Westminster Commercial Finance": {
    "licensed": false,
    "register_name": null,
    "match": "none"

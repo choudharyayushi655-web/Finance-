@@ -1746,4 +1746,21 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-brewdog-4494950644 | BrewDog | Management Accountant | Aberdeenshire, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-analyst/57614532 | Robert Half | Financial Analyst | Leeds, West Yorkshire | note: via Reed
 
+- [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Reading/Finance-Business-Partner---Home-Improvements---EcoTech_R0089088-1 | Centrica | Finance Business Partner - Home Improvements & EcoTech | 2 Locations | posted: 2026-11-25
+- [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Leicester/Debt-Strategy-and-Performance-Analyst_R0090149-1 | Centrica | Debt Strategy and Performance Analyst | Leicester | posted: 2026-11-24
+- [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Greater-London/Commodity-Trading-Accountant_R0092302 | Centrica | Commodity Trading Accountant | Greater London | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-control-risks-4495284787 | Control Risks | FP&A Analyst | Cardiff, Wales, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-leveraged-finance-analyst-german-speaking-london-at-jpmorganchase-4470912230 | JPMorganChase | Investment Banking - EMEA Leveraged Finance - Analyst (German speaking) - London | Greater London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-impax-asset-management-4495013622 | Impax Asset Management | Research Analyst | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-moore-walker-partners-4495283672 | Moore Walker Partners | Investment Banking Analyst | United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-tmt-analyst-london-at-goldman-sachs-4495019503 | Goldman Sachs | Global Banking & Markets, Investment Banking, Classic, TMT, Analyst, London | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-global-investment-banking-analyst-program-full-time-london-at-jpmorganchase-4470666717 | JPMorganChase | 2027 - Global Investment Banking Analyst Program - Full-Time - London | Greater London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-bruin-4493819517 | Bruin | Financial Analyst | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emea-product-administration-nav-valuation-oversight-associate-at-jpmorganchase-4487505275 | JPMorganChase | EMEA Product Administration - NAV & Valuation Oversight - Associate | Greater London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-equifind-4495289359 | Equifind | Financial Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-at-molson-coors-beverage-company-4476490508 | Molson Coors Beverage Company | Graduate Finance Programme | Burton Upon Trent, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-business-finance-advisor-at-westminster-commercial-finance-4495276713 | Westminster Commercial Finance | Graduate Business Finance Advisor | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-finance-analyst-%E2%80%93-renewables-at-buckley-prichard-4493812295 | Buckley Prichard | Portfolio Finance Analyst – Renewables | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/management-accountant-127807568 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
+
 ## Processed
