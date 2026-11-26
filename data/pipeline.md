@@ -1732,4 +1732,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equities-hedge-fund/57612791 | eFinancialCareers | Quantitative Researcher Systematic Equities Hedge Fund | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/commercial-analyst/57613227 | Axon Moore Group Ltd | Commercial Analyst | Preston, Lancashire | note: via Reed
 
+- [ ] https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1176 | Aztec Group | Trainee Fund Accountant | Southampton | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/fund-management-associate-leading-private-equity-fund-at-pearse-portfolio-4494939353 | Pearse Portfolio | Fund Management Associate - Leading Private Equity Fund | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-portfolio-management-at-kennedy-pearce-consulting-4493424929 | Kennedy Pearce Consulting | Investment Operations Associate – Portfolio Management | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/reporting-accountant-at-cbre-4494656807 | CBRE | Reporting Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-12-months-fixed-term-contract-at-bnp-paribas-asset-management-4490381210 | BNP Paribas Asset Management | Financial Controller (12 Months Fixed Term Contract) | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485 | eFinancialCareers | Credit Risk Analyst - Bruin | London | posted: 2026-11-25 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57612569 | MM recruitment | Management Accountant | Belfast, County Antrim | posted: 2026-11-25 | note: via Reed
+
 ## Processed

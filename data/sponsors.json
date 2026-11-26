@@ -767,6 +767,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CBRE": {
+   "licensed": true,
+   "register_name": "CBRE Limited",
+   "match": "exact"
+  },
   "CFP Energy": {
    "licensed": true,
    "register_name": "CFP Energy (UK) Limited",
@@ -2487,6 +2492,11 @@
    "register_name": null,
    "match": "none"
   },
+  "MM recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MNK Group": {
    "licensed": true,
    "register_name": "MNK International Limited",
@@ -3186,6 +3196,11 @@
    "licensed": true,
    "register_name": "Pearse Partners Ltd",
    "match": "exact"
+  },
+  "Pearse Portfolio": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Pearson": {
    "licensed": true,
