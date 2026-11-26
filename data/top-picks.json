@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:46:47.150Z",
+ "generated_at": "2026-11-26T22:44:54.982Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 237,
+   "matching": 239,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 113,
+   "matching": 112,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 77,
+   "matching": 76,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -4115,11 +4115,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-culina-4492009624": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/analyst-associate-real-estate-debt-at-gic-4481890972": {
    "id": "real_estate",
    "cv": "Real Estate CV",
@@ -4150,11 +4145,6 @@
    "cv": "Equity CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 11
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-corecruitment-ltd-4492002854": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4179,16 +4169,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-4492034173": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 9
   },
   "https://www.linkedin.com/jobs/view/assistant-accountant-at-verlume-4491564767": {
    "id": "finance",
@@ -6564,6 +6544,21 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 11
+  },
+  "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-hsl-compliance-4495061100": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57617124": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

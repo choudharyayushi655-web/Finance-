@@ -1807,6 +1807,11 @@
    "register_name": null,
    "match": "none"
   },
+  "HSL Compliance": {
+   "licensed": true,
+   "register_name": "HSL COMPLIANCE LTD",
+   "match": "exact"
+  },
   "HW Finance": {
    "licensed": false,
    "register_name": null,

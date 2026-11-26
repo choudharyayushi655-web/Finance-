@@ -1791,4 +1791,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/pension-fund-accountant/57616116 | Front Row Recruitment Ltd | Pension Fund Accountant | Berkshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/fund-accountant/57616180 | Reed | Fund Accountant | London | note: via Reed
 
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3 | Vanguard | Finance Business Partner | London, United Kingdom | posted: 2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hsl-compliance-4495061100 | HSL Compliance | Management Accountant | Chorley, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57617124 | Accountable Recruitment | Management Accountant | Warrington, Cheshire | note: via Reed
+
 ## Processed
