@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T03:18:45.784Z",
+ "generated_at": "2026-11-26T09:42:08.979Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 234,
+   "matching": 235,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -399,11 +399,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 19
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805760": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 15
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210778053": {
    "id": "other",
@@ -2285,11 +2280,6 @@
    "cv": "Credit CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/top-tier-investment-banking-associate-at-everet-marsh-4470908615": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 12
-  },
   "https://job-boards.greenhouse.io/liberis/jobs/8378630": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2899,11 +2889,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/project-financial-analyst-at-nbcuniversal-4490597374": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-keepmoat-4489548992": {
    "id": "finance",
@@ -4115,11 +4100,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/graduate-associate-debt-advisory-at-targetjobs-uk-4491490163": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
-  },
   "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -5164,11 +5144,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://www.reed.co.uk/jobs/research-analyst-uk/57598506": {
    "id": "equity",
@@ -6394,6 +6369,31 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/market-risk-analyst-at-rjc-group-4494663322": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/m-a-analyst-aca-plus-ts-experience-at-alan-mitchell-4484523300": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-4423004563": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-brewdog-4494950644": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/financial-analyst/57614532": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

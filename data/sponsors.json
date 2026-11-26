@@ -697,6 +697,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "BrewDog": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brewer Morris": {
    "licensed": false,
    "register_name": null,
@@ -3407,6 +3412,11 @@
    "register_name": null,
    "match": "none"
   },
+  "RJC Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Radius": {
    "licensed": true,
    "register_name": "Radius Systems Limited",
@@ -4286,6 +4296,11 @@
    "licensed": true,
    "register_name": "Univers U.K. LTD",
    "match": "exact"
+  },
+  "Universal Music Group": {
+   "licensed": true,
+   "register_name": "Universal Music Operations Ltd",
+   "match": "prefix"
   },
   "Universal Music Group UK": {
    "licensed": true,

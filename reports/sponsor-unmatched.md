@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 932 firms checked, 476 matched, 456 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 935 firms checked, 477 matched, 458 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (456)
+## Not found (458)
 
 - 93 MGMT
 - AAA Global
@@ -70,6 +70,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
+- BrewDog
 - Brewer Morris
 - Brit Insurance
 - Broaden
@@ -337,6 +338,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Quanex
 - Quantum Search Group
 - RG Consultancy Ltd
+- RJC Group
 - Ramsey Portia
 - Randstad Finance
 - Raymond James, Thorpe Park Leeds
@@ -463,7 +465,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (61)
+## Matched automatically by close name; worth a glance (62)
 
 - AVEVA → AVEVA Solutions Ltd (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -523,6 +525,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Tarmac → Tarmac Trading Limited (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
+- Universal Music Group → Universal Music Operations Ltd (prefix)
 - Universal Music Group UK → Universal Music Operations Ltd (prefix)
 - WHEATLEY GROUP → Wheatley Software Solutions Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)

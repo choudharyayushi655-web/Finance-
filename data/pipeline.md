@@ -1740,5 +1740,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485 | eFinancialCareers | Credit Risk Analyst - Bruin | London | posted: 2026-11-25 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57612569 | MM recruitment | Management Accountant | Belfast, County Antrim | posted: 2026-11-25 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/real-estate-gaming-lodging-and-leisure-regll-investment-banking-capital-markets-ibcm-at-deutsche-bank-4495242200 | Deutsche Bank | Real Estate, Gaming, Lodging and Leisure (REGLL), Investment Banking & Capital Markets (IBCM) | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-at-rjc-group-4494663322 | RJC Group | Market Risk Analyst | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-aca-plus-ts-experience-at-alan-mitchell-4484523300 | Alan Mitchell | M&A Analyst (ACA plus TS experience) | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-4423004563 | Universal Music Group | Management Accountant | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-brewdog-4494950644 | BrewDog | Management Accountant | Aberdeenshire, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57614532 | Robert Half | Financial Analyst | Leeds, West Yorkshire | note: via Reed
 
 ## Processed
