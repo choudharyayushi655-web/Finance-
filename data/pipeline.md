@@ -1739,5 +1739,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-12-months-fixed-term-contract-at-bnp-paribas-asset-management-4490381210 | BNP Paribas Asset Management | Financial Controller (12 Months Fixed Term Contract) | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485 | eFinancialCareers | Credit Risk Analyst - Bruin | London | posted: 2026-11-25 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57612569 | MM recruitment | Management Accountant | Belfast, County Antrim | posted: 2026-11-25 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/real-estate-gaming-lodging-and-leisure-regll-investment-banking-capital-markets-ibcm-at-deutsche-bank-4495242200 | Deutsche Bank | Real Estate, Gaming, Lodging and Leisure (REGLL), Investment Banking & Capital Markets (IBCM) | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
