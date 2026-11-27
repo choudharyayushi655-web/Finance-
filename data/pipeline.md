@@ -1802,4 +1802,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/business-services-m-a-analyst-3-to-associate-2-global-boutique-investment-bank-4495053987 | Boutique investment bank | Business Services M&A (Analyst 3 to Associate 2) - global boutique investment bank | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/financial-analyst/ | via ScotJobsNet | Financial Analyst | Rutland, Scotland | posted: 2026-11-27 | note: via ScotJobsNet
 
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8218239003 | Tide | Commercial Finance Broker | United Kingdom | posted: 2026-11-27
+- [ ] https://www.linkedin.com/jobs/view/reporting-accountant-at-gleeson-recruitment-group-4495803230 | Gleeson Recruitment Group | Reporting Accountant | Coleshill, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-henry-schein-one-uk-4495801566 | Henry Schein One UK | FP&A Analyst | United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-associate-leading-global-investment-platform-london-uk-at-per-4486759775 | PER | Credit Associate, Leading Global Investment Platform, London, UK | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-at-yorkshire-building-society-4495808555 | Yorkshire Building Society | Market Risk Analyst | Leeds, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/buy-side-equity-research-analyst-global-equities-major-asset-management-firm-at-greenwich-partners-4495595427 | Greenwich Partners | Buy Side Equity Research Analyst, Global Equities - Major asset management firm | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-destination-sport-4493879690 | Destination Sport | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-grainger-worrall-4485845165 | Grainger & Worrall | Management Accountant | Bridgnorth, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trader-assistant-at-orla-rose-associates-4495591914 | Orla Rose Associates | Trader Assistant | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-finance-analyst-at-tvf-media-4495818008 | TVF Media | Business & Finance Analyst | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst-capital/57618504 | The Hyde Group | Financial Analyst (Capital) | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/m-a-analyst--investment-banking/57618389 | Sharp Consultancy | M&A Analyst – Investment Banking | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/client-accountant/57619486 | Trinity Estates | Client Accountant | Manchester, Lancashire | note: via Reed
+
 ## Processed

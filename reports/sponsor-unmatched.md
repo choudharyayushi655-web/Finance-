@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 959 firms checked, 485 matched, 474 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 965 firms checked, 488 matched, 477 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (474)
+## Not found (477)
 
 - 93 MGMT
 - AAA Global
@@ -136,6 +136,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - DJH
 - Dana Incorporated
 - Datalink Recruitment
+- Destination Sport
 - Deutsche Asset Management
 - Deutsche Bank
 - Dignity Group
@@ -183,6 +184,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Gleeson Recruitment Group
 - Global Accounting Network
 - Goodlord
+- Grainger & Worrall
 - Graphite Partners
 - Great Places Housing Association
 - Greencore
@@ -433,6 +435,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Trainline
 - TransUnion
 - Trial Balance Consulting
+- Trinity Estates
 - UBS
 - UCEA - Family Office Group
 - UKPHARM LIMITED
@@ -481,7 +484,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (62)
+## Matched automatically by close name; worth a glance (63)
 
 - AVEVA → AVEVA Solutions Ltd (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -540,6 +543,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TALA → Tala Energy Ltd (prefix)
 - Tarmac → Tarmac Trading Limited (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
+- The Hyde Group → Hyde Global Ltd (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
 - Universal Music Group → Universal Music Operations Ltd (prefix)
 - Universal Music Group UK → Universal Music Operations Ltd (prefix)

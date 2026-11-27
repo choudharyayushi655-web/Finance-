@@ -1267,6 +1267,11 @@
    "register_name": "Deloitte LLP",
    "match": "exact"
   },
+  "Destination Sport": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Deutsche Asset Management": {
    "licensed": false,
    "register_name": null,
@@ -1752,6 +1757,11 @@
    "register_name": "Graham Capital LLP",
    "match": "alias"
   },
+  "Grainger & Worrall": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Grant Thornton UK": {
    "licensed": true,
    "register_name": "Grant Thornton (NI) LLP",
@@ -1956,6 +1966,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Henry Schein One UK": {
+   "licensed": true,
+   "register_name": "HENRY SCHEIN ONE UK LIMITED",
+   "match": "exact"
   },
   "High Finance (UK) Limited T/A HFG": {
    "licensed": false,
@@ -4242,6 +4257,11 @@
    "register_name": null,
    "match": "none"
   },
+  "The Hyde Group": {
+   "licensed": true,
+   "register_name": "Hyde Global Ltd",
+   "match": "prefix"
+  },
   "The Niche Partnership": {
    "licensed": false,
    "register_name": null,
@@ -4346,6 +4366,11 @@
    "licensed": true,
    "register_name": "TRIDENT EUROPE LIMITED",
    "match": "exact"
+  },
+  "Trinity Estates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Trinity House Group": {
    "licensed": true,
@@ -4691,6 +4716,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Yorkshire Building Society": {
+   "licensed": true,
+   "register_name": "Yorkshire Building Society",
+   "match": "exact"
   },
   "Zachary Daniels": {
    "licensed": false,
