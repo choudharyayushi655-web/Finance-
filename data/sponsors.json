@@ -1187,6 +1187,11 @@
    "register_name": "Coventry University",
    "match": "exact"
   },
+  "Creative Artists Agency": {
+   "licensed": true,
+   "register_name": "Creative Artists Agency UK Ltd",
+   "match": "exact"
+  },
   "Crossing Hurdles": {
    "licensed": false,
    "register_name": null,

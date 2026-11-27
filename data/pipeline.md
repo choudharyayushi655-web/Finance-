@@ -1794,5 +1794,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3 | Vanguard | Finance Business Partner | London, United Kingdom | posted: 2026-11-26
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hsl-compliance-4495061100 | HSL Compliance | Management Accountant | Chorley, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57617124 | Accountable Recruitment | Management Accountant | Warrington, Cheshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-creative-artists-agency-4495565238 | Creative Artists Agency | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/associate-3-to-vp2-consumer-inc-consumer-health-retail-investment-banking-goodman-masson/57616887 | eFinancialCareers | Associate 3 to VP2 - Consumer inc Consumer Health & Retail investment banking - Goodman Masson | London | posted: 2026-11-26 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant/57613340 | Chalk Hill Group | Financial Accountant | Newbury, Berkshire | posted: 2026-11-26 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/aca-accountant-training-scheme-top-50-accountancy-practice/57617752 | Hawke Search | ACA Accountant Training Scheme - Top 50 Accountancy Practice | Canterbury, Kent | note: via Reed
 
 ## Processed
