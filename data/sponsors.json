@@ -417,6 +417,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Atrium Workforce Solutions Ltd": {
+   "licensed": true,
+   "register_name": "Atrium Workforce Solutions UK Ltd",
+   "match": "exact"
+  },
   "Auto Trader": {
    "licensed": true,
    "register_name": "Autotrader Limited",
@@ -3376,6 +3381,11 @@
    "licensed": true,
    "register_name": "Pilgrims Group Ltd",
    "match": "exact"
+  },
+  "PingPong Payments": {
+   "licensed": true,
+   "register_name": "PingPong Payment (UK) Limited",
+   "match": "similar (0.97)"
   },
   "Platinum Recruitment Group": {
    "licensed": false,

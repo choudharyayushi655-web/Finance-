@@ -1815,5 +1815,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-analyst-capital/57618504 | The Hyde Group | Financial Analyst (Capital) | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/m-a-analyst--investment-banking/57618389 | Sharp Consultancy | M&A Analyst – Investment Banking | Manchester, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/client-accountant/57619486 | Trinity Estates | Client Accountant | Manchester, Lancashire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-pingpong-payments-4495094833 | PingPong Payments | Financial Analyst | City Of London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-division-fig-italy-london-associate-at-morgan-stanley-4431450482 | Morgan Stanley | Investment Banking Division - FIG Italy (London) - Associate | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-tech-services-at-baird-4479195578 | Baird | Investment Banking Associate - Tech & Services | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-tiptopjob-4495803942 | TipTopJob | Management Accountant | Lincoln, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/debt-capital-transactions-analyst-london/57619552 | Atrium Workforce Solutions Ltd | Debt Capital Transactions Analyst - London | London | note: via Reed
 
 ## Processed

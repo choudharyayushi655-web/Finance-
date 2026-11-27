@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 965 firms checked, 488 matched, 477 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 967 firms checked, 490 matched, 477 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -484,7 +484,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (63)
+## Matched automatically by close name; worth a glance (64)
 
 - AVEVA → AVEVA Solutions Ltd (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -531,6 +531,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
 - People First → People First Care (Rennington) Ltd (prefix)
+- PingPong Payments → PingPong Payment (UK) Limited (similar (0.97))
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
 - Quantum → Quantum Services Management Ltd (prefix)
