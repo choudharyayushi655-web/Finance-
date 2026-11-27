@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 958 firms checked, 485 matched, 473 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 959 firms checked, 485 matched, 474 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (473)
+## Not found (474)
 
 - 93 MGMT
 - AAA Global
@@ -72,6 +72,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
+- Boutique investment bank
 - BrewDog
 - Brewer Morris
 - Brit Insurance

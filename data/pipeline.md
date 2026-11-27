@@ -1798,5 +1798,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/associate-3-to-vp2-consumer-inc-consumer-health-retail-investment-banking-goodman-masson/57616887 | eFinancialCareers | Associate 3 to VP2 - Consumer inc Consumer Health & Retail investment banking - Goodman Masson | London | posted: 2026-11-26 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57613340 | Chalk Hill Group | Financial Accountant | Newbury, Berkshire | posted: 2026-11-26 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/aca-accountant-training-scheme-top-50-accountancy-practice/57617752 | Hawke Search | ACA Accountant Training Scheme - Top 50 Accountancy Practice | Canterbury, Kent | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/market-risk-control-specialist-structured-rates-at-ubs-4474978358 | UBS | Market Risk Control Specialist - Structured Rates | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-services-m-a-analyst-3-to-associate-2-global-boutique-investment-bank-4495053987 | Boutique investment bank | Business Services M&A (Analyst 3 to Associate 2) - global boutique investment bank | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/financial-analyst/ | via ScotJobsNet | Financial Analyst | Rutland, Scotland | posted: 2026-11-27 | note: via ScotJobsNet
 
 ## Processed
