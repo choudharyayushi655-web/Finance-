@@ -1842,4 +1842,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127812945 | S1Jobs | Corporate Finance Specialist | Scotland | note: via S1Jobs
 - [ ] https://scotjobsnet.co.uk/job/reporting-performance-accountant/ | via ScotJobsNet | Reporting & Performance Accountant | Renfrewshire Paisley, Scotland | posted: 2026-11-27 | note: via ScotJobsNet
 
+- [ ] https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Finance-Systems-Accountant_R-00286043-2 | NatWest Group | Finance Systems Accountant | 4 Locations | posted: 2026-11-27
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-get-recruited-4495305831 | Get Recruited | Management Accountant | Andover, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-newt-in-somerset-4495846038 | The Newt in Somerset | Management Accountant | Bruton, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-partnership-accountant-at-cedar-4495099978 | Cedar | Management Partnership Accountant | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-telent-technology-services-ltd-4493997953 | Telent Technology Services Ltd | Management Accountant | Warwick, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+
 ## Processed

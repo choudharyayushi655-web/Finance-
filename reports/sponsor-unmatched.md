@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 976 firms checked, 494 matched, 482 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 979 firms checked, 495 matched, 484 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (482)
+## Not found (484)
 
 - 93 MGMT
 - AAA Global
@@ -183,6 +183,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - GSR Markets
 - Gemini
 - Gen II Fund Services
+- Get Recruited
 - Gibson Recruitment Limited
 - Gleeson Recruitment Group
 - Global Accounting Network
@@ -429,6 +430,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - The Automobile Association
 - The Global Institute for Health and Human Rights
 - The Honourable Society of the Middle Temple
+- The Newt in Somerset
 - The Niche Partnership
 - The Scottish National Investment Bank
 - ThinkMarkets
