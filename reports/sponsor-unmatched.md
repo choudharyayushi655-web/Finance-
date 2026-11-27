@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 967 firms checked, 490 matched, 477 not found.
+Register: downloaded 2026-11-22 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 976 firms checked, 494 matched, 482 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (477)
+## Not found (482)
 
 - 93 MGMT
 - AAA Global
@@ -31,6 +31,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Aldermore Bank
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
+- Alexander Lloyd
 - Alignerr
 - Allianz Commercial
 - Allianz Trade in UK & Ireland
@@ -124,6 +125,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Collins Aerospace
 - Computershare UK
 - Connect Recruitment Consultants Ltd.
+- Connells Survey and Valuation
 - Conrad Consulting
 - Consumer Additions and Consumer Exec
 - Cooper Parry Finance Recruitment
@@ -153,6 +155,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Edward Mann
 - Elevation Recruitment Group
 - Equifind
+- Equifind Group
 - Ernest Gordon Recruitment Limited
 - Escape Recruitment Services
 - Essential Employment
@@ -280,6 +283,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Macquarie Group
 - ManpowerGroup Talent Solutions
 - Market Harborough Building Society
+- Market Talent Ltd
 - Marks Sattin
 - Marktlink
 - Marlin Selection Recruitment
@@ -375,6 +379,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - SD Business Management
 - SENSIBAL RECRUITMENT LTD
 - SF Partners
+- SNG
 - SOCOTEC UK & Ireland
 - SRG
 - SRM RECRUITMENT LIMITED
@@ -484,7 +489,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (64)
+## Matched automatically by close name; worth a glance (66)
 
 - AVEVA → AVEVA Solutions Ltd (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -499,6 +504,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Carter Jonas → Carter Jonas Service Company (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
+- Compass Group UK & Ireland Ltd → Compass Group UK & Ireland Limited Registered Office (prefix)
 - DS Smith → DS Smith Business Services Limited (prefix)
 - Duco → Duco Technology Limited (prefix)
 - EQT Group → EQT Partners Limited (prefix)
@@ -545,6 +551,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Tarmac → Tarmac Trading Limited (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
 - The Hyde Group → Hyde Global Ltd (prefix)
+- The ONE Group Ltd → One Retail Group Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
 - Universal Music Group → Universal Music Operations Ltd (prefix)
 - Universal Music Group UK → Universal Music Operations Ltd (prefix)

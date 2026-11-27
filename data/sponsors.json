@@ -207,6 +207,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Alexander Lloyd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Alfa AI": {
    "licensed": true,
    "register_name": "Alfa Financial Software Ltd",
@@ -1152,12 +1157,22 @@
    "register_name": null,
    "match": "none"
   },
+  "Compass Group UK & Ireland Ltd": {
+   "licensed": true,
+   "register_name": "Compass Group UK & Ireland Limited Registered Office",
+   "match": "prefix"
+  },
   "Computershare UK": {
    "licensed": false,
    "register_name": null,
    "match": "none"
   },
   "Connect Recruitment Consultants Ltd.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Connells Survey and Valuation": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1261,6 +1276,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "De Beers Group": {
+   "licensed": true,
+   "register_name": "DE BEERS UK LIMITED",
+   "match": "exact"
   },
   "Deliveroo": {
    "licensed": true,
@@ -1433,6 +1453,11 @@
    "match": "exact"
   },
   "Equifind": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Equifind Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2677,6 +2702,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Market Talent Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MarketAxess": {
    "licensed": true,
    "register_name": "MarketAxess Europe Ltd",
@@ -3732,10 +3762,20 @@
    "register_name": null,
    "match": "none"
   },
+  "SGN": {
+   "licensed": true,
+   "register_name": "Scotia Gas Networks Ltd t/a SGN",
+   "match": "trading name"
+  },
   "SMBC": {
    "licensed": true,
    "register_name": "SMBC Bank International plc",
    "match": "prefix"
+  },
+  "SNG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "SOCOTEC UK & Ireland": {
    "licensed": false,
@@ -4281,6 +4321,11 @@
    "licensed": true,
    "register_name": "Noble Restaurant Group Limited",
    "match": "exact"
+  },
+  "The ONE Group Ltd": {
+   "licensed": true,
+   "register_name": "One Retail Group Limited",
+   "match": "prefix"
   },
   "The Scottish National Investment Bank": {
    "licensed": false,

@@ -1820,5 +1820,26 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-tech-services-at-baird-4479195578 | Baird | Investment Banking Associate - Tech & Services | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-tiptopjob-4495803942 | TipTopJob | Management Accountant | Lincoln, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/debt-capital-transactions-analyst-london/57619552 | Atrium Workforce Solutions Ltd | Debt Capital Transactions Analyst - London | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-de-beers-group-4495849162 | De Beers Group | Finance Analyst | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-finance-analyst-at-pilgrim-s-europe-4486970615 | Pilgrim's Europe | Finance Analyst, Finance Analyst | Enniskillen, Northern Ireland, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-the-one-group-ltd-4494200587 | The ONE Group Ltd | Financial Analyst | Stamford, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-banking-at-market-talent-ltd-4495836714 | Market Talent Ltd | Corporate Credit Analyst - Banking | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736 | Citi | Investment Banking Analyst, Consumer & Retail | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703 | William Blair | Investment Banking Analyst 2, Technology | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-equifind-4495842205 | Equifind | Fund Accountant | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-specialist-at-deutsche-bank-4488083656 | Deutsche Bank | Fund Accounting Specialist | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-reporting-analyst/57620006 | SGN | Financial Reporting Analyst | Horley, Surrey | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst-development/57621209 | SNG (Sovereign Network Group) | Finance Analyst - Development | Basingstoke, Hampshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fund-accountant/57620891 | Equifind Group | Fund Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/pensions-fund-accountant/57620488 | Alexander Lloyd | Pensions Fund Accountant | Belfast, County Antrim | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant-vc-backed-tech-company/57620426 | Morgan McKinley | Financial Accountant - VC-Backed Tech Company | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57620401 | Connells Survey and Valuation | Management Accountant | Milton Keynes, Buckinghamshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57620400 | Connells Survey and Valuation | Assistant Management Accountant | Milton Keynes, Buckinghamshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant-part-qualified-birmingham/57612805 | Compass Group UK & Ireland Ltd | Assistant Management Accountant Part qualified - Birmingham | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57619618 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127812955 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-accountant-127812949 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127812945 | S1Jobs | Corporate Finance Specialist | Scotland | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/reporting-performance-accountant/ | via ScotJobsNet | Reporting & Performance Accountant | Renfrewshire Paisley, Scotland | posted: 2026-11-27 | note: via ScotJobsNet
 
 ## Processed
