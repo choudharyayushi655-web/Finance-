@@ -472,6 +472,11 @@
    "register_name": null,
    "match": "none"
   },
+  "B. Braun Group": {
+   "licensed": true,
+   "register_name": "B. Braun Medical UK Ltd",
+   "match": "prefix"
+  },
   "BAE Systems": {
    "licensed": true,
    "register_name": "BAE Systems Plc",

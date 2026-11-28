@@ -1850,5 +1850,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-at-targetjobs-uk-4495362085 | targetjobs UK | Financial Planning Graduate Trainee | Birmingham, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/analyst-for-valuations-disputes-bilingual-english-german/57612167 | Hays Specialist Recruitment Limited | Analyst for Valuations & Disputes: bilingual English/German | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486 | targetjobs UK | Graduate - Strategy, Commercial, Business Development and M&A | London Area, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-acca-careers-4496022637 | ACCA Careers | Finance Analyst | East Sussex, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-acca-careers-4496029436 | ACCA Careers | Finance Business Partner | Bicester, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-b-braun-group-4495839655 | B. Braun Group | Assistant Finance Business Partner | Sheffield, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-resourcery-group-4495819658 | Resourcery Group | Finance Business Partner | Wrexham, Wales, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-balfour-beatty-plc-4494203887 | Balfour Beatty plc | Management Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-research-analyst-at-bank-of-america-4488008532 | Bank of America | Corporate Credit Research Analyst | London, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-accountant-at-gen-ii-fund-services-4486224795 | Gen II Fund Services | Trainee Accountant | Whitley, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed
