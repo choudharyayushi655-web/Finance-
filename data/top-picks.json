@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:03:25.004Z",
+ "generated_at": "2026-11-28T05:07:32.936Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 226,
+   "matching": 223,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 69,
+   "matching": 68,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -1708,11 +1708,6 @@
    "cv": "Credit CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/accounting-finance-graduate-warwick-at-national-grid-4487154539": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -2301,11 +2296,6 @@
   "https://www.linkedin.com/jobs/view/associate-%E2%80%93-m-a-and-financing-advisory-at-ikarus-capital-4489945919": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
    "score": 14
   },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-jasperrose-4487524025": {
@@ -4768,11 +4758,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/m-a-analyst-%E2%80%93-transactions-at-benchmark-international-4492921491": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 19
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-operations-at-evergreen-garden-care-4492459069": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5698,11 +5683,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/graduate-finance-analyst-at-peak-international-group-4494384168": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 19
-  },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-regulated-fintech-at-jss-4492696689": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5742,11 +5722,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-livgreen-retrofit-specialists-4494156151": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/management-accountant-management-accountant-at-pilgrim-s-europe-4494384571": {
    "id": "finance",
@@ -6283,11 +6258,6 @@
    "cv": "Equity CV",
    "score": 22
   },
-  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-moore-walker-partners-4495283672": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-tmt-analyst-london-at-goldman-sachs-4495019503": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -6727,6 +6697,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }

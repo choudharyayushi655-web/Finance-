@@ -1849,5 +1849,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-telent-technology-services-ltd-4493997953 | Telent Technology Services Ltd | Management Accountant | Warwick, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-at-targetjobs-uk-4495362085 | targetjobs UK | Financial Planning Graduate Trainee | Birmingham, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/analyst-for-valuations-disputes-bilingual-english-german/57612167 | Hays Specialist Recruitment Limited | Analyst for Valuations & Disputes: bilingual English/German | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486 | targetjobs UK | Graduate - Strategy, Commercial, Business Development and M&A | London Area, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed
