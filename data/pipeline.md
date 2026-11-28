@@ -1857,5 +1857,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-balfour-beatty-plc-4494203887 | Balfour Beatty plc | Management Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-credit-research-analyst-at-bank-of-america-4488008532 | Bank of America | Corporate Credit Research Analyst | London, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trainee-accountant-at-gen-ii-fund-services-4486224795 | Gen II Fund Services | Trainee Accountant | Whitley, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-commercial-analyst-at-vml-4495819858 | VML | Junior Commercial Analyst | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57619703 | Next Best Move | Finance Business Partner | West London, London | posted: 2026-11-27 | note: via Reed
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T13:12:49.152Z",
+ "generated_at": "2026-11-28T14:41:10.780Z",
  "order": [
   "finance",
   "credit",
@@ -2048,11 +2048,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 17
   },
-  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Single-Stock-Trader_261009084-1": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210616021": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -4038,11 +4033,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 13
   },
-  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-aster-group-uk-4490884603": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4099,11 +4089,6 @@
    "score": 11
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-palatine-talent-4491823625": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
@@ -6393,11 +6378,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/finance-graduate-at-keplin-group-limited-4493813977": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-computershare-uk-4495037375": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -6732,6 +6712,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/junior-commercial-analyst-at-vml-4495819858": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57619703": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }

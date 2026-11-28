@@ -3077,6 +3077,11 @@
    "register_name": "Next Retail Ltd",
    "match": "alias"
   },
+  "Next Best Move": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nick Buick Associates": {
    "licensed": false,
    "register_name": null,
@@ -4526,6 +4531,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "VML": {
+   "licensed": true,
+   "register_name": "VML(UK) Limited",
+   "match": "exact"
   },
   "VNI Finance": {
    "licensed": false,
